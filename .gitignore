@@ -1,0 +1,16 @@
+glide_covid_19.egg-info
+build
+.coverage*
+*.pyc
+*.out
+dist
+.DS_Store
+.idea/
+*.lock
+__pycache__
+.xprocess
+dask-worker-space
+docs/_build
+docs/_static
+docs/_templates
+.pre-commit-config.yaml
