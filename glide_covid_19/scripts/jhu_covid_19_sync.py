@@ -29,8 +29,7 @@ class CleanData(Node):
 
 
 cleaner = Glider(
-    CSVExtract("extract")
-    | ToDataFrame("to_df")
+    DataFrameCSVExtract("extract")
     | DataFrameMethod("melt", method="melt", id_vars=TARGET_INDEX[:-1], var_name="Date")
     | CleanData("clean")
     | Return("return", flatten=True)
@@ -47,4 +46,4 @@ for name, url in DATASETS.items():
     rv = cleaner.consume(url, melt=dict(value_name=name), clean=dict(value_name=name))
     cleaned.append(rv)
 
-loader.consume([cleaned], load=dict(f="/tmp/covid_timeseries.csv"))
+loader.consume([cleaned], load=dict(f="/tmp/jhu_covid_timeseries.csv"))
