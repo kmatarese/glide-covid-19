@@ -1,0 +1,3143 @@
+country_region,fips,county,state,iso3166_1,iso3166_2,hospitals,icu_beds
+United States,01001,Autauga,Alabama,US,AL,1,6
+United States,01003,Baldwin,Alabama,US,AL,3,51
+United States,01005,Barbour,Alabama,US,AL,1,5
+United States,01007,Bibb,Alabama,US,AL,1,0
+United States,01009,Blount,Alabama,US,AL,1,6
+United States,01011,Bullock,Alabama,US,AL,1,0
+United States,01013,Butler,Alabama,US,AL,1,7
+United States,01015,Calhoun,Alabama,US,AL,2,24
+United States,01017,Chambers,Alabama,US,AL,0,0
+United States,01019,Cherokee,Alabama,US,AL,1,0
+United States,01021,Chilton,Alabama,US,AL,1,6
+United States,01023,Choctaw,Alabama,US,AL,1,0
+United States,01025,Clarke,Alabama,US,AL,2,0
+United States,01027,Clay,Alabama,US,AL,1,4
+United States,01029,Cleburne,Alabama,US,AL,0,0
+United States,01031,Coffee,Alabama,US,AL,1,7
+United States,01033,Colbert,Alabama,US,AL,2,22
+United States,01035,Conecuh,Alabama,US,AL,1,0
+United States,01037,Coosa,Alabama,US,AL,0,0
+United States,01039,Covington,Alabama,US,AL,2,13
+United States,01041,Crenshaw,Alabama,US,AL,1,0
+United States,01043,Cullman,Alabama,US,AL,1,12
+United States,01045,Dale,Alabama,US,AL,1,6
+United States,01047,Dallas,Alabama,US,AL,1,18
+United States,01049,DeKalb,Alabama,US,AL,1,12
+United States,01051,Elmore,Alabama,US,AL,2,5
+United States,01053,Escambia,Alabama,US,AL,2,14
+United States,01055,Etowah,Alabama,US,AL,2,56
+United States,01057,Fayette,Alabama,US,AL,2,12
+United States,01059,Franklin,Alabama,US,AL,2,7
+United States,01061,Geneva,Alabama,US,AL,1,6
+United States,01063,Greene,Alabama,US,AL,1,0
+United States,01065,Hale,Alabama,US,AL,1,0
+United States,01067,Henry,Alabama,US,AL,0,0
+United States,01069,Houston,Alabama,US,AL,2,66
+United States,01071,Jackson,Alabama,US,AL,1,10
+United States,01073,Jefferson,Alabama,US,AL,8,471
+United States,01075,Lamar,Alabama,US,AL,0,0
+United States,01077,Lauderdale,Alabama,US,AL,1,48
+United States,01079,Lawrence,Alabama,US,AL,1,6
+United States,01081,Lee,Alabama,US,AL,1,28
+United States,01083,Limestone,Alabama,US,AL,1,10
+United States,01085,Lowndes,Alabama,US,AL,0,0
+United States,01087,Macon,Alabama,US,AL,0,0
+United States,01089,Madison,Alabama,US,AL,2,100
+United States,01091,Marengo,Alabama,US,AL,1,5
+United States,01093,Marion,Alabama,US,AL,1,4
+United States,01095,Marshall,Alabama,US,AL,1,20
+United States,01097,Mobile,Alabama,US,AL,4,157
+United States,01099,Monroe,Alabama,US,AL,1,8
+United States,01101,Montgomery,Alabama,US,AL,3,88
+United States,01103,Morgan,Alabama,US,AL,1,34
+United States,01105,Perry,Alabama,US,AL,0,0
+United States,01107,Pickens,Alabama,US,AL,1,4
+United States,01109,Pike,Alabama,US,AL,1,9
+United States,01111,Randolph,Alabama,US,AL,1,0
+United States,01113,Russell,Alabama,US,AL,1,8
+United States,01115,St. Clair,Alabama,US,AL,1,6
+United States,01117,Shelby,Alabama,US,AL,1,32
+United States,01119,Sumter,Alabama,US,AL,1,0
+United States,01121,Talladega,Alabama,US,AL,2,14
+United States,01123,Tallapoosa,Alabama,US,AL,2,6
+United States,01125,Tuscaloosa,Alabama,US,AL,1,84
+United States,01127,Walker,Alabama,US,AL,1,12
+United States,01129,Washington,Alabama,US,AL,1,0
+United States,01131,Wilcox,Alabama,US,AL,1,0
+United States,01133,Winston,Alabama,US,AL,1,4
+United States,02013,Aleutians East,Alaska,US,AK,0,0
+United States,02016,Aleutians West,Alaska,US,AK,0,0
+United States,02020,Anchorage,Alaska,US,AK,3,73
+United States,02050,Bethel,Alaska,US,AK,1,0
+United States,02060,Bristol Bay,Alaska,US,AK,0,0
+United States,02068,Denali,Alaska,US,AK,0,0
+United States,02070,Dillingham,Alaska,US,AK,1,0
+United States,02090,Fairbanks North Star,Alaska,US,AK,1,13
+United States,02100,Haines,Alaska,US,AK,0,0
+United States,02105,Hoonah-Angoon,Alaska,US,AK,0,0
+United States,02110,Juneau,Alaska,US,AK,1,9
+United States,02122,Kenai Peninsula,Alaska,US,AK,3,6
+United States,02130,Ketchikan Gateway,Alaska,US,AK,1,4
+United States,02150,Kodiak Island Borough,Alaska,US,AK,1,0
+United States,02158,Kusilvak,Alaska,US,AK,0,0
+United States,02164,Lake and Peninsula,Alaska,US,AK,0,0
+United States,02170,Matanuska-Susitna,Alaska,US,AK,1,14
+United States,02180,Nome,Alaska,US,AK,1,0
+United States,02185,North Slope Borough,Alaska,US,AK,1,0
+United States,02188,Northwest Arctic Borough,Alaska,US,AK,1,0
+United States,02195,Petersburg Borough,Alaska,US,AK,1,0
+United States,02198,Prince of Wales-Hyder,Alaska,US,AK,0,0
+United States,02220,Sitka Borough,Alaska,US,AK,2,0
+United States,02230,Skagway Municipality,Alaska,US,AK,0,0
+United States,02240,Southeast Fairbanks,Alaska,US,AK,0,0
+United States,02261,Valdez-Cordova,Alaska,US,AK,2,0
+United States,02275,Wrangell City and Borough,Alaska,US,AK,1,0
+United States,02282,Yakutat City and Borough,Alaska,US,AK,0,0
+United States,02290,Yukon-Koyukuk,Alaska,US,AK,0,0
+United States,04001,Apache,Arizona,US,AZ,4,0
+United States,04003,Cochise,Arizona,US,AZ,4,12
+United States,04005,Coconino,Arizona,US,AZ,3,41
+United States,04007,Gila,Arizona,US,AZ,3,8
+United States,04009,Graham,Arizona,US,AZ,1,0
+United States,04011,Greenlee,Arizona,US,AZ,0,0
+United States,04012,La Paz,Arizona,US,AZ,2,3
+United States,04013,Maricopa,Arizona,US,AZ,34,1004
+United States,04015,Mohave,Arizona,US,AZ,4,80
+United States,04017,Navajo,Arizona,US,AZ,4,12
+United States,04019,Pima,Arizona,US,AZ,9,296
+United States,04021,Pinal,Arizona,US,AZ,4,22
+United States,04023,Santa Cruz,Arizona,US,AZ,1,0
+United States,04025,Yavapai,Arizona,US,AZ,2,39
+United States,04027,Yuma,Arizona,US,AZ,1,42
+United States,05001,Arkansas,Arkansas,US,AR,2,0
+United States,05003,Ashley,Arkansas,US,AR,1,6
+United States,05005,Baxter,Arkansas,US,AR,2,17
+United States,05007,Benton,Arkansas,US,AR,3,30
+United States,05009,Boone,Arkansas,US,AR,1,24
+United States,05011,Bradley,Arkansas,US,AR,1,0
+United States,05013,Calhoun,Arkansas,US,AR,0,0
+United States,05015,Carroll,Arkansas,US,AR,2,0
+United States,05017,Chicot,Arkansas,US,AR,1,0
+United States,05019,Clark,Arkansas,US,AR,1,0
+United States,05021,Clay,Arkansas,US,AR,1,0
+United States,05023,Cleburne,Arkansas,US,AR,1,0
+United States,05025,Cleveland,Arkansas,US,AR,0,0
+United States,05027,Columbia,Arkansas,US,AR,1,6
+United States,05029,Conway,Arkansas,US,AR,1,0
+United States,05031,Craighead,Arkansas,US,AR,2,66
+United States,05033,Crawford,Arkansas,US,AR,1,8
+United States,05035,Crittenden,Arkansas,US,AR,1,0
+United States,05037,Cross,Arkansas,US,AR,1,0
+United States,05039,Dallas,Arkansas,US,AR,1,0
+United States,05041,Desha,Arkansas,US,AR,2,0
+United States,05043,Drew,Arkansas,US,AR,1,5
+United States,05045,Faulkner,Arkansas,US,AR,2,25
+United States,05047,Franklin,Arkansas,US,AR,1,0
+United States,05049,Fulton,Arkansas,US,AR,1,0
+United States,05051,Garland,Arkansas,US,AR,3,41
+United States,05053,Grant,Arkansas,US,AR,0,0
+United States,05055,Greene,Arkansas,US,AR,1,8
+United States,05057,Hempstead,Arkansas,US,AR,1,8
+United States,05059,Hot Spring,Arkansas,US,AR,1,6
+United States,05061,Howard,Arkansas,US,AR,1,0
+United States,05063,Independence,Arkansas,US,AR,1,12
+United States,05065,Izard,Arkansas,US,AR,0,0
+United States,05067,Jackson,Arkansas,US,AR,0,0
+United States,05069,Jefferson,Arkansas,US,AR,1,34
+United States,05071,Johnson,Arkansas,US,AR,1,8
+United States,05073,Lafayette,Arkansas,US,AR,0,0
+United States,05075,Lawrence,Arkansas,US,AR,1,0
+United States,05077,Lee,Arkansas,US,AR,0,0
+United States,05079,Lincoln,Arkansas,US,AR,0,0
+United States,05081,Little River,Arkansas,US,AR,1,0
+United States,05083,Logan,Arkansas,US,AR,2,0
+United States,05085,Lonoke,Arkansas,US,AR,0,0
+United States,05087,Madison,Arkansas,US,AR,0,0
+United States,05089,Marion,Arkansas,US,AR,0,0
+United States,05091,Miller,Arkansas,US,AR,0,0
+United States,05093,Mississippi,Arkansas,US,AR,2,5
+United States,05095,Monroe,Arkansas,US,AR,0,0
+United States,05097,Montgomery,Arkansas,US,AR,0,0
+United States,05099,Nevada,Arkansas,US,AR,0,0
+United States,05101,Newton,Arkansas,US,AR,0,0
+United States,05103,Ouachita,Arkansas,US,AR,1,8
+United States,05105,Perry,Arkansas,US,AR,0,0
+United States,05107,Phillips,Arkansas,US,AR,1,6
+United States,05109,Pike,Arkansas,US,AR,0,0
+United States,05111,Poinsett,Arkansas,US,AR,0,0
+United States,05113,Polk,Arkansas,US,AR,1,6
+United States,05115,Pope,Arkansas,US,AR,1,11
+United States,05117,Prairie,Arkansas,US,AR,0,0
+United States,05119,Pulaski,Arkansas,US,AR,8,209
+United States,05121,Randolph,Arkansas,US,AR,1,2
+United States,05123,St. Francis,Arkansas,US,AR,1,6
+United States,05125,Saline,Arkansas,US,AR,1,16
+United States,05127,Scott,Arkansas,US,AR,1,0
+United States,05129,Searcy,Arkansas,US,AR,0,0
+United States,05131,Sebastian,Arkansas,US,AR,2,69
+United States,05133,Sevier,Arkansas,US,AR,0,0
+United States,05135,Sharp,Arkansas,US,AR,0,0
+United States,05137,Stone,Arkansas,US,AR,1,0
+United States,05139,Union,Arkansas,US,AR,1,16
+United States,05141,Van Buren,Arkansas,US,AR,1,0
+United States,05143,Washington,Arkansas,US,AR,3,61
+United States,05145,White,Arkansas,US,AR,1,13
+United States,05147,Woodruff,Arkansas,US,AR,0,0
+United States,05149,Yell,Arkansas,US,AR,2,0
+United States,06001,Alameda,California,US,CA,12,282
+United States,06003,Alpine,California,US,CA,0,0
+United States,06005,Amador,California,US,CA,1,6
+United States,06007,Butte,California,US,CA,4,43
+United States,06009,Calaveras,California,US,CA,1,0
+United States,06011,Colusa,California,US,CA,1,0
+United States,06013,Contra Costa,California,US,CA,7,163
+United States,06015,Del Norte,California,US,CA,1,6
+United States,06017,El Dorado,California,US,CA,2,28
+United States,06019,Fresno,California,US,CA,7,164
+United States,06021,Glenn,California,US,CA,1,0
+United States,06023,Humboldt,California,US,CA,4,32
+United States,06025,Imperial,California,US,CA,2,28
+United States,06027,Inyo,California,US,CA,2,4
+United States,06029,Kern,California,US,CA,10,144
+United States,06031,Kings,California,US,CA,1,22
+United States,06033,Lake,California,US,CA,2,8
+United States,06035,Lassen,California,US,CA,1,0
+United States,06037,Los Angeles,California,US,CA,76,2126
+United States,06039,Madera,California,US,CA,1,10
+United States,06041,Marin,California,US,CA,3,66
+United States,06043,Mariposa,California,US,CA,1,0
+United States,06045,Mendocino,California,US,CA,3,14
+United States,06047,Merced,California,US,CA,2,24
+United States,06049,Modoc,California,US,CA,2,0
+United States,06051,Mono,California,US,CA,1,2
+United States,06053,Monterey,California,US,CA,4,27
+United States,06055,Napa,California,US,CA,2,32
+United States,06057,Nevada,California,US,CA,2,10
+United States,06059,Orange,California,US,CA,24,651
+United States,06061,Placer,California,US,CA,3,70
+United States,06063,Plumas,California,US,CA,3,0
+United States,06065,Riverside,California,US,CA,16,351
+United States,06067,Sacramento,California,US,CA,8,396
+United States,06069,San Benito,California,US,CA,1,8
+United States,06071,San Bernardino,California,US,CA,18,410
+United States,06073,San Diego,California,US,CA,15,570
+United States,06075,San Francisco,California,US,CA,10,337
+United States,06077,San Joaquin,California,US,CA,7,121
+United States,06079,San Luis Obispo,California,US,CA,3,46
+United States,06081,San Mateo,California,US,CA,7,131
+United States,06083,Santa Barbara,California,US,CA,5,82
+United States,06085,Santa Clara,California,US,CA,9,313
+United States,06087,Santa Cruz,California,US,CA,3,22
+United States,06089,Shasta,California,US,CA,4,81
+United States,06091,Sierra,California,US,CA,0,0
+United States,06093,Siskiyou,California,US,CA,2,4
+United States,06095,Solano,California,US,CA,4,92
+United States,06097,Sonoma,California,US,CA,8,82
+United States,06099,Stanislaus,California,US,CA,5,88
+United States,06101,Sutter,California,US,CA,1,0
+United States,06103,Tehama,California,US,CA,1,8
+United States,06105,Trinity,California,US,CA,1,0
+United States,06107,Tulare,California,US,CA,4,51
+United States,06109,Tuolumne,California,US,CA,1,6
+United States,06111,Ventura,California,US,CA,7,139
+United States,06113,Yolo,California,US,CA,2,14
+United States,06115,Yuba,California,US,CA,1,24
+United States,08001,Adams,Colorado,US,CO,3,168
+United States,08003,Alamosa,Colorado,US,CO,1,6
+United States,08005,Arapahoe,Colorado,US,CO,3,127
+United States,08007,Archuleta,Colorado,US,CO,1,0
+United States,08009,Baca,Colorado,US,CO,1,0
+United States,08011,Bent,Colorado,US,CO,0,0
+United States,08013,Boulder,Colorado,US,CO,5,72
+United States,08014,Broomfield,Colorado,US,CO,1,20
+United States,08015,Chaffee,Colorado,US,CO,1,2
+United States,08017,Cheyenne,Colorado,US,CO,1,0
+United States,08019,Clear Creek,Colorado,US,CO,0,0
+United States,08021,Conejos,Colorado,US,CO,1,0
+United States,08023,Costilla,Colorado,US,CO,0,0
+United States,08025,Crowley,Colorado,US,CO,0,0
+United States,08027,Custer,Colorado,US,CO,0,0
+United States,08029,Delta,Colorado,US,CO,1,6
+United States,08031,Denver,Colorado,US,CO,6,227
+United States,08033,Dolores,Colorado,US,CO,0,0
+United States,08035,Douglas,Colorado,US,CO,3,54
+United States,08037,Eagle,Colorado,US,CO,1,5
+United States,08039,Elbert,Colorado,US,CO,0,0
+United States,08041,El Paso,Colorado,US,CO,3,95
+United States,08043,Fremont,Colorado,US,CO,1,4
+United States,08045,Garfield,Colorado,US,CO,2,5
+United States,08047,Gilpin,Colorado,US,CO,0,0
+United States,08049,Grand,Colorado,US,CO,1,0
+United States,08051,Gunnison,Colorado,US,CO,1,0
+United States,08053,Hinsdale,Colorado,US,CO,0,0
+United States,08055,Huerfano,Colorado,US,CO,1,0
+United States,08057,Jackson,Colorado,US,CO,0,0
+United States,08059,Jefferson,Colorado,US,CO,4,94
+United States,08061,Kiowa,Colorado,US,CO,1,0
+United States,08063,Kit Carson,Colorado,US,CO,1,0
+United States,08065,Lake,Colorado,US,CO,1,0
+United States,08067,La Plata,Colorado,US,CO,2,11
+United States,08069,Larimer,Colorado,US,CO,5,55
+United States,08071,Las Animas,Colorado,US,CO,1,0
+United States,08073,Lincoln,Colorado,US,CO,1,0
+United States,08075,Logan,Colorado,US,CO,1,4
+United States,08077,Mesa,Colorado,US,CO,3,44
+United States,08079,Mineral,Colorado,US,CO,0,0
+United States,08081,Moffat,Colorado,US,CO,1,0
+United States,08083,Montezuma,Colorado,US,CO,1,4
+United States,08085,Montrose,Colorado,US,CO,1,8
+United States,08087,Morgan,Colorado,US,CO,2,6
+United States,08089,Otero,Colorado,US,CO,1,506
+United States,08091,Ouray,Colorado,US,CO,0,0
+United States,08093,Park,Colorado,US,CO,0,0
+United States,08095,Phillips,Colorado,US,CO,2,0
+United States,08097,Pitkin,Colorado,US,CO,1,4
+United States,08099,Prowers,Colorado,US,CO,1,0
+United States,08101,Pueblo,Colorado,US,CO,2,32
+United States,08103,Rio Blanco,Colorado,US,CO,2,0
+United States,08105,Rio Grande,Colorado,US,CO,1,0
+United States,08107,Routt,Colorado,US,CO,1,4
+United States,08109,Saguache,Colorado,US,CO,0,0
+United States,08111,San Juan,Colorado,US,CO,0,0
+United States,08113,San Miguel,Colorado,US,CO,0,0
+United States,08115,Sedgwick,Colorado,US,CO,1,0
+United States,08117,Summit,Colorado,US,CO,1,8
+United States,08119,Teller,Colorado,US,CO,1,0
+United States,08121,Washington,Colorado,US,CO,0,0
+United States,08123,Weld,Colorado,US,CO,1,26
+United States,08125,Yuma,Colorado,US,CO,2,0
+United States,09001,Fairfield,Connecticut,US,CT,6,173
+United States,09003,Hartford,Connecticut,US,CT,7,216
+United States,09005,Litchfield,Connecticut,US,CT,2,21
+United States,09007,Middlesex,Connecticut,US,CT,1,24
+United States,09009,New Haven,Connecticut,US,CT,8,186
+United States,09011,New London,Connecticut,US,CT,2,32
+United States,09013,Tolland,Connecticut,US,CT,2,16
+United States,09015,Windham,Connecticut,US,CT,2,6
+United States,10001,Kent,Delaware,US,DE,1,29
+United States,10003,New Castle,Delaware,US,DE,2,119
+United States,10005,Sussex,Delaware,US,DE,3,38
+United States,11001,The District,District of Columbia,US,DC,6,314
+United States,12001,Alachua,Florida,US,FL,2,210
+United States,12003,Baker,Florida,US,FL,1,0
+United States,12005,Bay,Florida,US,FL,2,77
+United States,12007,Bradford,Florida,US,FL,1,0
+United States,12009,Brevard,Florida,US,FL,7,159
+United States,12011,Broward,Florida,US,FL,14,587
+United States,12013,Calhoun,Florida,US,FL,1,0
+United States,12015,Charlotte,Florida,US,FL,3,51
+United States,12017,Citrus,Florida,US,FL,2,40
+United States,12019,Clay,Florida,US,FL,2,28
+United States,12021,Collier,Florida,US,FL,2,73
+United States,12023,Columbia,Florida,US,FL,2,27
+United States,12027,DeSoto,Florida,US,FL,1,8
+United States,12029,Dixie,Florida,US,FL,0,0
+United States,12031,Duval,Florida,US,FL,7,412
+United States,12033,Escambia,Florida,US,FL,3,120
+United States,12035,Flagler,Florida,US,FL,1,18
+United States,12037,Franklin,Florida,US,FL,1,0
+United States,12039,Gadsden,Florida,US,FL,1,0
+United States,12041,Gilchrist,Florida,US,FL,0,0
+United States,12043,Glades,Florida,US,FL,0,0
+United States,12045,Gulf,Florida,US,FL,1,0
+United States,12047,Hamilton,Florida,US,FL,0,0
+United States,12049,Hardee,Florida,US,FL,1,0
+United States,12051,Hendry,Florida,US,FL,1,3
+United States,12053,Hernando,Florida,US,FL,2,44
+United States,12055,Highlands,Florida,US,FL,2,38
+United States,12057,Hillsborough,Florida,US,FL,8,432
+United States,12059,Holmes,Florida,US,FL,1,0
+United States,12061,Indian River,Florida,US,FL,2,40
+United States,12063,Jackson,Florida,US,FL,1,7
+United States,12065,Jefferson,Florida,US,FL,0,0
+United States,12067,Lafayette,Florida,US,FL,0,0
+United States,12069,Lake,Florida,US,FL,4,158
+United States,12071,Lee,Florida,US,FL,4,141
+United States,12073,Leon,Florida,US,FL,2,60
+United States,12075,Levy,Florida,US,FL,1,0
+United States,12077,Liberty,Florida,US,FL,0,0
+United States,12079,Madison,Florida,US,FL,1,0
+United States,12081,Manatee,Florida,US,FL,3,90
+United States,12083,Marion,Florida,US,FL,2,110
+United States,12085,Martin,Florida,US,FL,1,74
+United States,12086,Miami-Dade,Florida,US,FL,17,593
+United States,12087,Monroe,Florida,US,FL,3,14
+United States,12089,Nassau,Florida,US,FL,1,0
+United States,12091,Okaloosa,Florida,US,FL,3,57
+United States,12093,Okeechobee,Florida,US,FL,1,8
+United States,12095,Orange,Florida,US,FL,3,388
+United States,12097,Osceola,Florida,US,FL,3,66
+United States,12099,Palm Beach,Florida,US,FL,12,401
+United States,12101,Pasco,Florida,US,FL,6,166
+United States,12103,Pinellas,Florida,US,FL,10,279
+United States,12105,Polk,Florida,US,FL,5,145
+United States,12107,Putnam,Florida,US,FL,1,10
+United States,12109,St. Johns,Florida,US,FL,1,47
+United States,12111,St. Lucie,Florida,US,FL,2,69
+United States,12113,Santa Rosa,Florida,US,FL,3,16
+United States,12115,Sarasota,Florida,US,FL,4,118
+United States,12117,Seminole,Florida,US,FL,2,38
+United States,12119,Sumter,Florida,US,FL,0,0
+United States,12121,Suwannee,Florida,US,FL,1,0
+United States,12123,Taylor,Florida,US,FL,1,6
+United States,12125,Union,Florida,US,FL,1,0
+United States,12127,Volusia,Florida,US,FL,5,148
+United States,12129,Wakulla,Florida,US,FL,0,0
+United States,12131,Walton,Florida,US,FL,2,28
+United States,12133,Washington,Florida,US,FL,1,0
+United States,13001,Appling,Georgia,US,GA,1,3
+United States,13003,Atkinson,Georgia,US,GA,0,0
+United States,13005,Bacon,Georgia,US,GA,1,4
+United States,13007,Baker,Georgia,US,GA,0,0
+United States,13009,Baldwin,Georgia,US,GA,1,12
+United States,13011,Banks,Georgia,US,GA,0,0
+United States,13013,Barrow,Georgia,US,GA,1,6
+United States,13015,Bartow,Georgia,US,GA,1,21
+United States,13017,Ben Hill,Georgia,US,GA,1,5
+United States,13019,Berrien,Georgia,US,GA,1,0
+United States,13021,Bibb,Georgia,US,GA,3,117
+United States,13023,Bleckley,Georgia,US,GA,1,0
+United States,13025,Brantley,Georgia,US,GA,0,0
+United States,13027,Brooks,Georgia,US,GA,1,0
+United States,13029,Bryan,Georgia,US,GA,0,0
+United States,13031,Bulloch,Georgia,US,GA,1,24
+United States,13033,Burke,Georgia,US,GA,1,0
+United States,13035,Butts,Georgia,US,GA,1,0
+United States,13037,Calhoun,Georgia,US,GA,0,0
+United States,13039,Camden,Georgia,US,GA,1,5
+United States,13043,Candler,Georgia,US,GA,1,6
+United States,13045,Carroll,Georgia,US,GA,2,18
+United States,13047,Catoosa,Georgia,US,GA,1,0
+United States,13049,Charlton,Georgia,US,GA,0,0
+United States,13051,Chatham,Georgia,US,GA,3,78
+United States,13053,Chattahoochee,Georgia,US,GA,0,0
+United States,13055,Chattooga,Georgia,US,GA,0,0
+United States,13057,Cherokee,Georgia,US,GA,1,15
+United States,13059,Clarke,Georgia,US,GA,2,104
+United States,13061,Clay,Georgia,US,GA,0,0
+United States,13063,Clayton,Georgia,US,GA,1,34
+United States,13065,Clinch,Georgia,US,GA,1,0
+United States,13067,Cobb,Georgia,US,GA,2,119
+United States,13069,Coffee,Georgia,US,GA,1,10
+United States,13071,Colquitt,Georgia,US,GA,2,10
+United States,13073,Columbia,Georgia,US,GA,0,0
+United States,13075,Cook,Georgia,US,GA,1,0
+United States,13077,Coweta,Georgia,US,GA,2,19
+United States,13079,Crawford,Georgia,US,GA,0,0
+United States,13081,Crisp,Georgia,US,GA,1,16
+United States,13083,Dade,Georgia,US,GA,0,0
+United States,13085,Dawson,Georgia,US,GA,0,0
+United States,13087,Decatur,Georgia,US,GA,1,10
+United States,13089,DeKalb,Georgia,US,GA,3,168
+United States,13091,Dodge,Georgia,US,GA,1,6
+United States,13093,Dooly,Georgia,US,GA,1,0
+United States,13095,Dougherty,Georgia,US,GA,1,50
+United States,13097,Douglas,Georgia,US,GA,1,8
+United States,13099,Early,Georgia,US,GA,1,0
+United States,13101,Echols,Georgia,US,GA,0,0
+United States,13103,Effingham,Georgia,US,GA,1,0
+United States,13105,Elbert,Georgia,US,GA,1,4
+United States,13107,Emanuel,Georgia,US,GA,1,8
+United States,13109,Evans,Georgia,US,GA,1,0
+United States,13111,Fannin,Georgia,US,GA,1,5
+United States,13113,Fayette,Georgia,US,GA,1,37
+United States,13115,Floyd,Georgia,US,GA,2,65
+United States,13117,Forsyth,Georgia,US,GA,1,24
+United States,13119,Franklin,Georgia,US,GA,1,8
+United States,13121,Fulton,Georgia,US,GA,7,538
+United States,13123,Gilmer,Georgia,US,GA,0,0
+United States,13125,Glascock,Georgia,US,GA,0,0
+United States,13127,Glynn,Georgia,US,GA,1,24
+United States,13129,Gordon,Georgia,US,GA,1,8
+United States,13131,Grady,Georgia,US,GA,1,4
+United States,13133,Greene,Georgia,US,GA,1,0
+United States,13135,Gwinnett,Georgia,US,GA,3,82
+United States,13137,Habersham,Georgia,US,GA,1,4
+United States,13139,Hall,Georgia,US,GA,1,85
+United States,13141,Hancock,Georgia,US,GA,0,0
+United States,13143,Haralson,Georgia,US,GA,1,0
+United States,13145,Harris,Georgia,US,GA,0,0
+United States,13147,Hart,Georgia,US,GA,0,0
+United States,13149,Heard,Georgia,US,GA,0,0
+United States,13151,Henry,Georgia,US,GA,1,40
+United States,13153,Houston,Georgia,US,GA,2,36
+United States,13155,Irwin,Georgia,US,GA,1,0
+United States,13157,Jackson,Georgia,US,GA,1,0
+United States,13159,Jasper,Georgia,US,GA,1,0
+United States,13161,Jeff Davis,Georgia,US,GA,1,4
+United States,13163,Jefferson,Georgia,US,GA,1,0
+United States,13165,Jenkins,Georgia,US,GA,1,0
+United States,13167,Johnson,Georgia,US,GA,0,0
+United States,13169,Jones,Georgia,US,GA,0,0
+United States,13171,Lamar,Georgia,US,GA,0,0
+United States,13173,Lanier,Georgia,US,GA,1,0
+United States,13175,Laurens,Georgia,US,GA,1,16
+United States,13177,Lee,Georgia,US,GA,0,0
+United States,13179,Liberty,Georgia,US,GA,1,0
+United States,13181,Lincoln,Georgia,US,GA,0,0
+United States,13183,Long,Georgia,US,GA,0,0
+United States,13185,Lowndes,Georgia,US,GA,1,48
+United States,13187,Lumpkin,Georgia,US,GA,0,0
+United States,13189,McDuffie,Georgia,US,GA,1,0
+United States,13191,McIntosh,Georgia,US,GA,0,0
+United States,13193,Macon,Georgia,US,GA,0,0
+United States,13195,Madison,Georgia,US,GA,0,0
+United States,13197,Marion,Georgia,US,GA,0,0
+United States,13199,Meriwether,Georgia,US,GA,1,0
+United States,13201,Miller,Georgia,US,GA,1,0
+United States,13205,Mitchell,Georgia,US,GA,1,0
+United States,13207,Monroe,Georgia,US,GA,1,0
+United States,13209,Montgomery,Georgia,US,GA,0,0
+United States,13211,Morgan,Georgia,US,GA,1,0
+United States,13213,Murray,Georgia,US,GA,1,0
+United States,13215,Muscogee,Georgia,US,GA,3,61
+United States,13217,Newton,Georgia,US,GA,1,10
+United States,13219,Oconee,Georgia,US,GA,0,0
+United States,13221,Oglethorpe,Georgia,US,GA,0,0
+United States,13223,Paulding,Georgia,US,GA,1,8
+United States,13225,Peach,Georgia,US,GA,1,0
+United States,13227,Pickens,Georgia,US,GA,1,6
+United States,13229,Pierce,Georgia,US,GA,0,0
+United States,13231,Pike,Georgia,US,GA,0,0
+United States,13233,Polk,Georgia,US,GA,1,0
+United States,13235,Pulaski,Georgia,US,GA,1,6
+United States,13237,Putnam,Georgia,US,GA,1,0
+United States,13239,Quitman,Georgia,US,GA,0,0
+United States,13241,Rabun,Georgia,US,GA,1,0
+United States,13243,Randolph,Georgia,US,GA,1,0
+United States,13245,Richmond,Georgia,US,GA,3,264
+United States,13247,Rockdale,Georgia,US,GA,1,16
+United States,13249,Schley,Georgia,US,GA,0,0
+United States,13251,Screven,Georgia,US,GA,1,0
+United States,13253,Seminole,Georgia,US,GA,1,0
+United States,13255,Spalding,Georgia,US,GA,1,22
+United States,13257,Stephens,Georgia,US,GA,1,6
+United States,13259,Stewart,Georgia,US,GA,0,0
+United States,13261,Sumter,Georgia,US,GA,1,10
+United States,13263,Talbot,Georgia,US,GA,0,0
+United States,13265,Taliaferro,Georgia,US,GA,0,0
+United States,13267,Tattnall,Georgia,US,GA,1,0
+United States,13269,Taylor,Georgia,US,GA,0,0
+United States,13271,Telfair,Georgia,US,GA,0,0
+United States,13273,Terrell,Georgia,US,GA,0,0
+United States,13275,Thomas,Georgia,US,GA,1,35
+United States,13277,Tift,Georgia,US,GA,1,20
+United States,13279,Toombs,Georgia,US,GA,1,8
+United States,13281,Towns,Georgia,US,GA,1,0
+United States,13283,Treutlen,Georgia,US,GA,0,0
+United States,13285,Troup,Georgia,US,GA,1,20
+United States,13287,Turner,Georgia,US,GA,0,0
+United States,13289,Twiggs,Georgia,US,GA,0,0
+United States,13291,Union,Georgia,US,GA,1,5
+United States,13293,Upson,Georgia,US,GA,1,28
+United States,13295,Walker,Georgia,US,GA,0,0
+United States,13297,Walton,Georgia,US,GA,1,7
+United States,13299,Ware,Georgia,US,GA,1,22
+United States,13301,Warren,Georgia,US,GA,0,0
+United States,13303,Washington,Georgia,US,GA,1,0
+United States,13305,Wayne,Georgia,US,GA,1,12
+United States,13307,Webster,Georgia,US,GA,0,0
+United States,13309,Wheeler,Georgia,US,GA,0,0
+United States,13311,White,Georgia,US,GA,0,0
+United States,13313,Whitfield,Georgia,US,GA,1,34
+United States,13315,Wilcox,Georgia,US,GA,0,0
+United States,13317,Wilkes,Georgia,US,GA,1,0
+United States,13319,Wilkinson,Georgia,US,GA,0,0
+United States,13321,Worth,Georgia,US,GA,1,0
+United States,15001,Hawaii,Hawaii,US,HI,6,24
+United States,15003,Honolulu,Hawaii,US,HI,8,148
+United States,15005,Kalawao,Hawaii,US,HI,0,0
+United States,15007,Kauai,Hawaii,US,HI,3,9
+United States,15009,Maui,Hawaii,US,HI,4,20
+United States,16001,Ada,Idaho,US,ID,3,105
+United States,16003,Adams,Idaho,US,ID,0,0
+United States,16005,Bannock,Idaho,US,ID,1,20
+United States,16007,Bear Lake,Idaho,US,ID,1,0
+United States,16009,Benewah,Idaho,US,ID,1,0
+United States,16011,Bingham,Idaho,US,ID,2,5
+United States,16013,Blaine,Idaho,US,ID,1,0
+United States,16015,Boise,Idaho,US,ID,0,0
+United States,16017,Bonner,Idaho,US,ID,1,4
+United States,16019,Bonneville,Idaho,US,ID,2,35
+United States,16021,Boundary,Idaho,US,ID,1,0
+United States,16023,Butte,Idaho,US,ID,1,0
+United States,16025,Camas,Idaho,US,ID,0,0
+United States,16027,Canyon,Idaho,US,ID,3,41
+United States,16029,Caribou,Idaho,US,ID,1,0
+United States,16031,Cassia,Idaho,US,ID,1,6
+United States,16033,Clark,Idaho,US,ID,0,0
+United States,16035,Clearwater,Idaho,US,ID,1,0
+United States,16037,Custer,Idaho,US,ID,0,0
+United States,16039,Elmore,Idaho,US,ID,1,0
+United States,16041,Franklin,Idaho,US,ID,1,0
+United States,16043,Fremont,Idaho,US,ID,0,0
+United States,16045,Gem,Idaho,US,ID,1,0
+United States,16047,Gooding,Idaho,US,ID,1,0
+United States,16049,Idaho,Idaho,US,ID,2,0
+United States,16051,Jefferson,Idaho,US,ID,0,0
+United States,16053,Jerome,Idaho,US,ID,1,0
+United States,16055,Kootenai,Idaho,US,ID,2,55
+United States,16057,Latah,Idaho,US,ID,1,0
+United States,16059,Lemhi,Idaho,US,ID,1,0
+United States,16061,Lewis,Idaho,US,ID,0,0
+United States,16063,Lincoln,Idaho,US,ID,0,0
+United States,16065,Madison,Idaho,US,ID,1,4
+United States,16067,Minidoka,Idaho,US,ID,1,0
+United States,16069,Nez Perce,Idaho,US,ID,1,9
+United States,16071,Oneida,Idaho,US,ID,1,0
+United States,16073,Owyhee,Idaho,US,ID,0,0
+United States,16075,Payette,Idaho,US,ID,0,0
+United States,16077,Power,Idaho,US,ID,1,0
+United States,16079,Shoshone,Idaho,US,ID,1,0
+United States,16081,Teton,Idaho,US,ID,1,0
+United States,16083,Twin Falls,Idaho,US,ID,1,30
+United States,16085,Valley,Idaho,US,ID,2,0
+United States,16087,Washington,Idaho,US,ID,1,0
+United States,17001,Adams,Illinois,US,IL,1,25
+United States,17003,Alexander,Illinois,US,IL,0,0
+United States,17005,Bond,Illinois,US,IL,1,0
+United States,17007,Boone,Illinois,US,IL,0,0
+United States,17009,Brown,Illinois,US,IL,0,0
+United States,17011,Bureau,Illinois,US,IL,2,9
+United States,17013,Calhoun,Illinois,US,IL,0,0
+United States,17015,Carroll,Illinois,US,IL,0,0
+United States,17017,Cass,Illinois,US,IL,0,0
+United States,17019,Champaign,Illinois,US,IL,2,51
+United States,17021,Christian,Illinois,US,IL,2,0
+United States,17023,Clark,Illinois,US,IL,0,0
+United States,17025,Clay,Illinois,US,IL,1,0
+United States,17027,Clinton,Illinois,US,IL,1,4
+United States,17029,Coles,Illinois,US,IL,1,9
+United States,17031,Cook,Illinois,US,IL,46,1606
+United States,17033,Crawford,Illinois,US,IL,1,0
+United States,17035,Cumberland,Illinois,US,IL,0,0
+United States,17037,DeKalb,Illinois,US,IL,2,16
+United States,17039,De Witt,Illinois,US,IL,1,0
+United States,17041,Douglas,Illinois,US,IL,0,0
+United States,17043,DuPage,Illinois,US,IL,6,257
+United States,17045,Edgar,Illinois,US,IL,1,0
+United States,17047,Edwards,Illinois,US,IL,0,0
+United States,17049,Effingham,Illinois,US,IL,1,10
+United States,17051,Fayette,Illinois,US,IL,1,4
+United States,17053,Ford,Illinois,US,IL,1,2
+United States,17055,Franklin,Illinois,US,IL,1,0
+United States,17057,Fulton,Illinois,US,IL,1,5
+United States,17059,Gallatin,Illinois,US,IL,0,0
+United States,17061,Greene,Illinois,US,IL,1,0
+United States,17063,Grundy,Illinois,US,IL,1,8
+United States,17065,Hamilton,Illinois,US,IL,1,0
+United States,17067,Hancock,Illinois,US,IL,1,0
+United States,17069,Hardin,Illinois,US,IL,1,0
+United States,17071,Henderson,Illinois,US,IL,0,0
+United States,17073,Henry,Illinois,US,IL,2,3
+United States,17075,Iroquois,Illinois,US,IL,1,0
+United States,17077,Jackson,Illinois,US,IL,2,21
+United States,17079,Jasper,Illinois,US,IL,0,0
+United States,17081,Jefferson,Illinois,US,IL,2,22
+United States,17083,Jersey,Illinois,US,IL,1,4
+United States,17085,Jo Daviess,Illinois,US,IL,1,0
+United States,17087,Johnson,Illinois,US,IL,0,0
+United States,17089,Kane,Illinois,US,IL,5,103
+United States,17091,Kankakee,Illinois,US,IL,2,56
+United States,17093,Kendall,Illinois,US,IL,0,0
+United States,17095,Knox,Illinois,US,IL,2,18
+United States,17097,Lake,Illinois,US,IL,6,108
+United States,17099,LaSalle,Illinois,US,IL,3,13
+United States,17101,Lawrence,Illinois,US,IL,1,0
+United States,17103,Lee,Illinois,US,IL,1,6
+United States,17105,Livingston,Illinois,US,IL,1,5
+United States,17107,Logan,Illinois,US,IL,1,0
+United States,17109,McDonough,Illinois,US,IL,1,7
+United States,17111,McHenry,Illinois,US,IL,2,33
+United States,17113,McLean,Illinois,US,IL,2,30
+United States,17115,Macon,Illinois,US,IL,2,65
+United States,17117,Macoupin,Illinois,US,IL,2,0
+United States,17119,Madison,Illinois,US,IL,5,58
+United States,17121,Marion,Illinois,US,IL,2,9
+United States,17123,Marshall,Illinois,US,IL,0,0
+United States,17125,Mason,Illinois,US,IL,1,0
+United States,17127,Massac,Illinois,US,IL,1,0
+United States,17129,Menard,Illinois,US,IL,0,0
+United States,17131,Mercer,Illinois,US,IL,1,0
+United States,17133,Monroe,Illinois,US,IL,0,0
+United States,17135,Montgomery,Illinois,US,IL,2,0
+United States,17137,Morgan,Illinois,US,IL,1,9
+United States,17139,Moultrie,Illinois,US,IL,0,0
+United States,17141,Ogle,Illinois,US,IL,1,4
+United States,17143,Peoria,Illinois,US,IL,3,107
+United States,17145,Perry,Illinois,US,IL,2,0
+United States,17147,Piatt,Illinois,US,IL,1,0
+United States,17149,Pike,Illinois,US,IL,1,0
+United States,17151,Pope,Illinois,US,IL,0,0
+United States,17153,Pulaski,Illinois,US,IL,0,0
+United States,17155,Putnam,Illinois,US,IL,0,0
+United States,17157,Randolph,Illinois,US,IL,3,0
+United States,17159,Richland,Illinois,US,IL,1,8
+United States,17161,Rock Island,Illinois,US,IL,2,58
+United States,17163,St. Clair,Illinois,US,IL,4,42
+United States,17165,Saline,Illinois,US,IL,2,0
+United States,17167,Sangamon,Illinois,US,IL,2,99
+United States,17169,Schuyler,Illinois,US,IL,1,0
+United States,17171,Scott,Illinois,US,IL,0,0
+United States,17173,Shelby,Illinois,US,IL,1,0
+United States,17175,Stark,Illinois,US,IL,0,0
+United States,17177,Stephenson,Illinois,US,IL,1,8
+United States,17179,Tazewell,Illinois,US,IL,2,8
+United States,17181,Union,Illinois,US,IL,1,0
+United States,17183,Vermilion,Illinois,US,IL,2,12
+United States,17185,Wabash,Illinois,US,IL,1,4
+United States,17187,Warren,Illinois,US,IL,1,0
+United States,17189,Washington,Illinois,US,IL,1,0
+United States,17191,Wayne,Illinois,US,IL,1,4
+United States,17193,White,Illinois,US,IL,0,0
+United States,17195,Whiteside,Illinois,US,IL,2,9
+United States,17197,Will,Illinois,US,IL,3,92
+United States,17199,Williamson,Illinois,US,IL,2,26
+United States,17201,Winnebago,Illinois,US,IL,3,87
+United States,17203,Woodford,Illinois,US,IL,1,0
+United States,18001,Adams,Indiana,US,IN,1,4
+United States,18003,Allen,Indiana,US,IN,6,170
+United States,18005,Bartholomew,Indiana,US,IN,1,17
+United States,18007,Benton,Indiana,US,IN,0,0
+United States,18009,Blackford,Indiana,US,IN,1,0
+United States,18011,Boone,Indiana,US,IN,1,8
+United States,18013,Brown,Indiana,US,IN,0,0
+United States,18015,Carroll,Indiana,US,IN,0,0
+United States,18017,Cass,Indiana,US,IN,1,5
+United States,18019,Clark,Indiana,US,IN,1,25
+United States,18021,Clay,Indiana,US,IN,1,0
+United States,18023,Clinton,Indiana,US,IN,1,0
+United States,18025,Crawford,Indiana,US,IN,0,0
+United States,18027,Daviess,Indiana,US,IN,1,5
+United States,18029,Dearborn,Indiana,US,IN,1,8
+United States,18031,Decatur,Indiana,US,IN,1,0
+United States,18033,DeKalb,Indiana,US,IN,1,8
+United States,18035,Delaware,Indiana,US,IN,1,36
+United States,18037,Dubois,Indiana,US,IN,1,26
+United States,18039,Elkhart,Indiana,US,IN,2,35
+United States,18041,Fayette,Indiana,US,IN,1,20
+United States,18043,Floyd,Indiana,US,IN,2,16
+United States,18045,Fountain,Indiana,US,IN,0,0
+United States,18047,Franklin,Indiana,US,IN,1,7
+United States,18049,Fulton,Indiana,US,IN,1,4
+United States,18051,Gibson,Indiana,US,IN,1,5
+United States,18053,Grant,Indiana,US,IN,1,19
+United States,18055,Greene,Indiana,US,IN,1,5
+United States,18057,Hamilton,Indiana,US,IN,5,10
+United States,18059,Hancock,Indiana,US,IN,1,24
+United States,18061,Harrison,Indiana,US,IN,1,4
+United States,18063,Hendricks,Indiana,US,IN,3,39
+United States,18065,Henry,Indiana,US,IN,1,10
+United States,18067,Howard,Indiana,US,IN,2,13
+United States,18069,Huntington,Indiana,US,IN,1,0
+United States,18071,Jackson,Indiana,US,IN,1,7
+United States,18073,Jasper,Indiana,US,IN,1,4
+United States,18075,Jay,Indiana,US,IN,1,0
+United States,18077,Jefferson,Indiana,US,IN,1,6
+United States,18079,Jennings,Indiana,US,IN,1,0
+United States,18081,Johnson,Indiana,US,IN,1,6
+United States,18083,Knox,Indiana,US,IN,1,30
+United States,18085,Kosciusko,Indiana,US,IN,1,14
+United States,18087,LaGrange,Indiana,US,IN,1,0
+United States,18089,Lake,Indiana,US,IN,9,188
+United States,18091,LaPorte,Indiana,US,IN,2,34
+United States,18093,Lawrence,Indiana,US,IN,2,6
+United States,18095,Madison,Indiana,US,IN,3,21
+United States,18097,Marion,Indiana,US,IN,9,526
+United States,18099,Marshall,Indiana,US,IN,2,7
+United States,18101,Martin,Indiana,US,IN,0,0
+United States,18103,Miami,Indiana,US,IN,1,4
+United States,18105,Monroe,Indiana,US,IN,2,38
+United States,18107,Montgomery,Indiana,US,IN,1,5
+United States,18109,Morgan,Indiana,US,IN,1,10
+United States,18111,Newton,Indiana,US,IN,0,0
+United States,18113,Noble,Indiana,US,IN,1,0
+United States,18115,Ohio,Indiana,US,IN,0,0
+United States,18117,Orange,Indiana,US,IN,1,0
+United States,18119,Owen,Indiana,US,IN,0,0
+United States,18121,Parke,Indiana,US,IN,0,0
+United States,18123,Perry,Indiana,US,IN,1,4
+United States,18125,Pike,Indiana,US,IN,0,0
+United States,18127,Porter,Indiana,US,IN,1,32
+United States,18129,Posey,Indiana,US,IN,0,0
+United States,18131,Pulaski,Indiana,US,IN,1,0
+United States,18133,Putnam,Indiana,US,IN,1,6
+United States,18135,Randolph,Indiana,US,IN,1,0
+United States,18137,Ripley,Indiana,US,IN,0,0
+United States,18139,Rush,Indiana,US,IN,1,0
+United States,18141,St. Joseph,Indiana,US,IN,3,74
+United States,18143,Scott,Indiana,US,IN,1,4
+United States,18145,Shelby,Indiana,US,IN,1,0
+United States,18147,Spencer,Indiana,US,IN,0,0
+United States,18149,Starke,Indiana,US,IN,1,1
+United States,18151,Steuben,Indiana,US,IN,1,2
+United States,18153,Sullivan,Indiana,US,IN,1,4
+United States,18155,Switzerland,Indiana,US,IN,0,0
+United States,18157,Tippecanoe,Indiana,US,IN,2,30
+United States,18159,Tipton,Indiana,US,IN,1,0
+United States,18161,Union,Indiana,US,IN,0,0
+United States,18163,Vanderburgh,Indiana,US,IN,2,154
+United States,18165,Vermillion,Indiana,US,IN,1,6
+United States,18167,Vigo,Indiana,US,IN,2,54
+United States,18169,Wabash,Indiana,US,IN,1,0
+United States,18171,Warren,Indiana,US,IN,1,0
+United States,18173,Warrick,Indiana,US,IN,2,24
+United States,18175,Washington,Indiana,US,IN,1,0
+United States,18177,Wayne,Indiana,US,IN,1,30
+United States,18179,Wells,Indiana,US,IN,1,7
+United States,18181,White,Indiana,US,IN,1,0
+United States,18183,Whitley,Indiana,US,IN,1,0
+United States,19001,Adair,Iowa,US,IA,1,0
+United States,19003,Adams,Iowa,US,IA,1,0
+United States,19005,Allamakee,Iowa,US,IA,1,0
+United States,19007,Appanoose,Iowa,US,IA,1,3
+United States,19009,Audubon,Iowa,US,IA,1,0
+United States,19011,Benton,Iowa,US,IA,1,0
+United States,19013,Black Hawk,Iowa,US,IA,3,24
+United States,19015,Boone,Iowa,US,IA,1,3
+United States,19017,Bremer,Iowa,US,IA,2,0
+United States,19019,Buchanan,Iowa,US,IA,1,0
+United States,19021,Buena Vista,Iowa,US,IA,1,5
+United States,19023,Butler,Iowa,US,IA,0,0
+United States,19025,Calhoun,Iowa,US,IA,1,2
+United States,19027,Carroll,Iowa,US,IA,2,6
+United States,19029,Cass,Iowa,US,IA,1,4
+United States,19031,Cedar,Iowa,US,IA,0,0
+United States,19033,Cerro Gordo,Iowa,US,IA,1,18
+United States,19035,Cherokee,Iowa,US,IA,1,0
+United States,19037,Chickasaw,Iowa,US,IA,1,0
+United States,19039,Clarke,Iowa,US,IA,1,0
+United States,19041,Clay,Iowa,US,IA,1,0
+United States,19043,Clayton,Iowa,US,IA,2,0
+United States,19045,Clinton,Iowa,US,IA,2,10
+United States,19047,Crawford,Iowa,US,IA,1,0
+United States,19049,Dallas,Iowa,US,IA,1,0
+United States,19051,Davis,Iowa,US,IA,1,0
+United States,19053,Decatur,Iowa,US,IA,1,0
+United States,19055,Delaware,Iowa,US,IA,1,0
+United States,19057,Des Moines,Iowa,US,IA,1,12
+United States,19059,Dickinson,Iowa,US,IA,1,3
+United States,19061,Dubuque,Iowa,US,IA,3,18
+United States,19063,Emmet,Iowa,US,IA,1,0
+United States,19065,Fayette,Iowa,US,IA,2,0
+United States,19067,Floyd,Iowa,US,IA,1,0
+United States,19069,Franklin,Iowa,US,IA,1,0
+United States,19071,Fremont,Iowa,US,IA,1,0
+United States,19073,Greene,Iowa,US,IA,1,4
+United States,19075,Grundy,Iowa,US,IA,1,0
+United States,19077,Guthrie,Iowa,US,IA,1,0
+United States,19079,Hamilton,Iowa,US,IA,1,0
+United States,19081,Hancock,Iowa,US,IA,1,0
+United States,19083,Hardin,Iowa,US,IA,1,0
+United States,19085,Harrison,Iowa,US,IA,1,0
+United States,19087,Henry,Iowa,US,IA,1,0
+United States,19089,Howard,Iowa,US,IA,1,0
+United States,19091,Humboldt,Iowa,US,IA,1,0
+United States,19093,Ida,Iowa,US,IA,1,0
+United States,19095,Iowa,Iowa,US,IA,1,0
+United States,19097,Jackson,Iowa,US,IA,1,0
+United States,19099,Jasper,Iowa,US,IA,1,4
+United States,19101,Jefferson,Iowa,US,IA,1,0
+United States,19103,Johnson,Iowa,US,IA,2,95
+United States,19105,Jones,Iowa,US,IA,1,0
+United States,19107,Keokuk,Iowa,US,IA,1,0
+United States,19109,Kossuth,Iowa,US,IA,1,0
+United States,19111,Lee,Iowa,US,IA,2,10
+United States,19113,Linn,Iowa,US,IA,2,44
+United States,19115,Louisa,Iowa,US,IA,0,0
+United States,19117,Lucas,Iowa,US,IA,1,0
+United States,19119,Lyon,Iowa,US,IA,1,0
+United States,19121,Madison,Iowa,US,IA,1,0
+United States,19123,Mahaska,Iowa,US,IA,1,0
+United States,19125,Marion,Iowa,US,IA,2,3
+United States,19127,Marshall,Iowa,US,IA,1,0
+United States,19129,Mills,Iowa,US,IA,0,0
+United States,19131,Mitchell,Iowa,US,IA,1,0
+United States,19133,Monona,Iowa,US,IA,1,0
+United States,19135,Monroe,Iowa,US,IA,1,0
+United States,19137,Montgomery,Iowa,US,IA,1,8
+United States,19139,Muscatine,Iowa,US,IA,1,5
+United States,19141,O'Brien,Iowa,US,IA,2,0
+United States,19143,Osceola,Iowa,US,IA,1,0
+United States,19145,Page,Iowa,US,IA,2,2
+United States,19147,Palo Alto,Iowa,US,IA,1,0
+United States,19149,Plymouth,Iowa,US,IA,1,0
+United States,19151,Pocahontas,Iowa,US,IA,1,0
+United States,19153,Polk,Iowa,US,IA,4,112
+United States,19155,Pottawattamie,Iowa,US,IA,2,29
+United States,19157,Poweshiek,Iowa,US,IA,1,5
+United States,19159,Ringgold,Iowa,US,IA,1,0
+United States,19161,Sac,Iowa,US,IA,1,0
+United States,19163,Scott,Iowa,US,IA,2,46
+United States,19165,Shelby,Iowa,US,IA,1,0
+United States,19167,Sioux,Iowa,US,IA,4,0
+United States,19169,Story,Iowa,US,IA,2,14
+United States,19171,Tama,Iowa,US,IA,0,0
+United States,19173,Taylor,Iowa,US,IA,0,0
+United States,19175,Union,Iowa,US,IA,1,4
+United States,19177,Van Buren,Iowa,US,IA,1,0
+United States,19179,Wapello,Iowa,US,IA,1,11
+United States,19181,Warren,Iowa,US,IA,0,0
+United States,19183,Washington,Iowa,US,IA,1,0
+United States,19185,Wayne,Iowa,US,IA,1,0
+United States,19187,Webster,Iowa,US,IA,1,8
+United States,19189,Winnebago,Iowa,US,IA,0,0
+United States,19191,Winneshiek,Iowa,US,IA,1,0
+United States,19193,Woodbury,Iowa,US,IA,2,33
+United States,19195,Worth,Iowa,US,IA,0,0
+United States,19197,Wright,Iowa,US,IA,2,0
+United States,20001,Allen,Kansas,US,KS,1,0
+United States,20003,Anderson,Kansas,US,KS,1,0
+United States,20005,Atchison,Kansas,US,KS,1,4
+United States,20007,Barber,Kansas,US,KS,2,0
+United States,20009,Barton,Kansas,US,KS,3,4
+United States,20011,Bourbon,Kansas,US,KS,0,0
+United States,20013,Brown,Kansas,US,KS,1,0
+United States,20015,Butler,Kansas,US,KS,2,16
+United States,20017,Chase,Kansas,US,KS,0,0
+United States,20019,Chautauqua,Kansas,US,KS,1,0
+United States,20021,Cherokee,Kansas,US,KS,2,0
+United States,20023,Cheyenne,Kansas,US,KS,1,0
+United States,20025,Clark,Kansas,US,KS,1,0
+United States,20027,Clay,Kansas,US,KS,1,0
+United States,20029,Cloud,Kansas,US,KS,1,0
+United States,20031,Coffey,Kansas,US,KS,0,0
+United States,20033,Comanche,Kansas,US,KS,1,0
+United States,20035,Cowley,Kansas,US,KS,2,4
+United States,20037,Crawford,Kansas,US,KS,2,12
+United States,20039,Decatur,Kansas,US,KS,1,0
+United States,20041,Dickinson,Kansas,US,KS,2,0
+United States,20043,Doniphan,Kansas,US,KS,0,0
+United States,20045,Douglas,Kansas,US,KS,1,10
+United States,20047,Edwards,Kansas,US,KS,1,0
+United States,20049,Elk,Kansas,US,KS,0,0
+United States,20051,Ellis,Kansas,US,KS,1,34
+United States,20053,Ellsworth,Kansas,US,KS,1,0
+United States,20055,Finney,Kansas,US,KS,1,8
+United States,20057,Ford,Kansas,US,KS,2,10
+United States,20059,Franklin,Kansas,US,KS,1,5
+United States,20061,Geary,Kansas,US,KS,1,6
+United States,20063,Gove,Kansas,US,KS,1,0
+United States,20065,Graham,Kansas,US,KS,1,0
+United States,20067,Grant,Kansas,US,KS,1,0
+United States,20069,Gray,Kansas,US,KS,0,0
+United States,20071,Greeley,Kansas,US,KS,1,0
+United States,20073,Greenwood,Kansas,US,KS,1,0
+United States,20075,Hamilton,Kansas,US,KS,1,0
+United States,20077,Harper,Kansas,US,KS,1,0
+United States,20079,Harvey,Kansas,US,KS,1,6
+United States,20081,Haskell,Kansas,US,KS,1,0
+United States,20083,Hodgeman,Kansas,US,KS,1,0
+United States,20085,Jackson,Kansas,US,KS,1,0
+United States,20087,Jefferson,Kansas,US,KS,1,0
+United States,20089,Jewell,Kansas,US,KS,1,0
+United States,20091,Johnson,Kansas,US,KS,9,110
+United States,20093,Kearny,Kansas,US,KS,1,0
+United States,20095,Kingman,Kansas,US,KS,1,0
+United States,20097,Kiowa,Kansas,US,KS,1,0
+United States,20099,Labette,Kansas,US,KS,2,5
+United States,20101,Lane,Kansas,US,KS,1,0
+United States,20103,Leavenworth,Kansas,US,KS,2,10
+United States,20105,Lincoln,Kansas,US,KS,1,0
+United States,20107,Linn,Kansas,US,KS,0,0
+United States,20109,Logan,Kansas,US,KS,1,0
+United States,20111,Lyon,Kansas,US,KS,1,6
+United States,20113,McPherson,Kansas,US,KS,3,7
+United States,20115,Marion,Kansas,US,KS,2,0
+United States,20117,Marshall,Kansas,US,KS,1,0
+United States,20119,Meade,Kansas,US,KS,1,0
+United States,20121,Miami,Kansas,US,KS,1,0
+United States,20123,Mitchell,Kansas,US,KS,1,4
+United States,20125,Montgomery,Kansas,US,KS,1,7
+United States,20127,Morris,Kansas,US,KS,1,0
+United States,20129,Morton,Kansas,US,KS,1,0
+United States,20131,Nemaha,Kansas,US,KS,2,0
+United States,20133,Neosho,Kansas,US,KS,1,5
+United States,20135,Ness,Kansas,US,KS,2,0
+United States,20137,Norton,Kansas,US,KS,1,0
+United States,20139,Osage,Kansas,US,KS,0,0
+United States,20141,Osborne,Kansas,US,KS,1,0
+United States,20143,Ottawa,Kansas,US,KS,1,0
+United States,20145,Pawnee,Kansas,US,KS,1,0
+United States,20147,Phillips,Kansas,US,KS,1,0
+United States,20149,Pottawatomie,Kansas,US,KS,2,0
+United States,20151,Pratt,Kansas,US,KS,1,6
+United States,20153,Rawlins,Kansas,US,KS,1,0
+United States,20155,Reno,Kansas,US,KS,2,20
+United States,20157,Republic,Kansas,US,KS,1,0
+United States,20159,Rice,Kansas,US,KS,1,0
+United States,20161,Riley,Kansas,US,KS,2,8
+United States,20163,Rooks,Kansas,US,KS,1,0
+United States,20165,Rush,Kansas,US,KS,1,0
+United States,20167,Russell,Kansas,US,KS,1,0
+United States,20169,Saline,Kansas,US,KS,2,18
+United States,20171,Scott,Kansas,US,KS,1,0
+United States,20173,Sedgwick,Kansas,US,KS,6,236
+United States,20175,Seward,Kansas,US,KS,1,8
+United States,20177,Shawnee,Kansas,US,KS,2,52
+United States,20179,Sheridan,Kansas,US,KS,1,0
+United States,20181,Sherman,Kansas,US,KS,1,0
+United States,20183,Smith,Kansas,US,KS,1,0
+United States,20185,Stafford,Kansas,US,KS,1,0
+United States,20187,Stanton,Kansas,US,KS,1,0
+United States,20189,Stevens,Kansas,US,KS,1,0
+United States,20191,Sumner,Kansas,US,KS,2,0
+United States,20193,Thomas,Kansas,US,KS,1,1
+United States,20195,Trego,Kansas,US,KS,1,0
+United States,20197,Wabaunsee,Kansas,US,KS,0,0
+United States,20199,Wallace,Kansas,US,KS,0,0
+United States,20201,Washington,Kansas,US,KS,2,0
+United States,20203,Wichita,Kansas,US,KS,1,0
+United States,20205,Wilson,Kansas,US,KS,2,0
+United States,20207,Woodson,Kansas,US,KS,0,0
+United States,20209,Wyandotte,Kansas,US,KS,2,145
+United States,21001,Adair,Kentucky,US,KY,1,0
+United States,21003,Allen,Kentucky,US,KY,1,0
+United States,21005,Anderson,Kentucky,US,KY,0,0
+United States,21007,Ballard,Kentucky,US,KY,0,0
+United States,21009,Barren,Kentucky,US,KY,1,10
+United States,21011,Bath,Kentucky,US,KY,0,0
+United States,21013,Bell,Kentucky,US,KY,2,7
+United States,21015,Boone,Kentucky,US,KY,1,18
+United States,21017,Bourbon,Kentucky,US,KY,1,4
+United States,21019,Boyd,Kentucky,US,KY,2,50
+United States,21021,Boyle,Kentucky,US,KY,1,22
+United States,21023,Bracken,Kentucky,US,KY,0,0
+United States,21025,Breathitt,Kentucky,US,KY,1,4
+United States,21027,Breckinridge,Kentucky,US,KY,1,0
+United States,21029,Bullitt,Kentucky,US,KY,0,0
+United States,21031,Butler,Kentucky,US,KY,0,0
+United States,21033,Caldwell,Kentucky,US,KY,1,0
+United States,21035,Calloway,Kentucky,US,KY,1,10
+United States,21037,Campbell,Kentucky,US,KY,1,21
+United States,21039,Carlisle,Kentucky,US,KY,0,0
+United States,21041,Carroll,Kentucky,US,KY,1,0
+United States,21043,Carter,Kentucky,US,KY,0,0
+United States,21045,Casey,Kentucky,US,KY,1,0
+United States,21047,Christian,Kentucky,US,KY,1,18
+United States,21049,Clark,Kentucky,US,KY,1,8
+United States,21051,Clay,Kentucky,US,KY,1,6
+United States,21053,Clinton,Kentucky,US,KY,1,0
+United States,21055,Crittenden,Kentucky,US,KY,1,0
+United States,21057,Cumberland,Kentucky,US,KY,1,0
+United States,21059,Daviess,Kentucky,US,KY,1,32
+United States,21061,Edmonson,Kentucky,US,KY,0,0
+United States,21063,Elliott,Kentucky,US,KY,0,0
+United States,21065,Estill,Kentucky,US,KY,1,0
+United States,21067,Fayette,Kentucky,US,KY,4,260
+United States,21069,Fleming,Kentucky,US,KY,1,3
+United States,21071,Floyd,Kentucky,US,KY,3,16
+United States,21073,Franklin,Kentucky,US,KY,1,10
+United States,21075,Fulton,Kentucky,US,KY,0,0
+United States,21077,Gallatin,Kentucky,US,KY,0,0
+United States,21079,Garrard,Kentucky,US,KY,0,0
+United States,21081,Grant,Kentucky,US,KY,1,0
+United States,21083,Graves,Kentucky,US,KY,1,8
+United States,21085,Grayson,Kentucky,US,KY,1,6
+United States,21087,Green,Kentucky,US,KY,1,0
+United States,21089,Greenup,Kentucky,US,KY,0,0
+United States,21091,Hancock,Kentucky,US,KY,0,0
+United States,21093,Hardin,Kentucky,US,KY,1,20
+United States,21095,Harlan,Kentucky,US,KY,1,7
+United States,21097,Harrison,Kentucky,US,KY,1,6
+United States,21099,Hart,Kentucky,US,KY,1,0
+United States,21101,Henderson,Kentucky,US,KY,1,12
+United States,21103,Henry,Kentucky,US,KY,0,0
+United States,21105,Hickman,Kentucky,US,KY,0,0
+United States,21107,Hopkins,Kentucky,US,KY,1,19
+United States,21109,Jackson,Kentucky,US,KY,0,0
+United States,21111,Jefferson,Kentucky,US,KY,4,366
+United States,21113,Jessamine,Kentucky,US,KY,0,0
+United States,21115,Johnson,Kentucky,US,KY,1,6
+United States,21117,Kenton,Kentucky,US,KY,1,54
+United States,21119,Knott,Kentucky,US,KY,0,0
+United States,21121,Knox,Kentucky,US,KY,1,4
+United States,21123,Larue,Kentucky,US,KY,0,0
+United States,21125,Laurel,Kentucky,US,KY,1,14
+United States,21127,Lawrence,Kentucky,US,KY,1,6
+United States,21129,Lee,Kentucky,US,KY,0,0
+United States,21131,Leslie,Kentucky,US,KY,1,0
+United States,21133,Letcher,Kentucky,US,KY,1,6
+United States,21135,Lewis,Kentucky,US,KY,0,0
+United States,21137,Lincoln,Kentucky,US,KY,1,0
+United States,21139,Livingston,Kentucky,US,KY,1,0
+United States,21141,Logan,Kentucky,US,KY,1,6
+United States,21143,Lyon,Kentucky,US,KY,0,0
+United States,21145,McCracken,Kentucky,US,KY,2,58
+United States,21147,McCreary,Kentucky,US,KY,0,0
+United States,21149,McLean,Kentucky,US,KY,0,0
+United States,21151,Madison,Kentucky,US,KY,2,12
+United States,21153,Magoffin,Kentucky,US,KY,0,0
+United States,21155,Marion,Kentucky,US,KY,1,6
+United States,21157,Marshall,Kentucky,US,KY,1,4
+United States,21159,Martin,Kentucky,US,KY,0,0
+United States,21161,Mason,Kentucky,US,KY,1,5
+United States,21163,Meade,Kentucky,US,KY,0,0
+United States,21165,Menifee,Kentucky,US,KY,0,0
+United States,21167,Mercer,Kentucky,US,KY,1,4
+United States,21169,Metcalfe,Kentucky,US,KY,0,0
+United States,21171,Monroe,Kentucky,US,KY,1,0
+United States,21173,Montgomery,Kentucky,US,KY,1,4
+United States,21175,Morgan,Kentucky,US,KY,1,0
+United States,21177,Muhlenberg,Kentucky,US,KY,1,6
+United States,21179,Nelson,Kentucky,US,KY,1,4
+United States,21181,Nicholas,Kentucky,US,KY,0,0
+United States,21183,Ohio,Kentucky,US,KY,1,4
+United States,21185,Oldham,Kentucky,US,KY,1,8
+United States,21187,Owen,Kentucky,US,KY,0,0
+United States,21189,Owsley,Kentucky,US,KY,0,0
+United States,21191,Pendleton,Kentucky,US,KY,0,0
+United States,21193,Perry,Kentucky,US,KY,1,32
+United States,21195,Pike,Kentucky,US,KY,2,76
+United States,21197,Powell,Kentucky,US,KY,0,0
+United States,21199,Pulaski,Kentucky,US,KY,1,38
+United States,21201,Robertson,Kentucky,US,KY,0,0
+United States,21203,Rockcastle,Kentucky,US,KY,1,0
+United States,21205,Rowan,Kentucky,US,KY,1,10
+United States,21207,Russell,Kentucky,US,KY,1,2
+United States,21209,Scott,Kentucky,US,KY,1,6
+United States,21211,Shelby,Kentucky,US,KY,1,4
+United States,21213,Simpson,Kentucky,US,KY,1,0
+United States,21215,Spencer,Kentucky,US,KY,0,0
+United States,21217,Taylor,Kentucky,US,KY,1,8
+United States,21219,Todd,Kentucky,US,KY,0,0
+United States,21221,Trigg,Kentucky,US,KY,1,0
+United States,21223,Trimble,Kentucky,US,KY,0,0
+United States,21225,Union,Kentucky,US,KY,1,0
+United States,21227,Warren,Kentucky,US,KY,2,52
+United States,21229,Washington,Kentucky,US,KY,0,0
+United States,21231,Wayne,Kentucky,US,KY,1,0
+United States,21233,Webster,Kentucky,US,KY,0,0
+United States,21235,Whitley,Kentucky,US,KY,1,10
+United States,21237,Wolfe,Kentucky,US,KY,0,0
+United States,21239,Woodford,Kentucky,US,KY,1,0
+United States,22001,Acadia,Louisiana,US,LA,2,4
+United States,22003,Allen,Louisiana,US,LA,2,3
+United States,22005,Ascension,Louisiana,US,LA,1,0
+United States,22007,Assumption,Louisiana,US,LA,1,0
+United States,22009,Avoyelles,Louisiana,US,LA,2,2
+United States,22011,Beauregard,Louisiana,US,LA,1,6
+United States,22013,Bienville,Louisiana,US,LA,1,0
+United States,22015,Bossier,Louisiana,US,LA,0,0
+United States,22017,Caddo,Louisiana,US,LA,5,107
+United States,22019,Calcasieu,Louisiana,US,LA,5,75
+United States,22021,Caldwell,Louisiana,US,LA,2,0
+United States,22023,Cameron,Louisiana,US,LA,1,0
+United States,22025,Catahoula,Louisiana,US,LA,0,0
+United States,22027,Claiborne,Louisiana,US,LA,1,4
+United States,22029,Concordia,Louisiana,US,LA,1,5
+United States,22031,De Soto,Louisiana,US,LA,1,0
+United States,22033,East Baton Rouge,Louisiana,US,LA,7,124
+United States,22035,East Carroll,Louisiana,US,LA,1,0
+United States,22037,East Feliciana,Louisiana,US,LA,0,0
+United States,22039,Evangeline,Louisiana,US,LA,2,24
+United States,22041,Franklin,Louisiana,US,LA,1,6
+United States,22043,Grant,Louisiana,US,LA,0,0
+United States,22045,Iberia,Louisiana,US,LA,1,11
+United States,22047,Iberville,Louisiana,US,LA,0,0
+United States,22049,Jackson,Louisiana,US,LA,1,0
+United States,22051,Jefferson,Louisiana,US,LA,5,215
+United States,22053,Jefferson Davis,Louisiana,US,LA,1,5
+United States,22055,Lafayette,Louisiana,US,LA,7,80
+United States,22057,Lafourche,Louisiana,US,LA,3,21
+United States,22059,LaSalle,Louisiana,US,LA,2,0
+United States,22061,Lincoln,Louisiana,US,LA,1,17
+United States,22063,Livingston,Louisiana,US,LA,0,0
+United States,22065,Madison,Louisiana,US,LA,1,0
+United States,22067,Morehouse,Louisiana,US,LA,1,12
+United States,22069,Natchitoches,Louisiana,US,LA,1,8
+United States,22071,Orleans,Louisiana,US,LA,5,111
+United States,22073,Ouachita,Louisiana,US,LA,4,88
+United States,22075,Plaquemines,Louisiana,US,LA,0,0
+United States,22077,Pointe Coupee,Louisiana,US,LA,1,0
+United States,22079,Rapides,Louisiana,US,LA,3,26
+United States,22081,Red River,Louisiana,US,LA,1,0
+United States,22083,Richland,Louisiana,US,LA,2,2
+United States,22085,Sabine,Louisiana,US,LA,1,0
+United States,22087,St. Bernard,Louisiana,US,LA,1,8
+United States,22089,St. Charles,Louisiana,US,LA,1,8
+United States,22091,St. Helena,Louisiana,US,LA,1,0
+United States,22093,St. James,Louisiana,US,LA,1,0
+United States,22095,St. John the Baptist,Louisiana,US,LA,0,0
+United States,22097,St. Landry,Louisiana,US,LA,1,16
+United States,22099,St. Martin,Louisiana,US,LA,1,0
+United States,22101,St. Mary,Louisiana,US,LA,2,15
+United States,22103,St. Tammany,Louisiana,US,LA,6,149
+United States,22105,Tangipahoa,Louisiana,US,LA,4,64
+United States,22107,Tensas,Louisiana,US,LA,0,0
+United States,22109,Terrebonne,Louisiana,US,LA,3,26
+United States,22111,Union,Louisiana,US,LA,2,0
+United States,22113,Vermilion,Louisiana,US,LA,2,6
+United States,22115,Vernon,Louisiana,US,LA,1,7
+United States,22117,Washington,Louisiana,US,LA,2,13
+United States,22119,Webster,Louisiana,US,LA,2,16
+United States,22121,West Baton Rouge,Louisiana,US,LA,0,0
+United States,22123,West Carroll,Louisiana,US,LA,1,0
+United States,22125,West Feliciana,Louisiana,US,LA,1,0
+United States,22127,Winn,Louisiana,US,LA,1,5
+United States,23001,Androscoggin,Maine,US,ME,2,54
+United States,23003,Aroostook,Maine,US,ME,4,12
+United States,23005,Cumberland,Maine,US,ME,4,72
+United States,23007,Franklin,Maine,US,ME,1,5
+United States,23009,Hancock,Maine,US,ME,3,6
+United States,23011,Kennebec,Maine,US,ME,2,16
+United States,23013,Knox,Maine,US,ME,1,8
+United States,23015,Lincoln,Maine,US,ME,1,4
+United States,23017,Oxford,Maine,US,ME,2,6
+United States,23019,Penobscot,Maine,US,ME,4,51
+United States,23021,Piscataquis,Maine,US,ME,2,0
+United States,23023,Sagadahoc,Maine,US,ME,0,0
+United States,23025,Somerset,Maine,US,ME,2,4
+United States,23027,Waldo,Maine,US,ME,1,4
+United States,23029,Washington,Maine,US,ME,2,0
+United States,23031,York,Maine,US,ME,2,14
+United States,24001,Allegany,Maryland,US,MD,1,15
+United States,24003,Anne Arundel,Maryland,US,MD,2,53
+United States,24005,Baltimore,Maryland,US,MD,5,123
+United States,24009,Calvert,Maryland,US,MD,1,4
+United States,24011,Caroline,Maryland,US,MD,0,0
+United States,24013,Carroll,Maryland,US,MD,1,10
+United States,24015,Cecil,Maryland,US,MD,1,5
+United States,24017,Charles,Maryland,US,MD,1,10
+United States,24019,Dorchester,Maryland,US,MD,0,0
+United States,24021,Frederick,Maryland,US,MD,1,18
+United States,24023,Garrett,Maryland,US,MD,1,2
+United States,24025,Harford,Maryland,US,MD,2,19
+United States,24027,Howard,Maryland,US,MD,1,16
+United States,24029,Kent,Maryland,US,MD,1,6
+United States,24031,Montgomery,Maryland,US,MD,6,150
+United States,24033,Prince George's,Maryland,US,MD,5,89
+United States,24035,Queen Anne's,Maryland,US,MD,0,0
+United States,24037,St. Mary's,Maryland,US,MD,1,12
+United States,24039,Somerset,Maryland,US,MD,1,0
+United States,24041,Talbot,Maryland,US,MD,1,16
+United States,24043,Washington,Maryland,US,MD,1,48
+United States,24045,Wicomico,Maryland,US,MD,1,24
+United States,24047,Worcester,Maryland,US,MD,1,6
+United States,24510,Baltimore City,Maryland,US,MD,12,508
+United States,25001,Barnstable,Massachusetts,US,MA,2,34
+United States,25003,Berkshire,Massachusetts,US,MA,2,24
+United States,25005,Bristol,Massachusetts,US,MA,4,96
+United States,25007,Dukes,Massachusetts,US,MA,1,0
+United States,25009,Essex,Massachusetts,US,MA,5,98
+United States,25011,Franklin,Massachusetts,US,MA,1,6
+United States,25013,Hampden,Massachusetts,US,MA,5,119
+United States,25015,Hampshire,Massachusetts,US,MA,1,11
+United States,25017,Middlesex,Massachusetts,US,MA,11,216
+United States,25019,Nantucket,Massachusetts,US,MA,1,0
+United States,25021,Norfolk,Massachusetts,US,MA,4,59
+United States,25023,Plymouth,Massachusetts,US,MA,3,47
+United States,25025,Suffolk,Massachusetts,US,MA,10,447
+United States,25027,Worcester,Massachusetts,US,MA,8,169
+United States,26001,Alcona,Michigan,US,MI,0,0
+United States,26003,Alger,Michigan,US,MI,1,0
+United States,26005,Allegan,Michigan,US,MI,1,0
+United States,26007,Alpena,Michigan,US,MI,1,9
+United States,26009,Antrim,Michigan,US,MI,0,0
+United States,26011,Arenac,Michigan,US,MI,1,5
+United States,26013,Baraga,Michigan,US,MI,1,0
+United States,26015,Barry,Michigan,US,MI,1,0
+United States,26017,Bay,Michigan,US,MI,1,32
+United States,26019,Benzie,Michigan,US,MI,1,0
+United States,26021,Berrien,Michigan,US,MI,2,20
+United States,26023,Branch,Michigan,US,MI,1,10
+United States,26025,Calhoun,Michigan,US,MI,2,32
+United States,26027,Cass,Michigan,US,MI,1,0
+United States,26029,Charlevoix,Michigan,US,MI,1,0
+United States,26031,Cheboygan,Michigan,US,MI,0,0
+United States,26033,Chippewa,Michigan,US,MI,1,6
+United States,26035,Clare,Michigan,US,MI,1,0
+United States,26037,Clinton,Michigan,US,MI,1,2
+United States,26039,Crawford,Michigan,US,MI,1,6
+United States,26041,Delta,Michigan,US,MI,1,9
+United States,26043,Dickinson,Michigan,US,MI,1,6
+United States,26045,Eaton,Michigan,US,MI,2,0
+United States,26047,Emmet,Michigan,US,MI,1,58
+United States,26049,Genesee,Michigan,US,MI,3,151
+United States,26051,Gladwin,Michigan,US,MI,1,0
+United States,26053,Gogebic,Michigan,US,MI,1,5
+United States,26055,Grand Traverse,Michigan,US,MI,1,20
+United States,26057,Gratiot,Michigan,US,MI,1,0
+United States,26059,Hillsdale,Michigan,US,MI,1,4
+United States,26061,Houghton,Michigan,US,MI,2,5
+United States,26063,Huron,Michigan,US,MI,3,4
+United States,26065,Ingham,Michigan,US,MI,2,219
+United States,26067,Ionia,Michigan,US,MI,1,2
+United States,26069,Iosco,Michigan,US,MI,1,4
+United States,26071,Iron,Michigan,US,MI,1,3
+United States,26073,Isabella,Michigan,US,MI,1,8
+United States,26075,Jackson,Michigan,US,MI,1,51
+United States,26077,Kalamazoo,Michigan,US,MI,2,34
+United States,26079,Kalkaska,Michigan,US,MI,1,0
+United States,26081,Kent,Michigan,US,MI,3,150
+United States,26083,Keweenaw,Michigan,US,MI,0,0
+United States,26085,Lake,Michigan,US,MI,0,0
+United States,26087,Lapeer,Michigan,US,MI,1,10
+United States,26089,Leelanau,Michigan,US,MI,0,0
+United States,26091,Lenawee,Michigan,US,MI,2,0
+United States,26093,Livingston,Michigan,US,MI,2,8
+United States,26095,Luce,Michigan,US,MI,1,0
+United States,26097,Mackinac,Michigan,US,MI,1,0
+United States,26099,Macomb,Michigan,US,MI,4,122
+United States,26101,Manistee,Michigan,US,MI,1,0
+United States,26103,Marquette,Michigan,US,MI,2,30
+United States,26105,Mason,Michigan,US,MI,1,6
+United States,26107,Mecosta,Michigan,US,MI,1,4
+United States,26109,Menominee,Michigan,US,MI,0,0
+United States,26111,Midland,Michigan,US,MI,1,26
+United States,26113,Missaukee,Michigan,US,MI,0,0
+United States,26115,Monroe,Michigan,US,MI,1,0
+United States,26117,Montcalm,Michigan,US,MI,4,12
+United States,26119,Montmorency,Michigan,US,MI,0,0
+United States,26121,Muskegon,Michigan,US,MI,1,37
+United States,26123,Newaygo,Michigan,US,MI,1,9
+United States,26125,Oakland,Michigan,US,MI,12,409
+United States,26127,Oceana,Michigan,US,MI,1,0
+United States,26129,Ogemaw,Michigan,US,MI,1,10
+United States,26131,Ontonagon,Michigan,US,MI,1,0
+United States,26133,Osceola,Michigan,US,MI,1,4
+United States,26135,Oscoda,Michigan,US,MI,0,0
+United States,26137,Otsego,Michigan,US,MI,1,4
+United States,26139,Ottawa,Michigan,US,MI,3,22
+United States,26141,Presque Isle,Michigan,US,MI,0,0
+United States,26143,Roscommon,Michigan,US,MI,0,0
+United States,26145,Saginaw,Michigan,US,MI,3,133
+United States,26147,St. Clair,Michigan,US,MI,3,23
+United States,26149,St. Joseph,Michigan,US,MI,2,8
+United States,26151,Sanilac,Michigan,US,MI,3,0
+United States,26153,Schoolcraft,Michigan,US,MI,1,0
+United States,26155,Shiawassee,Michigan,US,MI,1,7
+United States,26157,Tuscola,Michigan,US,MI,2,0
+United States,26159,Van Buren,Michigan,US,MI,2,0
+United States,26161,Washtenaw,Michigan,US,MI,4,92
+United States,26163,Wayne,Michigan,US,MI,14,586
+United States,26165,Wexford,Michigan,US,MI,1,6
+United States,27001,Aitkin,Minnesota,US,MN,1,4
+United States,27003,Anoka,Minnesota,US,MN,1,35
+United States,27005,Becker,Minnesota,US,MN,1,8
+United States,27007,Beltrami,Minnesota,US,MN,2,10
+United States,27009,Benton,Minnesota,US,MN,0,0
+United States,27011,Big Stone,Minnesota,US,MN,2,0
+United States,27013,Blue Earth,Minnesota,US,MN,1,29
+United States,27015,Brown,Minnesota,US,MN,3,0
+United States,27017,Carlton,Minnesota,US,MN,2,6
+United States,27019,Carver,Minnesota,US,MN,1,25
+United States,27021,Cass,Minnesota,US,MN,1,0
+United States,27023,Chippewa,Minnesota,US,MN,1,0
+United States,27025,Chisago,Minnesota,US,MN,1,10
+United States,27027,Clay,Minnesota,US,MN,0,0
+United States,27029,Clearwater,Minnesota,US,MN,1,0
+United States,27031,Cook,Minnesota,US,MN,1,0
+United States,27033,Cottonwood,Minnesota,US,MN,2,0
+United States,27035,Crow Wing,Minnesota,US,MN,2,16
+United States,27037,Dakota,Minnesota,US,MN,2,12
+United States,27039,Dodge,Minnesota,US,MN,0,0
+United States,27041,Douglas,Minnesota,US,MN,1,8
+United States,27043,Faribault,Minnesota,US,MN,1,4
+United States,27045,Fillmore,Minnesota,US,MN,0,0
+United States,27047,Freeborn,Minnesota,US,MN,1,18
+United States,27049,Goodhue,Minnesota,US,MN,2,4
+United States,27051,Grant,Minnesota,US,MN,1,0
+United States,27053,Hennepin,Minnesota,US,MN,8,311
+United States,27055,Houston,Minnesota,US,MN,0,0
+United States,27057,Hubbard,Minnesota,US,MN,1,0
+United States,27059,Isanti,Minnesota,US,MN,1,0
+United States,27061,Itasca,Minnesota,US,MN,3,9
+United States,27063,Jackson,Minnesota,US,MN,1,0
+United States,27065,Kanabec,Minnesota,US,MN,1,4
+United States,27067,Kandiyohi,Minnesota,US,MN,1,8
+United States,27069,Kittson,Minnesota,US,MN,1,0
+United States,27071,Koochiching,Minnesota,US,MN,1,0
+United States,27073,Lac qui Parle,Minnesota,US,MN,2,0
+United States,27075,Lake,Minnesota,US,MN,1,0
+United States,27077,Lake of the Woods,Minnesota,US,MN,1,0
+United States,27079,Le Sueur,Minnesota,US,MN,1,0
+United States,27081,Lincoln,Minnesota,US,MN,2,0
+United States,27083,Lyon,Minnesota,US,MN,2,0
+United States,27085,McLeod,Minnesota,US,MN,2,6
+United States,27087,Mahnomen,Minnesota,US,MN,1,0
+United States,27089,Marshall,Minnesota,US,MN,1,0
+United States,27091,Martin,Minnesota,US,MN,1,0
+United States,27093,Meeker,Minnesota,US,MN,1,0
+United States,27095,Mille Lacs,Minnesota,US,MN,2,4
+United States,27097,Morrison,Minnesota,US,MN,1,6
+United States,27099,Mower,Minnesota,US,MN,0,0
+United States,27101,Murray,Minnesota,US,MN,1,0
+United States,27103,Nicollet,Minnesota,US,MN,1,0
+United States,27105,Nobles,Minnesota,US,MN,1,0
+United States,27107,Norman,Minnesota,US,MN,1,0
+United States,27109,Olmsted,Minnesota,US,MN,2,218
+United States,27111,Otter Tail,Minnesota,US,MN,2,5
+United States,27113,Pennington,Minnesota,US,MN,1,0
+United States,27115,Pine,Minnesota,US,MN,1,0
+United States,27117,Pipestone,Minnesota,US,MN,1,0
+United States,27119,Polk,Minnesota,US,MN,2,5
+United States,27121,Pope,Minnesota,US,MN,1,0
+United States,27123,Ramsey,Minnesota,US,MN,4,135
+United States,27125,Red Lake,Minnesota,US,MN,0,0
+United States,27127,Redwood,Minnesota,US,MN,1,0
+United States,27129,Renville,Minnesota,US,MN,1,0
+United States,27131,Rice,Minnesota,US,MN,2,4
+United States,27133,Rock,Minnesota,US,MN,1,0
+United States,27135,Roseau,Minnesota,US,MN,1,0
+United States,27137,St. Louis,Minnesota,US,MN,8,179
+United States,27139,Scott,Minnesota,US,MN,2,0
+United States,27141,Sherburne,Minnesota,US,MN,0,0
+United States,27143,Sibley,Minnesota,US,MN,1,0
+United States,27145,Stearns,Minnesota,US,MN,4,41
+United States,27147,Steele,Minnesota,US,MN,1,0
+United States,27149,Stevens,Minnesota,US,MN,1,0
+United States,27151,Swift,Minnesota,US,MN,2,0
+United States,27153,Todd,Minnesota,US,MN,2,3
+United States,27155,Traverse,Minnesota,US,MN,1,0
+United States,27157,Wabasha,Minnesota,US,MN,2,0
+United States,27159,Wadena,Minnesota,US,MN,1,2
+United States,27161,Waseca,Minnesota,US,MN,1,0
+United States,27163,Washington,Minnesota,US,MN,2,31
+United States,27165,Watonwan,Minnesota,US,MN,2,0
+United States,27167,Wilkin,Minnesota,US,MN,1,0
+United States,27169,Winona,Minnesota,US,MN,1,8
+United States,27171,Wright,Minnesota,US,MN,2,3
+United States,27173,Yellow Medicine,Minnesota,US,MN,2,0
+United States,28001,Adams,Mississippi,US,MS,1,15
+United States,28003,Alcorn,Mississippi,US,MS,1,24
+United States,28005,Amite,Mississippi,US,MS,0,0
+United States,28007,Attala,Mississippi,US,MS,1,0
+United States,28009,Benton,Mississippi,US,MS,0,0
+United States,28011,Bolivar,Mississippi,US,MS,1,8
+United States,28013,Calhoun,Mississippi,US,MS,1,0
+United States,28015,Carroll,Mississippi,US,MS,0,0
+United States,28017,Chickasaw,Mississippi,US,MS,1,0
+United States,28019,Choctaw,Mississippi,US,MS,1,0
+United States,28021,Claiborne,Mississippi,US,MS,1,0
+United States,28023,Clarke,Mississippi,US,MS,1,0
+United States,28025,Clay,Mississippi,US,MS,1,6
+United States,28027,Coahoma,Mississippi,US,MS,1,10
+United States,28029,Copiah,Mississippi,US,MS,1,0
+United States,28031,Covington,Mississippi,US,MS,1,0
+United States,28033,DeSoto,Mississippi,US,MS,2,44
+United States,28035,Forrest,Mississippi,US,MS,1,48
+United States,28037,Franklin,Mississippi,US,MS,1,0
+United States,28039,George,Mississippi,US,MS,1,6
+United States,28041,Greene,Mississippi,US,MS,2,0
+United States,28043,Grenada,Mississippi,US,MS,1,5
+United States,28045,Hancock,Mississippi,US,MS,1,6
+United States,28047,Harrison,Mississippi,US,MS,3,57
+United States,28049,Hinds,Mississippi,US,MS,5,218
+United States,28051,Holmes,Mississippi,US,MS,1,0
+United States,28053,Humphreys,Mississippi,US,MS,0,0
+United States,28055,Issaquena,Mississippi,US,MS,0,0
+United States,28057,Itawamba,Mississippi,US,MS,0,0
+United States,28059,Jackson,Mississippi,US,MS,1,48
+United States,28061,Jasper,Mississippi,US,MS,1,0
+United States,28063,Jefferson,Mississippi,US,MS,1,0
+United States,28065,Jefferson Davis,Mississippi,US,MS,1,0
+United States,28067,Jones,Mississippi,US,MS,1,14
+United States,28069,Kemper,Mississippi,US,MS,1,0
+United States,28071,Lafayette,Mississippi,US,MS,1,24
+United States,28073,Lamar,Mississippi,US,MS,1,17
+United States,28075,Lauderdale,Mississippi,US,MS,4,51
+United States,28077,Lawrence,Mississippi,US,MS,1,0
+United States,28079,Leake,Mississippi,US,MS,1,0
+United States,28081,Lee,Mississippi,US,MS,1,42
+United States,28083,Leflore,Mississippi,US,MS,1,9
+United States,28085,Lincoln,Mississippi,US,MS,1,5
+United States,28087,Lowndes,Mississippi,US,MS,1,18
+United States,28089,Madison,Mississippi,US,MS,1,7
+United States,28091,Marion,Mississippi,US,MS,1,6
+United States,28093,Marshall,Mississippi,US,MS,1,0
+United States,28095,Monroe,Mississippi,US,MS,2,9
+United States,28097,Montgomery,Mississippi,US,MS,1,0
+United States,28099,Neshoba,Mississippi,US,MS,3,0
+United States,28101,Newton,Mississippi,US,MS,0,0
+United States,28103,Noxubee,Mississippi,US,MS,1,0
+United States,28105,Oktibbeha,Mississippi,US,MS,1,6
+United States,28107,Panola,Mississippi,US,MS,1,0
+United States,28109,Pearl River,Mississippi,US,MS,2,6
+United States,28111,Perry,Mississippi,US,MS,0,0
+United States,28113,Pike,Mississippi,US,MS,2,28
+United States,28115,Pontotoc,Mississippi,US,MS,1,0
+United States,28117,Prentiss,Mississippi,US,MS,1,11
+United States,28119,Quitman,Mississippi,US,MS,1,0
+United States,28121,Rankin,Mississippi,US,MS,4,18
+United States,28123,Scott,Mississippi,US,MS,2,0
+United States,28125,Sharkey,Mississippi,US,MS,1,0
+United States,28127,Simpson,Mississippi,US,MS,2,0
+United States,28129,Smith,Mississippi,US,MS,1,0
+United States,28131,Stone,Mississippi,US,MS,1,0
+United States,28133,Sunflower,Mississippi,US,MS,2,0
+United States,28135,Tallahatchie,Mississippi,US,MS,1,0
+United States,28137,Tate,Mississippi,US,MS,1,0
+United States,28139,Tippah,Mississippi,US,MS,1,0
+United States,28141,Tishomingo,Mississippi,US,MS,1,0
+United States,28143,Tunica,Mississippi,US,MS,0,0
+United States,28145,Union,Mississippi,US,MS,1,8
+United States,28147,Walthall,Mississippi,US,MS,1,0
+United States,28149,Warren,Mississippi,US,MS,1,22
+United States,28151,Washington,Mississippi,US,MS,1,22
+United States,28153,Wayne,Mississippi,US,MS,1,6
+United States,28155,Webster,Mississippi,US,MS,1,0
+United States,28157,Wilkinson,Mississippi,US,MS,1,0
+United States,28159,Winston,Mississippi,US,MS,1,0
+United States,28161,Yalobusha,Mississippi,US,MS,1,0
+United States,28163,Yazoo,Mississippi,US,MS,1,0
+United States,29001,Adair,Missouri,US,MO,1,10
+United States,29003,Andrew,Missouri,US,MO,0,0
+United States,29005,Atchison,Missouri,US,MO,1,0
+United States,29007,Audrain,Missouri,US,MO,1,0
+United States,29009,Barry,Missouri,US,MO,2,0
+United States,29011,Barton,Missouri,US,MO,1,4
+United States,29013,Bates,Missouri,US,MO,1,0
+United States,29015,Benton,Missouri,US,MO,0,0
+United States,29017,Bollinger,Missouri,US,MO,0,0
+United States,29019,Boone,Missouri,US,MO,2,110
+United States,29021,Buchanan,Missouri,US,MO,1,21
+United States,29023,Butler,Missouri,US,MO,2,14
+United States,29025,Caldwell,Missouri,US,MO,0,0
+United States,29027,Callaway,Missouri,US,MO,1,0
+United States,29029,Camden,Missouri,US,MO,1,18
+United States,29031,Cape Girardeau,Missouri,US,MO,2,32
+United States,29033,Carroll,Missouri,US,MO,1,0
+United States,29035,Carter,Missouri,US,MO,0,0
+United States,29037,Cass,Missouri,US,MO,2,9
+United States,29039,Cedar,Missouri,US,MO,1,0
+United States,29041,Chariton,Missouri,US,MO,0,0
+United States,29043,Christian,Missouri,US,MO,0,0
+United States,29045,Clark,Missouri,US,MO,0,0
+United States,29047,Clay,Missouri,US,MO,3,172
+United States,29049,Clinton,Missouri,US,MO,1,5
+United States,29051,Cole,Missouri,US,MO,2,25
+United States,29053,Cooper,Missouri,US,MO,1,0
+United States,29055,Crawford,Missouri,US,MO,0,0
+United States,29057,Dade,Missouri,US,MO,0,0
+United States,29059,Dallas,Missouri,US,MO,0,0
+United States,29061,Daviess,Missouri,US,MO,0,0
+United States,29063,DeKalb,Missouri,US,MO,0,0
+United States,29065,Dent,Missouri,US,MO,1,0
+United States,29067,Douglas,Missouri,US,MO,0,0
+United States,29069,Dunklin,Missouri,US,MO,0,0
+United States,29071,Franklin,Missouri,US,MO,2,13
+United States,29073,Gasconade,Missouri,US,MO,1,0
+United States,29075,Gentry,Missouri,US,MO,1,0
+United States,29077,Greene,Missouri,US,MO,2,163
+United States,29079,Grundy,Missouri,US,MO,1,0
+United States,29081,Harrison,Missouri,US,MO,1,0
+United States,29083,Henry,Missouri,US,MO,1,8
+United States,29085,Hickory,Missouri,US,MO,0,0
+United States,29087,Holt,Missouri,US,MO,0,0
+United States,29089,Howard,Missouri,US,MO,0,0
+United States,29091,Howell,Missouri,US,MO,2,12
+United States,29093,Iron,Missouri,US,MO,1,0
+United States,29095,Jackson,Missouri,US,MO,9,274
+United States,29097,Jasper,Missouri,US,MO,3,88
+United States,29099,Jefferson,Missouri,US,MO,2,67
+United States,29101,Johnson,Missouri,US,MO,1,0
+United States,29103,Knox,Missouri,US,MO,0,0
+United States,29105,Laclede,Missouri,US,MO,1,4
+United States,29107,Lafayette,Missouri,US,MO,1,2
+United States,29109,Lawrence,Missouri,US,MO,1,0
+United States,29111,Lewis,Missouri,US,MO,0,0
+United States,29113,Lincoln,Missouri,US,MO,1,4
+United States,29115,Linn,Missouri,US,MO,1,0
+United States,29117,Livingston,Missouri,US,MO,1,0
+United States,29119,McDonald,Missouri,US,MO,0,0
+United States,29121,Macon,Missouri,US,MO,1,0
+United States,29123,Madison,Missouri,US,MO,1,0
+United States,29125,Maries,Missouri,US,MO,0,0
+United States,29127,Marion,Missouri,US,MO,1,8
+United States,29129,Mercer,Missouri,US,MO,0,0
+United States,29131,Miller,Missouri,US,MO,0,0
+United States,29133,Mississippi,Missouri,US,MO,0,0
+United States,29135,Moniteau,Missouri,US,MO,0,0
+United States,29137,Monroe,Missouri,US,MO,0,0
+United States,29139,Montgomery,Missouri,US,MO,0,0
+United States,29141,Morgan,Missouri,US,MO,0,0
+United States,29143,New Madrid,Missouri,US,MO,0,0
+United States,29145,Newton,Missouri,US,MO,1,0
+United States,29147,Nodaway,Missouri,US,MO,1,0
+United States,29149,Oregon,Missouri,US,MO,0,0
+United States,29151,Osage,Missouri,US,MO,0,0
+United States,29153,Ozark,Missouri,US,MO,0,0
+United States,29155,Pemiscot,Missouri,US,MO,1,7
+United States,29157,Perry,Missouri,US,MO,1,0
+United States,29159,Pettis,Missouri,US,MO,1,9
+United States,29161,Phelps,Missouri,US,MO,1,18
+United States,29163,Pike,Missouri,US,MO,1,0
+United States,29165,Platte,Missouri,US,MO,1,0
+United States,29167,Polk,Missouri,US,MO,1,8
+United States,29169,Pulaski,Missouri,US,MO,0,0
+United States,29171,Putnam,Missouri,US,MO,1,0
+United States,29173,Ralls,Missouri,US,MO,0,0
+United States,29175,Randolph,Missouri,US,MO,1,8
+United States,29177,Ray,Missouri,US,MO,1,0
+United States,29179,Reynolds,Missouri,US,MO,0,0
+United States,29181,Ripley,Missouri,US,MO,0,0
+United States,29183,St. Charles,Missouri,US,MO,4,39
+United States,29185,St. Clair,Missouri,US,MO,1,0
+United States,29186,Ste. Genevieve,Missouri,US,MO,1,0
+United States,29187,St. Francois,Missouri,US,MO,2,10
+United States,29189,St. Louis,Missouri,US,MO,9,468
+United States,29195,Saline,Missouri,US,MO,2,7
+United States,29197,Schuyler,Missouri,US,MO,0,0
+United States,29199,Scotland,Missouri,US,MO,1,0
+United States,29201,Scott,Missouri,US,MO,1,12
+United States,29203,Shannon,Missouri,US,MO,0,0
+United States,29205,Shelby,Missouri,US,MO,0,0
+United States,29207,Stoddard,Missouri,US,MO,1,4
+United States,29209,Stone,Missouri,US,MO,0,0
+United States,29211,Sullivan,Missouri,US,MO,1,0
+United States,29213,Taney,Missouri,US,MO,1,18
+United States,29215,Texas,Missouri,US,MO,1,4
+United States,29217,Vernon,Missouri,US,MO,1,6
+United States,29219,Warren,Missouri,US,MO,0,0
+United States,29221,Washington,Missouri,US,MO,1,0
+United States,29223,Wayne,Missouri,US,MO,0,0
+United States,29225,Webster,Missouri,US,MO,0,0
+United States,29227,Worth,Missouri,US,MO,0,0
+United States,29229,Wright,Missouri,US,MO,0,0
+United States,29510,St. Louis City,Missouri,US,MO,3,207
+United States,30001,Beaverhead,Montana,US,MT,1,0
+United States,30003,Big Horn,Montana,US,MT,2,0
+United States,30005,Blaine,Montana,US,MT,1,0
+United States,30007,Broadwater,Montana,US,MT,1,0
+United States,30009,Carbon,Montana,US,MT,1,0
+United States,30011,Carter,Montana,US,MT,1,0
+United States,30013,Cascade,Montana,US,MT,2,20
+United States,30015,Chouteau,Montana,US,MT,2,0
+United States,30017,Custer,Montana,US,MT,1,4
+United States,30019,Daniels,Montana,US,MT,1,0
+United States,30021,Dawson,Montana,US,MT,1,3
+United States,30023,Deer Lodge,Montana,US,MT,1,0
+United States,30025,Fallon,Montana,US,MT,1,0
+United States,30027,Fergus,Montana,US,MT,1,0
+United States,30029,Flathead,Montana,US,MT,3,22
+United States,30031,Gallatin,Montana,US,MT,2,8
+United States,30033,Garfield,Montana,US,MT,1,0
+United States,30035,Glacier,Montana,US,MT,2,0
+United States,30037,Golden Valley,Montana,US,MT,0,0
+United States,30039,Granite,Montana,US,MT,1,0
+United States,30041,Hill,Montana,US,MT,1,6
+United States,30043,Jefferson,Montana,US,MT,0,0
+United States,30045,Judith Basin,Montana,US,MT,0,0
+United States,30047,Lake,Montana,US,MT,2,0
+United States,30049,Lewis and Clark,Montana,US,MT,1,8
+United States,30051,Liberty,Montana,US,MT,1,0
+United States,30053,Lincoln,Montana,US,MT,1,0
+United States,30055,McCone,Montana,US,MT,1,0
+United States,30057,Madison,Montana,US,MT,2,0
+United States,30059,Meagher,Montana,US,MT,1,0
+United States,30061,Mineral,Montana,US,MT,1,0
+United States,30063,Missoula,Montana,US,MT,2,32
+United States,30065,Musselshell,Montana,US,MT,1,0
+United States,30067,Park,Montana,US,MT,1,4
+United States,30069,Petroleum,Montana,US,MT,0,0
+United States,30071,Phillips,Montana,US,MT,1,0
+United States,30073,Pondera,Montana,US,MT,1,0
+United States,30075,Powder River,Montana,US,MT,0,0
+United States,30077,Powell,Montana,US,MT,1,0
+United States,30079,Prairie,Montana,US,MT,1,0
+United States,30081,Ravalli,Montana,US,MT,1,5
+United States,30083,Richland,Montana,US,MT,1,0
+United States,30085,Roosevelt,Montana,US,MT,3,0
+United States,30087,Rosebud,Montana,US,MT,1,1
+United States,30089,Sanders,Montana,US,MT,1,0
+United States,30091,Sheridan,Montana,US,MT,1,0
+United States,30093,Silver Bow,Montana,US,MT,1,11
+United States,30095,Stillwater,Montana,US,MT,1,0
+United States,30097,Sweet Grass,Montana,US,MT,1,0
+United States,30099,Teton,Montana,US,MT,1,0
+United States,30101,Toole,Montana,US,MT,1,0
+United States,30103,Treasure,Montana,US,MT,0,0
+United States,30105,Valley,Montana,US,MT,1,0
+United States,30107,Wheatland,Montana,US,MT,1,0
+United States,30109,Wibaux,Montana,US,MT,0,0
+United States,30111,Yellowstone,Montana,US,MT,2,41
+United States,31001,Adams,Nebraska,US,NE,1,10
+United States,31003,Antelope,Nebraska,US,NE,1,0
+United States,31005,Arthur,Nebraska,US,NE,0,0
+United States,31007,Banner,Nebraska,US,NE,0,0
+United States,31009,Blaine,Nebraska,US,NE,0,0
+United States,31011,Boone,Nebraska,US,NE,1,0
+United States,31013,Box Butte,Nebraska,US,NE,1,0
+United States,31015,Boyd,Nebraska,US,NE,1,0
+United States,31017,Brown,Nebraska,US,NE,1,0
+United States,31019,Buffalo,Nebraska,US,NE,2,34
+United States,31021,Burt,Nebraska,US,NE,1,0
+United States,31023,Butler,Nebraska,US,NE,1,0
+United States,31025,Cass,Nebraska,US,NE,0,0
+United States,31027,Cedar,Nebraska,US,NE,0,0
+United States,31029,Chase,Nebraska,US,NE,1,0
+United States,31031,Cherry,Nebraska,US,NE,1,0
+United States,31033,Cheyenne,Nebraska,US,NE,1,4
+United States,31035,Clay,Nebraska,US,NE,0,0
+United States,31037,Colfax,Nebraska,US,NE,1,0
+United States,31039,Cuming,Nebraska,US,NE,1,0
+United States,31041,Custer,Nebraska,US,NE,2,0
+United States,31043,Dakota,Nebraska,US,NE,0,0
+United States,31045,Dawes,Nebraska,US,NE,1,0
+United States,31047,Dawson,Nebraska,US,NE,3,0
+United States,31049,Deuel,Nebraska,US,NE,0,0
+United States,31051,Dixon,Nebraska,US,NE,0,0
+United States,31053,Dodge,Nebraska,US,NE,1,0
+United States,31055,Douglas,Nebraska,US,NE,8,187
+United States,31057,Dundy,Nebraska,US,NE,1,0
+United States,31059,Fillmore,Nebraska,US,NE,1,0
+United States,31061,Franklin,Nebraska,US,NE,1,0
+United States,31063,Frontier,Nebraska,US,NE,0,0
+United States,31065,Furnas,Nebraska,US,NE,1,0
+United States,31067,Gage,Nebraska,US,NE,1,3
+United States,31069,Garden,Nebraska,US,NE,1,0
+United States,31071,Garfield,Nebraska,US,NE,0,0
+United States,31073,Gosper,Nebraska,US,NE,0,0
+United States,31075,Grant,Nebraska,US,NE,0,0
+United States,31077,Greeley,Nebraska,US,NE,0,0
+United States,31079,Hall,Nebraska,US,NE,1,16
+United States,31081,Hamilton,Nebraska,US,NE,1,0
+United States,31083,Harlan,Nebraska,US,NE,1,0
+United States,31085,Hayes,Nebraska,US,NE,0,0
+United States,31087,Hitchcock,Nebraska,US,NE,0,0
+United States,31089,Holt,Nebraska,US,NE,3,0
+United States,31091,Hooker,Nebraska,US,NE,0,0
+United States,31093,Howard,Nebraska,US,NE,1,0
+United States,31095,Jefferson,Nebraska,US,NE,1,0
+United States,31097,Johnson,Nebraska,US,NE,1,0
+United States,31099,Kearney,Nebraska,US,NE,1,0
+United States,31101,Keith,Nebraska,US,NE,1,0
+United States,31103,Keya Paha,Nebraska,US,NE,0,0
+United States,31105,Kimball,Nebraska,US,NE,1,0
+United States,31107,Knox,Nebraska,US,NE,1,0
+United States,31109,Lancaster,Nebraska,US,NE,4,108
+United States,31111,Lincoln,Nebraska,US,NE,1,19
+United States,31113,Logan,Nebraska,US,NE,0,0
+United States,31115,Loup,Nebraska,US,NE,0,0
+United States,31117,McPherson,Nebraska,US,NE,0,0
+United States,31119,Madison,Nebraska,US,NE,1,24
+United States,31121,Merrick,Nebraska,US,NE,1,0
+United States,31123,Morrill,Nebraska,US,NE,1,0
+United States,31125,Nance,Nebraska,US,NE,0,0
+United States,31127,Nemaha,Nebraska,US,NE,1,0
+United States,31129,Nuckolls,Nebraska,US,NE,1,0
+United States,31131,Otoe,Nebraska,US,NE,2,0
+United States,31133,Pawnee,Nebraska,US,NE,1,0
+United States,31135,Perkins,Nebraska,US,NE,1,0
+United States,31137,Phelps,Nebraska,US,NE,1,0
+United States,31139,Pierce,Nebraska,US,NE,2,0
+United States,31141,Platte,Nebraska,US,NE,2,5
+United States,31143,Polk,Nebraska,US,NE,1,0
+United States,31145,Red Willow,Nebraska,US,NE,1,0
+United States,31147,Richardson,Nebraska,US,NE,1,0
+United States,31149,Rock,Nebraska,US,NE,0,0
+United States,31151,Saline,Nebraska,US,NE,2,0
+United States,31153,Sarpy,Nebraska,US,NE,2,8
+United States,31155,Saunders,Nebraska,US,NE,1,0
+United States,31157,Scotts Bluff,Nebraska,US,NE,1,22
+United States,31159,Seward,Nebraska,US,NE,1,0
+United States,31161,Sheridan,Nebraska,US,NE,1,0
+United States,31163,Sherman,Nebraska,US,NE,0,0
+United States,31165,Sioux,Nebraska,US,NE,0,0
+United States,31167,Stanton,Nebraska,US,NE,0,0
+United States,31169,Thayer,Nebraska,US,NE,1,0
+United States,31171,Thomas,Nebraska,US,NE,0,0
+United States,31173,Thurston,Nebraska,US,NE,1,0
+United States,31175,Valley,Nebraska,US,NE,1,0
+United States,31177,Washington,Nebraska,US,NE,1,0
+United States,31179,Wayne,Nebraska,US,NE,1,0
+United States,31181,Webster,Nebraska,US,NE,1,0
+United States,31183,Wheeler,Nebraska,US,NE,0,0
+United States,31185,York,Nebraska,US,NE,2,0
+United States,32001,Churchill,Nevada,US,NV,1,0
+United States,32003,Clark,Nevada,US,NV,19,535
+United States,32005,Douglas,Nevada,US,NV,1,0
+United States,32007,Elko,Nevada,US,NV,1,7
+United States,32009,Esmeralda,Nevada,US,NV,0,0
+United States,32011,Eureka,Nevada,US,NV,0,0
+United States,32013,Humboldt,Nevada,US,NV,1,3
+United States,32015,Lander,Nevada,US,NV,1,0
+United States,32017,Lincoln,Nevada,US,NV,1,0
+United States,32019,Lyon,Nevada,US,NV,1,0
+United States,32021,Mineral,Nevada,US,NV,1,0
+United States,32023,Nye,Nevada,US,NV,1,0
+United States,32027,Pershing,Nevada,US,NV,1,0
+United States,32029,Storey,Nevada,US,NV,0,0
+United States,32031,Washoe,Nevada,US,NV,5,331
+United States,32033,White Pine,Nevada,US,NV,1,0
+United States,32510,Carson City,Nevada,US,NV,1,24
+United States,33001,Belknap,New Hampshire,US,NH,1,10
+United States,33003,Carroll,New Hampshire,US,NH,2,8
+United States,33005,Cheshire,New Hampshire,US,NH,1,27
+United States,33007,Coos,New Hampshire,US,NH,3,3
+United States,33009,Grafton,New Hampshire,US,NH,5,54
+United States,33011,Hillsborough,New Hampshire,US,NH,5,62
+United States,33013,Merrimack,New Hampshire,US,NH,3,18
+United States,33015,Rockingham,New Hampshire,US,NH,3,43
+United States,33017,Strafford,New Hampshire,US,NH,2,17
+United States,33019,Sullivan,New Hampshire,US,NH,1,0
+United States,34001,Atlantic,New Jersey,US,NJ,2,64
+United States,34003,Bergen,New Jersey,US,NJ,6,147
+United States,34005,Burlington,New Jersey,US,NJ,3,82
+United States,34007,Camden,New Jersey,US,NJ,4,199
+United States,34009,Cape May,New Jersey,US,NJ,1,16
+United States,34011,Cumberland,New Jersey,US,NJ,1,36
+United States,34013,Essex,New Jersey,US,NJ,7,267
+United States,34015,Gloucester,New Jersey,US,NJ,1,14
+United States,34017,Hudson,New Jersey,US,NJ,6,105
+United States,34019,Hunterdon,New Jersey,US,NJ,1,12
+United States,34021,Mercer,New Jersey,US,NJ,4,92
+United States,34023,Middlesex,New Jersey,US,NJ,5,185
+United States,34025,Monmouth,New Jersey,US,NJ,5,152
+United States,34027,Morris,New Jersey,US,NJ,3,91
+United States,34029,Ocean,New Jersey,US,NJ,4,106
+United States,34031,Passaic,New Jersey,US,NJ,2,97
+United States,34033,Salem,New Jersey,US,NJ,2,19
+United States,34035,Somerset,New Jersey,US,NJ,1,28
+United States,34037,Sussex,New Jersey,US,NJ,1,10
+United States,34039,Union,New Jersey,US,NJ,3,80
+United States,34041,Warren,New Jersey,US,NJ,2,20
+United States,35001,Bernalillo,New Mexico,US,NM,5,138
+United States,35003,Catron,New Mexico,US,NM,0,0
+United States,35005,Chaves,New Mexico,US,NM,2,24
+United States,35006,Cibola,New Mexico,US,NM,2,4
+United States,35007,Colfax,New Mexico,US,NM,1,4
+United States,35009,Curry,New Mexico,US,NM,1,8
+United States,35011,De Baca,New Mexico,US,NM,0,0
+United States,35013,Dona Ana,New Mexico,US,NM,2,51
+United States,35015,Eddy,New Mexico,US,NM,2,12
+United States,35017,Grant,New Mexico,US,NM,1,6
+United States,35019,Guadalupe,New Mexico,US,NM,1,0
+United States,35021,Harding,New Mexico,US,NM,0,0
+United States,35023,Hidalgo,New Mexico,US,NM,0,0
+United States,35025,Lea,New Mexico,US,NM,2,8
+United States,35027,Lincoln,New Mexico,US,NM,1,4
+United States,35028,Los Alamos,New Mexico,US,NM,1,6
+United States,35029,Luna,New Mexico,US,NM,1,6
+United States,35031,McKinley,New Mexico,US,NM,4,5
+United States,35033,Mora,New Mexico,US,NM,0,0
+United States,35035,Otero,New Mexico,US,NM,2,10
+United States,35037,Quay,New Mexico,US,NM,1,0
+United States,35039,Rio Arriba,New Mexico,US,NM,1,8
+United States,35041,Roosevelt,New Mexico,US,NM,1,0
+United States,35043,Sandoval,New Mexico,US,NM,1,0
+United States,35045,San Juan,New Mexico,US,NM,2,10
+United States,35047,San Miguel,New Mexico,US,NM,1,8
+United States,35049,Santa Fe,New Mexico,US,NM,3,22
+United States,35051,Sierra,New Mexico,US,NM,1,0
+United States,35053,Socorro,New Mexico,US,NM,1,0
+United States,35055,Taos,New Mexico,US,NM,1,6
+United States,35057,Torrance,New Mexico,US,NM,0,0
+United States,35059,Union,New Mexico,US,NM,1,0
+United States,35061,Valencia,New Mexico,US,NM,0,0
+United States,36001,Albany,New York,US,NY,3,120
+United States,36003,Allegany,New York,US,NY,2,6
+United States,36005,Bronx,New York,US,NY,6,270
+United States,36007,Broome,New York,US,NY,2,47
+United States,36009,Cattaraugus,New York,US,NY,1,0
+United States,36011,Cayuga,New York,US,NY,1,14
+United States,36013,Chautauqua,New York,US,NY,3,26
+United States,36015,Chemung,New York,US,NY,2,20
+United States,36017,Chenango,New York,US,NY,1,7
+United States,36019,Clinton,New York,US,NY,1,21
+United States,36021,Columbia,New York,US,NY,1,9
+United States,36023,Cortland,New York,US,NY,1,12
+United States,36025,Delaware,New York,US,NY,3,0
+United States,36027,Dutchess,New York,US,NY,2,51
+United States,36029,Erie,New York,US,NY,6,262
+United States,36031,Essex,New York,US,NY,1,0
+United States,36033,Franklin,New York,US,NY,2,13
+United States,36035,Fulton,New York,US,NY,1,8
+United States,36037,Genesee,New York,US,NY,1,10
+United States,36039,Greene,New York,US,NY,0,0
+United States,36041,Hamilton,New York,US,NY,0,0
+United States,36043,Herkimer,New York,US,NY,1,0
+United States,36045,Jefferson,New York,US,NY,3,10
+United States,36047,Kings,New York,US,NY,12,318
+United States,36049,Lewis,New York,US,NY,1,6
+United States,36051,Livingston,New York,US,NY,1,0
+United States,36053,Madison,New York,US,NY,2,6
+United States,36055,Monroe,New York,US,NY,5,191
+United States,36057,Montgomery,New York,US,NY,1,8
+United States,36059,Nassau,New York,US,NY,10,461
+United States,36061,New York,New York,US,NY,12,761
+United States,36063,Niagara,New York,US,NY,3,32
+United States,36065,Oneida,New York,US,NY,3,51
+United States,36067,Onondaga,New York,US,NY,3,152
+United States,36069,Ontario,New York,US,NY,3,27
+United States,36071,Orange,New York,US,NY,4,76
+United States,36073,Orleans,New York,US,NY,1,0
+United States,36075,Oswego,New York,US,NY,1,8
+United States,36077,Otsego,New York,US,NY,2,14
+United States,36079,Putnam,New York,US,NY,1,10
+United States,36081,Queens,New York,US,NY,6,129
+United States,36083,Rensselaer,New York,US,NY,3,12
+United States,36085,Richmond,New York,US,NY,2,114
+United States,36087,Rockland,New York,US,NY,3,39
+United States,36089,St. Lawrence,New York,US,NY,5,20
+United States,36091,Saratoga,New York,US,NY,1,19
+United States,36093,Schenectady,New York,US,NY,2,36
+United States,36095,Schoharie,New York,US,NY,1,0
+United States,36097,Schuyler,New York,US,NY,1,0
+United States,36099,Seneca,New York,US,NY,0,0
+United States,36101,Steuben,New York,US,NY,3,8
+United States,36103,Suffolk,New York,US,NY,10,281
+United States,36105,Sullivan,New York,US,NY,2,10
+United States,36107,Tioga,New York,US,NY,0,0
+United States,36109,Tompkins,New York,US,NY,1,16
+United States,36111,Ulster,New York,US,NY,3,25
+United States,36113,Warren,New York,US,NY,1,24
+United States,36115,Washington,New York,US,NY,0,0
+United States,36117,Wayne,New York,US,NY,1,8
+United States,36119,Westchester,New York,US,NY,9,179
+United States,36121,Wyoming,New York,US,NY,1,5
+United States,36123,Yates,New York,US,NY,1,0
+United States,37001,Alamance,North Carolina,US,NC,1,20
+United States,37003,Alexander,North Carolina,US,NC,0,0
+United States,37005,Alleghany,North Carolina,US,NC,1,0
+United States,37007,Anson,North Carolina,US,NC,1,0
+United States,37009,Ashe,North Carolina,US,NC,1,0
+United States,37011,Avery,North Carolina,US,NC,1,0
+United States,37013,Beaufort,North Carolina,US,NC,1,8
+United States,37015,Bertie,North Carolina,US,NC,1,0
+United States,37017,Bladen,North Carolina,US,NC,1,4
+United States,37019,Brunswick,North Carolina,US,NC,2,19
+United States,37021,Buncombe,North Carolina,US,NC,1,166
+United States,37023,Burke,North Carolina,US,NC,1,16
+United States,37025,Cabarrus,North Carolina,US,NC,1,25
+United States,37027,Caldwell,North Carolina,US,NC,1,12
+United States,37029,Camden,North Carolina,US,NC,0,0
+United States,37031,Carteret,North Carolina,US,NC,1,8
+United States,37033,Caswell,North Carolina,US,NC,0,0
+United States,37035,Catawba,North Carolina,US,NC,2,52
+United States,37037,Chatham,North Carolina,US,NC,1,4
+United States,37039,Cherokee,North Carolina,US,NC,1,0
+United States,37041,Chowan,North Carolina,US,NC,1,4
+United States,37043,Clay,North Carolina,US,NC,0,0
+United States,37045,Cleveland,North Carolina,US,NC,2,57
+United States,37047,Columbus,North Carolina,US,NC,1,10
+United States,37049,Craven,North Carolina,US,NC,1,72
+United States,37051,Cumberland,North Carolina,US,NC,1,48
+United States,37053,Currituck,North Carolina,US,NC,0,0
+United States,37055,Dare,North Carolina,US,NC,1,0
+United States,37057,Davidson,North Carolina,US,NC,2,29
+United States,37059,Davie,North Carolina,US,NC,1,0
+United States,37061,Duplin,North Carolina,US,NC,1,9
+United States,37063,Durham,North Carolina,US,NC,3,148
+United States,37065,Edgecombe,North Carolina,US,NC,1,15
+United States,37067,Forsyth,North Carolina,US,NC,3,259
+United States,37069,Franklin,North Carolina,US,NC,0,0
+United States,37071,Gaston,North Carolina,US,NC,1,74
+United States,37073,Gates,North Carolina,US,NC,0,0
+United States,37075,Graham,North Carolina,US,NC,0,0
+United States,37077,Granville,North Carolina,US,NC,1,6
+United States,37079,Greene,North Carolina,US,NC,0,0
+United States,37081,Guilford,North Carolina,US,NC,2,142
+United States,37083,Halifax,North Carolina,US,NC,2,16
+United States,37085,Harnett,North Carolina,US,NC,1,14
+United States,37087,Haywood,North Carolina,US,NC,1,12
+United States,37089,Henderson,North Carolina,US,NC,2,27
+United States,37091,Hertford,North Carolina,US,NC,1,10
+United States,37093,Hoke,North Carolina,US,NC,1,0
+United States,37095,Hyde,North Carolina,US,NC,0,0
+United States,37097,Iredell,North Carolina,US,NC,3,36
+United States,37099,Jackson,North Carolina,US,NC,1,9
+United States,37101,Johnston,North Carolina,US,NC,1,24
+United States,37103,Jones,North Carolina,US,NC,0,0
+United States,37105,Lee,North Carolina,US,NC,1,8
+United States,37107,Lenoir,North Carolina,US,NC,1,14
+United States,37109,Lincoln,North Carolina,US,NC,1,10
+United States,37111,McDowell,North Carolina,US,NC,1,9
+United States,37113,Macon,North Carolina,US,NC,2,5
+United States,37115,Madison,North Carolina,US,NC,0,0
+United States,37117,Martin,North Carolina,US,NC,1,6
+United States,37119,Mecklenburg,North Carolina,US,NC,7,173
+United States,37121,Mitchell,North Carolina,US,NC,1,0
+United States,37123,Montgomery,North Carolina,US,NC,1,0
+United States,37125,Moore,North Carolina,US,NC,1,68
+United States,37127,Nash,North Carolina,US,NC,1,21
+United States,37129,New Hanover,North Carolina,US,NC,2,57
+United States,37131,Northampton,North Carolina,US,NC,0,0
+United States,37133,Onslow,North Carolina,US,NC,1,14
+United States,37135,Orange,North Carolina,US,NC,1,13
+United States,37137,Pamlico,North Carolina,US,NC,0,0
+United States,37139,Pasquotank,North Carolina,US,NC,1,10
+United States,37141,Pender,North Carolina,US,NC,1,0
+United States,37143,Perquimans,North Carolina,US,NC,0,0
+United States,37145,Person,North Carolina,US,NC,1,6
+United States,37147,Pitt,North Carolina,US,NC,1,71
+United States,37149,Polk,North Carolina,US,NC,1,6
+United States,37151,Randolph,North Carolina,US,NC,1,12
+United States,37153,Richmond,North Carolina,US,NC,0,0
+United States,37155,Robeson,North Carolina,US,NC,1,25
+United States,37157,Rockingham,North Carolina,US,NC,1,9
+United States,37159,Rowan,North Carolina,US,NC,1,20
+United States,37161,Rutherford,North Carolina,US,NC,1,18
+United States,37163,Sampson,North Carolina,US,NC,1,8
+United States,37165,Scotland,North Carolina,US,NC,1,8
+United States,37167,Stanly,North Carolina,US,NC,1,10
+United States,37169,Stokes,North Carolina,US,NC,1,0
+United States,37171,Surry,North Carolina,US,NC,2,10
+United States,37173,Swain,North Carolina,US,NC,2,0
+United States,37175,Transylvania,North Carolina,US,NC,1,4
+United States,37177,Tyrrell,North Carolina,US,NC,0,0
+United States,37179,Union,North Carolina,US,NC,1,14
+United States,37181,Vance,North Carolina,US,NC,1,20
+United States,37183,Wake,North Carolina,US,NC,4,175
+United States,37185,Warren,North Carolina,US,NC,0,0
+United States,37187,Washington,North Carolina,US,NC,1,0
+United States,37189,Watauga,North Carolina,US,NC,1,10
+United States,37191,Wayne,North Carolina,US,NC,1,16
+United States,37193,Wilkes,North Carolina,US,NC,1,8
+United States,37195,Wilson,North Carolina,US,NC,1,14
+United States,37197,Yadkin,North Carolina,US,NC,0,0
+United States,37199,Yancey,North Carolina,US,NC,0,0
+United States,38001,Adams,North Dakota,US,ND,1,0
+United States,38003,Barnes,North Dakota,US,ND,1,0
+United States,38005,Benson,North Dakota,US,ND,0,0
+United States,38007,Billings,North Dakota,US,ND,0,0
+United States,38009,Bottineau,North Dakota,US,ND,1,0
+United States,38011,Bowman,North Dakota,US,ND,1,0
+United States,38013,Burke,North Dakota,US,ND,0,0
+United States,38015,Burleigh,North Dakota,US,ND,2,72
+United States,38017,Cass,North Dakota,US,ND,2,111
+United States,38019,Cavalier,North Dakota,US,ND,1,0
+United States,38021,Dickey,North Dakota,US,ND,1,0
+United States,38023,Divide,North Dakota,US,ND,1,0
+United States,38025,Dunn,North Dakota,US,ND,0,0
+United States,38027,Eddy,North Dakota,US,ND,0,0
+United States,38029,Emmons,North Dakota,US,ND,1,0
+United States,38031,Foster,North Dakota,US,ND,1,0
+United States,38033,Golden Valley,North Dakota,US,ND,0,0
+United States,38035,Grand Forks,North Dakota,US,ND,2,26
+United States,38037,Grant,North Dakota,US,ND,1,0
+United States,38039,Griggs,North Dakota,US,ND,1,0
+United States,38041,Hettinger,North Dakota,US,ND,0,0
+United States,38043,Kidder,North Dakota,US,ND,0,0
+United States,38045,LaMoure,North Dakota,US,ND,0,0
+United States,38047,Logan,North Dakota,US,ND,0,0
+United States,38049,McHenry,North Dakota,US,ND,0,0
+United States,38051,McIntosh,North Dakota,US,ND,2,0
+United States,38053,McKenzie,North Dakota,US,ND,1,0
+United States,38055,McLean,North Dakota,US,ND,2,0
+United States,38057,Mercer,North Dakota,US,ND,1,0
+United States,38059,Morton,North Dakota,US,ND,0,0
+United States,38061,Mountrail,North Dakota,US,ND,1,0
+United States,38063,Nelson,North Dakota,US,ND,1,0
+United States,38065,Oliver,North Dakota,US,ND,0,0
+United States,38067,Pembina,North Dakota,US,ND,1,0
+United States,38069,Pierce,North Dakota,US,ND,1,0
+United States,38071,Ramsey,North Dakota,US,ND,1,0
+United States,38073,Ransom,North Dakota,US,ND,1,0
+United States,38075,Renville,North Dakota,US,ND,0,0
+United States,38077,Richland,North Dakota,US,ND,0,0
+United States,38079,Rolette,North Dakota,US,ND,2,0
+United States,38081,Sargent,North Dakota,US,ND,0,0
+United States,38083,Sheridan,North Dakota,US,ND,0,0
+United States,38085,Sioux,North Dakota,US,ND,1,0
+United States,38087,Slope,North Dakota,US,ND,0,0
+United States,38089,Stark,North Dakota,US,ND,1,4
+United States,38091,Steele,North Dakota,US,ND,0,0
+United States,38093,Stutsman,North Dakota,US,ND,1,6
+United States,38095,Towner,North Dakota,US,ND,1,0
+United States,38097,Traill,North Dakota,US,ND,2,0
+United States,38099,Walsh,North Dakota,US,ND,2,0
+United States,38101,Ward,North Dakota,US,ND,2,19
+United States,38103,Wells,North Dakota,US,ND,1,0
+United States,38105,Williams,North Dakota,US,ND,2,0
+United States,39001,Adams,Ohio,US,OH,1,0
+United States,39003,Allen,Ohio,US,OH,4,62
+United States,39005,Ashland,Ohio,US,OH,1,6
+United States,39007,Ashtabula,Ohio,US,OH,4,19
+United States,39009,Athens,Ohio,US,OH,1,0
+United States,39011,Auglaize,Ohio,US,OH,1,6
+United States,39013,Belmont,Ohio,US,OH,2,15
+United States,39015,Brown,Ohio,US,OH,0,0
+United States,39017,Butler,Ohio,US,OH,4,74
+United States,39019,Carroll,Ohio,US,OH,0,0
+United States,39021,Champaign,Ohio,US,OH,1,0
+United States,39023,Clark,Ohio,US,OH,2,38
+United States,39025,Clermont,Ohio,US,OH,1,16
+United States,39027,Clinton,Ohio,US,OH,1,6
+United States,39029,Columbiana,Ohio,US,OH,2,20
+United States,39031,Coshocton,Ohio,US,OH,1,7
+United States,39033,Crawford,Ohio,US,OH,2,9
+United States,39035,Cuyahoga,Ohio,US,OH,15,680
+United States,39037,Darke,Ohio,US,OH,1,6
+United States,39039,Defiance,Ohio,US,OH,3,8
+United States,39041,Delaware,Ohio,US,OH,1,6
+United States,39043,Erie,Ohio,US,OH,1,18
+United States,39045,Fairfield,Ohio,US,OH,1,20
+United States,39047,Fayette,Ohio,US,OH,1,6
+United States,39049,Franklin,Ohio,US,OH,10,449
+United States,39051,Fulton,Ohio,US,OH,1,7
+United States,39053,Gallia,Ohio,US,OH,1,14
+United States,39055,Geauga,Ohio,US,OH,1,12
+United States,39057,Greene,Ohio,US,OH,2,20
+United States,39059,Guernsey,Ohio,US,OH,1,11
+United States,39061,Hamilton,Ohio,US,OH,8,297
+United States,39063,Hancock,Ohio,US,OH,1,34
+United States,39065,Hardin,Ohio,US,OH,1,0
+United States,39067,Harrison,Ohio,US,OH,1,0
+United States,39069,Henry,Ohio,US,OH,1,5
+United States,39071,Highland,Ohio,US,OH,2,0
+United States,39073,Hocking,Ohio,US,OH,1,4
+United States,39075,Holmes,Ohio,US,OH,1,4
+United States,39077,Huron,Ohio,US,OH,2,12
+United States,39079,Jackson,Ohio,US,OH,1,4
+United States,39081,Jefferson,Ohio,US,OH,1,20
+United States,39083,Knox,Ohio,US,OH,1,12
+United States,39085,Lake,Ohio,US,OH,1,27
+United States,39087,Lawrence,Ohio,US,OH,1,0
+United States,39089,Licking,Ohio,US,OH,1,38
+United States,39091,Logan,Ohio,US,OH,1,6
+United States,39093,Lorain,Ohio,US,OH,4,75
+United States,39095,Lucas,Ohio,US,OH,7,251
+United States,39097,Madison,Ohio,US,OH,1,13
+United States,39099,Mahoning,Ohio,US,OH,3,67
+United States,39101,Marion,Ohio,US,OH,1,15
+United States,39103,Medina,Ohio,US,OH,2,12
+United States,39105,Meigs,Ohio,US,OH,0,0
+United States,39107,Mercer,Ohio,US,OH,1,5
+United States,39109,Miami,Ohio,US,OH,1,10
+United States,39111,Monroe,Ohio,US,OH,0,0
+United States,39113,Montgomery,Ohio,US,OH,4,196
+United States,39115,Morgan,Ohio,US,OH,0,0
+United States,39117,Morrow,Ohio,US,OH,1,3
+United States,39119,Muskingum,Ohio,US,OH,1,48
+United States,39121,Noble,Ohio,US,OH,0,0
+United States,39123,Ottawa,Ohio,US,OH,1,4
+United States,39125,Paulding,Ohio,US,OH,1,0
+United States,39127,Perry,Ohio,US,OH,0,0
+United States,39129,Pickaway,Ohio,US,OH,1,8
+United States,39131,Pike,Ohio,US,OH,1,0
+United States,39133,Portage,Ohio,US,OH,1,16
+United States,39135,Preble,Ohio,US,OH,0,0
+United States,39137,Putnam,Ohio,US,OH,0,0
+United States,39139,Richland,Ohio,US,OH,3,37
+United States,39141,Ross,Ohio,US,OH,1,12
+United States,39143,Sandusky,Ohio,US,OH,2,18
+United States,39145,Scioto,Ohio,US,OH,2,16
+United States,39147,Seneca,Ohio,US,OH,2,9
+United States,39149,Shelby,Ohio,US,OH,1,7
+United States,39151,Stark,Ohio,US,OH,3,128
+United States,39153,Summit,Ohio,US,OH,4,170
+United States,39155,Trumbull,Ohio,US,OH,2,42
+United States,39157,Tuscarawas,Ohio,US,OH,2,38
+United States,39159,Union,Ohio,US,OH,1,7
+United States,39161,Van Wert,Ohio,US,OH,1,5
+United States,39163,Vinton,Ohio,US,OH,0,0
+United States,39165,Warren,Ohio,US,OH,1,57
+United States,39167,Washington,Ohio,US,OH,2,11
+United States,39169,Wayne,Ohio,US,OH,2,14
+United States,39171,Williams,Ohio,US,OH,2,7
+United States,39173,Wood,Ohio,US,OH,1,10
+United States,39175,Wyandot,Ohio,US,OH,1,5
+United States,40001,Adair,Oklahoma,US,OK,1,0
+United States,40003,Alfalfa,Oklahoma,US,OK,0,0
+United States,40005,Atoka,Oklahoma,US,OK,1,0
+United States,40007,Beaver,Oklahoma,US,OK,1,0
+United States,40009,Beckham,Oklahoma,US,OK,1,6
+United States,40011,Blaine,Oklahoma,US,OK,2,0
+United States,40013,Bryan,Oklahoma,US,OK,1,8
+United States,40015,Caddo,Oklahoma,US,OK,2,0
+United States,40017,Canadian,Oklahoma,US,OK,1,8
+United States,40019,Carter,Oklahoma,US,OK,2,13
+United States,40021,Cherokee,Oklahoma,US,OK,2,30
+United States,40023,Choctaw,Oklahoma,US,OK,1,0
+United States,40025,Cimarron,Oklahoma,US,OK,1,0
+United States,40027,Cleveland,Oklahoma,US,OK,1,77
+United States,40029,Coal,Oklahoma,US,OK,1,0
+United States,40031,Comanche,Oklahoma,US,OK,3,58
+United States,40033,Cotton,Oklahoma,US,OK,0,0
+United States,40035,Craig,Oklahoma,US,OK,1,0
+United States,40037,Creek,Oklahoma,US,OK,3,0
+United States,40039,Custer,Oklahoma,US,OK,2,4
+United States,40041,Delaware,Oklahoma,US,OK,1,6
+United States,40043,Dewey,Oklahoma,US,OK,1,0
+United States,40045,Ellis,Oklahoma,US,OK,1,0
+United States,40047,Garfield,Oklahoma,US,OK,2,30
+United States,40049,Garvin,Oklahoma,US,OK,1,0
+United States,40051,Grady,Oklahoma,US,OK,1,9
+United States,40053,Grant,Oklahoma,US,OK,0,0
+United States,40055,Greer,Oklahoma,US,OK,1,0
+United States,40057,Harmon,Oklahoma,US,OK,1,0
+United States,40059,Harper,Oklahoma,US,OK,1,0
+United States,40061,Haskell,Oklahoma,US,OK,1,0
+United States,40063,Hughes,Oklahoma,US,OK,1,0
+United States,40065,Jackson,Oklahoma,US,OK,1,6
+United States,40067,Jefferson,Oklahoma,US,OK,1,0
+United States,40069,Johnston,Oklahoma,US,OK,1,0
+United States,40071,Kay,Oklahoma,US,OK,2,6
+United States,40073,Kingfisher,Oklahoma,US,OK,1,0
+United States,40075,Kiowa,Oklahoma,US,OK,1,0
+United States,40077,Latimer,Oklahoma,US,OK,1,0
+United States,40079,Le Flore,Oklahoma,US,OK,1,4
+United States,40081,Lincoln,Oklahoma,US,OK,2,0
+United States,40083,Logan,Oklahoma,US,OK,1,0
+United States,40085,Love,Oklahoma,US,OK,1,0
+United States,40087,McClain,Oklahoma,US,OK,1,0
+United States,40089,McCurtain,Oklahoma,US,OK,1,0
+United States,40091,McIntosh,Oklahoma,US,OK,0,0
+United States,40093,Major,Oklahoma,US,OK,1,0
+United States,40095,Marshall,Oklahoma,US,OK,1,0
+United States,40097,Mayes,Oklahoma,US,OK,1,0
+United States,40099,Murray,Oklahoma,US,OK,1,0
+United States,40101,Muskogee,Oklahoma,US,OK,1,24
+United States,40103,Noble,Oklahoma,US,OK,1,0
+United States,40105,Nowata,Oklahoma,US,OK,1,0
+United States,40107,Okfuskee,Oklahoma,US,OK,1,0
+United States,40109,Oklahoma,Oklahoma,US,OK,19,300
+United States,40111,Okmulgee,Oklahoma,US,OK,2,0
+United States,40113,Osage,Oklahoma,US,OK,2,0
+United States,40115,Ottawa,Oklahoma,US,OK,1,9
+United States,40117,Pawnee,Oklahoma,US,OK,1,0
+United States,40119,Payne,Oklahoma,US,OK,2,11
+United States,40121,Pittsburg,Oklahoma,US,OK,1,15
+United States,40123,Pontotoc,Oklahoma,US,OK,2,12
+United States,40125,Pottawatomie,Oklahoma,US,OK,1,14
+United States,40127,Pushmataha,Oklahoma,US,OK,1,0
+United States,40129,Roger Mills,Oklahoma,US,OK,1,0
+United States,40131,Rogers,Oklahoma,US,OK,2,6
+United States,40133,Seminole,Oklahoma,US,OK,1,0
+United States,40135,Sequoyah,Oklahoma,US,OK,1,0
+United States,40137,Stephens,Oklahoma,US,OK,1,9
+United States,40139,Texas,Oklahoma,US,OK,1,0
+United States,40141,Tillman,Oklahoma,US,OK,0,0
+United States,40143,Tulsa,Oklahoma,US,OK,12,379
+United States,40145,Wagoner,Oklahoma,US,OK,1,6
+United States,40147,Washington,Oklahoma,US,OK,1,8
+United States,40149,Washita,Oklahoma,US,OK,1,0
+United States,40151,Woods,Oklahoma,US,OK,1,0
+United States,40153,Woodward,Oklahoma,US,OK,1,6
+United States,41001,Baker,Oregon,US,OR,1,2
+United States,41003,Benton,Oregon,US,OR,1,12
+United States,41005,Clackamas,Oregon,US,OR,3,54
+United States,41007,Clatsop,Oregon,US,OR,2,4
+United States,41009,Columbia,Oregon,US,OR,0,0
+United States,41011,Coos,Oregon,US,OR,3,12
+United States,41013,Crook,Oregon,US,OR,1,0
+United States,41015,Curry,Oregon,US,OR,1,0
+United States,41017,Deschutes,Oregon,US,OR,2,36
+United States,41019,Douglas,Oregon,US,OR,2,32
+United States,41021,Gilliam,Oregon,US,OR,0,0
+United States,41023,Grant,Oregon,US,OR,1,0
+United States,41025,Harney,Oregon,US,OR,1,2
+United States,41027,Hood River,Oregon,US,OR,1,0
+United States,41029,Jackson,Oregon,US,OR,3,50
+United States,41031,Jefferson,Oregon,US,OR,1,0
+United States,41033,Josephine,Oregon,US,OR,1,12
+United States,41035,Klamath,Oregon,US,OR,1,0
+United States,41037,Lake,Oregon,US,OR,1,0
+United States,41039,Lane,Oregon,US,OR,5,67
+United States,41041,Lincoln,Oregon,US,OR,2,0
+United States,41043,Linn,Oregon,US,OR,2,11
+United States,41045,Malheur,Oregon,US,OR,1,8
+United States,41047,Marion,Oregon,US,OR,3,68
+United States,41049,Morrow,Oregon,US,OR,1,0
+United States,41051,Multnomah,Oregon,US,OR,6,165
+United States,41053,Polk,Oregon,US,OR,1,0
+United States,41055,Sherman,Oregon,US,OR,0,0
+United States,41057,Tillamook,Oregon,US,OR,1,4
+United States,41059,Umatilla,Oregon,US,OR,2,3
+United States,41061,Union,Oregon,US,OR,1,4
+United States,41063,Wallowa,Oregon,US,OR,1,0
+United States,41065,Wasco,Oregon,US,OR,1,17
+United States,41067,Washington,Oregon,US,OR,4,85
+United States,41069,Wheeler,Oregon,US,OR,0,0
+United States,41071,Yamhill,Oregon,US,OR,2,11
+United States,42001,Adams,Pennsylvania,US,PA,1,8
+United States,42003,Allegheny,Pennsylvania,US,PA,15,580
+United States,42005,Armstrong,Pennsylvania,US,PA,1,12
+United States,42007,Beaver,Pennsylvania,US,PA,1,20
+United States,42009,Bedford,Pennsylvania,US,PA,1,4
+United States,42011,Berks,Pennsylvania,US,PA,3,71
+United States,42013,Blair,Pennsylvania,US,PA,3,50
+United States,42015,Bradford,Pennsylvania,US,PA,3,42
+United States,42017,Bucks,Pennsylvania,US,PA,7,90
+United States,42019,Butler,Pennsylvania,US,PA,1,35
+United States,42021,Cambria,Pennsylvania,US,PA,2,30
+United States,42023,Cameron,Pennsylvania,US,PA,0,0
+United States,42025,Carbon,Pennsylvania,US,PA,2,13
+United States,42027,Centre,Pennsylvania,US,PA,1,0
+United States,42029,Chester,Pennsylvania,US,PA,5,93
+United States,42031,Clarion,Pennsylvania,US,PA,1,7
+United States,42033,Clearfield,Pennsylvania,US,PA,2,27
+United States,42035,Clinton,Pennsylvania,US,PA,2,10
+United States,42037,Columbia,Pennsylvania,US,PA,2,22
+United States,42039,Crawford,Pennsylvania,US,PA,2,16
+United States,42041,Cumberland,Pennsylvania,US,PA,2,45
+United States,42043,Dauphin,Pennsylvania,US,PA,2,142
+United States,42045,Delaware,Pennsylvania,US,PA,4,100
+United States,42047,Elk,Pennsylvania,US,PA,1,0
+United States,42049,Erie,Pennsylvania,US,PA,4,88
+United States,42051,Fayette,Pennsylvania,US,PA,2,15
+United States,42053,Forest,Pennsylvania,US,PA,0,0
+United States,42055,Franklin,Pennsylvania,US,PA,2,24
+United States,42057,Fulton,Pennsylvania,US,PA,1,0
+United States,42059,Greene,Pennsylvania,US,PA,1,0
+United States,42061,Huntingdon,Pennsylvania,US,PA,1,7
+United States,42063,Indiana,Pennsylvania,US,PA,1,12
+United States,42065,Jefferson,Pennsylvania,US,PA,2,5
+United States,42067,Juniata,Pennsylvania,US,PA,0,0
+United States,42069,Lackawanna,Pennsylvania,US,PA,3,51
+United States,42071,Lancaster,Pennsylvania,US,PA,3,64
+United States,42073,Lawrence,Pennsylvania,US,PA,2,18
+United States,42075,Lebanon,Pennsylvania,US,PA,1,18
+United States,42077,Lehigh,Pennsylvania,US,PA,3,143
+United States,42079,Luzerne,Pennsylvania,US,PA,3,71
+United States,42081,Lycoming,Pennsylvania,US,PA,3,32
+United States,42083,McKean,Pennsylvania,US,PA,1,5
+United States,42085,Mercer,Pennsylvania,US,PA,4,45
+United States,42087,Mifflin,Pennsylvania,US,PA,1,10
+United States,42089,Monroe,Pennsylvania,US,PA,2,44
+United States,42091,Montgomery,Pennsylvania,US,PA,11,215
+United States,42093,Montour,Pennsylvania,US,PA,1,42
+United States,42095,Northampton,Pennsylvania,US,PA,4,64
+United States,42097,Northumberland,Pennsylvania,US,PA,1,6
+United States,42099,Perry,Pennsylvania,US,PA,0,0
+United States,42101,Philadelphia,Pennsylvania,US,PA,15,528
+United States,42103,Pike,Pennsylvania,US,PA,0,0
+United States,42105,Potter,Pennsylvania,US,PA,1,4
+United States,42107,Schuylkill,Pennsylvania,US,PA,2,16
+United States,42109,Snyder,Pennsylvania,US,PA,0,0
+United States,42111,Somerset,Pennsylvania,US,PA,3,14
+United States,42113,Sullivan,Pennsylvania,US,PA,0,0
+United States,42115,Susquehanna,Pennsylvania,US,PA,2,4
+United States,42117,Tioga,Pennsylvania,US,PA,1,6
+United States,42119,Union,Pennsylvania,US,PA,1,12
+United States,42121,Venango,Pennsylvania,US,PA,1,8
+United States,42123,Warren,Pennsylvania,US,PA,1,6
+United States,42125,Washington,Pennsylvania,US,PA,4,50
+United States,42127,Wayne,Pennsylvania,US,PA,1,8
+United States,42129,Westmoreland,Pennsylvania,US,PA,3,51
+United States,42131,Wyoming,Pennsylvania,US,PA,1,6
+United States,42133,York,Pennsylvania,US,PA,5,60
+United States,44001,Bristol,Rhode Island,US,RI,0,0
+United States,44003,Kent,Rhode Island,US,RI,1,15
+United States,44005,Newport,Rhode Island,US,RI,1,10
+United States,44007,Providence,Rhode Island,US,RI,6,237
+United States,44009,Washington,Rhode Island,US,RI,2,17
+United States,45001,Abbeville,South Carolina,US,SC,1,6
+United States,45003,Aiken,South Carolina,US,SC,1,35
+United States,45005,Allendale,South Carolina,US,SC,1,0
+United States,45007,Anderson,South Carolina,US,SC,1,40
+United States,45009,Bamberg,South Carolina,US,SC,0,0
+United States,45011,Barnwell,South Carolina,US,SC,0,0
+United States,45013,Beaufort,South Carolina,US,SC,2,24
+United States,45015,Berkeley,South Carolina,US,SC,0,0
+United States,45017,Calhoun,South Carolina,US,SC,0,0
+United States,45019,Charleston,South Carolina,US,SC,6,221
+United States,45021,Cherokee,South Carolina,US,SC,1,12
+United States,45023,Chester,South Carolina,US,SC,1,6
+United States,45025,Chesterfield,South Carolina,US,SC,1,6
+United States,45027,Clarendon,South Carolina,US,SC,1,6
+United States,45029,Colleton,South Carolina,US,SC,1,8
+United States,45031,Darlington,South Carolina,US,SC,2,12
+United States,45033,Dillon,South Carolina,US,SC,1,6
+United States,45035,Dorchester,South Carolina,US,SC,0,0
+United States,45037,Edgefield,South Carolina,US,SC,1,0
+United States,45039,Fairfield,South Carolina,US,SC,0,0
+United States,45041,Florence,South Carolina,US,SC,3,98
+United States,45043,Georgetown,South Carolina,US,SC,1,10
+United States,45045,Greenville,South Carolina,US,SC,6,137
+United States,45047,Greenwood,South Carolina,US,SC,1,30
+United States,45049,Hampton,South Carolina,US,SC,1,6
+United States,45051,Horry,South Carolina,US,SC,4,100
+United States,45053,Jasper,South Carolina,US,SC,1,4
+United States,45055,Kershaw,South Carolina,US,SC,1,10
+United States,45057,Lancaster,South Carolina,US,SC,1,20
+United States,45059,Laurens,South Carolina,US,SC,1,8
+United States,45061,Lee,South Carolina,US,SC,0,0
+United States,45063,Lexington,South Carolina,US,SC,2,55
+United States,45065,McCormick,South Carolina,US,SC,0,0
+United States,45067,Marion,South Carolina,US,SC,1,10
+United States,45069,Marlboro,South Carolina,US,SC,0,0
+United States,45071,Newberry,South Carolina,US,SC,1,7
+United States,45073,Oconee,South Carolina,US,SC,1,12
+United States,45075,Orangeburg,South Carolina,US,SC,1,20
+United States,45077,Pickens,South Carolina,US,SC,2,15
+United States,45079,Richland,South Carolina,US,SC,3,211
+United States,45081,Saluda,South Carolina,US,SC,0,0
+United States,45083,Spartanburg,South Carolina,US,SC,1,39
+United States,45085,Sumter,South Carolina,US,SC,1,17
+United States,45087,Union,South Carolina,US,SC,1,6
+United States,45089,Williamsburg,South Carolina,US,SC,1,4
+United States,45091,York,South Carolina,US,SC,1,24
+United States,46003,Aurora,South Dakota,US,SD,0,0
+United States,46005,Beadle,South Dakota,US,SD,1,6
+United States,46007,Bennett,South Dakota,US,SD,1,0
+United States,46009,Bon Homme,South Dakota,US,SD,2,0
+United States,46011,Brookings,South Dakota,US,SD,1,0
+United States,46013,Brown,South Dakota,US,SD,2,10
+United States,46015,Brule,South Dakota,US,SD,1,0
+United States,46017,Buffalo,South Dakota,US,SD,0,0
+United States,46019,Butte,South Dakota,US,SD,0,0
+United States,46021,Campbell,South Dakota,US,SD,0,0
+United States,46023,Charles Mix,South Dakota,US,SD,2,0
+United States,46025,Clark,South Dakota,US,SD,0,0
+United States,46027,Clay,South Dakota,US,SD,1,0
+United States,46029,Codington,South Dakota,US,SD,1,8
+United States,46031,Corson,South Dakota,US,SD,0,0
+United States,46033,Custer,South Dakota,US,SD,1,0
+United States,46035,Davison,South Dakota,US,SD,1,8
+United States,46037,Day,South Dakota,US,SD,1,0
+United States,46039,Deuel,South Dakota,US,SD,1,0
+United States,46041,Dewey,South Dakota,US,SD,1,0
+United States,46043,Douglas,South Dakota,US,SD,1,0
+United States,46045,Edmunds,South Dakota,US,SD,1,0
+United States,46047,Fall River,South Dakota,US,SD,1,0
+United States,46049,Faulk,South Dakota,US,SD,1,0
+United States,46051,Grant,South Dakota,US,SD,1,0
+United States,46053,Gregory,South Dakota,US,SD,2,0
+United States,46055,Haakon,South Dakota,US,SD,1,0
+United States,46057,Hamlin,South Dakota,US,SD,0,0
+United States,46059,Hand,South Dakota,US,SD,1,0
+United States,46061,Hanson,South Dakota,US,SD,0,0
+United States,46063,Harding,South Dakota,US,SD,0,0
+United States,46065,Hughes,South Dakota,US,SD,1,6
+United States,46067,Hutchinson,South Dakota,US,SD,2,0
+United States,46069,Hyde,South Dakota,US,SD,0,0
+United States,46071,Jackson,South Dakota,US,SD,0,0
+United States,46073,Jerauld,South Dakota,US,SD,1,0
+United States,46075,Jones,South Dakota,US,SD,0,0
+United States,46077,Kingsbury,South Dakota,US,SD,1,0
+United States,46079,Lake,South Dakota,US,SD,1,0
+United States,46081,Lawrence,South Dakota,US,SD,2,5
+United States,46083,Lincoln,South Dakota,US,SD,2,0
+United States,46085,Lyman,South Dakota,US,SD,0,0
+United States,46087,McCook,South Dakota,US,SD,0,0
+United States,46089,McPherson,South Dakota,US,SD,1,0
+United States,46091,Marshall,South Dakota,US,SD,1,0
+United States,46093,Meade,South Dakota,US,SD,1,3
+United States,46095,Mellette,South Dakota,US,SD,0,0
+United States,46097,Miner,South Dakota,US,SD,0,0
+United States,46099,Minnehaha,South Dakota,US,SD,4,54
+United States,46101,Moody,South Dakota,US,SD,1,0
+United States,46102,Oglala Lakota,South Dakota,US,SD,0,0
+United States,46103,Pennington,South Dakota,US,SD,3,38
+United States,46105,Perkins,South Dakota,US,SD,0,0
+United States,46107,Potter,South Dakota,US,SD,1,0
+United States,46109,Roberts,South Dakota,US,SD,1,0
+United States,46111,Sanborn,South Dakota,US,SD,0,0
+United States,46115,Spink,South Dakota,US,SD,1,0
+United States,46117,Stanley,South Dakota,US,SD,0,0
+United States,46119,Sully,South Dakota,US,SD,0,0
+United States,46121,Todd,South Dakota,US,SD,1,0
+United States,46123,Tripp,South Dakota,US,SD,1,0
+United States,46125,Turner,South Dakota,US,SD,1,0
+United States,46127,Union,South Dakota,US,SD,1,0
+United States,46129,Walworth,South Dakota,US,SD,1,4
+United States,46135,Yankton,South Dakota,US,SD,1,10
+United States,46137,Ziebach,South Dakota,US,SD,0,0
+United States,47001,Anderson,Tennessee,US,TN,1,25
+United States,47003,Bedford,Tennessee,US,TN,1,8
+United States,47005,Benton,Tennessee,US,TN,1,0
+United States,47007,Bledsoe,Tennessee,US,TN,1,0
+United States,47009,Blount,Tennessee,US,TN,1,16
+United States,47011,Bradley,Tennessee,US,TN,1,27
+United States,47013,Campbell,Tennessee,US,TN,2,10
+United States,47015,Cannon,Tennessee,US,TN,1,0
+United States,47017,Carroll,Tennessee,US,TN,1,6
+United States,47019,Carter,Tennessee,US,TN,1,8
+United States,47021,Cheatham,Tennessee,US,TN,1,0
+United States,47023,Chester,Tennessee,US,TN,0,0
+United States,47025,Claiborne,Tennessee,US,TN,1,5
+United States,47027,Clay,Tennessee,US,TN,1,0
+United States,47029,Cocke,Tennessee,US,TN,1,5
+United States,47031,Coffee,Tennessee,US,TN,2,14
+United States,47033,Crockett,Tennessee,US,TN,0,0
+United States,47035,Cumberland,Tennessee,US,TN,1,12
+United States,47037,Davidson,Tennessee,US,TN,9,614
+United States,47039,Decatur,Tennessee,US,TN,1,0
+United States,47041,DeKalb,Tennessee,US,TN,1,4
+United States,47043,Dickson,Tennessee,US,TN,1,6
+United States,47045,Dyer,Tennessee,US,TN,1,10
+United States,47047,Fayette,Tennessee,US,TN,0,0
+United States,47049,Fentress,Tennessee,US,TN,0,0
+United States,47051,Franklin,Tennessee,US,TN,1,10
+United States,47053,Gibson,Tennessee,US,TN,1,3
+United States,47055,Giles,Tennessee,US,TN,1,6
+United States,47057,Grainger,Tennessee,US,TN,0,0
+United States,47059,Greene,Tennessee,US,TN,1,6
+United States,47061,Grundy,Tennessee,US,TN,0,0
+United States,47063,Hamblen,Tennessee,US,TN,1,20
+United States,47065,Hamilton,Tennessee,US,TN,3,215
+United States,47067,Hancock,Tennessee,US,TN,1,0
+United States,47069,Hardeman,Tennessee,US,TN,1,0
+United States,47071,Hardin,Tennessee,US,TN,1,0
+United States,47073,Hawkins,Tennessee,US,TN,1,6
+United States,47075,Haywood,Tennessee,US,TN,0,0
+United States,47077,Henderson,Tennessee,US,TN,1,0
+United States,47079,Henry,Tennessee,US,TN,1,6
+United States,47081,Hickman,Tennessee,US,TN,1,0
+United States,47083,Houston,Tennessee,US,TN,1,0
+United States,47085,Humphreys,Tennessee,US,TN,1,0
+United States,47087,Jackson,Tennessee,US,TN,0,0
+United States,47089,Jefferson,Tennessee,US,TN,1,6
+United States,47091,Johnson,Tennessee,US,TN,1,0
+United States,47093,Knox,Tennessee,US,TN,4,254
+United States,47095,Lake,Tennessee,US,TN,0,0
+United States,47097,Lauderdale,Tennessee,US,TN,1,0
+United States,47099,Lawrence,Tennessee,US,TN,1,6
+United States,47101,Lewis,Tennessee,US,TN,0,0
+United States,47103,Lincoln,Tennessee,US,TN,1,7
+United States,47105,Loudon,Tennessee,US,TN,1,5
+United States,47107,McMinn,Tennessee,US,TN,1,4
+United States,47109,McNairy,Tennessee,US,TN,0,0
+United States,47111,Macon,Tennessee,US,TN,1,0
+United States,47113,Madison,Tennessee,US,TN,1,76
+United States,47115,Marion,Tennessee,US,TN,0,0
+United States,47117,Marshall,Tennessee,US,TN,1,0
+United States,47119,Maury,Tennessee,US,TN,1,65
+United States,47121,Meigs,Tennessee,US,TN,0,0
+United States,47123,Monroe,Tennessee,US,TN,1,0
+United States,47125,Montgomery,Tennessee,US,TN,1,21
+United States,47127,Moore,Tennessee,US,TN,0,0
+United States,47129,Morgan,Tennessee,US,TN,0,0
+United States,47131,Obion,Tennessee,US,TN,1,7
+United States,47133,Overton,Tennessee,US,TN,1,6
+United States,47135,Perry,Tennessee,US,TN,1,0
+United States,47137,Pickett,Tennessee,US,TN,0,0
+United States,47139,Polk,Tennessee,US,TN,0,0
+United States,47141,Putnam,Tennessee,US,TN,1,38
+United States,47143,Rhea,Tennessee,US,TN,1,3
+United States,47145,Roane,Tennessee,US,TN,1,6
+United States,47147,Robertson,Tennessee,US,TN,1,8
+United States,47149,Rutherford,Tennessee,US,TN,3,78
+United States,47151,Scott,Tennessee,US,TN,1,0
+United States,47153,Sequatchie,Tennessee,US,TN,0,0
+United States,47155,Sevier,Tennessee,US,TN,1,16
+United States,47157,Shelby,Tennessee,US,TN,6,277
+United States,47159,Smith,Tennessee,US,TN,1,2
+United States,47161,Stewart,Tennessee,US,TN,0,0
+United States,47163,Sullivan,Tennessee,US,TN,3,103
+United States,47165,Sumner,Tennessee,US,TN,2,38
+United States,47167,Tipton,Tennessee,US,TN,1,7
+United States,47169,Trousdale,Tennessee,US,TN,1,0
+United States,47171,Unicoi,Tennessee,US,TN,1,0
+United States,47173,Union,Tennessee,US,TN,0,0
+United States,47175,Van Buren,Tennessee,US,TN,0,0
+United States,47177,Warren,Tennessee,US,TN,1,8
+United States,47179,Washington,Tennessee,US,TN,2,76
+United States,47181,Wayne,Tennessee,US,TN,1,0
+United States,47183,Weakley,Tennessee,US,TN,1,6
+United States,47185,White,Tennessee,US,TN,1,4
+United States,47187,Williamson,Tennessee,US,TN,1,28
+United States,47189,Wilson,Tennessee,US,TN,1,12
+United States,48001,Anderson,Texas,US,TX,1,10
+United States,48003,Andrews,Texas,US,TX,1,0
+United States,48005,Angelina,Texas,US,TX,2,29
+United States,48007,Aransas,Texas,US,TX,0,0
+United States,48009,Archer,Texas,US,TX,0,0
+United States,48011,Armstrong,Texas,US,TX,0,0
+United States,48013,Atascosa,Texas,US,TX,1,6
+United States,48015,Austin,Texas,US,TX,1,0
+United States,48017,Bailey,Texas,US,TX,1,0
+United States,48019,Bandera,Texas,US,TX,0,0
+United States,48021,Bastrop,Texas,US,TX,1,0
+United States,48023,Baylor,Texas,US,TX,1,27
+United States,48025,Bee,Texas,US,TX,1,8
+United States,48027,Bell,Texas,US,TX,3,90
+United States,48029,Bexar,Texas,US,TX,13,648
+United States,48031,Blanco,Texas,US,TX,0,0
+United States,48033,Borden,Texas,US,TX,0,0
+United States,48035,Bosque,Texas,US,TX,1,0
+United States,48037,Bowie,Texas,US,TX,2,82
+United States,48039,Brazoria,Texas,US,TX,3,16
+United States,48041,Brazos,Texas,US,TX,4,48
+United States,48043,Brewster,Texas,US,TX,1,3
+United States,48045,Briscoe,Texas,US,TX,0,0
+United States,48047,Brooks,Texas,US,TX,0,0
+United States,48049,Brown,Texas,US,TX,1,12
+United States,48051,Burleson,Texas,US,TX,1,0
+United States,48053,Burnet,Texas,US,TX,2,12
+United States,48055,Caldwell,Texas,US,TX,1,0
+United States,48057,Calhoun,Texas,US,TX,1,6
+United States,48059,Callahan,Texas,US,TX,0,0
+United States,48061,Cameron,Texas,US,TX,4,104
+United States,48063,Camp,Texas,US,TX,1,0
+United States,48065,Carson,Texas,US,TX,0,0
+United States,48067,Cass,Texas,US,TX,0,0
+United States,48069,Castro,Texas,US,TX,1,0
+United States,48071,Chambers,Texas,US,TX,2,0
+United States,48073,Cherokee,Texas,US,TX,2,0
+United States,48075,Childress,Texas,US,TX,1,0
+United States,48077,Clay,Texas,US,TX,1,0
+United States,48079,Cochran,Texas,US,TX,1,0
+United States,48081,Coke,Texas,US,TX,0,0
+United States,48083,Coleman,Texas,US,TX,1,0
+United States,48085,Collin,Texas,US,TX,11,195
+United States,48087,Collingsworth,Texas,US,TX,1,0
+United States,48089,Colorado,Texas,US,TX,2,4
+United States,48091,Comal,Texas,US,TX,1,12
+United States,48093,Comanche,Texas,US,TX,1,0
+United States,48095,Concho,Texas,US,TX,1,0
+United States,48097,Cooke,Texas,US,TX,2,5
+United States,48099,Coryell,Texas,US,TX,1,4
+United States,48101,Cottle,Texas,US,TX,0,0
+United States,48103,Crane,Texas,US,TX,1,0
+United States,48105,Crockett,Texas,US,TX,0,0
+United States,48107,Crosby,Texas,US,TX,1,0
+United States,48109,Culberson,Texas,US,TX,1,0
+United States,48111,Dallam,Texas,US,TX,1,0
+United States,48113,Dallas,Texas,US,TX,24,614
+United States,48115,Dawson,Texas,US,TX,1,0
+United States,48117,Deaf Smith,Texas,US,TX,1,0
+United States,48119,Delta,Texas,US,TX,0,0
+United States,48121,Denton,Texas,US,TX,10,81
+United States,48123,DeWitt,Texas,US,TX,1,0
+United States,48125,Dickens,Texas,US,TX,0,0
+United States,48127,Dimmit,Texas,US,TX,1,0
+United States,48129,Donley,Texas,US,TX,0,0
+United States,48131,Duval,Texas,US,TX,0,0
+United States,48133,Eastland,Texas,US,TX,1,0
+United States,48135,Ector,Texas,US,TX,2,50
+United States,48137,Edwards,Texas,US,TX,0,0
+United States,48139,Ellis,Texas,US,TX,2,18
+United States,48141,El Paso,Texas,US,TX,9,203
+United States,48143,Erath,Texas,US,TX,1,5
+United States,48145,Falls,Texas,US,TX,1,0
+United States,48147,Fannin,Texas,US,TX,1,2
+United States,48149,Fayette,Texas,US,TX,1,0
+United States,48151,Fisher,Texas,US,TX,1,0
+United States,48153,Floyd,Texas,US,TX,1,0
+United States,48155,Foard,Texas,US,TX,0,0
+United States,48157,Fort Bend,Texas,US,TX,6,128
+United States,48159,Franklin,Texas,US,TX,0,0
+United States,48161,Freestone,Texas,US,TX,1,0
+United States,48163,Frio,Texas,US,TX,1,0
+United States,48165,Gaines,Texas,US,TX,1,0
+United States,48167,Galveston,Texas,US,TX,1,26
+United States,48169,Garza,Texas,US,TX,0,0
+United States,48171,Gillespie,Texas,US,TX,1,10
+United States,48173,Glasscock,Texas,US,TX,0,0
+United States,48175,Goliad,Texas,US,TX,0,0
+United States,48177,Gonzales,Texas,US,TX,1,0
+United States,48179,Gray,Texas,US,TX,1,8
+United States,48181,Grayson,Texas,US,TX,3,62
+United States,48183,Gregg,Texas,US,TX,2,66
+United States,48185,Grimes,Texas,US,TX,1,0
+United States,48187,Guadalupe,Texas,US,TX,1,9
+United States,48189,Hale,Texas,US,TX,1,5
+United States,48191,Hall,Texas,US,TX,0,0
+United States,48193,Hamilton,Texas,US,TX,1,0
+United States,48195,Hansford,Texas,US,TX,1,0
+United States,48197,Hardeman,Texas,US,TX,2,0
+United States,48199,Hardin,Texas,US,TX,0,0
+United States,48201,Harris,Texas,US,TX,34,918
+United States,48203,Harrison,Texas,US,TX,0,0
+United States,48205,Hartley,Texas,US,TX,0,0
+United States,48207,Haskell,Texas,US,TX,1,0
+United States,48209,Hays,Texas,US,TX,3,42
+United States,48211,Hemphill,Texas,US,TX,1,0
+United States,48213,Henderson,Texas,US,TX,1,10
+United States,48215,Hidalgo,Texas,US,TX,6,271
+United States,48217,Hill,Texas,US,TX,1,5
+United States,48219,Hockley,Texas,US,TX,1,0
+United States,48221,Hood,Texas,US,TX,1,12
+United States,48223,Hopkins,Texas,US,TX,1,10
+United States,48225,Houston,Texas,US,TX,1,0
+United States,48227,Howard,Texas,US,TX,1,8
+United States,48229,Hudspeth,Texas,US,TX,0,0
+United States,48231,Hunt,Texas,US,TX,1,23
+United States,48233,Hutchinson,Texas,US,TX,1,4
+United States,48235,Irion,Texas,US,TX,0,0
+United States,48237,Jack,Texas,US,TX,1,0
+United States,48239,Jackson,Texas,US,TX,1,0
+United States,48241,Jasper,Texas,US,TX,1,6
+United States,48243,Jeff Davis,Texas,US,TX,0,0
+United States,48245,Jefferson,Texas,US,TX,3,88
+United States,48247,Jim Hogg,Texas,US,TX,0,0
+United States,48249,Jim Wells,Texas,US,TX,1,8
+United States,48251,Johnson,Texas,US,TX,3,35
+United States,48253,Jones,Texas,US,TX,2,0
+United States,48255,Karnes,Texas,US,TX,1,0
+United States,48257,Kaufman,Texas,US,TX,1,8
+United States,48259,Kendall,Texas,US,TX,0,0
+United States,48261,Kenedy,Texas,US,TX,0,0
+United States,48263,Kent,Texas,US,TX,0,0
+United States,48265,Kerr,Texas,US,TX,1,12
+United States,48267,Kimble,Texas,US,TX,1,0
+United States,48269,King,Texas,US,TX,0,0
+United States,48271,Kinney,Texas,US,TX,0,0
+United States,48273,Kleberg,Texas,US,TX,1,10
+United States,48275,Knox,Texas,US,TX,1,0
+United States,48277,Lamar,Texas,US,TX,1,20
+United States,48279,Lamb,Texas,US,TX,1,0
+United States,48281,Lampasas,Texas,US,TX,1,0
+United States,48283,La Salle,Texas,US,TX,0,0
+United States,48285,Lavaca,Texas,US,TX,2,3
+United States,48287,Lee,Texas,US,TX,0,0
+United States,48289,Leon,Texas,US,TX,0,0
+United States,48291,Liberty,Texas,US,TX,2,0
+United States,48293,Limestone,Texas,US,TX,2,6
+United States,48295,Lipscomb,Texas,US,TX,0,0
+United States,48297,Live Oak,Texas,US,TX,0,0
+United States,48299,Llano,Texas,US,TX,1,0
+United States,48301,Loving,Texas,US,TX,0,0
+United States,48303,Lubbock,Texas,US,TX,4,267
+United States,48305,Lynn,Texas,US,TX,1,0
+United States,48307,McCulloch,Texas,US,TX,1,0
+United States,48309,McLennan,Texas,US,TX,2,54
+United States,48311,McMullen,Texas,US,TX,0,0
+United States,48313,Madison,Texas,US,TX,1,0
+United States,48315,Marion,Texas,US,TX,0,0
+United States,48317,Martin,Texas,US,TX,1,0
+United States,48319,Mason,Texas,US,TX,0,0
+United States,48321,Matagorda,Texas,US,TX,2,6
+United States,48323,Maverick,Texas,US,TX,1,10
+United States,48325,Medina,Texas,US,TX,1,0
+United States,48327,Menard,Texas,US,TX,0,0
+United States,48329,Midland,Texas,US,TX,1,48
+United States,48331,Milam,Texas,US,TX,1,0
+United States,48333,Mills,Texas,US,TX,0,0
+United States,48335,Mitchell,Texas,US,TX,1,0
+United States,48337,Montague,Texas,US,TX,1,0
+United States,48339,Montgomery,Texas,US,TX,6,97
+United States,48341,Moore,Texas,US,TX,1,3
+United States,48343,Morris,Texas,US,TX,0,0
+United States,48345,Motley,Texas,US,TX,0,0
+United States,48347,Nacogdoches,Texas,US,TX,2,27
+United States,48349,Navarro,Texas,US,TX,1,9
+United States,48351,Newton,Texas,US,TX,0,0
+United States,48353,Nolan,Texas,US,TX,1,5
+United States,48355,Nueces,Texas,US,TX,3,115
+United States,48357,Ochiltree,Texas,US,TX,1,0
+United States,48359,Oldham,Texas,US,TX,0,0
+United States,48361,Orange,Texas,US,TX,0,0
+United States,48363,Palo Pinto,Texas,US,TX,1,8
+United States,48365,Panola,Texas,US,TX,1,0
+United States,48367,Parker,Texas,US,TX,1,20
+United States,48369,Parmer,Texas,US,TX,1,0
+United States,48371,Pecos,Texas,US,TX,2,0
+United States,48373,Polk,Texas,US,TX,1,8
+United States,48375,Potter,Texas,US,TX,3,99
+United States,48377,Presidio,Texas,US,TX,0,0
+United States,48379,Rains,Texas,US,TX,0,0
+United States,48381,Randall,Texas,US,TX,0,0
+United States,48383,Reagan,Texas,US,TX,1,0
+United States,48385,Real,Texas,US,TX,0,0
+United States,48387,Red River,Texas,US,TX,0,0
+United States,48389,Reeves,Texas,US,TX,1,0
+United States,48391,Refugio,Texas,US,TX,1,0
+United States,48393,Roberts,Texas,US,TX,0,0
+United States,48395,Robertson,Texas,US,TX,0,0
+United States,48397,Rockwall,Texas,US,TX,1,6
+United States,48399,Runnels,Texas,US,TX,2,0
+United States,48401,Rusk,Texas,US,TX,1,0
+United States,48403,Sabine,Texas,US,TX,1,0
+United States,48405,San Augustine,Texas,US,TX,1,0
+United States,48407,San Jacinto,Texas,US,TX,0,0
+United States,48409,San Patricio,Texas,US,TX,1,0
+United States,48411,San Saba,Texas,US,TX,0,0
+United States,48413,Schleicher,Texas,US,TX,1,0
+United States,48415,Scurry,Texas,US,TX,1,0
+United States,48417,Shackelford,Texas,US,TX,0,0
+United States,48419,Shelby,Texas,US,TX,0,0
+United States,48421,Sherman,Texas,US,TX,0,0
+United States,48423,Smith,Texas,US,TX,4,194
+United States,48425,Somervell,Texas,US,TX,1,0
+United States,48427,Starr,Texas,US,TX,1,0
+United States,48429,Stephens,Texas,US,TX,1,0
+United States,48431,Sterling,Texas,US,TX,0,0
+United States,48433,Stonewall,Texas,US,TX,1,0
+United States,48435,Sutton,Texas,US,TX,1,0
+United States,48437,Swisher,Texas,US,TX,1,0
+United States,48439,Tarrant,Texas,US,TX,22,409
+United States,48441,Taylor,Texas,US,TX,2,110
+United States,48443,Terrell,Texas,US,TX,0,0
+United States,48445,Terry,Texas,US,TX,1,0
+United States,48447,Throckmorton,Texas,US,TX,1,0
+United States,48449,Titus,Texas,US,TX,1,8
+United States,48451,Tom Green,Texas,US,TX,2,29
+United States,48453,Travis,Texas,US,TX,10,294
+United States,48455,Trinity,Texas,US,TX,0,0
+United States,48457,Tyler,Texas,US,TX,1,0
+United States,48459,Upshur,Texas,US,TX,0,0
+United States,48461,Upton,Texas,US,TX,2,0
+United States,48463,Uvalde,Texas,US,TX,1,6
+United States,48465,Val Verde,Texas,US,TX,1,7
+United States,48467,Van Zandt,Texas,US,TX,1,0
+United States,48469,Victoria,Texas,US,TX,2,43
+United States,48471,Walker,Texas,US,TX,1,6
+United States,48473,Waller,Texas,US,TX,0,0
+United States,48475,Ward,Texas,US,TX,1,0
+United States,48477,Washington,Texas,US,TX,1,5
+United States,48479,Webb,Texas,US,TX,2,56
+United States,48481,Wharton,Texas,US,TX,1,4
+United States,48483,Wheeler,Texas,US,TX,2,0
+United States,48485,Wichita,Texas,US,TX,3,24
+United States,48487,Wilbarger,Texas,US,TX,1,0
+United States,48489,Willacy,Texas,US,TX,0,0
+United States,48491,Williamson,Texas,US,TX,6,90
+United States,48493,Wilson,Texas,US,TX,1,4
+United States,48495,Winkler,Texas,US,TX,1,0
+United States,48497,Wise,Texas,US,TX,1,21
+United States,48499,Wood,Texas,US,TX,2,0
+United States,48501,Yoakum,Texas,US,TX,1,0
+United States,48503,Young,Texas,US,TX,2,0
+United States,48505,Zapata,Texas,US,TX,0,0
+United States,48507,Zavala,Texas,US,TX,0,0
+United States,49001,Beaver,Utah,US,UT,2,0
+United States,49003,Box Elder,Utah,US,UT,2,0
+United States,49005,Cache,Utah,US,UT,2,14
+United States,49007,Carbon,Utah,US,UT,1,6
+United States,49009,Daggett,Utah,US,UT,0,0
+United States,49011,Davis,Utah,US,UT,3,22
+United States,49013,Duchesne,Utah,US,UT,1,4
+United States,49015,Emery,Utah,US,UT,0,0
+United States,49017,Garfield,Utah,US,UT,1,0
+United States,49019,Grand,Utah,US,UT,1,0
+United States,49021,Iron,Utah,US,UT,1,6
+United States,49023,Juab,Utah,US,UT,1,0
+United States,49025,Kane,Utah,US,UT,1,0
+United States,49027,Millard,Utah,US,UT,2,0
+United States,49029,Morgan,Utah,US,UT,0,0
+United States,49031,Piute,Utah,US,UT,0,0
+United States,49033,Rich,Utah,US,UT,0,0
+United States,49035,Salt Lake,Utah,US,UT,10,282
+United States,49037,San Juan,Utah,US,UT,2,1
+United States,49039,Sanpete,Utah,US,UT,2,0
+United States,49041,Sevier,Utah,US,UT,1,0
+United States,49043,Summit,Utah,US,UT,1,4
+United States,49045,Tooele,Utah,US,UT,1,4
+United States,49047,Uintah,Utah,US,UT,1,4
+United States,49049,Utah,Utah,US,UT,5,122
+United States,49051,Wasatch,Utah,US,UT,1,0
+United States,49053,Washington,Utah,US,UT,1,32
+United States,49055,Wayne,Utah,US,UT,0,0
+United States,49057,Weber,Utah,US,UT,2,64
+United States,50001,Addison,Vermont,US,VT,1,0
+United States,50003,Bennington,Vermont,US,VT,1,10
+United States,50005,Caledonia,Vermont,US,VT,1,4
+United States,50007,Chittenden,Vermont,US,VT,1,46
+United States,50009,Essex,Vermont,US,VT,0,0
+United States,50011,Franklin,Vermont,US,VT,1,0
+United States,50013,Grand Isle,Vermont,US,VT,0,0
+United States,50015,Lamoille,Vermont,US,VT,1,0
+United States,50017,Orange,Vermont,US,VT,1,2
+United States,50019,Orleans,Vermont,US,VT,1,5
+United States,50021,Rutland,Vermont,US,VT,1,13
+United States,50023,Washington,Vermont,US,VT,1,14
+United States,50025,Windham,Vermont,US,VT,2,0
+United States,50027,Windsor,Vermont,US,VT,2,0
+United States,51001,Accomack,Virginia,US,VA,1,10
+United States,51003,Albemarle,Virginia,US,VA,1,12
+United States,51005,Alleghany,Virginia,US,VA,1,10
+United States,51007,Amelia,Virginia,US,VA,0,0
+United States,51009,Amherst,Virginia,US,VA,0,0
+United States,51011,Appomattox,Virginia,US,VA,0,0
+United States,51013,Arlington,Virginia,US,VA,2,32
+United States,51015,Augusta,Virginia,US,VA,1,12
+United States,51017,Bath,Virginia,US,VA,1,0
+United States,51019,Bedford,Virginia,US,VA,1,6
+United States,51021,Bland,Virginia,US,VA,0,0
+United States,51023,Botetourt,Virginia,US,VA,0,0
+United States,51025,Brunswick,Virginia,US,VA,0,0
+United States,51027,Buchanan,Virginia,US,VA,1,12
+United States,51029,Buckingham,Virginia,US,VA,0,0
+United States,51031,Campbell,Virginia,US,VA,0,0
+United States,51033,Caroline,Virginia,US,VA,0,0
+United States,51035,Carroll,Virginia,US,VA,0,0
+United States,51036,Charles City,Virginia,US,VA,0,0
+United States,51037,Charlotte,Virginia,US,VA,0,0
+United States,51041,Chesterfield,Virginia,US,VA,2,106
+United States,51043,Clarke,Virginia,US,VA,0,0
+United States,51045,Craig,Virginia,US,VA,0,0
+United States,51047,Culpeper,Virginia,US,VA,1,6
+United States,51049,Cumberland,Virginia,US,VA,0,0
+United States,51051,Dickenson,Virginia,US,VA,1,0
+United States,51053,Dinwiddie,Virginia,US,VA,0,0
+United States,51057,Essex,Virginia,US,VA,1,7
+United States,51059,Fairfax,Virginia,US,VA,4,178
+United States,51061,Fauquier,Virginia,US,VA,1,8
+United States,51063,Floyd,Virginia,US,VA,0,0
+United States,51065,Fluvanna,Virginia,US,VA,0,0
+United States,51067,Franklin,Virginia,US,VA,1,4
+United States,51069,Frederick,Virginia,US,VA,0,0
+United States,51071,Giles,Virginia,US,VA,1,0
+United States,51073,Gloucester,Virginia,US,VA,1,7
+United States,51075,Goochland,Virginia,US,VA,0,0
+United States,51077,Grayson,Virginia,US,VA,0,0
+United States,51079,Greene,Virginia,US,VA,0,0
+United States,51081,Greensville,Virginia,US,VA,0,0
+United States,51083,Halifax,Virginia,US,VA,1,12
+United States,51085,Hanover,Virginia,US,VA,1,24
+United States,51087,Henrico,Virginia,US,VA,1,53
+United States,51089,Henry,Virginia,US,VA,0,0
+United States,51091,Highland,Virginia,US,VA,0,0
+United States,51093,Isle of Wight,Virginia,US,VA,0,0
+United States,51095,James City,Virginia,US,VA,2,26
+United States,51097,King and Queen,Virginia,US,VA,0,0
+United States,51099,King George,Virginia,US,VA,0,0
+United States,51101,King William,Virginia,US,VA,0,0
+United States,51103,Lancaster,Virginia,US,VA,1,0
+United States,51105,Lee,Virginia,US,VA,0,0
+United States,51107,Loudoun,Virginia,US,VA,2,33
+United States,51109,Louisa,Virginia,US,VA,0,0
+United States,51111,Lunenburg,Virginia,US,VA,0,0
+United States,51113,Madison,Virginia,US,VA,0,0
+United States,51115,Mathews,Virginia,US,VA,0,0
+United States,51117,Mecklenburg,Virginia,US,VA,1,10
+United States,51119,Middlesex,Virginia,US,VA,0,0
+United States,51121,Montgomery,Virginia,US,VA,2,22
+United States,51125,Nelson,Virginia,US,VA,0,0
+United States,51127,New Kent,Virginia,US,VA,0,0
+United States,51131,Northampton,Virginia,US,VA,0,0
+United States,51133,Northumberland,Virginia,US,VA,0,0
+United States,51135,Nottoway,Virginia,US,VA,0,0
+United States,51137,Orange,Virginia,US,VA,0,0
+United States,51139,Page,Virginia,US,VA,1,0
+United States,51141,Patrick,Virginia,US,VA,0,0
+United States,51143,Pittsylvania,Virginia,US,VA,0,0
+United States,51145,Powhatan,Virginia,US,VA,0,0
+United States,51147,Prince Edward,Virginia,US,VA,1,8
+United States,51149,Prince George,Virginia,US,VA,0,0
+United States,51153,Prince William,Virginia,US,VA,2,24
+United States,51155,Pulaski,Virginia,US,VA,1,8
+United States,51157,Rappahannock,Virginia,US,VA,0,0
+United States,51159,Richmond,Virginia,US,VA,0,0
+United States,51161,Roanoke,Virginia,US,VA,0,0
+United States,51163,Rockbridge,Virginia,US,VA,0,0
+United States,51165,Rockingham,Virginia,US,VA,0,0
+United States,51167,Russell,Virginia,US,VA,1,5
+United States,51169,Scott,Virginia,US,VA,0,0
+United States,51171,Shenandoah,Virginia,US,VA,1,0
+United States,51173,Smyth,Virginia,US,VA,1,4
+United States,51175,Southampton,Virginia,US,VA,0,0
+United States,51177,Spotsylvania,Virginia,US,VA,1,12
+United States,51179,Stafford,Virginia,US,VA,1,4
+United States,51181,Surry,Virginia,US,VA,0,0
+United States,51183,Sussex,Virginia,US,VA,0,0
+United States,51185,Tazewell,Virginia,US,VA,2,12
+United States,51187,Warren,Virginia,US,VA,1,8
+United States,51191,Washington,Virginia,US,VA,1,14
+United States,51193,Westmoreland,Virginia,US,VA,0,0
+United States,51195,Wise,Virginia,US,VA,1,8
+United States,51197,Wythe,Virginia,US,VA,1,6
+United States,51199,York,Virginia,US,VA,0,0
+United States,51510,Alexandria City,Virginia,US,VA,1,40
+United States,51520,Bristol City,Virginia,US,VA,0,0
+United States,51530,Buena Vista City,Virginia,US,VA,0,0
+United States,51540,Charlottesville City,Virginia,US,VA,1,25
+United States,51550,Chesapeake City,Virginia,US,VA,1,28
+United States,51570,Colonial Heights City,Virginia,US,VA,0,0
+United States,51580,Covington City,Virginia,US,VA,0,0
+United States,51590,Danville City,Virginia,US,VA,1,34
+United States,51595,Emporia City,Virginia,US,VA,1,7
+United States,51600,Fairfax City,Virginia,US,VA,0,0
+United States,51610,Falls Church City,Virginia,US,VA,0,0
+United States,51620,Franklin City,Virginia,US,VA,1,8
+United States,51630,Fredericksburg City,Virginia,US,VA,1,26
+United States,51640,Galax City,Virginia,US,VA,1,10
+United States,51650,Hampton City,Virginia,US,VA,1,24
+United States,51660,Harrisonburg City,Virginia,US,VA,1,34
+United States,51670,Hopewell City,Virginia,US,VA,1,17
+United States,51678,Lexington City,Virginia,US,VA,1,0
+United States,51680,Lynchburg City,Virginia,US,VA,1,49
+United States,51683,Manassas City,Virginia,US,VA,1,11
+United States,51685,Manassas Park City,Virginia,US,VA,0,0
+United States,51690,Martinsville City,Virginia,US,VA,0,0
+United States,51700,Newport News City,Virginia,US,VA,2,88
+United States,51710,Norfolk City,Virginia,US,VA,3,113
+United States,51720,Norton City,Virginia,US,VA,1,11
+United States,51730,Petersburg City,Virginia,US,VA,2,28
+United States,51735,Poquoson City,Virginia,US,VA,0,0
+United States,51740,Portsmouth City,Virginia,US,VA,1,22
+United States,51750,Radford City,Virginia,US,VA,0,0
+United States,51760,Richmond City,Virginia,US,VA,3,159
+United States,51770,Roanoke City,Virginia,US,VA,1,71
+United States,51775,Salem City,Virginia,US,VA,1,36
+United States,51790,Staunton City,Virginia,US,VA,0,0
+United States,51800,Suffolk City,Virginia,US,VA,1,12
+United States,51810,Virginia Beach City,Virginia,US,VA,2,50
+United States,51820,Waynesboro City,Virginia,US,VA,0,0
+United States,51830,Williamsburg City,Virginia,US,VA,0,0
+United States,51840,Winchester City,Virginia,US,VA,1,48
+United States,53001,Adams,Washington,US,WA,2,0
+United States,53003,Asotin,Washington,US,WA,1,0
+United States,53005,Benton,Washington,US,WA,3,44
+United States,53007,Chelan,Washington,US,WA,4,20
+United States,53009,Clallam,Washington,US,WA,2,19
+United States,53011,Clark,Washington,US,WA,2,90
+United States,53013,Columbia,Washington,US,WA,1,0
+United States,53015,Cowlitz,Washington,US,WA,1,18
+United States,53017,Douglas,Washington,US,WA,0,0
+United States,53019,Ferry,Washington,US,WA,1,0
+United States,53021,Franklin,Washington,US,WA,1,0
+United States,53023,Garfield,Washington,US,WA,1,0
+United States,53025,Grant,Washington,US,WA,4,0
+United States,53027,Grays Harbor,Washington,US,WA,2,0
+United States,53029,Island,Washington,US,WA,1,6
+United States,53031,Jefferson,Washington,US,WA,1,6
+United States,53033,King,Washington,US,WA,17,450
+United States,53035,Kitsap,Washington,US,WA,1,20
+United States,53037,Kittitas,Washington,US,WA,1,6
+United States,53039,Klickitat,Washington,US,WA,2,0
+United States,53041,Lewis,Washington,US,WA,2,6
+United States,53043,Lincoln,Washington,US,WA,2,0
+United States,53045,Mason,Washington,US,WA,1,6
+United States,53047,Okanogan,Washington,US,WA,3,0
+United States,53049,Pacific,Washington,US,WA,2,0
+United States,53051,Pend Oreille,Washington,US,WA,1,0
+United States,53053,Pierce,Washington,US,WA,5,189
+United States,53055,San Juan,Washington,US,WA,1,0
+United States,53057,Skagit,Washington,US,WA,3,18
+United States,53059,Skamania,Washington,US,WA,0,0
+United States,53061,Snohomish,Washington,US,WA,4,72
+United States,53063,Spokane,Washington,US,WA,4,113
+United States,53065,Stevens,Washington,US,WA,2,0
+United States,53067,Thurston,Washington,US,WA,2,72
+United States,53069,Wahkiakum,Washington,US,WA,0,0
+United States,53071,Walla Walla,Washington,US,WA,1,28
+United States,53073,Whatcom,Washington,US,WA,1,24
+United States,53075,Whitman,Washington,US,WA,2,6
+United States,53077,Yakima,Washington,US,WA,4,52
+United States,54001,Barbour,West Virginia,US,WV,1,0
+United States,54003,Berkeley,West Virginia,US,WV,1,20
+United States,54005,Boone,West Virginia,US,WV,1,0
+United States,54007,Braxton,West Virginia,US,WV,1,0
+United States,54009,Brooke,West Virginia,US,WV,0,0
+United States,54011,Cabell,West Virginia,US,WV,2,88
+United States,54013,Calhoun,West Virginia,US,WV,1,0
+United States,54015,Clay,West Virginia,US,WV,0,0
+United States,54017,Doddridge,West Virginia,US,WV,0,0
+United States,54019,Fayette,West Virginia,US,WV,2,3
+United States,54021,Gilmer,West Virginia,US,WV,0,0
+United States,54023,Grant,West Virginia,US,WV,1,3
+United States,54025,Greenbrier,West Virginia,US,WV,1,12
+United States,54027,Hampshire,West Virginia,US,WV,1,0
+United States,54029,Hancock,West Virginia,US,WV,1,10
+United States,54031,Hardy,West Virginia,US,WV,0,0
+United States,54033,Harrison,West Virginia,US,WV,1,20
+United States,54035,Jackson,West Virginia,US,WV,1,0
+United States,54037,Jefferson,West Virginia,US,WV,1,5
+United States,54039,Kanawha,West Virginia,US,WV,4,156
+United States,54041,Lewis,West Virginia,US,WV,1,6
+United States,54043,Lincoln,West Virginia,US,WV,0,0
+United States,54045,Logan,West Virginia,US,WV,1,12
+United States,54047,McDowell,West Virginia,US,WV,1,7
+United States,54049,Marion,West Virginia,US,WV,1,14
+United States,54051,Marshall,West Virginia,US,WV,1,9
+United States,54053,Mason,West Virginia,US,WV,1,5
+United States,54055,Mercer,West Virginia,US,WV,2,29
+United States,54057,Mineral,West Virginia,US,WV,1,4
+United States,54059,Mingo,West Virginia,US,WV,1,6
+United States,54061,Monongalia,West Virginia,US,WV,2,119
+United States,54063,Monroe,West Virginia,US,WV,0,0
+United States,54065,Morgan,West Virginia,US,WV,1,0
+United States,54067,Nicholas,West Virginia,US,WV,1,0
+United States,54069,Ohio,West Virginia,US,WV,2,37
+United States,54071,Pendleton,West Virginia,US,WV,0,0
+United States,54073,Pleasants,West Virginia,US,WV,0,0
+United States,54075,Pocahontas,West Virginia,US,WV,1,0
+United States,54077,Preston,West Virginia,US,WV,1,0
+United States,54079,Putnam,West Virginia,US,WV,0,0
+United States,54081,Raleigh,West Virginia,US,WV,2,43
+United States,54083,Randolph,West Virginia,US,WV,1,0
+United States,54085,Ritchie,West Virginia,US,WV,0,0
+United States,54087,Roane,West Virginia,US,WV,1,0
+United States,54089,Summers,West Virginia,US,WV,1,0
+United States,54091,Taylor,West Virginia,US,WV,1,0
+United States,54093,Tucker,West Virginia,US,WV,0,0
+United States,54095,Tyler,West Virginia,US,WV,1,0
+United States,54097,Upshur,West Virginia,US,WV,1,4
+United States,54099,Wayne,West Virginia,US,WV,0,0
+United States,54101,Webster,West Virginia,US,WV,1,0
+United States,54103,Wetzel,West Virginia,US,WV,1,5
+United States,54105,Wirt,West Virginia,US,WV,0,0
+United States,54107,Wood,West Virginia,US,WV,1,36
+United States,54109,Wyoming,West Virginia,US,WV,0,0
+United States,55001,Adams,Wisconsin,US,WI,1,0
+United States,55003,Ashland,Wisconsin,US,WI,1,0
+United States,55005,Barron,Wisconsin,US,WI,3,5
+United States,55007,Bayfield,Wisconsin,US,WI,0,0
+United States,55009,Brown,Wisconsin,US,WI,4,60
+United States,55011,Buffalo,Wisconsin,US,WI,0,0
+United States,55013,Burnett,Wisconsin,US,WI,1,0
+United States,55015,Calumet,Wisconsin,US,WI,1,0
+United States,55017,Chippewa,Wisconsin,US,WI,3,6
+United States,55019,Clark,Wisconsin,US,WI,1,0
+United States,55021,Columbia,Wisconsin,US,WI,2,10
+United States,55023,Crawford,Wisconsin,US,WI,1,0
+United States,55025,Dane,Wisconsin,US,WI,4,39
+United States,55027,Dodge,Wisconsin,US,WI,2,10
+United States,55029,Door,Wisconsin,US,WI,1,4
+United States,55031,Douglas,Wisconsin,US,WI,1,0
+United States,55033,Dunn,Wisconsin,US,WI,1,0
+United States,55035,Eau Claire,Wisconsin,US,WI,4,48
+United States,55037,Florence,Wisconsin,US,WI,0,0
+United States,55039,Fond du Lac,Wisconsin,US,WI,3,15
+United States,55041,Forest,Wisconsin,US,WI,0,0
+United States,55043,Grant,Wisconsin,US,WI,3,0
+United States,55045,Green,Wisconsin,US,WI,1,6
+United States,55047,Green Lake,Wisconsin,US,WI,1,5
+United States,55049,Iowa,Wisconsin,US,WI,1,0
+United States,55051,Iron,Wisconsin,US,WI,0,0
+United States,55053,Jackson,Wisconsin,US,WI,1,0
+United States,55055,Jefferson,Wisconsin,US,WI,1,4
+United States,55057,Juneau,Wisconsin,US,WI,1,0
+United States,55059,Kenosha,Wisconsin,US,WI,2,27
+United States,55061,Kewaunee,Wisconsin,US,WI,0,0
+United States,55063,La Crosse,Wisconsin,US,WI,2,52
+United States,55065,Lafayette,Wisconsin,US,WI,1,0
+United States,55067,Langlade,Wisconsin,US,WI,1,4
+United States,55069,Lincoln,Wisconsin,US,WI,2,0
+United States,55071,Manitowoc,Wisconsin,US,WI,2,16
+United States,55073,Marathon,Wisconsin,US,WI,2,52
+United States,55075,Marinette,Wisconsin,US,WI,1,10
+United States,55077,Marquette,Wisconsin,US,WI,0,0
+United States,55078,Menominee,Wisconsin,US,WI,0,0
+United States,55079,Milwaukee,Wisconsin,US,WI,8,381
+United States,55081,Monroe,Wisconsin,US,WI,2,0
+United States,55083,Oconto,Wisconsin,US,WI,2,0
+United States,55085,Oneida,Wisconsin,US,WI,1,20
+United States,55087,Outagamie,Wisconsin,US,WI,2,64
+United States,55089,Ozaukee,Wisconsin,US,WI,2,46
+United States,55091,Pepin,Wisconsin,US,WI,1,0
+United States,55093,Pierce,Wisconsin,US,WI,1,0
+United States,55095,Polk,Wisconsin,US,WI,3,3
+United States,55097,Portage,Wisconsin,US,WI,1,12
+United States,55099,Price,Wisconsin,US,WI,1,4
+United States,55101,Racine,Wisconsin,US,WI,2,33
+United States,55103,Richland,Wisconsin,US,WI,1,4
+United States,55105,Rock,Wisconsin,US,WI,4,33
+United States,55107,Rusk,Wisconsin,US,WI,1,4
+United States,55109,St. Croix,Wisconsin,US,WI,3,0
+United States,55111,Sauk,Wisconsin,US,WI,3,10
+United States,55113,Sawyer,Wisconsin,US,WI,1,0
+United States,55115,Shawano,Wisconsin,US,WI,1,0
+United States,55117,Sheboygan,Wisconsin,US,WI,2,13
+United States,55119,Taylor,Wisconsin,US,WI,1,0
+United States,55121,Trempealeau,Wisconsin,US,WI,2,0
+United States,55123,Vernon,Wisconsin,US,WI,2,0
+United States,55125,Vilas,Wisconsin,US,WI,2,10
+United States,55127,Walworth,Wisconsin,US,WI,2,16
+United States,55129,Washburn,Wisconsin,US,WI,2,0
+United States,55131,Washington,Wisconsin,US,WI,2,12
+United States,55133,Waukesha,Wisconsin,US,WI,4,64
+United States,55135,Waupaca,Wisconsin,US,WI,2,4
+United States,55137,Waushara,Wisconsin,US,WI,1,0
+United States,55139,Winnebago,Wisconsin,US,WI,2,26
+United States,55141,Wood,Wisconsin,US,WI,2,27
+United States,56001,Albany,Wyoming,US,WY,1,4
+United States,56003,Big Horn,Wyoming,US,WY,2,0
+United States,56005,Campbell,Wyoming,US,WY,1,14
+United States,56007,Carbon,Wyoming,US,WY,1,6
+United States,56009,Converse,Wyoming,US,WY,1,0
+United States,56011,Crook,Wyoming,US,WY,1,0
+United States,56013,Fremont,Wyoming,US,WY,1,12
+United States,56015,Goshen,Wyoming,US,WY,1,0
+United States,56017,Hot Springs,Wyoming,US,WY,1,0
+United States,56019,Johnson,Wyoming,US,WY,1,0
+United States,56021,Laramie,Wyoming,US,WY,1,15
+United States,56023,Lincoln,Wyoming,US,WY,2,0
+United States,56025,Natrona,Wyoming,US,WY,2,14
+United States,56027,Niobrara,Wyoming,US,WY,1,0
+United States,56029,Park,Wyoming,US,WY,2,4
+United States,56031,Platte,Wyoming,US,WY,1,0
+United States,56033,Sheridan,Wyoming,US,WY,1,11
+United States,56035,Sublette,Wyoming,US,WY,0,0
+United States,56037,Sweetwater,Wyoming,US,WY,2,10
+United States,56039,Teton,Wyoming,US,WY,1,6
+United States,56041,Uinta,Wyoming,US,WY,1,6
+United States,56043,Washakie,Wyoming,US,WY,1,0
+United States,56045,Weston,Wyoming,US,WY,1,0
