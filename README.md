@@ -25,13 +25,13 @@ It also has some side tables to join for more information regarding geos and
 healthcare/hospital stats. See `glide_covid_19/data/sqlite_schema.sql` for a
 full list of tables/columns.
 
-Some import notes:
+Some important notes:
 
 * Data is not currently being updated in an automated fashion.
 * Some of my pandas-fu may be suboptimal but these are relatively small files
 so things still run quickly.
 * This has not been thoroughly tested, and is still prone to rapid changes.
-* The datasources are somewhat disorganized when it comes to using
+* The data sources are somewhat disorganized when it comes to using
 standardized values (such as UTC for timestamps or ISO-approved geos). This
 may cause discrepancies, and there is room for improvement here.
 * I may add more interesting side tables, such as demographic and population
