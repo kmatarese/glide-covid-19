@@ -1,24 +1,20 @@
+#!/usr/bin/env python
 """http://covidtracking.com/api/states/daily.csv
 
 Notes
 -----
 * Time zone is  EST
 """
-
-import os
-
-from glide import *
-from glide.extensions.pandas import *
+from glide_covid_19.utils import *
 
 
-OUTDIR = os.path.dirname(os.path.abspath(__file__)) + "/../data/"
 OUTFILE = OUTDIR + "covidtracking_states_daily.csv"
 URL = "http://covidtracking.com/api/states/daily.csv"
 
 
-class CleanData(Node):
+class Transform(Node):
     def run(self, df):
-        df.drop(columns=["total", "dateChecked", "hash"], inplace=True)
+        df.drop(columns=["total", "dateChecked", "hash", "fips"], inplace=True)
         df.rename(
             columns={
                 "state": "state_abbr",
@@ -36,14 +32,17 @@ class CleanData(Node):
             },
             inplace=True,
         )
-        df["fips"] = df["fips"].astype(str).str.zfill(5)
         df["date"] = pd.to_datetime(df["date"].astype(str))
-        df.set_index(["date", "fips"], inplace=True)
+        df.set_index(["date", "state_abbr"], inplace=True)
+        df.sort_index(inplace=True)
         self.push(df)
 
 
-glider = Glider(
-    DataFrameCSVExtract("extract") | CleanData("clean") | DataFrameCSVLoad("load")
-)
-
-glider.consume(URL, load=dict(f=OUTFILE))
+if __name__ == "__main__":
+    glider = Glider(
+        DataFrameCSVExtract("extract")
+        | Transform("transform")
+        | LenPrint("print")
+        | DataFrameCSVLoad("load")
+    )
+    glider.consume(URL, load=dict(f=OUTFILE))

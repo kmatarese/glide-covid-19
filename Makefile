@@ -1,4 +1,4 @@
-ENV := $(HOME)/venvs/glide_covid_19
+ENV := $(HOME)/venvs/glide_covid
 TEST_ENV := /tmp/glide_covid_19_pip_test/
 PACKAGE_NAME := 'glide_covid_19'
 VERSION := $(shell python setup.py --version)

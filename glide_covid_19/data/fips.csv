@@ -1,4 +1,4 @@
-fips,state_abbr,name,lat,long
+fips,state_abbr,county_name,lat,long
 01001,AL,Autauga County,32.532237,-86.64644
 01003,AL,Baldwin County,30.659218,-87.746067
 01005,AL,Barbour County,31.870253,-85.405104
