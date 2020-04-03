@@ -73,6 +73,8 @@ CREATE TABLE "country_province_timeseries" (
   "currently_on_ventilator" INTEGER,
   "cases" INTEGER,
   "hospitalized" INTEGER,
+  "in_icu" INTEGER,
+  "on_ventilator" INTEGER,           
   "deaths" INTEGER, 
   "negative_tests" INTEGER,  
   "test_results" INTEGER,

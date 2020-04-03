@@ -21,18 +21,12 @@ class Transform(Node):
         )
         df.drop(columns=["county", "state"], inplace=True)
         df.drop(df.loc[df["fips"].isnull()].index, inplace=True)
+
+        # Calculate daily numbers from diff in cumulative
         df.set_index(["fips", "date"], inplace=True)
         df.sort_index(inplace=True)
-
-        def diff(x):
-            first_index = x.first_valid_index()
-            first_values = x.loc[first_index]
-            x = x.diff()
-            x.loc[first_index, "cumulative_cases"] = first_values["cumulative_cases"]
-            x.loc[first_index, "cumulative_deaths"] = first_values["cumulative_deaths"]
-            return x
-
-        df_diff = df.groupby("fips").apply(diff)
+        diff_columns = ["cumulative_cases", "cumulative_deaths"]
+        df_diff = df.groupby("fips").apply(apply_df_diff, diff_columns)
         df["cases"] = df_diff["cumulative_cases"]
         df["deaths"] = df_diff["cumulative_deaths"]
 

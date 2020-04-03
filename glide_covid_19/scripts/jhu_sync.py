@@ -50,17 +50,12 @@ class Transform(Node):
             inplace=True,
         )
 
+        # Calculate daily numbers from diff in cumulative
         df.set_index(GROUP_INDEX, inplace=True)
         df.sort_index(inplace=True)
-
-        def diff(x):
-            first_index = x.first_valid_index()
-            first_values = x.loc[first_index]
-            x = x.diff()
-            x.loc[first_index, value_rename] = first_values[value_rename]
-            return x
-
-        df_diff = df.groupby(["country_region", "state_province"]).apply(diff)
+        df_diff = df.groupby(["country_region", "state_province"]).apply(
+            apply_df_diff, [value_rename]
+        )
         non_cumulative_name = value_rename.replace("cumulative_", "")
         df[non_cumulative_name] = df_diff[value_rename]
 
