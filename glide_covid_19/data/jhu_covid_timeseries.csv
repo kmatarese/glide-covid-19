@@ -28,11 +28,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-22,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-22,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-22,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-22,Botswana,Unknown,0,0.0,0,0.0
 2020-01-22,Brazil,Unknown,0,0.0,0,0.0
 2020-01-22,Brunei,Unknown,0,0.0,0,0.0
 2020-01-22,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-22,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-22,Burma,Unknown,0,0.0,0,0.0
+2020-01-22,Burundi,Unknown,0,0.0,0,0.0
 2020-01-22,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-22,Cambodia,Unknown,0,0.0,0,0.0
 2020-01-22,Cameroon,Unknown,0,0.0,0,0.0
@@ -165,6 +167,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-22,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-22,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-22,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-22,Malawi,Unknown,0,0.0,0,0.0
 2020-01-22,Malaysia,Unknown,0,0.0,0,0.0
 2020-01-22,Maldives,Unknown,0,0.0,0,0.0
 2020-01-22,Mali,Unknown,0,0.0,0,0.0
@@ -181,6 +184,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-22,Namibia,Unknown,0,0.0,0,0.0
 2020-01-22,Nepal,Unknown,0,0.0,0,0.0
 2020-01-22,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-22,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-22,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-22,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-22,Netherlands,Unknown,0,0.0,0,0.0
@@ -211,6 +215,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-22,Senegal,Unknown,0,0.0,0,0.0
 2020-01-22,Serbia,Unknown,0,0.0,0,0.0
 2020-01-22,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-22,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-22,Singapore,Unknown,0,0.0,0,0.0
 2020-01-22,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-22,Slovenia,Unknown,0,0.0,0,0.0
@@ -281,11 +286,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-23,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-23,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-23,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-23,Botswana,Unknown,0,0.0,0,0.0
 2020-01-23,Brazil,Unknown,0,0.0,0,0.0
 2020-01-23,Brunei,Unknown,0,0.0,0,0.0
 2020-01-23,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-23,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-23,Burma,Unknown,0,0.0,0,0.0
+2020-01-23,Burundi,Unknown,0,0.0,0,0.0
 2020-01-23,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-23,Cambodia,Unknown,0,0.0,0,0.0
 2020-01-23,Cameroon,Unknown,0,0.0,0,0.0
@@ -418,6 +425,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-23,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-23,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-23,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-23,Malawi,Unknown,0,0.0,0,0.0
 2020-01-23,Malaysia,Unknown,0,0.0,0,0.0
 2020-01-23,Maldives,Unknown,0,0.0,0,0.0
 2020-01-23,Mali,Unknown,0,0.0,0,0.0
@@ -434,6 +442,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-23,Namibia,Unknown,0,0.0,0,0.0
 2020-01-23,Nepal,Unknown,0,0.0,0,0.0
 2020-01-23,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-23,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-23,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-23,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-23,Netherlands,Unknown,0,0.0,0,0.0
@@ -464,6 +473,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-23,Senegal,Unknown,0,0.0,0,0.0
 2020-01-23,Serbia,Unknown,0,0.0,0,0.0
 2020-01-23,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-23,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-23,Singapore,Unknown,1,1.0,0,0.0
 2020-01-23,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-23,Slovenia,Unknown,0,0.0,0,0.0
@@ -534,11 +544,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-24,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-24,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-24,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-24,Botswana,Unknown,0,0.0,0,0.0
 2020-01-24,Brazil,Unknown,0,0.0,0,0.0
 2020-01-24,Brunei,Unknown,0,0.0,0,0.0
 2020-01-24,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-24,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-24,Burma,Unknown,0,0.0,0,0.0
+2020-01-24,Burundi,Unknown,0,0.0,0,0.0
 2020-01-24,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-24,Cambodia,Unknown,0,0.0,0,0.0
 2020-01-24,Cameroon,Unknown,0,0.0,0,0.0
@@ -671,6 +683,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-24,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-24,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-24,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-24,Malawi,Unknown,0,0.0,0,0.0
 2020-01-24,Malaysia,Unknown,0,0.0,0,0.0
 2020-01-24,Maldives,Unknown,0,0.0,0,0.0
 2020-01-24,Mali,Unknown,0,0.0,0,0.0
@@ -687,6 +700,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-24,Namibia,Unknown,0,0.0,0,0.0
 2020-01-24,Nepal,Unknown,0,0.0,0,0.0
 2020-01-24,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-24,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-24,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-24,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-24,Netherlands,Unknown,0,0.0,0,0.0
@@ -717,6 +731,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-24,Senegal,Unknown,0,0.0,0,0.0
 2020-01-24,Serbia,Unknown,0,0.0,0,0.0
 2020-01-24,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-24,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-24,Singapore,Unknown,3,2.0,0,0.0
 2020-01-24,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-24,Slovenia,Unknown,0,0.0,0,0.0
@@ -787,11 +802,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-25,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-25,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-25,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-25,Botswana,Unknown,0,0.0,0,0.0
 2020-01-25,Brazil,Unknown,0,0.0,0,0.0
 2020-01-25,Brunei,Unknown,0,0.0,0,0.0
 2020-01-25,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-25,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-25,Burma,Unknown,0,0.0,0,0.0
+2020-01-25,Burundi,Unknown,0,0.0,0,0.0
 2020-01-25,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-25,Cambodia,Unknown,0,0.0,0,0.0
 2020-01-25,Cameroon,Unknown,0,0.0,0,0.0
@@ -924,6 +941,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-25,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-25,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-25,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-25,Malawi,Unknown,0,0.0,0,0.0
 2020-01-25,Malaysia,Unknown,3,3.0,0,0.0
 2020-01-25,Maldives,Unknown,0,0.0,0,0.0
 2020-01-25,Mali,Unknown,0,0.0,0,0.0
@@ -940,6 +958,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-25,Namibia,Unknown,0,0.0,0,0.0
 2020-01-25,Nepal,Unknown,1,1.0,0,0.0
 2020-01-25,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-25,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-25,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-25,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-25,Netherlands,Unknown,0,0.0,0,0.0
@@ -970,6 +989,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-25,Senegal,Unknown,0,0.0,0,0.0
 2020-01-25,Serbia,Unknown,0,0.0,0,0.0
 2020-01-25,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-25,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-25,Singapore,Unknown,3,0.0,0,0.0
 2020-01-25,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-25,Slovenia,Unknown,0,0.0,0,0.0
@@ -1040,11 +1060,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-26,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-26,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-26,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-26,Botswana,Unknown,0,0.0,0,0.0
 2020-01-26,Brazil,Unknown,0,0.0,0,0.0
 2020-01-26,Brunei,Unknown,0,0.0,0,0.0
 2020-01-26,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-26,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-26,Burma,Unknown,0,0.0,0,0.0
+2020-01-26,Burundi,Unknown,0,0.0,0,0.0
 2020-01-26,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-26,Cambodia,Unknown,0,0.0,0,0.0
 2020-01-26,Cameroon,Unknown,0,0.0,0,0.0
@@ -1177,6 +1199,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-26,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-26,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-26,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-26,Malawi,Unknown,0,0.0,0,0.0
 2020-01-26,Malaysia,Unknown,4,1.0,0,0.0
 2020-01-26,Maldives,Unknown,0,0.0,0,0.0
 2020-01-26,Mali,Unknown,0,0.0,0,0.0
@@ -1193,6 +1216,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-26,Namibia,Unknown,0,0.0,0,0.0
 2020-01-26,Nepal,Unknown,1,0.0,0,0.0
 2020-01-26,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-26,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-26,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-26,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-26,Netherlands,Unknown,0,0.0,0,0.0
@@ -1223,6 +1247,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-26,Senegal,Unknown,0,0.0,0,0.0
 2020-01-26,Serbia,Unknown,0,0.0,0,0.0
 2020-01-26,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-26,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-26,Singapore,Unknown,4,1.0,0,0.0
 2020-01-26,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-26,Slovenia,Unknown,0,0.0,0,0.0
@@ -1293,11 +1318,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-27,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-27,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-27,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-27,Botswana,Unknown,0,0.0,0,0.0
 2020-01-27,Brazil,Unknown,0,0.0,0,0.0
 2020-01-27,Brunei,Unknown,0,0.0,0,0.0
 2020-01-27,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-27,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-27,Burma,Unknown,0,0.0,0,0.0
+2020-01-27,Burundi,Unknown,0,0.0,0,0.0
 2020-01-27,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-27,Cambodia,Unknown,1,1.0,0,0.0
 2020-01-27,Cameroon,Unknown,0,0.0,0,0.0
@@ -1430,6 +1457,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-27,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-27,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-27,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-27,Malawi,Unknown,0,0.0,0,0.0
 2020-01-27,Malaysia,Unknown,4,0.0,0,0.0
 2020-01-27,Maldives,Unknown,0,0.0,0,0.0
 2020-01-27,Mali,Unknown,0,0.0,0,0.0
@@ -1446,6 +1474,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-27,Namibia,Unknown,0,0.0,0,0.0
 2020-01-27,Nepal,Unknown,1,0.0,0,0.0
 2020-01-27,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-27,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-27,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-27,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-27,Netherlands,Unknown,0,0.0,0,0.0
@@ -1476,6 +1505,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-27,Senegal,Unknown,0,0.0,0,0.0
 2020-01-27,Serbia,Unknown,0,0.0,0,0.0
 2020-01-27,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-27,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-27,Singapore,Unknown,5,1.0,0,0.0
 2020-01-27,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-27,Slovenia,Unknown,0,0.0,0,0.0
@@ -1546,11 +1576,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-28,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-28,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-28,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-28,Botswana,Unknown,0,0.0,0,0.0
 2020-01-28,Brazil,Unknown,0,0.0,0,0.0
 2020-01-28,Brunei,Unknown,0,0.0,0,0.0
 2020-01-28,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-28,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-28,Burma,Unknown,0,0.0,0,0.0
+2020-01-28,Burundi,Unknown,0,0.0,0,0.0
 2020-01-28,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-28,Cambodia,Unknown,1,0.0,0,0.0
 2020-01-28,Cameroon,Unknown,0,0.0,0,0.0
@@ -1683,6 +1715,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-28,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-28,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-28,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-28,Malawi,Unknown,0,0.0,0,0.0
 2020-01-28,Malaysia,Unknown,4,0.0,0,0.0
 2020-01-28,Maldives,Unknown,0,0.0,0,0.0
 2020-01-28,Mali,Unknown,0,0.0,0,0.0
@@ -1699,6 +1732,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-28,Namibia,Unknown,0,0.0,0,0.0
 2020-01-28,Nepal,Unknown,1,0.0,0,0.0
 2020-01-28,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-28,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-28,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-28,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-28,Netherlands,Unknown,0,0.0,0,0.0
@@ -1729,6 +1763,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-28,Senegal,Unknown,0,0.0,0,0.0
 2020-01-28,Serbia,Unknown,0,0.0,0,0.0
 2020-01-28,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-28,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-28,Singapore,Unknown,7,2.0,0,0.0
 2020-01-28,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-28,Slovenia,Unknown,0,0.0,0,0.0
@@ -1799,11 +1834,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-29,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-29,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-29,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-29,Botswana,Unknown,0,0.0,0,0.0
 2020-01-29,Brazil,Unknown,0,0.0,0,0.0
 2020-01-29,Brunei,Unknown,0,0.0,0,0.0
 2020-01-29,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-29,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-29,Burma,Unknown,0,0.0,0,0.0
+2020-01-29,Burundi,Unknown,0,0.0,0,0.0
 2020-01-29,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-29,Cambodia,Unknown,1,0.0,0,0.0
 2020-01-29,Cameroon,Unknown,0,0.0,0,0.0
@@ -1936,6 +1973,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-29,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-29,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-29,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-29,Malawi,Unknown,0,0.0,0,0.0
 2020-01-29,Malaysia,Unknown,7,3.0,0,0.0
 2020-01-29,Maldives,Unknown,0,0.0,0,0.0
 2020-01-29,Mali,Unknown,0,0.0,0,0.0
@@ -1952,6 +1990,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-29,Namibia,Unknown,0,0.0,0,0.0
 2020-01-29,Nepal,Unknown,1,0.0,0,0.0
 2020-01-29,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-29,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-29,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-29,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-29,Netherlands,Unknown,0,0.0,0,0.0
@@ -1982,6 +2021,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-29,Senegal,Unknown,0,0.0,0,0.0
 2020-01-29,Serbia,Unknown,0,0.0,0,0.0
 2020-01-29,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-29,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-29,Singapore,Unknown,7,0.0,0,0.0
 2020-01-29,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-29,Slovenia,Unknown,0,0.0,0,0.0
@@ -2052,11 +2092,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-30,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-30,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-30,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-30,Botswana,Unknown,0,0.0,0,0.0
 2020-01-30,Brazil,Unknown,0,0.0,0,0.0
 2020-01-30,Brunei,Unknown,0,0.0,0,0.0
 2020-01-30,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-30,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-30,Burma,Unknown,0,0.0,0,0.0
+2020-01-30,Burundi,Unknown,0,0.0,0,0.0
 2020-01-30,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-30,Cambodia,Unknown,1,0.0,0,0.0
 2020-01-30,Cameroon,Unknown,0,0.0,0,0.0
@@ -2189,6 +2231,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-30,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-30,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-30,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-30,Malawi,Unknown,0,0.0,0,0.0
 2020-01-30,Malaysia,Unknown,8,1.0,0,0.0
 2020-01-30,Maldives,Unknown,0,0.0,0,0.0
 2020-01-30,Mali,Unknown,0,0.0,0,0.0
@@ -2205,6 +2248,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-30,Namibia,Unknown,0,0.0,0,0.0
 2020-01-30,Nepal,Unknown,1,0.0,0,0.0
 2020-01-30,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-30,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-30,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-30,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-30,Netherlands,Unknown,0,0.0,0,0.0
@@ -2235,6 +2279,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-30,Senegal,Unknown,0,0.0,0,0.0
 2020-01-30,Serbia,Unknown,0,0.0,0,0.0
 2020-01-30,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-30,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-30,Singapore,Unknown,10,3.0,0,0.0
 2020-01-30,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-30,Slovenia,Unknown,0,0.0,0,0.0
@@ -2305,11 +2350,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-31,Bhutan,Unknown,0,0.0,0,0.0
 2020-01-31,Bolivia,Unknown,0,0.0,0,0.0
 2020-01-31,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-01-31,Botswana,Unknown,0,0.0,0,0.0
 2020-01-31,Brazil,Unknown,0,0.0,0,0.0
 2020-01-31,Brunei,Unknown,0,0.0,0,0.0
 2020-01-31,Bulgaria,Unknown,0,0.0,0,0.0
 2020-01-31,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-01-31,Burma,Unknown,0,0.0,0,0.0
+2020-01-31,Burundi,Unknown,0,0.0,0,0.0
 2020-01-31,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-01-31,Cambodia,Unknown,1,0.0,0,0.0
 2020-01-31,Cameroon,Unknown,0,0.0,0,0.0
@@ -2442,6 +2489,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-31,Luxembourg,Unknown,0,0.0,0,0.0
 2020-01-31,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-01-31,Madagascar,Unknown,0,0.0,0,0.0
+2020-01-31,Malawi,Unknown,0,0.0,0,0.0
 2020-01-31,Malaysia,Unknown,8,0.0,0,0.0
 2020-01-31,Maldives,Unknown,0,0.0,0,0.0
 2020-01-31,Mali,Unknown,0,0.0,0,0.0
@@ -2458,6 +2506,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-31,Namibia,Unknown,0,0.0,0,0.0
 2020-01-31,Nepal,Unknown,1,0.0,0,0.0
 2020-01-31,Netherlands,Aruba,0,0.0,0,0.0
+2020-01-31,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-01-31,Netherlands,Curacao,0,0.0,0,0.0
 2020-01-31,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-01-31,Netherlands,Unknown,0,0.0,0,0.0
@@ -2488,6 +2537,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-01-31,Senegal,Unknown,0,0.0,0,0.0
 2020-01-31,Serbia,Unknown,0,0.0,0,0.0
 2020-01-31,Seychelles,Unknown,0,0.0,0,0.0
+2020-01-31,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-01-31,Singapore,Unknown,13,3.0,0,0.0
 2020-01-31,Slovakia,Unknown,0,0.0,0,0.0
 2020-01-31,Slovenia,Unknown,0,0.0,0,0.0
@@ -2558,11 +2608,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-01,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-01,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-01,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-01,Botswana,Unknown,0,0.0,0,0.0
 2020-02-01,Brazil,Unknown,0,0.0,0,0.0
 2020-02-01,Brunei,Unknown,0,0.0,0,0.0
 2020-02-01,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-01,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-01,Burma,Unknown,0,0.0,0,0.0
+2020-02-01,Burundi,Unknown,0,0.0,0,0.0
 2020-02-01,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-01,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-01,Cameroon,Unknown,0,0.0,0,0.0
@@ -2695,6 +2747,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-01,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-01,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-01,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-01,Malawi,Unknown,0,0.0,0,0.0
 2020-02-01,Malaysia,Unknown,8,0.0,0,0.0
 2020-02-01,Maldives,Unknown,0,0.0,0,0.0
 2020-02-01,Mali,Unknown,0,0.0,0,0.0
@@ -2711,6 +2764,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-01,Namibia,Unknown,0,0.0,0,0.0
 2020-02-01,Nepal,Unknown,1,0.0,0,0.0
 2020-02-01,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-01,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-01,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-01,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-01,Netherlands,Unknown,0,0.0,0,0.0
@@ -2741,6 +2795,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-01,Senegal,Unknown,0,0.0,0,0.0
 2020-02-01,Serbia,Unknown,0,0.0,0,0.0
 2020-02-01,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-01,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-01,Singapore,Unknown,16,3.0,0,0.0
 2020-02-01,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-01,Slovenia,Unknown,0,0.0,0,0.0
@@ -2811,11 +2866,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-02,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-02,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-02,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-02,Botswana,Unknown,0,0.0,0,0.0
 2020-02-02,Brazil,Unknown,0,0.0,0,0.0
 2020-02-02,Brunei,Unknown,0,0.0,0,0.0
 2020-02-02,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-02,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-02,Burma,Unknown,0,0.0,0,0.0
+2020-02-02,Burundi,Unknown,0,0.0,0,0.0
 2020-02-02,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-02,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-02,Cameroon,Unknown,0,0.0,0,0.0
@@ -2948,6 +3005,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-02,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-02,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-02,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-02,Malawi,Unknown,0,0.0,0,0.0
 2020-02-02,Malaysia,Unknown,8,0.0,0,0.0
 2020-02-02,Maldives,Unknown,0,0.0,0,0.0
 2020-02-02,Mali,Unknown,0,0.0,0,0.0
@@ -2964,6 +3022,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-02,Namibia,Unknown,0,0.0,0,0.0
 2020-02-02,Nepal,Unknown,1,0.0,0,0.0
 2020-02-02,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-02,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-02,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-02,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-02,Netherlands,Unknown,0,0.0,0,0.0
@@ -2994,6 +3053,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-02,Senegal,Unknown,0,0.0,0,0.0
 2020-02-02,Serbia,Unknown,0,0.0,0,0.0
 2020-02-02,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-02,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-02,Singapore,Unknown,18,2.0,0,0.0
 2020-02-02,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-02,Slovenia,Unknown,0,0.0,0,0.0
@@ -3064,11 +3124,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-03,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-03,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-03,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-03,Botswana,Unknown,0,0.0,0,0.0
 2020-02-03,Brazil,Unknown,0,0.0,0,0.0
 2020-02-03,Brunei,Unknown,0,0.0,0,0.0
 2020-02-03,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-03,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-03,Burma,Unknown,0,0.0,0,0.0
+2020-02-03,Burundi,Unknown,0,0.0,0,0.0
 2020-02-03,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-03,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-03,Cameroon,Unknown,0,0.0,0,0.0
@@ -3201,6 +3263,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-03,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-03,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-03,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-03,Malawi,Unknown,0,0.0,0,0.0
 2020-02-03,Malaysia,Unknown,8,0.0,0,0.0
 2020-02-03,Maldives,Unknown,0,0.0,0,0.0
 2020-02-03,Mali,Unknown,0,0.0,0,0.0
@@ -3217,6 +3280,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-03,Namibia,Unknown,0,0.0,0,0.0
 2020-02-03,Nepal,Unknown,1,0.0,0,0.0
 2020-02-03,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-03,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-03,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-03,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-03,Netherlands,Unknown,0,0.0,0,0.0
@@ -3247,6 +3311,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-03,Senegal,Unknown,0,0.0,0,0.0
 2020-02-03,Serbia,Unknown,0,0.0,0,0.0
 2020-02-03,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-03,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-03,Singapore,Unknown,18,0.0,0,0.0
 2020-02-03,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-03,Slovenia,Unknown,0,0.0,0,0.0
@@ -3317,11 +3382,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-04,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-04,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-04,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-04,Botswana,Unknown,0,0.0,0,0.0
 2020-02-04,Brazil,Unknown,0,0.0,0,0.0
 2020-02-04,Brunei,Unknown,0,0.0,0,0.0
 2020-02-04,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-04,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-04,Burma,Unknown,0,0.0,0,0.0
+2020-02-04,Burundi,Unknown,0,0.0,0,0.0
 2020-02-04,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-04,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-04,Cameroon,Unknown,0,0.0,0,0.0
@@ -3454,6 +3521,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-04,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-04,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-04,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-04,Malawi,Unknown,0,0.0,0,0.0
 2020-02-04,Malaysia,Unknown,10,2.0,0,0.0
 2020-02-04,Maldives,Unknown,0,0.0,0,0.0
 2020-02-04,Mali,Unknown,0,0.0,0,0.0
@@ -3470,6 +3538,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-04,Namibia,Unknown,0,0.0,0,0.0
 2020-02-04,Nepal,Unknown,1,0.0,0,0.0
 2020-02-04,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-04,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-04,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-04,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-04,Netherlands,Unknown,0,0.0,0,0.0
@@ -3500,6 +3569,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-04,Senegal,Unknown,0,0.0,0,0.0
 2020-02-04,Serbia,Unknown,0,0.0,0,0.0
 2020-02-04,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-04,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-04,Singapore,Unknown,24,6.0,0,0.0
 2020-02-04,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-04,Slovenia,Unknown,0,0.0,0,0.0
@@ -3570,11 +3640,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-05,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-05,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-05,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-05,Botswana,Unknown,0,0.0,0,0.0
 2020-02-05,Brazil,Unknown,0,0.0,0,0.0
 2020-02-05,Brunei,Unknown,0,0.0,0,0.0
 2020-02-05,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-05,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-05,Burma,Unknown,0,0.0,0,0.0
+2020-02-05,Burundi,Unknown,0,0.0,0,0.0
 2020-02-05,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-05,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-05,Cameroon,Unknown,0,0.0,0,0.0
@@ -3707,6 +3779,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-05,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-05,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-05,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-05,Malawi,Unknown,0,0.0,0,0.0
 2020-02-05,Malaysia,Unknown,12,2.0,0,0.0
 2020-02-05,Maldives,Unknown,0,0.0,0,0.0
 2020-02-05,Mali,Unknown,0,0.0,0,0.0
@@ -3723,6 +3796,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-05,Namibia,Unknown,0,0.0,0,0.0
 2020-02-05,Nepal,Unknown,1,0.0,0,0.0
 2020-02-05,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-05,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-05,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-05,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-05,Netherlands,Unknown,0,0.0,0,0.0
@@ -3753,6 +3827,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-05,Senegal,Unknown,0,0.0,0,0.0
 2020-02-05,Serbia,Unknown,0,0.0,0,0.0
 2020-02-05,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-05,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-05,Singapore,Unknown,28,4.0,0,0.0
 2020-02-05,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-05,Slovenia,Unknown,0,0.0,0,0.0
@@ -3823,11 +3898,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-06,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-06,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-06,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-06,Botswana,Unknown,0,0.0,0,0.0
 2020-02-06,Brazil,Unknown,0,0.0,0,0.0
 2020-02-06,Brunei,Unknown,0,0.0,0,0.0
 2020-02-06,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-06,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-06,Burma,Unknown,0,0.0,0,0.0
+2020-02-06,Burundi,Unknown,0,0.0,0,0.0
 2020-02-06,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-06,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-06,Cameroon,Unknown,0,0.0,0,0.0
@@ -3960,6 +4037,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-06,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-06,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-06,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-06,Malawi,Unknown,0,0.0,0,0.0
 2020-02-06,Malaysia,Unknown,12,0.0,0,0.0
 2020-02-06,Maldives,Unknown,0,0.0,0,0.0
 2020-02-06,Mali,Unknown,0,0.0,0,0.0
@@ -3976,6 +4054,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-06,Namibia,Unknown,0,0.0,0,0.0
 2020-02-06,Nepal,Unknown,1,0.0,0,0.0
 2020-02-06,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-06,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-06,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-06,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-06,Netherlands,Unknown,0,0.0,0,0.0
@@ -4006,6 +4085,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-06,Senegal,Unknown,0,0.0,0,0.0
 2020-02-06,Serbia,Unknown,0,0.0,0,0.0
 2020-02-06,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-06,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-06,Singapore,Unknown,28,0.0,0,0.0
 2020-02-06,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-06,Slovenia,Unknown,0,0.0,0,0.0
@@ -4076,11 +4156,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-07,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-07,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-07,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-07,Botswana,Unknown,0,0.0,0,0.0
 2020-02-07,Brazil,Unknown,0,0.0,0,0.0
 2020-02-07,Brunei,Unknown,0,0.0,0,0.0
 2020-02-07,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-07,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-07,Burma,Unknown,0,0.0,0,0.0
+2020-02-07,Burundi,Unknown,0,0.0,0,0.0
 2020-02-07,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-07,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-07,Cameroon,Unknown,0,0.0,0,0.0
@@ -4213,6 +4295,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-07,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-07,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-07,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-07,Malawi,Unknown,0,0.0,0,0.0
 2020-02-07,Malaysia,Unknown,12,0.0,0,0.0
 2020-02-07,Maldives,Unknown,0,0.0,0,0.0
 2020-02-07,Mali,Unknown,0,0.0,0,0.0
@@ -4229,6 +4312,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-07,Namibia,Unknown,0,0.0,0,0.0
 2020-02-07,Nepal,Unknown,1,0.0,0,0.0
 2020-02-07,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-07,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-07,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-07,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-07,Netherlands,Unknown,0,0.0,0,0.0
@@ -4259,6 +4343,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-07,Senegal,Unknown,0,0.0,0,0.0
 2020-02-07,Serbia,Unknown,0,0.0,0,0.0
 2020-02-07,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-07,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-07,Singapore,Unknown,30,2.0,0,0.0
 2020-02-07,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-07,Slovenia,Unknown,0,0.0,0,0.0
@@ -4329,11 +4414,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-08,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-08,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-08,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-08,Botswana,Unknown,0,0.0,0,0.0
 2020-02-08,Brazil,Unknown,0,0.0,0,0.0
 2020-02-08,Brunei,Unknown,0,0.0,0,0.0
 2020-02-08,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-08,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-08,Burma,Unknown,0,0.0,0,0.0
+2020-02-08,Burundi,Unknown,0,0.0,0,0.0
 2020-02-08,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-08,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-08,Cameroon,Unknown,0,0.0,0,0.0
@@ -4466,6 +4553,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-08,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-08,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-08,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-08,Malawi,Unknown,0,0.0,0,0.0
 2020-02-08,Malaysia,Unknown,16,4.0,0,0.0
 2020-02-08,Maldives,Unknown,0,0.0,0,0.0
 2020-02-08,Mali,Unknown,0,0.0,0,0.0
@@ -4482,6 +4570,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-08,Namibia,Unknown,0,0.0,0,0.0
 2020-02-08,Nepal,Unknown,1,0.0,0,0.0
 2020-02-08,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-08,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-08,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-08,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-08,Netherlands,Unknown,0,0.0,0,0.0
@@ -4512,6 +4601,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-08,Senegal,Unknown,0,0.0,0,0.0
 2020-02-08,Serbia,Unknown,0,0.0,0,0.0
 2020-02-08,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-08,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-08,Singapore,Unknown,33,3.0,0,0.0
 2020-02-08,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-08,Slovenia,Unknown,0,0.0,0,0.0
@@ -4582,11 +4672,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-09,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-09,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-09,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-09,Botswana,Unknown,0,0.0,0,0.0
 2020-02-09,Brazil,Unknown,0,0.0,0,0.0
 2020-02-09,Brunei,Unknown,0,0.0,0,0.0
 2020-02-09,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-09,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-09,Burma,Unknown,0,0.0,0,0.0
+2020-02-09,Burundi,Unknown,0,0.0,0,0.0
 2020-02-09,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-09,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-09,Cameroon,Unknown,0,0.0,0,0.0
@@ -4719,6 +4811,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-09,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-09,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-09,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-09,Malawi,Unknown,0,0.0,0,0.0
 2020-02-09,Malaysia,Unknown,16,0.0,0,0.0
 2020-02-09,Maldives,Unknown,0,0.0,0,0.0
 2020-02-09,Mali,Unknown,0,0.0,0,0.0
@@ -4735,6 +4828,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-09,Namibia,Unknown,0,0.0,0,0.0
 2020-02-09,Nepal,Unknown,1,0.0,0,0.0
 2020-02-09,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-09,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-09,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-09,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-09,Netherlands,Unknown,0,0.0,0,0.0
@@ -4765,6 +4859,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-09,Senegal,Unknown,0,0.0,0,0.0
 2020-02-09,Serbia,Unknown,0,0.0,0,0.0
 2020-02-09,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-09,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-09,Singapore,Unknown,40,7.0,0,0.0
 2020-02-09,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-09,Slovenia,Unknown,0,0.0,0,0.0
@@ -4835,11 +4930,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-10,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-10,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-10,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-10,Botswana,Unknown,0,0.0,0,0.0
 2020-02-10,Brazil,Unknown,0,0.0,0,0.0
 2020-02-10,Brunei,Unknown,0,0.0,0,0.0
 2020-02-10,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-10,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-10,Burma,Unknown,0,0.0,0,0.0
+2020-02-10,Burundi,Unknown,0,0.0,0,0.0
 2020-02-10,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-10,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-10,Cameroon,Unknown,0,0.0,0,0.0
@@ -4972,6 +5069,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-10,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-10,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-10,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-10,Malawi,Unknown,0,0.0,0,0.0
 2020-02-10,Malaysia,Unknown,18,2.0,0,0.0
 2020-02-10,Maldives,Unknown,0,0.0,0,0.0
 2020-02-10,Mali,Unknown,0,0.0,0,0.0
@@ -4988,6 +5086,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-10,Namibia,Unknown,0,0.0,0,0.0
 2020-02-10,Nepal,Unknown,1,0.0,0,0.0
 2020-02-10,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-10,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-10,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-10,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-10,Netherlands,Unknown,0,0.0,0,0.0
@@ -5018,6 +5117,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-10,Senegal,Unknown,0,0.0,0,0.0
 2020-02-10,Serbia,Unknown,0,0.0,0,0.0
 2020-02-10,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-10,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-10,Singapore,Unknown,45,5.0,0,0.0
 2020-02-10,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-10,Slovenia,Unknown,0,0.0,0,0.0
@@ -5088,11 +5188,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-11,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-11,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-11,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-11,Botswana,Unknown,0,0.0,0,0.0
 2020-02-11,Brazil,Unknown,0,0.0,0,0.0
 2020-02-11,Brunei,Unknown,0,0.0,0,0.0
 2020-02-11,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-11,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-11,Burma,Unknown,0,0.0,0,0.0
+2020-02-11,Burundi,Unknown,0,0.0,0,0.0
 2020-02-11,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-11,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-11,Cameroon,Unknown,0,0.0,0,0.0
@@ -5225,6 +5327,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-11,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-11,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-11,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-11,Malawi,Unknown,0,0.0,0,0.0
 2020-02-11,Malaysia,Unknown,18,0.0,0,0.0
 2020-02-11,Maldives,Unknown,0,0.0,0,0.0
 2020-02-11,Mali,Unknown,0,0.0,0,0.0
@@ -5241,6 +5344,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-11,Namibia,Unknown,0,0.0,0,0.0
 2020-02-11,Nepal,Unknown,1,0.0,0,0.0
 2020-02-11,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-11,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-11,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-11,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-11,Netherlands,Unknown,0,0.0,0,0.0
@@ -5271,6 +5375,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-11,Senegal,Unknown,0,0.0,0,0.0
 2020-02-11,Serbia,Unknown,0,0.0,0,0.0
 2020-02-11,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-11,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-11,Singapore,Unknown,47,2.0,0,0.0
 2020-02-11,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-11,Slovenia,Unknown,0,0.0,0,0.0
@@ -5341,11 +5446,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-12,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-12,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-12,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-12,Botswana,Unknown,0,0.0,0,0.0
 2020-02-12,Brazil,Unknown,0,0.0,0,0.0
 2020-02-12,Brunei,Unknown,0,0.0,0,0.0
 2020-02-12,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-12,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-12,Burma,Unknown,0,0.0,0,0.0
+2020-02-12,Burundi,Unknown,0,0.0,0,0.0
 2020-02-12,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-12,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-12,Cameroon,Unknown,0,0.0,0,0.0
@@ -5478,6 +5585,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-12,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-12,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-12,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-12,Malawi,Unknown,0,0.0,0,0.0
 2020-02-12,Malaysia,Unknown,18,0.0,0,0.0
 2020-02-12,Maldives,Unknown,0,0.0,0,0.0
 2020-02-12,Mali,Unknown,0,0.0,0,0.0
@@ -5494,6 +5602,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-12,Namibia,Unknown,0,0.0,0,0.0
 2020-02-12,Nepal,Unknown,1,0.0,0,0.0
 2020-02-12,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-12,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-12,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-12,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-12,Netherlands,Unknown,0,0.0,0,0.0
@@ -5524,6 +5633,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-12,Senegal,Unknown,0,0.0,0,0.0
 2020-02-12,Serbia,Unknown,0,0.0,0,0.0
 2020-02-12,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-12,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-12,Singapore,Unknown,50,3.0,0,0.0
 2020-02-12,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-12,Slovenia,Unknown,0,0.0,0,0.0
@@ -5594,11 +5704,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-13,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-13,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-13,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-13,Botswana,Unknown,0,0.0,0,0.0
 2020-02-13,Brazil,Unknown,0,0.0,0,0.0
 2020-02-13,Brunei,Unknown,0,0.0,0,0.0
 2020-02-13,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-13,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-13,Burma,Unknown,0,0.0,0,0.0
+2020-02-13,Burundi,Unknown,0,0.0,0,0.0
 2020-02-13,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-13,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-13,Cameroon,Unknown,0,0.0,0,0.0
@@ -5731,6 +5843,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-13,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-13,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-13,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-13,Malawi,Unknown,0,0.0,0,0.0
 2020-02-13,Malaysia,Unknown,19,1.0,0,0.0
 2020-02-13,Maldives,Unknown,0,0.0,0,0.0
 2020-02-13,Mali,Unknown,0,0.0,0,0.0
@@ -5747,6 +5860,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-13,Namibia,Unknown,0,0.0,0,0.0
 2020-02-13,Nepal,Unknown,1,0.0,0,0.0
 2020-02-13,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-13,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-13,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-13,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-13,Netherlands,Unknown,0,0.0,0,0.0
@@ -5777,6 +5891,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-13,Senegal,Unknown,0,0.0,0,0.0
 2020-02-13,Serbia,Unknown,0,0.0,0,0.0
 2020-02-13,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-13,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-13,Singapore,Unknown,58,8.0,0,0.0
 2020-02-13,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-13,Slovenia,Unknown,0,0.0,0,0.0
@@ -5847,11 +5962,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-14,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-14,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-14,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-14,Botswana,Unknown,0,0.0,0,0.0
 2020-02-14,Brazil,Unknown,0,0.0,0,0.0
 2020-02-14,Brunei,Unknown,0,0.0,0,0.0
 2020-02-14,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-14,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-14,Burma,Unknown,0,0.0,0,0.0
+2020-02-14,Burundi,Unknown,0,0.0,0,0.0
 2020-02-14,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-14,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-14,Cameroon,Unknown,0,0.0,0,0.0
@@ -5984,6 +6101,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-14,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-14,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-14,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-14,Malawi,Unknown,0,0.0,0,0.0
 2020-02-14,Malaysia,Unknown,19,0.0,0,0.0
 2020-02-14,Maldives,Unknown,0,0.0,0,0.0
 2020-02-14,Mali,Unknown,0,0.0,0,0.0
@@ -6000,6 +6118,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-14,Namibia,Unknown,0,0.0,0,0.0
 2020-02-14,Nepal,Unknown,1,0.0,0,0.0
 2020-02-14,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-14,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-14,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-14,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-14,Netherlands,Unknown,0,0.0,0,0.0
@@ -6030,6 +6149,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-14,Senegal,Unknown,0,0.0,0,0.0
 2020-02-14,Serbia,Unknown,0,0.0,0,0.0
 2020-02-14,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-14,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-14,Singapore,Unknown,67,9.0,0,0.0
 2020-02-14,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-14,Slovenia,Unknown,0,0.0,0,0.0
@@ -6100,11 +6220,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-15,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-15,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-15,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-15,Botswana,Unknown,0,0.0,0,0.0
 2020-02-15,Brazil,Unknown,0,0.0,0,0.0
 2020-02-15,Brunei,Unknown,0,0.0,0,0.0
 2020-02-15,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-15,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-15,Burma,Unknown,0,0.0,0,0.0
+2020-02-15,Burundi,Unknown,0,0.0,0,0.0
 2020-02-15,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-15,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-15,Cameroon,Unknown,0,0.0,0,0.0
@@ -6237,6 +6359,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-15,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-15,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-15,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-15,Malawi,Unknown,0,0.0,0,0.0
 2020-02-15,Malaysia,Unknown,22,3.0,0,0.0
 2020-02-15,Maldives,Unknown,0,0.0,0,0.0
 2020-02-15,Mali,Unknown,0,0.0,0,0.0
@@ -6253,6 +6376,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-15,Namibia,Unknown,0,0.0,0,0.0
 2020-02-15,Nepal,Unknown,1,0.0,0,0.0
 2020-02-15,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-15,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-15,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-15,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-15,Netherlands,Unknown,0,0.0,0,0.0
@@ -6283,6 +6407,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-15,Senegal,Unknown,0,0.0,0,0.0
 2020-02-15,Serbia,Unknown,0,0.0,0,0.0
 2020-02-15,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-15,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-15,Singapore,Unknown,72,5.0,0,0.0
 2020-02-15,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-15,Slovenia,Unknown,0,0.0,0,0.0
@@ -6353,11 +6478,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-16,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-16,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-16,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-16,Botswana,Unknown,0,0.0,0,0.0
 2020-02-16,Brazil,Unknown,0,0.0,0,0.0
 2020-02-16,Brunei,Unknown,0,0.0,0,0.0
 2020-02-16,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-16,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-16,Burma,Unknown,0,0.0,0,0.0
+2020-02-16,Burundi,Unknown,0,0.0,0,0.0
 2020-02-16,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-16,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-16,Cameroon,Unknown,0,0.0,0,0.0
@@ -6490,6 +6617,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-16,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-16,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-16,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-16,Malawi,Unknown,0,0.0,0,0.0
 2020-02-16,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-16,Maldives,Unknown,0,0.0,0,0.0
 2020-02-16,Mali,Unknown,0,0.0,0,0.0
@@ -6506,6 +6634,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-16,Namibia,Unknown,0,0.0,0,0.0
 2020-02-16,Nepal,Unknown,1,0.0,0,0.0
 2020-02-16,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-16,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-16,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-16,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-16,Netherlands,Unknown,0,0.0,0,0.0
@@ -6536,6 +6665,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-16,Senegal,Unknown,0,0.0,0,0.0
 2020-02-16,Serbia,Unknown,0,0.0,0,0.0
 2020-02-16,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-16,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-16,Singapore,Unknown,75,3.0,0,0.0
 2020-02-16,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-16,Slovenia,Unknown,0,0.0,0,0.0
@@ -6606,11 +6736,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-17,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-17,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-17,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-17,Botswana,Unknown,0,0.0,0,0.0
 2020-02-17,Brazil,Unknown,0,0.0,0,0.0
 2020-02-17,Brunei,Unknown,0,0.0,0,0.0
 2020-02-17,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-17,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-17,Burma,Unknown,0,0.0,0,0.0
+2020-02-17,Burundi,Unknown,0,0.0,0,0.0
 2020-02-17,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-17,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-17,Cameroon,Unknown,0,0.0,0,0.0
@@ -6743,6 +6875,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-17,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-17,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-17,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-17,Malawi,Unknown,0,0.0,0,0.0
 2020-02-17,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-17,Maldives,Unknown,0,0.0,0,0.0
 2020-02-17,Mali,Unknown,0,0.0,0,0.0
@@ -6759,6 +6892,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-17,Namibia,Unknown,0,0.0,0,0.0
 2020-02-17,Nepal,Unknown,1,0.0,0,0.0
 2020-02-17,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-17,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-17,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-17,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-17,Netherlands,Unknown,0,0.0,0,0.0
@@ -6789,6 +6923,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-17,Senegal,Unknown,0,0.0,0,0.0
 2020-02-17,Serbia,Unknown,0,0.0,0,0.0
 2020-02-17,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-17,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-17,Singapore,Unknown,77,2.0,0,0.0
 2020-02-17,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-17,Slovenia,Unknown,0,0.0,0,0.0
@@ -6859,11 +6994,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-18,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-18,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-18,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-18,Botswana,Unknown,0,0.0,0,0.0
 2020-02-18,Brazil,Unknown,0,0.0,0,0.0
 2020-02-18,Brunei,Unknown,0,0.0,0,0.0
 2020-02-18,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-18,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-18,Burma,Unknown,0,0.0,0,0.0
+2020-02-18,Burundi,Unknown,0,0.0,0,0.0
 2020-02-18,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-18,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-18,Cameroon,Unknown,0,0.0,0,0.0
@@ -6996,6 +7133,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-18,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-18,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-18,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-18,Malawi,Unknown,0,0.0,0,0.0
 2020-02-18,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-18,Maldives,Unknown,0,0.0,0,0.0
 2020-02-18,Mali,Unknown,0,0.0,0,0.0
@@ -7012,6 +7150,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-18,Namibia,Unknown,0,0.0,0,0.0
 2020-02-18,Nepal,Unknown,1,0.0,0,0.0
 2020-02-18,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-18,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-18,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-18,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-18,Netherlands,Unknown,0,0.0,0,0.0
@@ -7042,6 +7181,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-18,Senegal,Unknown,0,0.0,0,0.0
 2020-02-18,Serbia,Unknown,0,0.0,0,0.0
 2020-02-18,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-18,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-18,Singapore,Unknown,81,4.0,0,0.0
 2020-02-18,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-18,Slovenia,Unknown,0,0.0,0,0.0
@@ -7112,11 +7252,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-19,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-19,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-19,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-19,Botswana,Unknown,0,0.0,0,0.0
 2020-02-19,Brazil,Unknown,0,0.0,0,0.0
 2020-02-19,Brunei,Unknown,0,0.0,0,0.0
 2020-02-19,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-19,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-19,Burma,Unknown,0,0.0,0,0.0
+2020-02-19,Burundi,Unknown,0,0.0,0,0.0
 2020-02-19,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-19,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-19,Cameroon,Unknown,0,0.0,0,0.0
@@ -7249,6 +7391,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-19,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-19,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-19,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-19,Malawi,Unknown,0,0.0,0,0.0
 2020-02-19,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-19,Maldives,Unknown,0,0.0,0,0.0
 2020-02-19,Mali,Unknown,0,0.0,0,0.0
@@ -7265,6 +7408,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-19,Namibia,Unknown,0,0.0,0,0.0
 2020-02-19,Nepal,Unknown,1,0.0,0,0.0
 2020-02-19,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-19,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-19,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-19,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-19,Netherlands,Unknown,0,0.0,0,0.0
@@ -7295,6 +7439,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-19,Senegal,Unknown,0,0.0,0,0.0
 2020-02-19,Serbia,Unknown,0,0.0,0,0.0
 2020-02-19,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-19,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-19,Singapore,Unknown,84,3.0,0,0.0
 2020-02-19,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-19,Slovenia,Unknown,0,0.0,0,0.0
@@ -7365,11 +7510,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-20,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-20,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-20,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-20,Botswana,Unknown,0,0.0,0,0.0
 2020-02-20,Brazil,Unknown,0,0.0,0,0.0
 2020-02-20,Brunei,Unknown,0,0.0,0,0.0
 2020-02-20,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-20,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-20,Burma,Unknown,0,0.0,0,0.0
+2020-02-20,Burundi,Unknown,0,0.0,0,0.0
 2020-02-20,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-20,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-20,Cameroon,Unknown,0,0.0,0,0.0
@@ -7502,6 +7649,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-20,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-20,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-20,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-20,Malawi,Unknown,0,0.0,0,0.0
 2020-02-20,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-20,Maldives,Unknown,0,0.0,0,0.0
 2020-02-20,Mali,Unknown,0,0.0,0,0.0
@@ -7518,6 +7666,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-20,Namibia,Unknown,0,0.0,0,0.0
 2020-02-20,Nepal,Unknown,1,0.0,0,0.0
 2020-02-20,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-20,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-20,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-20,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-20,Netherlands,Unknown,0,0.0,0,0.0
@@ -7548,6 +7697,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-20,Senegal,Unknown,0,0.0,0,0.0
 2020-02-20,Serbia,Unknown,0,0.0,0,0.0
 2020-02-20,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-20,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-20,Singapore,Unknown,84,0.0,0,0.0
 2020-02-20,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-20,Slovenia,Unknown,0,0.0,0,0.0
@@ -7618,11 +7768,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-21,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-21,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-21,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-21,Botswana,Unknown,0,0.0,0,0.0
 2020-02-21,Brazil,Unknown,0,0.0,0,0.0
 2020-02-21,Brunei,Unknown,0,0.0,0,0.0
 2020-02-21,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-21,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-21,Burma,Unknown,0,0.0,0,0.0
+2020-02-21,Burundi,Unknown,0,0.0,0,0.0
 2020-02-21,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-21,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-21,Cameroon,Unknown,0,0.0,0,0.0
@@ -7755,6 +7907,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-21,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-21,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-21,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-21,Malawi,Unknown,0,0.0,0,0.0
 2020-02-21,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-21,Maldives,Unknown,0,0.0,0,0.0
 2020-02-21,Mali,Unknown,0,0.0,0,0.0
@@ -7771,6 +7924,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-21,Namibia,Unknown,0,0.0,0,0.0
 2020-02-21,Nepal,Unknown,1,0.0,0,0.0
 2020-02-21,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-21,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-21,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-21,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-21,Netherlands,Unknown,0,0.0,0,0.0
@@ -7801,6 +7955,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-21,Senegal,Unknown,0,0.0,0,0.0
 2020-02-21,Serbia,Unknown,0,0.0,0,0.0
 2020-02-21,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-21,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-21,Singapore,Unknown,85,1.0,0,0.0
 2020-02-21,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-21,Slovenia,Unknown,0,0.0,0,0.0
@@ -7871,11 +8026,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-22,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-22,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-22,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-22,Botswana,Unknown,0,0.0,0,0.0
 2020-02-22,Brazil,Unknown,0,0.0,0,0.0
 2020-02-22,Brunei,Unknown,0,0.0,0,0.0
 2020-02-22,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-22,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-22,Burma,Unknown,0,0.0,0,0.0
+2020-02-22,Burundi,Unknown,0,0.0,0,0.0
 2020-02-22,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-22,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-22,Cameroon,Unknown,0,0.0,0,0.0
@@ -8008,6 +8165,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-22,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-22,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-22,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-22,Malawi,Unknown,0,0.0,0,0.0
 2020-02-22,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-22,Maldives,Unknown,0,0.0,0,0.0
 2020-02-22,Mali,Unknown,0,0.0,0,0.0
@@ -8024,6 +8182,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-22,Namibia,Unknown,0,0.0,0,0.0
 2020-02-22,Nepal,Unknown,1,0.0,0,0.0
 2020-02-22,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-22,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-22,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-22,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-22,Netherlands,Unknown,0,0.0,0,0.0
@@ -8054,6 +8213,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-22,Senegal,Unknown,0,0.0,0,0.0
 2020-02-22,Serbia,Unknown,0,0.0,0,0.0
 2020-02-22,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-22,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-22,Singapore,Unknown,85,0.0,0,0.0
 2020-02-22,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-22,Slovenia,Unknown,0,0.0,0,0.0
@@ -8124,11 +8284,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-23,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-23,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-23,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-23,Botswana,Unknown,0,0.0,0,0.0
 2020-02-23,Brazil,Unknown,0,0.0,0,0.0
 2020-02-23,Brunei,Unknown,0,0.0,0,0.0
 2020-02-23,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-23,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-23,Burma,Unknown,0,0.0,0,0.0
+2020-02-23,Burundi,Unknown,0,0.0,0,0.0
 2020-02-23,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-23,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-23,Cameroon,Unknown,0,0.0,0,0.0
@@ -8261,6 +8423,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-23,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-23,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-23,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-23,Malawi,Unknown,0,0.0,0,0.0
 2020-02-23,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-23,Maldives,Unknown,0,0.0,0,0.0
 2020-02-23,Mali,Unknown,0,0.0,0,0.0
@@ -8277,6 +8440,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-23,Namibia,Unknown,0,0.0,0,0.0
 2020-02-23,Nepal,Unknown,1,0.0,0,0.0
 2020-02-23,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-23,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-23,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-23,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-23,Netherlands,Unknown,0,0.0,0,0.0
@@ -8307,6 +8471,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-23,Senegal,Unknown,0,0.0,0,0.0
 2020-02-23,Serbia,Unknown,0,0.0,0,0.0
 2020-02-23,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-23,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-23,Singapore,Unknown,89,4.0,0,0.0
 2020-02-23,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-23,Slovenia,Unknown,0,0.0,0,0.0
@@ -8377,11 +8542,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-24,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-24,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-24,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-24,Botswana,Unknown,0,0.0,0,0.0
 2020-02-24,Brazil,Unknown,0,0.0,0,0.0
 2020-02-24,Brunei,Unknown,0,0.0,0,0.0
 2020-02-24,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-24,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-24,Burma,Unknown,0,0.0,0,0.0
+2020-02-24,Burundi,Unknown,0,0.0,0,0.0
 2020-02-24,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-24,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-24,Cameroon,Unknown,0,0.0,0,0.0
@@ -8514,6 +8681,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-24,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-24,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-24,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-24,Malawi,Unknown,0,0.0,0,0.0
 2020-02-24,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-24,Maldives,Unknown,0,0.0,0,0.0
 2020-02-24,Mali,Unknown,0,0.0,0,0.0
@@ -8530,6 +8698,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-24,Namibia,Unknown,0,0.0,0,0.0
 2020-02-24,Nepal,Unknown,1,0.0,0,0.0
 2020-02-24,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-24,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-24,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-24,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-24,Netherlands,Unknown,0,0.0,0,0.0
@@ -8560,6 +8729,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-24,Senegal,Unknown,0,0.0,0,0.0
 2020-02-24,Serbia,Unknown,0,0.0,0,0.0
 2020-02-24,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-24,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-24,Singapore,Unknown,89,0.0,0,0.0
 2020-02-24,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-24,Slovenia,Unknown,0,0.0,0,0.0
@@ -8630,11 +8800,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-25,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-25,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-25,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-25,Botswana,Unknown,0,0.0,0,0.0
 2020-02-25,Brazil,Unknown,0,0.0,0,0.0
 2020-02-25,Brunei,Unknown,0,0.0,0,0.0
 2020-02-25,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-25,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-25,Burma,Unknown,0,0.0,0,0.0
+2020-02-25,Burundi,Unknown,0,0.0,0,0.0
 2020-02-25,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-25,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-25,Cameroon,Unknown,0,0.0,0,0.0
@@ -8767,6 +8939,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-25,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-25,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-25,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-25,Malawi,Unknown,0,0.0,0,0.0
 2020-02-25,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-25,Maldives,Unknown,0,0.0,0,0.0
 2020-02-25,Mali,Unknown,0,0.0,0,0.0
@@ -8783,6 +8956,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-25,Namibia,Unknown,0,0.0,0,0.0
 2020-02-25,Nepal,Unknown,1,0.0,0,0.0
 2020-02-25,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-25,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-25,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-25,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-25,Netherlands,Unknown,0,0.0,0,0.0
@@ -8813,6 +8987,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-25,Senegal,Unknown,0,0.0,0,0.0
 2020-02-25,Serbia,Unknown,0,0.0,0,0.0
 2020-02-25,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-25,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-25,Singapore,Unknown,91,2.0,0,0.0
 2020-02-25,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-25,Slovenia,Unknown,0,0.0,0,0.0
@@ -8883,11 +9058,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-26,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-26,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-26,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-26,Botswana,Unknown,0,0.0,0,0.0
 2020-02-26,Brazil,Unknown,1,1.0,0,0.0
 2020-02-26,Brunei,Unknown,0,0.0,0,0.0
 2020-02-26,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-26,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-26,Burma,Unknown,0,0.0,0,0.0
+2020-02-26,Burundi,Unknown,0,0.0,0,0.0
 2020-02-26,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-26,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-26,Cameroon,Unknown,0,0.0,0,0.0
@@ -9020,6 +9197,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-26,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-26,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-26,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-26,Malawi,Unknown,0,0.0,0,0.0
 2020-02-26,Malaysia,Unknown,22,0.0,0,0.0
 2020-02-26,Maldives,Unknown,0,0.0,0,0.0
 2020-02-26,Mali,Unknown,0,0.0,0,0.0
@@ -9036,6 +9214,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-26,Namibia,Unknown,0,0.0,0,0.0
 2020-02-26,Nepal,Unknown,1,0.0,0,0.0
 2020-02-26,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-26,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-26,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-26,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-26,Netherlands,Unknown,0,0.0,0,0.0
@@ -9066,6 +9245,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-26,Senegal,Unknown,0,0.0,0,0.0
 2020-02-26,Serbia,Unknown,0,0.0,0,0.0
 2020-02-26,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-26,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-26,Singapore,Unknown,93,2.0,0,0.0
 2020-02-26,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-26,Slovenia,Unknown,0,0.0,0,0.0
@@ -9136,11 +9316,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-27,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-27,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-27,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-27,Botswana,Unknown,0,0.0,0,0.0
 2020-02-27,Brazil,Unknown,1,0.0,0,0.0
 2020-02-27,Brunei,Unknown,0,0.0,0,0.0
 2020-02-27,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-27,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-27,Burma,Unknown,0,0.0,0,0.0
+2020-02-27,Burundi,Unknown,0,0.0,0,0.0
 2020-02-27,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-27,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-27,Cameroon,Unknown,0,0.0,0,0.0
@@ -9273,6 +9455,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-27,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-27,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-27,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-27,Malawi,Unknown,0,0.0,0,0.0
 2020-02-27,Malaysia,Unknown,23,1.0,0,0.0
 2020-02-27,Maldives,Unknown,0,0.0,0,0.0
 2020-02-27,Mali,Unknown,0,0.0,0,0.0
@@ -9289,6 +9472,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-27,Namibia,Unknown,0,0.0,0,0.0
 2020-02-27,Nepal,Unknown,1,0.0,0,0.0
 2020-02-27,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-27,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-27,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-27,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-27,Netherlands,Unknown,1,1.0,0,0.0
@@ -9319,6 +9503,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-27,Senegal,Unknown,0,0.0,0,0.0
 2020-02-27,Serbia,Unknown,0,0.0,0,0.0
 2020-02-27,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-27,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-27,Singapore,Unknown,93,0.0,0,0.0
 2020-02-27,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-27,Slovenia,Unknown,0,0.0,0,0.0
@@ -9389,11 +9574,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-28,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-28,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-28,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-28,Botswana,Unknown,0,0.0,0,0.0
 2020-02-28,Brazil,Unknown,1,0.0,0,0.0
 2020-02-28,Brunei,Unknown,0,0.0,0,0.0
 2020-02-28,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-28,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-28,Burma,Unknown,0,0.0,0,0.0
+2020-02-28,Burundi,Unknown,0,0.0,0,0.0
 2020-02-28,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-28,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-28,Cameroon,Unknown,0,0.0,0,0.0
@@ -9526,6 +9713,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-28,Luxembourg,Unknown,0,0.0,0,0.0
 2020-02-28,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-28,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-28,Malawi,Unknown,0,0.0,0,0.0
 2020-02-28,Malaysia,Unknown,23,0.0,0,0.0
 2020-02-28,Maldives,Unknown,0,0.0,0,0.0
 2020-02-28,Mali,Unknown,0,0.0,0,0.0
@@ -9542,6 +9730,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-28,Namibia,Unknown,0,0.0,0,0.0
 2020-02-28,Nepal,Unknown,1,0.0,0,0.0
 2020-02-28,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-28,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-28,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-28,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-28,Netherlands,Unknown,1,0.0,0,0.0
@@ -9572,6 +9761,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-28,Senegal,Unknown,0,0.0,0,0.0
 2020-02-28,Serbia,Unknown,0,0.0,0,0.0
 2020-02-28,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-28,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-28,Singapore,Unknown,93,0.0,0,0.0
 2020-02-28,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-28,Slovenia,Unknown,0,0.0,0,0.0
@@ -9642,11 +9832,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-29,Bhutan,Unknown,0,0.0,0,0.0
 2020-02-29,Bolivia,Unknown,0,0.0,0,0.0
 2020-02-29,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-02-29,Botswana,Unknown,0,0.0,0,0.0
 2020-02-29,Brazil,Unknown,2,1.0,0,0.0
 2020-02-29,Brunei,Unknown,0,0.0,0,0.0
 2020-02-29,Bulgaria,Unknown,0,0.0,0,0.0
 2020-02-29,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-02-29,Burma,Unknown,0,0.0,0,0.0
+2020-02-29,Burundi,Unknown,0,0.0,0,0.0
 2020-02-29,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-02-29,Cambodia,Unknown,1,0.0,0,0.0
 2020-02-29,Cameroon,Unknown,0,0.0,0,0.0
@@ -9779,6 +9971,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-29,Luxembourg,Unknown,1,1.0,0,0.0
 2020-02-29,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-02-29,Madagascar,Unknown,0,0.0,0,0.0
+2020-02-29,Malawi,Unknown,0,0.0,0,0.0
 2020-02-29,Malaysia,Unknown,25,2.0,0,0.0
 2020-02-29,Maldives,Unknown,0,0.0,0,0.0
 2020-02-29,Mali,Unknown,0,0.0,0,0.0
@@ -9795,6 +9988,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-29,Namibia,Unknown,0,0.0,0,0.0
 2020-02-29,Nepal,Unknown,1,0.0,0,0.0
 2020-02-29,Netherlands,Aruba,0,0.0,0,0.0
+2020-02-29,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-02-29,Netherlands,Curacao,0,0.0,0,0.0
 2020-02-29,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-02-29,Netherlands,Unknown,6,5.0,0,0.0
@@ -9825,6 +10019,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-02-29,Senegal,Unknown,0,0.0,0,0.0
 2020-02-29,Serbia,Unknown,0,0.0,0,0.0
 2020-02-29,Seychelles,Unknown,0,0.0,0,0.0
+2020-02-29,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-02-29,Singapore,Unknown,102,9.0,0,0.0
 2020-02-29,Slovakia,Unknown,0,0.0,0,0.0
 2020-02-29,Slovenia,Unknown,0,0.0,0,0.0
@@ -9895,11 +10090,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-01,Bhutan,Unknown,0,0.0,0,0.0
 2020-03-01,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-01,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-03-01,Botswana,Unknown,0,0.0,0,0.0
 2020-03-01,Brazil,Unknown,2,0.0,0,0.0
 2020-03-01,Brunei,Unknown,0,0.0,0,0.0
 2020-03-01,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-01,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-01,Burma,Unknown,0,0.0,0,0.0
+2020-03-01,Burundi,Unknown,0,0.0,0,0.0
 2020-03-01,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-01,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-01,Cameroon,Unknown,0,0.0,0,0.0
@@ -10032,6 +10229,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-01,Luxembourg,Unknown,1,0.0,0,0.0
 2020-03-01,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-01,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-01,Malawi,Unknown,0,0.0,0,0.0
 2020-03-01,Malaysia,Unknown,29,4.0,0,0.0
 2020-03-01,Maldives,Unknown,0,0.0,0,0.0
 2020-03-01,Mali,Unknown,0,0.0,0,0.0
@@ -10048,6 +10246,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-01,Namibia,Unknown,0,0.0,0,0.0
 2020-03-01,Nepal,Unknown,1,0.0,0,0.0
 2020-03-01,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-01,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-01,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-01,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-01,Netherlands,Unknown,10,4.0,0,0.0
@@ -10078,6 +10277,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-01,Senegal,Unknown,0,0.0,0,0.0
 2020-03-01,Serbia,Unknown,0,0.0,0,0.0
 2020-03-01,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-01,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-01,Singapore,Unknown,106,4.0,0,0.0
 2020-03-01,Slovakia,Unknown,0,0.0,0,0.0
 2020-03-01,Slovenia,Unknown,0,0.0,0,0.0
@@ -10148,11 +10348,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-02,Bhutan,Unknown,0,0.0,0,0.0
 2020-03-02,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-02,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-03-02,Botswana,Unknown,0,0.0,0,0.0
 2020-03-02,Brazil,Unknown,2,0.0,0,0.0
 2020-03-02,Brunei,Unknown,0,0.0,0,0.0
 2020-03-02,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-02,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-02,Burma,Unknown,0,0.0,0,0.0
+2020-03-02,Burundi,Unknown,0,0.0,0,0.0
 2020-03-02,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-02,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-02,Cameroon,Unknown,0,0.0,0,0.0
@@ -10285,6 +10487,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-02,Luxembourg,Unknown,1,0.0,0,0.0
 2020-03-02,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-02,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-02,Malawi,Unknown,0,0.0,0,0.0
 2020-03-02,Malaysia,Unknown,29,0.0,0,0.0
 2020-03-02,Maldives,Unknown,0,0.0,0,0.0
 2020-03-02,Mali,Unknown,0,0.0,0,0.0
@@ -10301,6 +10504,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-02,Namibia,Unknown,0,0.0,0,0.0
 2020-03-02,Nepal,Unknown,1,0.0,0,0.0
 2020-03-02,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-02,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-02,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-02,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-02,Netherlands,Unknown,18,8.0,0,0.0
@@ -10331,6 +10535,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-02,Senegal,Unknown,1,1.0,0,0.0
 2020-03-02,Serbia,Unknown,0,0.0,0,0.0
 2020-03-02,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-02,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-02,Singapore,Unknown,108,2.0,0,0.0
 2020-03-02,Slovakia,Unknown,0,0.0,0,0.0
 2020-03-02,Slovenia,Unknown,0,0.0,0,0.0
@@ -10401,11 +10606,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-03,Bhutan,Unknown,0,0.0,0,0.0
 2020-03-03,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-03,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-03-03,Botswana,Unknown,0,0.0,0,0.0
 2020-03-03,Brazil,Unknown,2,0.0,0,0.0
 2020-03-03,Brunei,Unknown,0,0.0,0,0.0
 2020-03-03,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-03,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-03,Burma,Unknown,0,0.0,0,0.0
+2020-03-03,Burundi,Unknown,0,0.0,0,0.0
 2020-03-03,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-03,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-03,Cameroon,Unknown,0,0.0,0,0.0
@@ -10538,6 +10745,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-03,Luxembourg,Unknown,1,0.0,0,0.0
 2020-03-03,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-03,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-03,Malawi,Unknown,0,0.0,0,0.0
 2020-03-03,Malaysia,Unknown,36,7.0,0,0.0
 2020-03-03,Maldives,Unknown,0,0.0,0,0.0
 2020-03-03,Mali,Unknown,0,0.0,0,0.0
@@ -10554,6 +10762,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-03,Namibia,Unknown,0,0.0,0,0.0
 2020-03-03,Nepal,Unknown,1,0.0,0,0.0
 2020-03-03,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-03,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-03,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-03,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-03,Netherlands,Unknown,24,6.0,0,0.0
@@ -10584,6 +10793,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-03,Senegal,Unknown,2,1.0,0,0.0
 2020-03-03,Serbia,Unknown,0,0.0,0,0.0
 2020-03-03,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-03,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-03,Singapore,Unknown,110,2.0,0,0.0
 2020-03-03,Slovakia,Unknown,0,0.0,0,0.0
 2020-03-03,Slovenia,Unknown,0,0.0,0,0.0
@@ -10654,11 +10864,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-04,Bhutan,Unknown,0,0.0,0,0.0
 2020-03-04,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-04,Bosnia and Herzegovina,Unknown,0,0.0,0,0.0
+2020-03-04,Botswana,Unknown,0,0.0,0,0.0
 2020-03-04,Brazil,Unknown,4,2.0,0,0.0
 2020-03-04,Brunei,Unknown,0,0.0,0,0.0
 2020-03-04,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-04,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-04,Burma,Unknown,0,0.0,0,0.0
+2020-03-04,Burundi,Unknown,0,0.0,0,0.0
 2020-03-04,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-04,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-04,Cameroon,Unknown,0,0.0,0,0.0
@@ -10791,6 +11003,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-04,Luxembourg,Unknown,1,0.0,0,0.0
 2020-03-04,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-04,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-04,Malawi,Unknown,0,0.0,0,0.0
 2020-03-04,Malaysia,Unknown,50,14.0,0,0.0
 2020-03-04,Maldives,Unknown,0,0.0,0,0.0
 2020-03-04,Mali,Unknown,0,0.0,0,0.0
@@ -10807,6 +11020,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-04,Namibia,Unknown,0,0.0,0,0.0
 2020-03-04,Nepal,Unknown,1,0.0,0,0.0
 2020-03-04,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-04,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-04,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-04,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-04,Netherlands,Unknown,38,14.0,0,0.0
@@ -10837,6 +11051,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-04,Senegal,Unknown,4,2.0,0,0.0
 2020-03-04,Serbia,Unknown,0,0.0,0,0.0
 2020-03-04,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-04,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-04,Singapore,Unknown,110,0.0,0,0.0
 2020-03-04,Slovakia,Unknown,0,0.0,0,0.0
 2020-03-04,Slovenia,Unknown,0,0.0,0,0.0
@@ -10907,11 +11122,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-05,Bhutan,Unknown,0,0.0,0,0.0
 2020-03-05,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-05,Bosnia and Herzegovina,Unknown,2,2.0,0,0.0
+2020-03-05,Botswana,Unknown,0,0.0,0,0.0
 2020-03-05,Brazil,Unknown,4,0.0,0,0.0
 2020-03-05,Brunei,Unknown,0,0.0,0,0.0
 2020-03-05,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-05,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-05,Burma,Unknown,0,0.0,0,0.0
+2020-03-05,Burundi,Unknown,0,0.0,0,0.0
 2020-03-05,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-05,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-05,Cameroon,Unknown,0,0.0,0,0.0
@@ -11044,6 +11261,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-05,Luxembourg,Unknown,1,0.0,0,0.0
 2020-03-05,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-05,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-05,Malawi,Unknown,0,0.0,0,0.0
 2020-03-05,Malaysia,Unknown,50,0.0,0,0.0
 2020-03-05,Maldives,Unknown,0,0.0,0,0.0
 2020-03-05,Mali,Unknown,0,0.0,0,0.0
@@ -11060,6 +11278,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-05,Namibia,Unknown,0,0.0,0,0.0
 2020-03-05,Nepal,Unknown,1,0.0,0,0.0
 2020-03-05,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-05,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-05,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-05,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-05,Netherlands,Unknown,82,44.0,0,0.0
@@ -11090,6 +11309,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-05,Senegal,Unknown,4,0.0,0,0.0
 2020-03-05,Serbia,Unknown,0,0.0,0,0.0
 2020-03-05,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-05,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-05,Singapore,Unknown,117,7.0,0,0.0
 2020-03-05,Slovakia,Unknown,0,0.0,0,0.0
 2020-03-05,Slovenia,Unknown,2,2.0,0,0.0
@@ -11160,11 +11380,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-06,Bhutan,Unknown,1,1.0,0,0.0
 2020-03-06,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-06,Bosnia and Herzegovina,Unknown,2,0.0,0,0.0
+2020-03-06,Botswana,Unknown,0,0.0,0,0.0
 2020-03-06,Brazil,Unknown,13,9.0,0,0.0
 2020-03-06,Brunei,Unknown,0,0.0,0,0.0
 2020-03-06,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-06,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-06,Burma,Unknown,0,0.0,0,0.0
+2020-03-06,Burundi,Unknown,0,0.0,0,0.0
 2020-03-06,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-06,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-06,Cameroon,Unknown,1,1.0,0,0.0
@@ -11297,6 +11519,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-06,Luxembourg,Unknown,2,1.0,0,0.0
 2020-03-06,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-06,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-06,Malawi,Unknown,0,0.0,0,0.0
 2020-03-06,Malaysia,Unknown,83,33.0,0,0.0
 2020-03-06,Maldives,Unknown,0,0.0,0,0.0
 2020-03-06,Mali,Unknown,0,0.0,0,0.0
@@ -11313,6 +11536,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-06,Namibia,Unknown,0,0.0,0,0.0
 2020-03-06,Nepal,Unknown,1,0.0,0,0.0
 2020-03-06,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-06,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-06,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-06,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-06,Netherlands,Unknown,128,46.0,1,1.0
@@ -11343,6 +11567,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-06,Senegal,Unknown,4,0.0,0,0.0
 2020-03-06,Serbia,Unknown,1,1.0,0,0.0
 2020-03-06,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-06,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-06,Singapore,Unknown,130,13.0,0,0.0
 2020-03-06,Slovakia,Unknown,1,1.0,0,0.0
 2020-03-06,Slovenia,Unknown,7,5.0,0,0.0
@@ -11413,11 +11638,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-07,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-07,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-07,Bosnia and Herzegovina,Unknown,3,1.0,0,0.0
+2020-03-07,Botswana,Unknown,0,0.0,0,0.0
 2020-03-07,Brazil,Unknown,13,0.0,0,0.0
 2020-03-07,Brunei,Unknown,0,0.0,0,0.0
 2020-03-07,Bulgaria,Unknown,0,0.0,0,0.0
 2020-03-07,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-07,Burma,Unknown,0,0.0,0,0.0
+2020-03-07,Burundi,Unknown,0,0.0,0,0.0
 2020-03-07,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-07,Cambodia,Unknown,1,0.0,0,0.0
 2020-03-07,Cameroon,Unknown,1,0.0,0,0.0
@@ -11550,6 +11777,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-07,Luxembourg,Unknown,2,0.0,0,0.0
 2020-03-07,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-07,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-07,Malawi,Unknown,0,0.0,0,0.0
 2020-03-07,Malaysia,Unknown,93,10.0,0,0.0
 2020-03-07,Maldives,Unknown,0,0.0,0,0.0
 2020-03-07,Mali,Unknown,0,0.0,0,0.0
@@ -11566,6 +11794,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-07,Namibia,Unknown,0,0.0,0,0.0
 2020-03-07,Nepal,Unknown,1,0.0,0,0.0
 2020-03-07,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-07,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-07,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-07,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-07,Netherlands,Unknown,188,60.0,1,0.0
@@ -11596,6 +11825,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-07,Senegal,Unknown,4,0.0,0,0.0
 2020-03-07,Serbia,Unknown,1,0.0,0,0.0
 2020-03-07,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-07,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-07,Singapore,Unknown,138,8.0,0,0.0
 2020-03-07,Slovakia,Unknown,1,0.0,0,0.0
 2020-03-07,Slovenia,Unknown,7,0.0,0,0.0
@@ -11666,11 +11896,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-08,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-08,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-08,Bosnia and Herzegovina,Unknown,3,0.0,0,0.0
+2020-03-08,Botswana,Unknown,0,0.0,0,0.0
 2020-03-08,Brazil,Unknown,20,7.0,0,0.0
 2020-03-08,Brunei,Unknown,0,0.0,0,0.0
 2020-03-08,Bulgaria,Unknown,4,4.0,0,0.0
 2020-03-08,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-08,Burma,Unknown,0,0.0,0,0.0
+2020-03-08,Burundi,Unknown,0,0.0,0,0.0
 2020-03-08,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-08,Cambodia,Unknown,2,1.0,0,0.0
 2020-03-08,Cameroon,Unknown,2,1.0,0,0.0
@@ -11803,6 +12035,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-08,Luxembourg,Unknown,3,1.0,0,0.0
 2020-03-08,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-08,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-08,Malawi,Unknown,0,0.0,0,0.0
 2020-03-08,Malaysia,Unknown,99,6.0,0,0.0
 2020-03-08,Maldives,Unknown,4,4.0,0,0.0
 2020-03-08,Mali,Unknown,0,0.0,0,0.0
@@ -11819,6 +12052,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-08,Namibia,Unknown,0,0.0,0,0.0
 2020-03-08,Nepal,Unknown,1,0.0,0,0.0
 2020-03-08,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-08,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-08,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-08,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-08,Netherlands,Unknown,265,77.0,3,2.0
@@ -11849,6 +12083,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-08,Senegal,Unknown,4,0.0,0,0.0
 2020-03-08,Serbia,Unknown,1,0.0,0,0.0
 2020-03-08,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-08,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-08,Singapore,Unknown,150,12.0,0,0.0
 2020-03-08,Slovakia,Unknown,3,2.0,0,0.0
 2020-03-08,Slovenia,Unknown,16,9.0,0,0.0
@@ -11919,11 +12154,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-09,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-09,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-09,Bosnia and Herzegovina,Unknown,3,0.0,0,0.0
+2020-03-09,Botswana,Unknown,0,0.0,0,0.0
 2020-03-09,Brazil,Unknown,25,5.0,0,0.0
 2020-03-09,Brunei,Unknown,1,1.0,0,0.0
 2020-03-09,Bulgaria,Unknown,4,0.0,0,0.0
 2020-03-09,Burkina Faso,Unknown,0,0.0,0,0.0
 2020-03-09,Burma,Unknown,0,0.0,0,0.0
+2020-03-09,Burundi,Unknown,0,0.0,0,0.0
 2020-03-09,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-09,Cambodia,Unknown,2,0.0,0,0.0
 2020-03-09,Cameroon,Unknown,2,0.0,0,0.0
@@ -12056,6 +12293,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-09,Luxembourg,Unknown,3,0.0,0,0.0
 2020-03-09,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-09,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-09,Malawi,Unknown,0,0.0,0,0.0
 2020-03-09,Malaysia,Unknown,117,18.0,0,0.0
 2020-03-09,Maldives,Unknown,4,0.0,0,0.0
 2020-03-09,Mali,Unknown,0,0.0,0,0.0
@@ -12072,6 +12310,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-09,Namibia,Unknown,0,0.0,0,0.0
 2020-03-09,Nepal,Unknown,1,0.0,0,0.0
 2020-03-09,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-09,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-09,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-09,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-09,Netherlands,Unknown,321,56.0,3,0.0
@@ -12102,6 +12341,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-09,Senegal,Unknown,4,0.0,0,0.0
 2020-03-09,Serbia,Unknown,1,0.0,0,0.0
 2020-03-09,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-09,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-09,Singapore,Unknown,150,0.0,0,0.0
 2020-03-09,Slovakia,Unknown,3,0.0,0,0.0
 2020-03-09,Slovenia,Unknown,16,0.0,0,0.0
@@ -12172,11 +12412,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-10,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-10,Bolivia,Unknown,0,0.0,0,0.0
 2020-03-10,Bosnia and Herzegovina,Unknown,5,2.0,0,0.0
+2020-03-10,Botswana,Unknown,0,0.0,0,0.0
 2020-03-10,Brazil,Unknown,31,6.0,0,0.0
 2020-03-10,Brunei,Unknown,1,0.0,0,0.0
 2020-03-10,Bulgaria,Unknown,4,0.0,0,0.0
 2020-03-10,Burkina Faso,Unknown,1,1.0,0,0.0
 2020-03-10,Burma,Unknown,0,0.0,0,0.0
+2020-03-10,Burundi,Unknown,0,0.0,0,0.0
 2020-03-10,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-10,Cambodia,Unknown,2,0.0,0,0.0
 2020-03-10,Cameroon,Unknown,2,0.0,0,0.0
@@ -12309,6 +12551,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-10,Luxembourg,Unknown,5,2.0,0,0.0
 2020-03-10,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-10,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-10,Malawi,Unknown,0,0.0,0,0.0
 2020-03-10,Malaysia,Unknown,129,12.0,0,0.0
 2020-03-10,Maldives,Unknown,6,2.0,0,0.0
 2020-03-10,Mali,Unknown,0,0.0,0,0.0
@@ -12325,6 +12568,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-10,Namibia,Unknown,0,0.0,0,0.0
 2020-03-10,Nepal,Unknown,1,0.0,0,0.0
 2020-03-10,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-10,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-10,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-10,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-10,Netherlands,Unknown,382,61.0,4,1.0
@@ -12355,6 +12599,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-10,Senegal,Unknown,4,0.0,0,0.0
 2020-03-10,Serbia,Unknown,5,4.0,0,0.0
 2020-03-10,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-10,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-10,Singapore,Unknown,160,10.0,0,0.0
 2020-03-10,Slovakia,Unknown,7,4.0,0,0.0
 2020-03-10,Slovenia,Unknown,31,15.0,0,0.0
@@ -12425,11 +12670,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-11,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-11,Bolivia,Unknown,2,2.0,0,0.0
 2020-03-11,Bosnia and Herzegovina,Unknown,7,2.0,0,0.0
+2020-03-11,Botswana,Unknown,0,0.0,0,0.0
 2020-03-11,Brazil,Unknown,38,7.0,0,0.0
 2020-03-11,Brunei,Unknown,11,10.0,0,0.0
 2020-03-11,Bulgaria,Unknown,7,3.0,1,1.0
 2020-03-11,Burkina Faso,Unknown,2,1.0,0,0.0
 2020-03-11,Burma,Unknown,0,0.0,0,0.0
+2020-03-11,Burundi,Unknown,0,0.0,0,0.0
 2020-03-11,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-11,Cambodia,Unknown,3,1.0,0,0.0
 2020-03-11,Cameroon,Unknown,2,0.0,0,0.0
@@ -12562,6 +12809,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-11,Luxembourg,Unknown,7,2.0,0,0.0
 2020-03-11,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-11,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-11,Malawi,Unknown,0,0.0,0,0.0
 2020-03-11,Malaysia,Unknown,149,20.0,0,0.0
 2020-03-11,Maldives,Unknown,8,2.0,0,0.0
 2020-03-11,Mali,Unknown,0,0.0,0,0.0
@@ -12578,6 +12826,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-11,Namibia,Unknown,0,0.0,0,0.0
 2020-03-11,Nepal,Unknown,1,0.0,0,0.0
 2020-03-11,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-11,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-11,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-11,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-11,Netherlands,Unknown,503,121.0,5,1.0
@@ -12608,6 +12857,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-11,Senegal,Unknown,4,0.0,0,0.0
 2020-03-11,Serbia,Unknown,12,7.0,0,0.0
 2020-03-11,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-11,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-11,Singapore,Unknown,178,18.0,0,0.0
 2020-03-11,Slovakia,Unknown,10,3.0,0,0.0
 2020-03-11,Slovenia,Unknown,57,26.0,0,0.0
@@ -12678,11 +12928,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-12,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-12,Bolivia,Unknown,2,0.0,0,0.0
 2020-03-12,Bosnia and Herzegovina,Unknown,11,4.0,0,0.0
+2020-03-12,Botswana,Unknown,0,0.0,0,0.0
 2020-03-12,Brazil,Unknown,52,14.0,0,0.0
 2020-03-12,Brunei,Unknown,11,0.0,0,0.0
 2020-03-12,Bulgaria,Unknown,7,0.0,1,0.0
 2020-03-12,Burkina Faso,Unknown,2,0.0,0,0.0
 2020-03-12,Burma,Unknown,0,0.0,0,0.0
+2020-03-12,Burundi,Unknown,0,0.0,0,0.0
 2020-03-12,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-12,Cambodia,Unknown,3,0.0,0,0.0
 2020-03-12,Cameroon,Unknown,2,0.0,0,0.0
@@ -12815,6 +13067,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-12,Luxembourg,Unknown,19,12.0,0,0.0
 2020-03-12,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-12,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-12,Malawi,Unknown,0,0.0,0,0.0
 2020-03-12,Malaysia,Unknown,149,0.0,0,0.0
 2020-03-12,Maldives,Unknown,8,0.0,0,0.0
 2020-03-12,Mali,Unknown,0,0.0,0,0.0
@@ -12831,6 +13084,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-12,Namibia,Unknown,0,0.0,0,0.0
 2020-03-12,Nepal,Unknown,1,0.0,0,0.0
 2020-03-12,Netherlands,Aruba,0,0.0,0,0.0
+2020-03-12,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-12,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-12,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-12,Netherlands,Unknown,503,0.0,5,0.0
@@ -12861,6 +13115,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-12,Senegal,Unknown,4,0.0,0,0.0
 2020-03-12,Serbia,Unknown,19,7.0,0,0.0
 2020-03-12,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-12,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-12,Singapore,Unknown,178,0.0,0,0.0
 2020-03-12,Slovakia,Unknown,16,6.0,0,0.0
 2020-03-12,Slovenia,Unknown,89,32.0,0,0.0
@@ -12931,11 +13186,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-13,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-13,Bolivia,Unknown,3,1.0,0,0.0
 2020-03-13,Bosnia and Herzegovina,Unknown,13,2.0,0,0.0
+2020-03-13,Botswana,Unknown,0,0.0,0,0.0
 2020-03-13,Brazil,Unknown,151,99.0,0,0.0
 2020-03-13,Brunei,Unknown,37,26.0,0,0.0
 2020-03-13,Bulgaria,Unknown,23,16.0,1,0.0
 2020-03-13,Burkina Faso,Unknown,2,0.0,0,0.0
 2020-03-13,Burma,Unknown,0,0.0,0,0.0
+2020-03-13,Burundi,Unknown,0,0.0,0,0.0
 2020-03-13,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-13,Cambodia,Unknown,5,2.0,0,0.0
 2020-03-13,Cameroon,Unknown,2,0.0,0,0.0
@@ -13068,6 +13325,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-13,Luxembourg,Unknown,34,15.0,0,0.0
 2020-03-13,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-13,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-13,Malawi,Unknown,0,0.0,0,0.0
 2020-03-13,Malaysia,Unknown,197,48.0,0,0.0
 2020-03-13,Maldives,Unknown,9,1.0,0,0.0
 2020-03-13,Mali,Unknown,0,0.0,0,0.0
@@ -13084,6 +13342,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-13,Namibia,Unknown,0,0.0,0,0.0
 2020-03-13,Nepal,Unknown,1,0.0,0,0.0
 2020-03-13,Netherlands,Aruba,2,2.0,0,0.0
+2020-03-13,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-13,Netherlands,Curacao,0,0.0,0,0.0
 2020-03-13,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-13,Netherlands,Unknown,804,301.0,10,5.0
@@ -13114,6 +13373,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-13,Senegal,Unknown,10,6.0,0,0.0
 2020-03-13,Serbia,Unknown,35,16.0,0,0.0
 2020-03-13,Seychelles,Unknown,0,0.0,0,0.0
+2020-03-13,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-13,Singapore,Unknown,200,22.0,0,0.0
 2020-03-13,Slovakia,Unknown,32,16.0,0,0.0
 2020-03-13,Slovenia,Unknown,141,52.0,0,0.0
@@ -13184,11 +13444,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-14,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-14,Bolivia,Unknown,10,7.0,0,0.0
 2020-03-14,Bosnia and Herzegovina,Unknown,18,5.0,0,0.0
+2020-03-14,Botswana,Unknown,0,0.0,0,0.0
 2020-03-14,Brazil,Unknown,151,0.0,0,0.0
 2020-03-14,Brunei,Unknown,40,3.0,0,0.0
 2020-03-14,Bulgaria,Unknown,41,18.0,2,1.0
 2020-03-14,Burkina Faso,Unknown,2,0.0,0,0.0
 2020-03-14,Burma,Unknown,0,0.0,0,0.0
+2020-03-14,Burundi,Unknown,0,0.0,0,0.0
 2020-03-14,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-14,Cambodia,Unknown,7,2.0,0,0.0
 2020-03-14,Cameroon,Unknown,2,0.0,0,0.0
@@ -13321,6 +13583,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-14,Luxembourg,Unknown,51,17.0,1,1.0
 2020-03-14,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-14,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-14,Malawi,Unknown,0,0.0,0,0.0
 2020-03-14,Malaysia,Unknown,238,41.0,0,0.0
 2020-03-14,Maldives,Unknown,10,1.0,0,0.0
 2020-03-14,Mali,Unknown,0,0.0,0,0.0
@@ -13337,6 +13600,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-14,Namibia,Unknown,2,2.0,0,0.0
 2020-03-14,Nepal,Unknown,1,0.0,0,0.0
 2020-03-14,Netherlands,Aruba,2,0.0,0,0.0
+2020-03-14,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-14,Netherlands,Curacao,1,1.0,0,0.0
 2020-03-14,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-14,Netherlands,Unknown,959,155.0,12,2.0
@@ -13367,6 +13631,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-14,Senegal,Unknown,10,0.0,0,0.0
 2020-03-14,Serbia,Unknown,46,11.0,0,0.0
 2020-03-14,Seychelles,Unknown,2,2.0,0,0.0
+2020-03-14,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-14,Singapore,Unknown,212,12.0,0,0.0
 2020-03-14,Slovakia,Unknown,44,12.0,0,0.0
 2020-03-14,Slovenia,Unknown,181,40.0,1,1.0
@@ -13437,11 +13702,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-15,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-15,Bolivia,Unknown,10,0.0,0,0.0
 2020-03-15,Bosnia and Herzegovina,Unknown,24,6.0,0,0.0
+2020-03-15,Botswana,Unknown,0,0.0,0,0.0
 2020-03-15,Brazil,Unknown,162,11.0,0,0.0
 2020-03-15,Brunei,Unknown,50,10.0,0,0.0
 2020-03-15,Bulgaria,Unknown,51,10.0,2,0.0
 2020-03-15,Burkina Faso,Unknown,3,1.0,0,0.0
 2020-03-15,Burma,Unknown,0,0.0,0,0.0
+2020-03-15,Burundi,Unknown,0,0.0,0,0.0
 2020-03-15,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-15,Cambodia,Unknown,7,0.0,0,0.0
 2020-03-15,Cameroon,Unknown,2,0.0,0,0.0
@@ -13574,6 +13841,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-15,Luxembourg,Unknown,59,8.0,1,0.0
 2020-03-15,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-15,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-15,Malawi,Unknown,0,0.0,0,0.0
 2020-03-15,Malaysia,Unknown,428,190.0,0,0.0
 2020-03-15,Maldives,Unknown,13,3.0,0,0.0
 2020-03-15,Mali,Unknown,0,0.0,0,0.0
@@ -13590,6 +13858,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-15,Namibia,Unknown,2,0.0,0,0.0
 2020-03-15,Nepal,Unknown,1,0.0,0,0.0
 2020-03-15,Netherlands,Aruba,2,0.0,0,0.0
+2020-03-15,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-15,Netherlands,Curacao,1,0.0,0,0.0
 2020-03-15,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-15,Netherlands,Unknown,1135,176.0,20,8.0
@@ -13620,6 +13889,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-15,Senegal,Unknown,24,14.0,0,0.0
 2020-03-15,Serbia,Unknown,48,2.0,0,0.0
 2020-03-15,Seychelles,Unknown,2,0.0,0,0.0
+2020-03-15,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-15,Singapore,Unknown,226,14.0,0,0.0
 2020-03-15,Slovakia,Unknown,54,10.0,0,0.0
 2020-03-15,Slovenia,Unknown,219,38.0,1,0.0
@@ -13690,11 +13960,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-16,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-16,Bolivia,Unknown,11,1.0,0,0.0
 2020-03-16,Bosnia and Herzegovina,Unknown,25,1.0,0,0.0
+2020-03-16,Botswana,Unknown,0,0.0,0,0.0
 2020-03-16,Brazil,Unknown,200,38.0,0,0.0
 2020-03-16,Brunei,Unknown,54,4.0,0,0.0
 2020-03-16,Bulgaria,Unknown,52,1.0,2,0.0
 2020-03-16,Burkina Faso,Unknown,15,12.0,0,0.0
 2020-03-16,Burma,Unknown,0,0.0,0,0.0
+2020-03-16,Burundi,Unknown,0,0.0,0,0.0
 2020-03-16,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-16,Cambodia,Unknown,7,0.0,0,0.0
 2020-03-16,Cameroon,Unknown,4,2.0,0,0.0
@@ -13827,6 +14099,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-16,Luxembourg,Unknown,77,18.0,1,0.0
 2020-03-16,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-16,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-16,Malawi,Unknown,0,0.0,0,0.0
 2020-03-16,Malaysia,Unknown,566,138.0,0,0.0
 2020-03-16,Maldives,Unknown,13,0.0,0,0.0
 2020-03-16,Mali,Unknown,0,0.0,0,0.0
@@ -13843,6 +14116,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-16,Namibia,Unknown,2,0.0,0,0.0
 2020-03-16,Nepal,Unknown,1,0.0,0,0.0
 2020-03-16,Netherlands,Aruba,2,0.0,0,0.0
+2020-03-16,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-16,Netherlands,Curacao,1,0.0,0,0.0
 2020-03-16,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-16,Netherlands,Unknown,1413,278.0,24,4.0
@@ -13873,6 +14147,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-16,Senegal,Unknown,24,0.0,0,0.0
 2020-03-16,Serbia,Unknown,55,7.0,0,0.0
 2020-03-16,Seychelles,Unknown,3,1.0,0,0.0
+2020-03-16,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-16,Singapore,Unknown,243,17.0,0,0.0
 2020-03-16,Slovakia,Unknown,63,9.0,0,0.0
 2020-03-16,Slovenia,Unknown,253,34.0,1,0.0
@@ -13943,11 +14218,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-17,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-17,Bolivia,Unknown,11,0.0,0,0.0
 2020-03-17,Bosnia and Herzegovina,Unknown,26,1.0,0,0.0
+2020-03-17,Botswana,Unknown,0,0.0,0,0.0
 2020-03-17,Brazil,Unknown,321,121.0,1,1.0
 2020-03-17,Brunei,Unknown,56,2.0,0,0.0
 2020-03-17,Bulgaria,Unknown,67,15.0,2,0.0
 2020-03-17,Burkina Faso,Unknown,15,0.0,0,0.0
 2020-03-17,Burma,Unknown,0,0.0,0,0.0
+2020-03-17,Burundi,Unknown,0,0.0,0,0.0
 2020-03-17,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-17,Cambodia,Unknown,33,26.0,0,0.0
 2020-03-17,Cameroon,Unknown,10,6.0,0,0.0
@@ -14080,6 +14357,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-17,Luxembourg,Unknown,140,63.0,1,0.0
 2020-03-17,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-17,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-17,Malawi,Unknown,0,0.0,0,0.0
 2020-03-17,Malaysia,Unknown,673,107.0,2,2.0
 2020-03-17,Maldives,Unknown,13,0.0,0,0.0
 2020-03-17,Mali,Unknown,0,0.0,0,0.0
@@ -14096,6 +14374,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-17,Namibia,Unknown,2,0.0,0,0.0
 2020-03-17,Nepal,Unknown,1,0.0,0,0.0
 2020-03-17,Netherlands,Aruba,3,1.0,0,0.0
+2020-03-17,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-17,Netherlands,Curacao,3,2.0,0,0.0
 2020-03-17,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-17,Netherlands,Unknown,1705,292.0,43,19.0
@@ -14126,6 +14405,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-17,Senegal,Unknown,26,2.0,0,0.0
 2020-03-17,Serbia,Unknown,65,10.0,0,0.0
 2020-03-17,Seychelles,Unknown,4,1.0,0,0.0
+2020-03-17,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-17,Singapore,Unknown,266,23.0,0,0.0
 2020-03-17,Slovakia,Unknown,72,9.0,0,0.0
 2020-03-17,Slovenia,Unknown,275,22.0,1,0.0
@@ -14196,11 +14476,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-18,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-18,Bolivia,Unknown,12,1.0,0,0.0
 2020-03-18,Bosnia and Herzegovina,Unknown,38,12.0,0,0.0
+2020-03-18,Botswana,Unknown,0,0.0,0,0.0
 2020-03-18,Brazil,Unknown,372,51.0,3,2.0
 2020-03-18,Brunei,Unknown,68,12.0,0,0.0
 2020-03-18,Bulgaria,Unknown,92,25.0,2,0.0
 2020-03-18,Burkina Faso,Unknown,20,5.0,1,1.0
 2020-03-18,Burma,Unknown,0,0.0,0,0.0
+2020-03-18,Burundi,Unknown,0,0.0,0,0.0
 2020-03-18,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-18,Cambodia,Unknown,35,2.0,0,0.0
 2020-03-18,Cameroon,Unknown,10,0.0,0,0.0
@@ -14333,6 +14615,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-18,Luxembourg,Unknown,203,63.0,2,1.0
 2020-03-18,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-18,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-18,Malawi,Unknown,0,0.0,0,0.0
 2020-03-18,Malaysia,Unknown,790,117.0,2,0.0
 2020-03-18,Maldives,Unknown,13,0.0,0,0.0
 2020-03-18,Mali,Unknown,0,0.0,0,0.0
@@ -14349,6 +14632,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-18,Namibia,Unknown,2,0.0,0,0.0
 2020-03-18,Nepal,Unknown,1,0.0,0,0.0
 2020-03-18,Netherlands,Aruba,4,1.0,0,0.0
+2020-03-18,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-18,Netherlands,Curacao,3,0.0,0,0.0
 2020-03-18,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-18,Netherlands,Unknown,2051,346.0,58,15.0
@@ -14379,6 +14663,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-18,Senegal,Unknown,31,5.0,0,0.0
 2020-03-18,Serbia,Unknown,83,18.0,0,0.0
 2020-03-18,Seychelles,Unknown,4,0.0,0,0.0
+2020-03-18,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-18,Singapore,Unknown,313,47.0,0,0.0
 2020-03-18,Slovakia,Unknown,105,33.0,1,1.0
 2020-03-18,Slovenia,Unknown,275,0.0,1,0.0
@@ -14449,11 +14734,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-19,Bhutan,Unknown,1,0.0,0,0.0
 2020-03-19,Bolivia,Unknown,12,0.0,0,0.0
 2020-03-19,Bosnia and Herzegovina,Unknown,63,25.0,0,0.0
+2020-03-19,Botswana,Unknown,0,0.0,0,0.0
 2020-03-19,Brazil,Unknown,621,249.0,6,3.0
 2020-03-19,Brunei,Unknown,75,7.0,0,0.0
 2020-03-19,Bulgaria,Unknown,94,2.0,3,1.0
 2020-03-19,Burkina Faso,Unknown,33,13.0,1,0.0
 2020-03-19,Burma,Unknown,0,0.0,0,0.0
+2020-03-19,Burundi,Unknown,0,0.0,0,0.0
 2020-03-19,Cabo Verde,Unknown,0,0.0,0,0.0
 2020-03-19,Cambodia,Unknown,37,2.0,0,0.0
 2020-03-19,Cameroon,Unknown,13,3.0,0,0.0
@@ -14586,6 +14873,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-19,Luxembourg,Unknown,335,132.0,4,2.0
 2020-03-19,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-19,Madagascar,Unknown,0,0.0,0,0.0
+2020-03-19,Malawi,Unknown,0,0.0,0,0.0
 2020-03-19,Malaysia,Unknown,900,110.0,2,0.0
 2020-03-19,Maldives,Unknown,13,0.0,0,0.0
 2020-03-19,Mali,Unknown,0,0.0,0,0.0
@@ -14602,6 +14890,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-19,Namibia,Unknown,3,1.0,0,0.0
 2020-03-19,Nepal,Unknown,1,0.0,0,0.0
 2020-03-19,Netherlands,Aruba,4,0.0,0,0.0
+2020-03-19,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-19,Netherlands,Curacao,3,0.0,1,1.0
 2020-03-19,Netherlands,Sint Maarten,0,0.0,0,0.0
 2020-03-19,Netherlands,Unknown,2460,409.0,76,18.0
@@ -14632,6 +14921,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-19,Senegal,Unknown,31,0.0,0,0.0
 2020-03-19,Serbia,Unknown,103,20.0,0,0.0
 2020-03-19,Seychelles,Unknown,6,2.0,0,0.0
+2020-03-19,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-19,Singapore,Unknown,345,32.0,0,0.0
 2020-03-19,Slovakia,Unknown,123,18.0,1,0.0
 2020-03-19,Slovenia,Unknown,286,11.0,1,0.0
@@ -14702,11 +14992,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-20,Bhutan,Unknown,2,1.0,0,0.0
 2020-03-20,Bolivia,Unknown,15,3.0,0,0.0
 2020-03-20,Bosnia and Herzegovina,Unknown,89,26.0,0,0.0
+2020-03-20,Botswana,Unknown,0,0.0,0,0.0
 2020-03-20,Brazil,Unknown,793,172.0,11,5.0
 2020-03-20,Brunei,Unknown,78,3.0,0,0.0
 2020-03-20,Bulgaria,Unknown,127,33.0,3,0.0
 2020-03-20,Burkina Faso,Unknown,40,7.0,1,0.0
 2020-03-20,Burma,Unknown,0,0.0,0,0.0
+2020-03-20,Burundi,Unknown,0,0.0,0,0.0
 2020-03-20,Cabo Verde,Unknown,1,1.0,0,0.0
 2020-03-20,Cambodia,Unknown,51,14.0,0,0.0
 2020-03-20,Cameroon,Unknown,20,7.0,0,0.0
@@ -14839,6 +15131,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-20,Luxembourg,Unknown,484,149.0,4,0.0
 2020-03-20,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-20,Madagascar,Unknown,3,3.0,0,0.0
+2020-03-20,Malawi,Unknown,0,0.0,0,0.0
 2020-03-20,Malaysia,Unknown,1030,130.0,3,1.0
 2020-03-20,Maldives,Unknown,13,0.0,0,0.0
 2020-03-20,Mali,Unknown,0,0.0,0,0.0
@@ -14855,6 +15148,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-20,Namibia,Unknown,3,0.0,0,0.0
 2020-03-20,Nepal,Unknown,1,0.0,0,0.0
 2020-03-20,Netherlands,Aruba,5,1.0,0,0.0
+2020-03-20,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-20,Netherlands,Curacao,3,0.0,1,0.0
 2020-03-20,Netherlands,Sint Maarten,1,1.0,0,0.0
 2020-03-20,Netherlands,Unknown,2994,534.0,106,30.0
@@ -14885,6 +15179,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-20,Senegal,Unknown,38,7.0,0,0.0
 2020-03-20,Serbia,Unknown,135,32.0,1,1.0
 2020-03-20,Seychelles,Unknown,7,1.0,0,0.0
+2020-03-20,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-20,Singapore,Unknown,385,40.0,0,0.0
 2020-03-20,Slovakia,Unknown,137,14.0,1,0.0
 2020-03-20,Slovenia,Unknown,341,55.0,1,0.0
@@ -14955,11 +15250,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-21,Bhutan,Unknown,2,0.0,0,0.0
 2020-03-21,Bolivia,Unknown,19,4.0,0,0.0
 2020-03-21,Bosnia and Herzegovina,Unknown,93,4.0,1,1.0
+2020-03-21,Botswana,Unknown,0,0.0,0,0.0
 2020-03-21,Brazil,Unknown,1021,228.0,15,4.0
 2020-03-21,Brunei,Unknown,83,5.0,0,0.0
 2020-03-21,Bulgaria,Unknown,163,36.0,3,0.0
 2020-03-21,Burkina Faso,Unknown,64,24.0,2,1.0
 2020-03-21,Burma,Unknown,0,0.0,0,0.0
+2020-03-21,Burundi,Unknown,0,0.0,0,0.0
 2020-03-21,Cabo Verde,Unknown,3,2.0,0,0.0
 2020-03-21,Cambodia,Unknown,53,2.0,0,0.0
 2020-03-21,Cameroon,Unknown,27,7.0,0,0.0
@@ -15092,6 +15389,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-21,Luxembourg,Unknown,670,186.0,8,4.0
 2020-03-21,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-21,Madagascar,Unknown,3,0.0,0,0.0
+2020-03-21,Malawi,Unknown,0,0.0,0,0.0
 2020-03-21,Malaysia,Unknown,1183,153.0,4,1.0
 2020-03-21,Maldives,Unknown,13,0.0,0,0.0
 2020-03-21,Mali,Unknown,0,0.0,0,0.0
@@ -15108,6 +15406,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-21,Namibia,Unknown,3,0.0,0,0.0
 2020-03-21,Nepal,Unknown,1,0.0,0,0.0
 2020-03-21,Netherlands,Aruba,5,0.0,0,0.0
+2020-03-21,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-21,Netherlands,Curacao,3,0.0,1,0.0
 2020-03-21,Netherlands,Sint Maarten,1,0.0,0,0.0
 2020-03-21,Netherlands,Unknown,3631,637.0,136,30.0
@@ -15138,6 +15437,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-21,Senegal,Unknown,47,9.0,0,0.0
 2020-03-21,Serbia,Unknown,171,36.0,1,0.0
 2020-03-21,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-21,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-21,Singapore,Unknown,432,47.0,2,2.0
 2020-03-21,Slovakia,Unknown,178,41.0,1,0.0
 2020-03-21,Slovenia,Unknown,383,42.0,1,0.0
@@ -15208,11 +15508,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-22,Bhutan,Unknown,2,0.0,0,0.0
 2020-03-22,Bolivia,Unknown,24,5.0,0,0.0
 2020-03-22,Bosnia and Herzegovina,Unknown,126,33.0,1,0.0
+2020-03-22,Botswana,Unknown,0,0.0,0,0.0
 2020-03-22,Brazil,Unknown,1546,525.0,25,10.0
 2020-03-22,Brunei,Unknown,88,5.0,0,0.0
 2020-03-22,Bulgaria,Unknown,187,24.0,3,0.0
 2020-03-22,Burkina Faso,Unknown,75,11.0,4,2.0
 2020-03-22,Burma,Unknown,0,0.0,0,0.0
+2020-03-22,Burundi,Unknown,0,0.0,0,0.0
 2020-03-22,Cabo Verde,Unknown,3,0.0,0,0.0
 2020-03-22,Cambodia,Unknown,84,31.0,0,0.0
 2020-03-22,Cameroon,Unknown,40,13.0,0,0.0
@@ -15345,6 +15647,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-22,Luxembourg,Unknown,798,128.0,8,0.0
 2020-03-22,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-22,Madagascar,Unknown,3,0.0,0,0.0
+2020-03-22,Malawi,Unknown,0,0.0,0,0.0
 2020-03-22,Malaysia,Unknown,1306,123.0,10,6.0
 2020-03-22,Maldives,Unknown,13,0.0,0,0.0
 2020-03-22,Mali,Unknown,0,0.0,0,0.0
@@ -15361,6 +15664,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-22,Namibia,Unknown,3,0.0,0,0.0
 2020-03-22,Nepal,Unknown,1,0.0,0,0.0
 2020-03-22,Netherlands,Aruba,9,4.0,0,0.0
+2020-03-22,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-22,Netherlands,Curacao,3,0.0,1,0.0
 2020-03-22,Netherlands,Sint Maarten,1,0.0,0,0.0
 2020-03-22,Netherlands,Unknown,4204,573.0,179,43.0
@@ -15391,6 +15695,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-22,Senegal,Unknown,67,20.0,0,0.0
 2020-03-22,Serbia,Unknown,222,51.0,2,1.0
 2020-03-22,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-22,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-22,Singapore,Unknown,455,23.0,2,0.0
 2020-03-22,Slovakia,Unknown,185,7.0,0,-1.0
 2020-03-22,Slovenia,Unknown,414,31.0,2,1.0
@@ -15461,11 +15766,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-23,Bhutan,Unknown,2,0.0,0,0.0
 2020-03-23,Bolivia,Unknown,27,3.0,0,0.0
 2020-03-23,Bosnia and Herzegovina,Unknown,136,10.0,1,0.0
+2020-03-23,Botswana,Unknown,0,0.0,0,0.0
 2020-03-23,Brazil,Unknown,1924,378.0,34,9.0
 2020-03-23,Brunei,Unknown,91,3.0,0,0.0
 2020-03-23,Bulgaria,Unknown,201,14.0,3,0.0
 2020-03-23,Burkina Faso,Unknown,99,24.0,4,0.0
 2020-03-23,Burma,Unknown,0,0.0,0,0.0
+2020-03-23,Burundi,Unknown,0,0.0,0,0.0
 2020-03-23,Cabo Verde,Unknown,3,0.0,0,0.0
 2020-03-23,Cambodia,Unknown,87,3.0,0,0.0
 2020-03-23,Cameroon,Unknown,56,16.0,0,0.0
@@ -15598,6 +15905,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-23,Luxembourg,Unknown,875,77.0,8,0.0
 2020-03-23,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-23,Madagascar,Unknown,12,9.0,0,0.0
+2020-03-23,Malawi,Unknown,0,0.0,0,0.0
 2020-03-23,Malaysia,Unknown,1518,212.0,14,4.0
 2020-03-23,Maldives,Unknown,13,0.0,0,0.0
 2020-03-23,Mali,Unknown,0,0.0,0,0.0
@@ -15614,6 +15922,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-23,Namibia,Unknown,4,1.0,0,0.0
 2020-03-23,Nepal,Unknown,2,1.0,0,0.0
 2020-03-23,Netherlands,Aruba,9,0.0,0,0.0
+2020-03-23,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-23,Netherlands,Curacao,4,1.0,1,0.0
 2020-03-23,Netherlands,Sint Maarten,2,1.0,0,0.0
 2020-03-23,Netherlands,Unknown,4749,545.0,213,34.0
@@ -15644,6 +15953,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-23,Senegal,Unknown,79,12.0,0,0.0
 2020-03-23,Serbia,Unknown,249,27.0,3,1.0
 2020-03-23,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-23,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-23,Singapore,Unknown,509,54.0,2,0.0
 2020-03-23,Slovakia,Unknown,186,1.0,0,0.0
 2020-03-23,Slovenia,Unknown,442,28.0,3,1.0
@@ -15714,11 +16024,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-24,Bhutan,Unknown,2,0.0,0,0.0
 2020-03-24,Bolivia,Unknown,29,2.0,0,0.0
 2020-03-24,Bosnia and Herzegovina,Unknown,166,30.0,3,2.0
+2020-03-24,Botswana,Unknown,0,0.0,0,0.0
 2020-03-24,Brazil,Unknown,2247,323.0,46,12.0
 2020-03-24,Brunei,Unknown,104,13.0,0,0.0
 2020-03-24,Bulgaria,Unknown,218,17.0,3,0.0
 2020-03-24,Burkina Faso,Unknown,114,15.0,4,0.0
 2020-03-24,Burma,Unknown,0,0.0,0,0.0
+2020-03-24,Burundi,Unknown,0,0.0,0,0.0
 2020-03-24,Cabo Verde,Unknown,3,0.0,1,1.0
 2020-03-24,Cambodia,Unknown,91,4.0,0,0.0
 2020-03-24,Cameroon,Unknown,66,10.0,0,0.0
@@ -15851,6 +16163,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-24,Luxembourg,Unknown,1099,224.0,8,0.0
 2020-03-24,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-24,Madagascar,Unknown,17,5.0,0,0.0
+2020-03-24,Malawi,Unknown,0,0.0,0,0.0
 2020-03-24,Malaysia,Unknown,1624,106.0,16,2.0
 2020-03-24,Maldives,Unknown,13,0.0,0,0.0
 2020-03-24,Mali,Unknown,0,0.0,0,0.0
@@ -15867,6 +16180,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-24,Namibia,Unknown,7,3.0,0,0.0
 2020-03-24,Nepal,Unknown,2,0.0,0,0.0
 2020-03-24,Netherlands,Aruba,12,3.0,0,0.0
+2020-03-24,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-24,Netherlands,Curacao,6,2.0,1,0.0
 2020-03-24,Netherlands,Sint Maarten,2,0.0,0,0.0
 2020-03-24,Netherlands,Unknown,5560,811.0,276,63.0
@@ -15897,6 +16211,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-24,Senegal,Unknown,86,7.0,0,0.0
 2020-03-24,Serbia,Unknown,303,54.0,3,0.0
 2020-03-24,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-24,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-24,Singapore,Unknown,558,49.0,2,0.0
 2020-03-24,Slovakia,Unknown,204,18.0,0,0.0
 2020-03-24,Slovenia,Unknown,480,38.0,4,1.0
@@ -15967,11 +16282,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-25,Bhutan,Unknown,2,0.0,0,0.0
 2020-03-25,Bolivia,Unknown,32,3.0,0,0.0
 2020-03-25,Bosnia and Herzegovina,Unknown,176,10.0,3,0.0
+2020-03-25,Botswana,Unknown,0,0.0,0,0.0
 2020-03-25,Brazil,Unknown,2554,307.0,59,13.0
 2020-03-25,Brunei,Unknown,109,5.0,0,0.0
 2020-03-25,Bulgaria,Unknown,242,24.0,3,0.0
 2020-03-25,Burkina Faso,Unknown,146,32.0,4,0.0
 2020-03-25,Burma,Unknown,0,0.0,0,0.0
+2020-03-25,Burundi,Unknown,0,0.0,0,0.0
 2020-03-25,Cabo Verde,Unknown,4,1.0,1,0.0
 2020-03-25,Cambodia,Unknown,96,5.0,0,0.0
 2020-03-25,Cameroon,Unknown,75,9.0,1,1.0
@@ -16104,6 +16421,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-25,Luxembourg,Unknown,1333,234.0,8,0.0
 2020-03-25,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-25,Madagascar,Unknown,19,2.0,0,0.0
+2020-03-25,Malawi,Unknown,0,0.0,0,0.0
 2020-03-25,Malaysia,Unknown,1796,172.0,20,4.0
 2020-03-25,Maldives,Unknown,13,0.0,0,0.0
 2020-03-25,Mali,Unknown,2,2.0,0,0.0
@@ -16120,6 +16438,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-25,Namibia,Unknown,7,0.0,0,0.0
 2020-03-25,Nepal,Unknown,3,1.0,0,0.0
 2020-03-25,Netherlands,Aruba,17,5.0,0,0.0
+2020-03-25,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-25,Netherlands,Curacao,6,0.0,1,0.0
 2020-03-25,Netherlands,Sint Maarten,3,1.0,0,0.0
 2020-03-25,Netherlands,Unknown,6412,852.0,356,80.0
@@ -16150,6 +16469,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-25,Senegal,Unknown,99,13.0,0,0.0
 2020-03-25,Serbia,Unknown,384,81.0,4,1.0
 2020-03-25,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-25,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-25,Singapore,Unknown,631,73.0,2,0.0
 2020-03-25,Slovakia,Unknown,216,12.0,0,0.0
 2020-03-25,Slovenia,Unknown,528,48.0,5,1.0
@@ -16220,11 +16540,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-26,Bhutan,Unknown,2,0.0,0,0.0
 2020-03-26,Bolivia,Unknown,43,11.0,0,0.0
 2020-03-26,Bosnia and Herzegovina,Unknown,191,15.0,3,0.0
+2020-03-26,Botswana,Unknown,0,0.0,0,0.0
 2020-03-26,Brazil,Unknown,2985,431.0,77,18.0
 2020-03-26,Brunei,Unknown,114,5.0,0,0.0
 2020-03-26,Bulgaria,Unknown,264,22.0,3,0.0
 2020-03-26,Burkina Faso,Unknown,152,6.0,7,3.0
 2020-03-26,Burma,Unknown,0,0.0,0,0.0
+2020-03-26,Burundi,Unknown,0,0.0,0,0.0
 2020-03-26,Cabo Verde,Unknown,4,0.0,1,0.0
 2020-03-26,Cambodia,Unknown,96,0.0,0,0.0
 2020-03-26,Cameroon,Unknown,75,0.0,1,0.0
@@ -16357,6 +16679,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-26,Luxembourg,Unknown,1453,120.0,9,1.0
 2020-03-26,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-26,Madagascar,Unknown,23,4.0,0,0.0
+2020-03-26,Malawi,Unknown,0,0.0,0,0.0
 2020-03-26,Malaysia,Unknown,2031,235.0,23,3.0
 2020-03-26,Maldives,Unknown,13,0.0,0,0.0
 2020-03-26,Mali,Unknown,4,2.0,0,0.0
@@ -16373,6 +16696,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-26,Namibia,Unknown,8,1.0,0,0.0
 2020-03-26,Nepal,Unknown,3,0.0,0,0.0
 2020-03-26,Netherlands,Aruba,28,11.0,0,0.0
+2020-03-26,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-26,Netherlands,Curacao,6,0.0,1,0.0
 2020-03-26,Netherlands,Sint Maarten,3,0.0,0,0.0
 2020-03-26,Netherlands,Unknown,7431,1019.0,434,78.0
@@ -16403,6 +16727,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-26,Senegal,Unknown,105,6.0,0,0.0
 2020-03-26,Serbia,Unknown,384,0.0,1,-3.0
 2020-03-26,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-26,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-26,Singapore,Unknown,683,52.0,2,0.0
 2020-03-26,Slovakia,Unknown,226,10.0,0,0.0
 2020-03-26,Slovenia,Unknown,562,34.0,6,1.0
@@ -16473,11 +16798,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-27,Bhutan,Unknown,3,1.0,0,0.0
 2020-03-27,Bolivia,Unknown,61,18.0,0,0.0
 2020-03-27,Bosnia and Herzegovina,Unknown,237,46.0,4,1.0
+2020-03-27,Botswana,Unknown,0,0.0,0,0.0
 2020-03-27,Brazil,Unknown,3417,432.0,92,15.0
 2020-03-27,Brunei,Unknown,115,1.0,0,0.0
 2020-03-27,Bulgaria,Unknown,293,29.0,3,0.0
 2020-03-27,Burkina Faso,Unknown,180,28.0,9,2.0
 2020-03-27,Burma,Unknown,8,8.0,0,0.0
+2020-03-27,Burundi,Unknown,0,0.0,0,0.0
 2020-03-27,Cabo Verde,Unknown,5,1.0,1,0.0
 2020-03-27,Cambodia,Unknown,99,3.0,0,0.0
 2020-03-27,Cameroon,Unknown,91,16.0,2,1.0
@@ -16610,6 +16937,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-27,Luxembourg,Unknown,1605,152.0,15,6.0
 2020-03-27,MS Zaandam,Unknown,0,0.0,0,0.0
 2020-03-27,Madagascar,Unknown,26,3.0,0,0.0
+2020-03-27,Malawi,Unknown,0,0.0,0,0.0
 2020-03-27,Malaysia,Unknown,2161,130.0,26,3.0
 2020-03-27,Maldives,Unknown,16,3.0,0,0.0
 2020-03-27,Mali,Unknown,11,7.0,0,0.0
@@ -16626,6 +16954,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-27,Namibia,Unknown,8,0.0,0,0.0
 2020-03-27,Nepal,Unknown,4,1.0,0,0.0
 2020-03-27,Netherlands,Aruba,33,5.0,0,0.0
+2020-03-27,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-27,Netherlands,Curacao,8,2.0,1,0.0
 2020-03-27,Netherlands,Sint Maarten,3,0.0,0,0.0
 2020-03-27,Netherlands,Unknown,8603,1172.0,546,112.0
@@ -16656,6 +16985,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-27,Senegal,Unknown,119,14.0,0,0.0
 2020-03-27,Serbia,Unknown,457,73.0,1,0.0
 2020-03-27,Seychelles,Unknown,7,0.0,0,0.0
+2020-03-27,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-27,Singapore,Unknown,732,49.0,2,0.0
 2020-03-27,Slovakia,Unknown,269,43.0,0,0.0
 2020-03-27,Slovenia,Unknown,632,70.0,9,3.0
@@ -16726,11 +17056,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-28,Bhutan,Unknown,3,0.0,0,0.0
 2020-03-28,Bolivia,Unknown,74,13.0,0,0.0
 2020-03-28,Bosnia and Herzegovina,Unknown,258,21.0,5,1.0
+2020-03-28,Botswana,Unknown,0,0.0,0,0.0
 2020-03-28,Brazil,Unknown,3904,487.0,111,19.0
 2020-03-28,Brunei,Unknown,120,5.0,1,1.0
 2020-03-28,Bulgaria,Unknown,331,38.0,7,4.0
 2020-03-28,Burkina Faso,Unknown,207,27.0,11,2.0
 2020-03-28,Burma,Unknown,8,0.0,0,0.0
+2020-03-28,Burundi,Unknown,0,0.0,0,0.0
 2020-03-28,Cabo Verde,Unknown,5,0.0,1,0.0
 2020-03-28,Cambodia,Unknown,99,0.0,0,0.0
 2020-03-28,Cameroon,Unknown,91,0.0,2,0.0
@@ -16863,6 +17195,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-28,Luxembourg,Unknown,1831,226.0,18,3.0
 2020-03-28,MS Zaandam,Unknown,2,2.0,0,0.0
 2020-03-28,Madagascar,Unknown,26,0.0,0,0.0
+2020-03-28,Malawi,Unknown,0,0.0,0,0.0
 2020-03-28,Malaysia,Unknown,2320,159.0,27,1.0
 2020-03-28,Maldives,Unknown,16,0.0,0,0.0
 2020-03-28,Mali,Unknown,18,7.0,0,0.0
@@ -16879,6 +17212,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-28,Namibia,Unknown,8,0.0,0,0.0
 2020-03-28,Nepal,Unknown,5,1.0,0,0.0
 2020-03-28,Netherlands,Aruba,46,13.0,0,0.0
+2020-03-28,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-28,Netherlands,Curacao,8,0.0,1,0.0
 2020-03-28,Netherlands,Sint Maarten,3,0.0,0,0.0
 2020-03-28,Netherlands,Unknown,9762,1159.0,639,93.0
@@ -16909,6 +17243,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-28,Senegal,Unknown,130,11.0,0,0.0
 2020-03-28,Serbia,Unknown,659,202.0,10,9.0
 2020-03-28,Seychelles,Unknown,8,1.0,0,0.0
+2020-03-28,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-28,Singapore,Unknown,802,70.0,2,0.0
 2020-03-28,Slovakia,Unknown,292,23.0,0,0.0
 2020-03-28,Slovenia,Unknown,684,52.0,9,0.0
@@ -16979,11 +17314,13 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-29,Bhutan,Unknown,4,1.0,0,0.0
 2020-03-29,Bolivia,Unknown,81,7.0,1,1.0
 2020-03-29,Bosnia and Herzegovina,Unknown,323,65.0,6,1.0
+2020-03-29,Botswana,Unknown,0,0.0,0,0.0
 2020-03-29,Brazil,Unknown,4256,352.0,136,25.0
 2020-03-29,Brunei,Unknown,126,6.0,1,0.0
 2020-03-29,Bulgaria,Unknown,346,15.0,8,1.0
 2020-03-29,Burkina Faso,Unknown,222,15.0,12,1.0
 2020-03-29,Burma,Unknown,10,2.0,0,0.0
+2020-03-29,Burundi,Unknown,0,0.0,0,0.0
 2020-03-29,Cabo Verde,Unknown,6,1.0,1,0.0
 2020-03-29,Cambodia,Unknown,103,4.0,0,0.0
 2020-03-29,Cameroon,Unknown,139,48.0,6,4.0
@@ -17116,6 +17453,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-29,Luxembourg,Unknown,1950,119.0,21,3.0
 2020-03-29,MS Zaandam,Unknown,2,0.0,0,0.0
 2020-03-29,Madagascar,Unknown,39,13.0,0,0.0
+2020-03-29,Malawi,Unknown,0,0.0,0,0.0
 2020-03-29,Malaysia,Unknown,2470,150.0,35,8.0
 2020-03-29,Maldives,Unknown,17,1.0,0,0.0
 2020-03-29,Mali,Unknown,18,0.0,1,1.0
@@ -17132,6 +17470,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-29,Namibia,Unknown,11,3.0,0,0.0
 2020-03-29,Nepal,Unknown,5,0.0,0,0.0
 2020-03-29,Netherlands,Aruba,50,4.0,0,0.0
+2020-03-29,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
 2020-03-29,Netherlands,Curacao,8,0.0,1,0.0
 2020-03-29,Netherlands,Sint Maarten,6,3.0,0,0.0
 2020-03-29,Netherlands,Unknown,10866,1104.0,771,132.0
@@ -17162,6 +17501,7 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-29,Senegal,Unknown,142,12.0,0,0.0
 2020-03-29,Serbia,Unknown,741,82.0,13,3.0
 2020-03-29,Seychelles,Unknown,8,0.0,0,0.0
+2020-03-29,Sierra Leone,Unknown,0,0.0,0,0.0
 2020-03-29,Singapore,Unknown,844,42.0,3,1.0
 2020-03-29,Slovakia,Unknown,314,22.0,0,0.0
 2020-03-29,Slovenia,Unknown,730,46.0,11,2.0
@@ -17203,3 +17543,1035 @@ date,country_region,state_province,cumulative_cases,cases,cumulative_deaths,deat
 2020-03-29,West Bank and Gaza,Unknown,109,11.0,1,0.0
 2020-03-29,Zambia,Unknown,29,1.0,0,0.0
 2020-03-29,Zimbabwe,Unknown,7,0.0,1,0.0
+2020-03-30,Afghanistan,Unknown,170,50.0,4,0.0
+2020-03-30,Albania,Unknown,223,11.0,11,1.0
+2020-03-30,Algeria,Unknown,584,73.0,35,4.0
+2020-03-30,Andorra,Unknown,370,36.0,8,2.0
+2020-03-30,Angola,Unknown,7,0.0,2,0.0
+2020-03-30,Antigua and Barbuda,Unknown,7,0.0,0,0.0
+2020-03-30,Argentina,Unknown,820,75.0,23,4.0
+2020-03-30,Armenia,Unknown,482,58.0,3,0.0
+2020-03-30,Australia,Australian Capital Territory,78,1.0,1,1.0
+2020-03-30,Australia,New South Wales,2032,241.0,8,0.0
+2020-03-30,Australia,Northern Territory,15,0.0,0,0.0
+2020-03-30,Australia,Queensland,689,33.0,2,0.0
+2020-03-30,Australia,South Australia,305,6.0,0,0.0
+2020-03-30,Australia,Tasmania,66,0.0,0,0.0
+2020-03-30,Australia,Victoria,821,52.0,4,0.0
+2020-03-30,Australia,Western Australia,355,44.0,2,0.0
+2020-03-30,Austria,Unknown,9618,830.0,108,22.0
+2020-03-30,Azerbaijan,Unknown,273,64.0,4,0.0
+2020-03-30,Bahamas,Unknown,14,3.0,0,0.0
+2020-03-30,Bahrain,Unknown,515,16.0,4,0.0
+2020-03-30,Bangladesh,Unknown,49,1.0,5,0.0
+2020-03-30,Barbados,Unknown,33,0.0,0,0.0
+2020-03-30,Belarus,Unknown,152,58.0,0,0.0
+2020-03-30,Belgium,Unknown,11899,1063.0,513,82.0
+2020-03-30,Belize,Unknown,3,1.0,0,0.0
+2020-03-30,Benin,Unknown,6,0.0,0,0.0
+2020-03-30,Bhutan,Unknown,4,0.0,0,0.0
+2020-03-30,Bolivia,Unknown,97,16.0,4,3.0
+2020-03-30,Bosnia and Herzegovina,Unknown,368,45.0,10,4.0
+2020-03-30,Botswana,Unknown,3,3.0,0,0.0
+2020-03-30,Brazil,Unknown,4579,323.0,159,23.0
+2020-03-30,Brunei,Unknown,127,1.0,1,0.0
+2020-03-30,Bulgaria,Unknown,359,13.0,8,0.0
+2020-03-30,Burkina Faso,Unknown,246,24.0,12,0.0
+2020-03-30,Burma,Unknown,14,4.0,0,0.0
+2020-03-30,Burundi,Unknown,0,0.0,0,0.0
+2020-03-30,Cabo Verde,Unknown,6,0.0,1,0.0
+2020-03-30,Cambodia,Unknown,107,4.0,0,0.0
+2020-03-30,Cameroon,Unknown,139,0.0,6,0.0
+2020-03-30,Canada,Alberta,661,40.0,3,1.0
+2020-03-30,Canada,British Columbia,970,86.0,19,2.0
+2020-03-30,Canada,Diamond Princess,0,0.0,1,0.0
+2020-03-30,Canada,Grand Princess,13,0.0,0,0.0
+2020-03-30,Canada,Manitoba,96,24.0,1,0.0
+2020-03-30,Canada,New Brunswick,68,2.0,0,0.0
+2020-03-30,Canada,Newfoundland and Labrador,148,13.0,1,1.0
+2020-03-30,Canada,Northwest Territories,1,0.0,0,0.0
+2020-03-30,Canada,Nova Scotia,127,5.0,0,0.0
+2020-03-30,Canada,Ontario,1706,351.0,31,10.0
+2020-03-30,Canada,Prince Edward Island,18,7.0,0,0.0
+2020-03-30,Canada,Quebec,3430,590.0,22,0.0
+2020-03-30,Canada,Recovered,0,0.0,0,0.0
+2020-03-30,Canada,Saskatchewan,156,0.0,2,2.0
+2020-03-30,Canada,Yukon,4,0.0,0,0.0
+2020-03-30,Central African Republic,Unknown,3,0.0,0,0.0
+2020-03-30,Chad,Unknown,5,2.0,0,0.0
+2020-03-30,Chile,Unknown,2449,310.0,8,1.0
+2020-03-30,China,Anhui,990,0.0,6,0.0
+2020-03-30,China,Beijing,577,0.0,8,0.0
+2020-03-30,China,Chongqing,579,0.0,6,0.0
+2020-03-30,China,Fujian,340,2.0,1,0.0
+2020-03-30,China,Gansu,138,0.0,2,0.0
+2020-03-30,China,Guangdong,1484,9.0,8,0.0
+2020-03-30,China,Guangxi,254,0.0,2,0.0
+2020-03-30,China,Guizhou,146,0.0,2,0.0
+2020-03-30,China,Hainan,168,0.0,6,0.0
+2020-03-30,China,Hebei,321,2.0,6,0.0
+2020-03-30,China,Heilongjiang,484,0.0,13,0.0
+2020-03-30,China,Henan,1276,0.0,22,0.0
+2020-03-30,China,Hong Kong,682,41.0,4,0.0
+2020-03-30,China,Hubei,67801,0.0,3186,4.0
+2020-03-30,China,Hunan,1018,0.0,4,0.0
+2020-03-30,China,Inner Mongolia,97,2.0,1,0.0
+2020-03-30,China,Jiangsu,645,1.0,0,0.0
+2020-03-30,China,Jiangxi,937,0.0,1,0.0
+2020-03-30,China,Jilin,98,0.0,1,0.0
+2020-03-30,China,Liaoning,136,2.0,2,0.0
+2020-03-30,China,Macau,38,1.0,0,0.0
+2020-03-30,China,Ningxia,75,0.0,0,0.0
+2020-03-30,China,Qinghai,18,0.0,0,0.0
+2020-03-30,China,Shaanxi,253,0.0,3,0.0
+2020-03-30,China,Shandong,773,1.0,7,0.0
+2020-03-30,China,Shanghai,498,6.0,5,0.0
+2020-03-30,China,Shanxi,136,0.0,0,0.0
+2020-03-30,China,Sichuan,550,0.0,3,0.0
+2020-03-30,China,Tianjin,174,8.0,3,0.0
+2020-03-30,China,Tibet,1,0.0,0,0.0
+2020-03-30,China,Xinjiang,76,0.0,3,0.0
+2020-03-30,China,Yunnan,180,0.0,2,0.0
+2020-03-30,China,Zhejiang,1255,1.0,1,0.0
+2020-03-30,Colombia,Unknown,798,96.0,12,2.0
+2020-03-30,Congo (Brazzaville),Unknown,19,0.0,0,0.0
+2020-03-30,Congo (Kinshasa),Unknown,81,16.0,8,2.0
+2020-03-30,Costa Rica,Unknown,330,16.0,2,0.0
+2020-03-30,Cote d'Ivoire,Unknown,168,3.0,1,0.0
+2020-03-30,Croatia,Unknown,790,77.0,6,0.0
+2020-03-30,Cuba,Unknown,170,31.0,4,1.0
+2020-03-30,Cyprus,Unknown,230,16.0,7,2.0
+2020-03-30,Czechia,Unknown,3001,184.0,23,7.0
+2020-03-30,Denmark,Faroe Islands,168,9.0,0,0.0
+2020-03-30,Denmark,Greenland,10,0.0,0,0.0
+2020-03-30,Denmark,Unknown,2577,182.0,77,5.0
+2020-03-30,Diamond Princess,Unknown,712,0.0,10,0.0
+2020-03-30,Djibouti,Unknown,18,0.0,0,0.0
+2020-03-30,Dominica,Unknown,11,0.0,0,0.0
+2020-03-30,Dominican Republic,Unknown,901,42.0,42,3.0
+2020-03-30,Ecuador,Unknown,1962,38.0,60,2.0
+2020-03-30,Egypt,Unknown,656,47.0,41,1.0
+2020-03-30,El Salvador,Unknown,30,6.0,0,0.0
+2020-03-30,Equatorial Guinea,Unknown,12,0.0,0,0.0
+2020-03-30,Eritrea,Unknown,12,0.0,0,0.0
+2020-03-30,Estonia,Unknown,715,36.0,3,0.0
+2020-03-30,Eswatini,Unknown,9,0.0,0,0.0
+2020-03-30,Ethiopia,Unknown,23,2.0,0,0.0
+2020-03-30,Fiji,Unknown,5,0.0,0,0.0
+2020-03-30,Finland,Unknown,1352,112.0,13,2.0
+2020-03-30,France,French Guiana,43,15.0,0,0.0
+2020-03-30,France,French Polynesia,36,6.0,0,0.0
+2020-03-30,France,Guadeloupe,106,0.0,4,0.0
+2020-03-30,France,Martinique,93,0.0,1,0.0
+2020-03-30,France,Mayotte,82,19.0,0,0.0
+2020-03-30,France,New Caledonia,15,0.0,0,0.0
+2020-03-30,France,Reunion,224,41.0,0,0.0
+2020-03-30,France,Saint Barthelemy,6,1.0,0,0.0
+2020-03-30,France,St Martin,15,4.0,1,1.0
+2020-03-30,France,Unknown,44550,4376.0,3024,418.0
+2020-03-30,Gabon,Unknown,7,0.0,1,0.0
+2020-03-30,Gambia,Unknown,4,0.0,1,0.0
+2020-03-30,Georgia,Unknown,103,12.0,0,0.0
+2020-03-30,Germany,Unknown,66885,4790.0,645,112.0
+2020-03-30,Ghana,Unknown,152,0.0,5,0.0
+2020-03-30,Greece,Unknown,1212,56.0,43,5.0
+2020-03-30,Grenada,Unknown,9,0.0,0,0.0
+2020-03-30,Guatemala,Unknown,36,2.0,1,0.0
+2020-03-30,Guinea,Unknown,22,6.0,0,0.0
+2020-03-30,Guinea-Bissau,Unknown,8,6.0,0,0.0
+2020-03-30,Guyana,Unknown,8,0.0,1,0.0
+2020-03-30,Haiti,Unknown,15,0.0,0,0.0
+2020-03-30,Holy See,Unknown,6,0.0,0,0.0
+2020-03-30,Honduras,Unknown,139,29.0,7,4.0
+2020-03-30,Hungary,Unknown,447,39.0,15,2.0
+2020-03-30,Iceland,Unknown,1086,66.0,2,0.0
+2020-03-30,India,Unknown,1251,227.0,32,5.0
+2020-03-30,Indonesia,Unknown,1414,129.0,122,8.0
+2020-03-30,Iran,Unknown,41495,3186.0,2757,117.0
+2020-03-30,Iraq,Unknown,630,83.0,46,4.0
+2020-03-30,Ireland,Unknown,2910,295.0,54,8.0
+2020-03-30,Israel,Unknown,4695,448.0,16,1.0
+2020-03-30,Italy,Unknown,101739,4050.0,11591,812.0
+2020-03-30,Jamaica,Unknown,36,4.0,1,0.0
+2020-03-30,Japan,Unknown,1866,0.0,54,0.0
+2020-03-30,Jordan,Unknown,268,9.0,5,2.0
+2020-03-30,Kazakhstan,Unknown,302,18.0,1,0.0
+2020-03-30,Kenya,Unknown,50,8.0,1,0.0
+2020-03-30,"Korea, South",Unknown,9661,78.0,158,6.0
+2020-03-30,Kosovo,Unknown,94,0.0,1,0.0
+2020-03-30,Kuwait,Unknown,266,11.0,0,0.0
+2020-03-30,Kyrgyzstan,Unknown,94,10.0,0,0.0
+2020-03-30,Laos,Unknown,8,0.0,0,0.0
+2020-03-30,Latvia,Unknown,376,29.0,0,0.0
+2020-03-30,Lebanon,Unknown,446,8.0,11,1.0
+2020-03-30,Liberia,Unknown,3,0.0,0,0.0
+2020-03-30,Libya,Unknown,8,0.0,0,0.0
+2020-03-30,Liechtenstein,Unknown,62,6.0,0,0.0
+2020-03-30,Lithuania,Unknown,491,31.0,7,0.0
+2020-03-30,Luxembourg,Unknown,1988,38.0,22,1.0
+2020-03-30,MS Zaandam,Unknown,2,0.0,0,0.0
+2020-03-30,Madagascar,Unknown,43,4.0,0,0.0
+2020-03-30,Malawi,Unknown,0,0.0,0,0.0
+2020-03-30,Malaysia,Unknown,2626,156.0,37,2.0
+2020-03-30,Maldives,Unknown,17,0.0,0,0.0
+2020-03-30,Mali,Unknown,25,7.0,2,1.0
+2020-03-30,Malta,Unknown,156,5.0,0,0.0
+2020-03-30,Mauritania,Unknown,5,0.0,1,1.0
+2020-03-30,Mauritius,Unknown,128,21.0,3,0.0
+2020-03-30,Mexico,Unknown,993,145.0,20,4.0
+2020-03-30,Moldova,Unknown,298,35.0,2,0.0
+2020-03-30,Monaco,Unknown,49,3.0,1,0.0
+2020-03-30,Mongolia,Unknown,12,0.0,0,0.0
+2020-03-30,Montenegro,Unknown,91,6.0,1,0.0
+2020-03-30,Morocco,Unknown,556,77.0,33,7.0
+2020-03-30,Mozambique,Unknown,8,0.0,0,0.0
+2020-03-30,Namibia,Unknown,11,0.0,0,0.0
+2020-03-30,Nepal,Unknown,5,0.0,0,0.0
+2020-03-30,Netherlands,Aruba,50,0.0,0,0.0
+2020-03-30,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
+2020-03-30,Netherlands,Curacao,11,3.0,1,0.0
+2020-03-30,Netherlands,Sint Maarten,6,0.0,0,0.0
+2020-03-30,Netherlands,Unknown,11750,884.0,864,93.0
+2020-03-30,New Zealand,Unknown,589,75.0,1,0.0
+2020-03-30,Nicaragua,Unknown,4,0.0,1,0.0
+2020-03-30,Niger,Unknown,27,9.0,3,2.0
+2020-03-30,Nigeria,Unknown,131,20.0,2,1.0
+2020-03-30,North Macedonia,Unknown,285,26.0,7,1.0
+2020-03-30,Norway,Unknown,4445,161.0,32,7.0
+2020-03-30,Oman,Unknown,179,12.0,0,0.0
+2020-03-30,Pakistan,Unknown,1717,120.0,21,7.0
+2020-03-30,Panama,Unknown,989,88.0,24,7.0
+2020-03-30,Papua New Guinea,Unknown,1,0.0,0,0.0
+2020-03-30,Paraguay,Unknown,64,5.0,3,0.0
+2020-03-30,Peru,Unknown,950,98.0,24,6.0
+2020-03-30,Philippines,Unknown,1546,128.0,78,7.0
+2020-03-30,Poland,Unknown,2055,193.0,31,9.0
+2020-03-30,Portugal,Unknown,6408,446.0,140,21.0
+2020-03-30,Qatar,Unknown,693,59.0,1,0.0
+2020-03-30,Romania,Unknown,2109,294.0,65,22.0
+2020-03-30,Russia,Unknown,1836,302.0,9,1.0
+2020-03-30,Rwanda,Unknown,70,0.0,0,0.0
+2020-03-30,Saint Kitts and Nevis,Unknown,7,5.0,0,0.0
+2020-03-30,Saint Lucia,Unknown,9,0.0,0,0.0
+2020-03-30,Saint Vincent and the Grenadines,Unknown,1,0.0,0,0.0
+2020-03-30,San Marino,Unknown,230,6.0,25,3.0
+2020-03-30,Saudi Arabia,Unknown,1453,154.0,8,0.0
+2020-03-30,Senegal,Unknown,162,20.0,0,0.0
+2020-03-30,Serbia,Unknown,785,44.0,16,3.0
+2020-03-30,Seychelles,Unknown,8,0.0,0,0.0
+2020-03-30,Sierra Leone,Unknown,0,0.0,0,0.0
+2020-03-30,Singapore,Unknown,879,35.0,3,0.0
+2020-03-30,Slovakia,Unknown,336,22.0,0,0.0
+2020-03-30,Slovenia,Unknown,756,26.0,11,0.0
+2020-03-30,Somalia,Unknown,3,0.0,0,0.0
+2020-03-30,South Africa,Unknown,1326,46.0,3,1.0
+2020-03-30,Spain,Unknown,87956,7846.0,7716,913.0
+2020-03-30,Sri Lanka,Unknown,122,5.0,2,1.0
+2020-03-30,Sudan,Unknown,6,0.0,2,1.0
+2020-03-30,Suriname,Unknown,8,0.0,0,0.0
+2020-03-30,Sweden,Unknown,4028,328.0,146,36.0
+2020-03-30,Switzerland,Unknown,15922,1093.0,359,59.0
+2020-03-30,Syria,Unknown,10,1.0,2,1.0
+2020-03-30,Taiwan*,Unknown,306,8.0,5,3.0
+2020-03-30,Tanzania,Unknown,19,5.0,0,0.0
+2020-03-30,Thailand,Unknown,1524,136.0,9,2.0
+2020-03-30,Timor-Leste,Unknown,1,0.0,0,0.0
+2020-03-30,Togo,Unknown,30,5.0,1,0.0
+2020-03-30,Trinidad and Tobago,Unknown,82,4.0,3,0.0
+2020-03-30,Tunisia,Unknown,312,0.0,8,0.0
+2020-03-30,Turkey,Unknown,10827,1610.0,168,37.0
+2020-03-30,Uganda,Unknown,33,0.0,0,0.0
+2020-03-30,Ukraine,Unknown,548,73.0,13,3.0
+2020-03-30,United Arab Emirates,Unknown,611,41.0,5,2.0
+2020-03-30,United Kingdom,Anguilla,2,0.0,0,0.0
+2020-03-30,United Kingdom,Bermuda,27,5.0,0,0.0
+2020-03-30,United Kingdom,British Virgin Islands,2,0.0,0,0.0
+2020-03-30,United Kingdom,Cayman Islands,12,4.0,1,0.0
+2020-03-30,United Kingdom,Channel Islands,141,33.0,2,0.0
+2020-03-30,United Kingdom,Gibraltar,69,4.0,0,0.0
+2020-03-30,United Kingdom,Isle of Man,49,7.0,0,0.0
+2020-03-30,United Kingdom,Montserrat,5,0.0,0,0.0
+2020-03-30,United Kingdom,Turks and Caicos Islands,5,1.0,0,0.0
+2020-03-30,United Kingdom,Unknown,22141,2619.0,1408,180.0
+2020-03-30,United States of America,Unknown,161807,20921.0,2978,511.0
+2020-03-30,Uruguay,Unknown,310,6.0,1,0.0
+2020-03-30,Uzbekistan,Unknown,149,5.0,2,0.0
+2020-03-30,Venezuela,Unknown,135,16.0,3,1.0
+2020-03-30,Vietnam,Unknown,203,15.0,0,0.0
+2020-03-30,West Bank and Gaza,Unknown,116,7.0,1,0.0
+2020-03-30,Zambia,Unknown,35,6.0,0,0.0
+2020-03-30,Zimbabwe,Unknown,7,0.0,1,0.0
+2020-03-31,Afghanistan,Unknown,174,4.0,4,0.0
+2020-03-31,Albania,Unknown,243,20.0,15,4.0
+2020-03-31,Algeria,Unknown,716,132.0,44,9.0
+2020-03-31,Andorra,Unknown,376,6.0,12,4.0
+2020-03-31,Angola,Unknown,7,0.0,2,0.0
+2020-03-31,Antigua and Barbuda,Unknown,7,0.0,0,0.0
+2020-03-31,Argentina,Unknown,1054,234.0,27,4.0
+2020-03-31,Armenia,Unknown,532,50.0,3,0.0
+2020-03-31,Australia,Australian Capital Territory,80,2.0,1,0.0
+2020-03-31,Australia,New South Wales,2032,0.0,8,0.0
+2020-03-31,Australia,Northern Territory,17,2.0,0,0.0
+2020-03-31,Australia,Queensland,743,54.0,2,0.0
+2020-03-31,Australia,South Australia,337,32.0,0,0.0
+2020-03-31,Australia,Tasmania,69,3.0,1,1.0
+2020-03-31,Australia,Victoria,917,96.0,4,0.0
+2020-03-31,Australia,Western Australia,364,9.0,2,0.0
+2020-03-31,Austria,Unknown,10180,562.0,128,20.0
+2020-03-31,Azerbaijan,Unknown,298,25.0,5,1.0
+2020-03-31,Bahamas,Unknown,14,0.0,0,0.0
+2020-03-31,Bahrain,Unknown,567,52.0,4,0.0
+2020-03-31,Bangladesh,Unknown,51,2.0,5,0.0
+2020-03-31,Barbados,Unknown,34,1.0,0,0.0
+2020-03-31,Belarus,Unknown,152,0.0,1,1.0
+2020-03-31,Belgium,Unknown,12775,876.0,705,192.0
+2020-03-31,Belize,Unknown,3,0.0,0,0.0
+2020-03-31,Benin,Unknown,9,3.0,0,0.0
+2020-03-31,Bhutan,Unknown,4,0.0,0,0.0
+2020-03-31,Bolivia,Unknown,107,10.0,6,2.0
+2020-03-31,Bosnia and Herzegovina,Unknown,420,52.0,13,3.0
+2020-03-31,Botswana,Unknown,4,1.0,1,1.0
+2020-03-31,Brazil,Unknown,5717,1138.0,201,42.0
+2020-03-31,Brunei,Unknown,129,2.0,1,0.0
+2020-03-31,Bulgaria,Unknown,399,40.0,8,0.0
+2020-03-31,Burkina Faso,Unknown,261,15.0,14,2.0
+2020-03-31,Burma,Unknown,15,1.0,1,1.0
+2020-03-31,Burundi,Unknown,2,2.0,0,0.0
+2020-03-31,Cabo Verde,Unknown,6,0.0,1,0.0
+2020-03-31,Cambodia,Unknown,109,2.0,0,0.0
+2020-03-31,Cameroon,Unknown,193,54.0,6,0.0
+2020-03-31,Canada,Alberta,690,29.0,8,5.0
+2020-03-31,Canada,British Columbia,1013,43.0,24,5.0
+2020-03-31,Canada,Diamond Princess,0,0.0,1,0.0
+2020-03-31,Canada,Grand Princess,13,0.0,0,0.0
+2020-03-31,Canada,Manitoba,103,7.0,1,0.0
+2020-03-31,Canada,New Brunswick,70,2.0,0,0.0
+2020-03-31,Canada,Newfoundland and Labrador,152,4.0,1,0.0
+2020-03-31,Canada,Northwest Territories,1,0.0,0,0.0
+2020-03-31,Canada,Nova Scotia,147,20.0,0,0.0
+2020-03-31,Canada,Ontario,1966,260.0,33,2.0
+2020-03-31,Canada,Prince Edward Island,21,3.0,0,0.0
+2020-03-31,Canada,Quebec,4162,732.0,31,9.0
+2020-03-31,Canada,Recovered,0,0.0,0,0.0
+2020-03-31,Canada,Saskatchewan,184,28.0,2,0.0
+2020-03-31,Canada,Yukon,5,1.0,0,0.0
+2020-03-31,Central African Republic,Unknown,3,0.0,0,0.0
+2020-03-31,Chad,Unknown,7,2.0,0,0.0
+2020-03-31,Chile,Unknown,2738,289.0,12,4.0
+2020-03-31,China,Anhui,990,0.0,6,0.0
+2020-03-31,China,Beijing,580,3.0,8,0.0
+2020-03-31,China,Chongqing,579,0.0,6,0.0
+2020-03-31,China,Fujian,343,3.0,1,0.0
+2020-03-31,China,Gansu,138,0.0,2,0.0
+2020-03-31,China,Guangdong,1494,10.0,8,0.0
+2020-03-31,China,Guangxi,254,0.0,2,0.0
+2020-03-31,China,Guizhou,146,0.0,2,0.0
+2020-03-31,China,Hainan,168,0.0,6,0.0
+2020-03-31,China,Hebei,321,0.0,6,0.0
+2020-03-31,China,Heilongjiang,484,0.0,13,0.0
+2020-03-31,China,Henan,1276,0.0,22,0.0
+2020-03-31,China,Hong Kong,714,32.0,4,0.0
+2020-03-31,China,Hubei,67801,0.0,3187,1.0
+2020-03-31,China,Hunan,1018,0.0,4,0.0
+2020-03-31,China,Inner Mongolia,107,10.0,1,0.0
+2020-03-31,China,Jiangsu,646,1.0,0,0.0
+2020-03-31,China,Jiangxi,937,0.0,1,0.0
+2020-03-31,China,Jilin,98,0.0,1,0.0
+2020-03-31,China,Liaoning,139,3.0,2,0.0
+2020-03-31,China,Macau,41,3.0,0,0.0
+2020-03-31,China,Ningxia,75,0.0,0,0.0
+2020-03-31,China,Qinghai,18,0.0,0,0.0
+2020-03-31,China,Shaanxi,253,0.0,3,0.0
+2020-03-31,China,Shandong,774,1.0,7,0.0
+2020-03-31,China,Shanghai,509,11.0,5,0.0
+2020-03-31,China,Shanxi,136,0.0,0,0.0
+2020-03-31,China,Sichuan,550,0.0,3,0.0
+2020-03-31,China,Tianjin,174,0.0,3,0.0
+2020-03-31,China,Tibet,1,0.0,0,0.0
+2020-03-31,China,Xinjiang,76,0.0,3,0.0
+2020-03-31,China,Yunnan,182,2.0,2,0.0
+2020-03-31,China,Zhejiang,1257,2.0,1,0.0
+2020-03-31,Colombia,Unknown,906,108.0,16,4.0
+2020-03-31,Congo (Brazzaville),Unknown,19,0.0,0,0.0
+2020-03-31,Congo (Kinshasa),Unknown,98,17.0,8,0.0
+2020-03-31,Costa Rica,Unknown,347,17.0,2,0.0
+2020-03-31,Cote d'Ivoire,Unknown,179,11.0,1,0.0
+2020-03-31,Croatia,Unknown,867,77.0,6,0.0
+2020-03-31,Cuba,Unknown,186,16.0,6,2.0
+2020-03-31,Cyprus,Unknown,262,32.0,8,1.0
+2020-03-31,Czechia,Unknown,3308,307.0,31,8.0
+2020-03-31,Denmark,Faroe Islands,169,1.0,0,0.0
+2020-03-31,Denmark,Greenland,10,0.0,0,0.0
+2020-03-31,Denmark,Unknown,2860,283.0,90,13.0
+2020-03-31,Diamond Princess,Unknown,712,0.0,10,0.0
+2020-03-31,Djibouti,Unknown,30,12.0,0,0.0
+2020-03-31,Dominica,Unknown,12,1.0,0,0.0
+2020-03-31,Dominican Republic,Unknown,1109,208.0,51,9.0
+2020-03-31,Ecuador,Unknown,2240,278.0,75,15.0
+2020-03-31,Egypt,Unknown,710,54.0,46,5.0
+2020-03-31,El Salvador,Unknown,32,2.0,1,1.0
+2020-03-31,Equatorial Guinea,Unknown,12,0.0,0,0.0
+2020-03-31,Eritrea,Unknown,15,3.0,0,0.0
+2020-03-31,Estonia,Unknown,745,30.0,4,1.0
+2020-03-31,Eswatini,Unknown,9,0.0,0,0.0
+2020-03-31,Ethiopia,Unknown,26,3.0,0,0.0
+2020-03-31,Fiji,Unknown,5,0.0,0,0.0
+2020-03-31,Finland,Unknown,1418,66.0,17,4.0
+2020-03-31,France,French Guiana,43,0.0,0,0.0
+2020-03-31,France,French Polynesia,36,0.0,0,0.0
+2020-03-31,France,Guadeloupe,114,8.0,4,0.0
+2020-03-31,France,Martinique,128,35.0,3,2.0
+2020-03-31,France,Mayotte,94,12.0,1,1.0
+2020-03-31,France,New Caledonia,16,1.0,0,0.0
+2020-03-31,France,Reunion,247,23.0,0,0.0
+2020-03-31,France,Saint Barthelemy,6,0.0,0,0.0
+2020-03-31,France,St Martin,15,0.0,1,0.0
+2020-03-31,France,Unknown,52128,7578.0,3523,499.0
+2020-03-31,Gabon,Unknown,16,9.0,1,0.0
+2020-03-31,Gambia,Unknown,4,0.0,1,0.0
+2020-03-31,Georgia,Unknown,110,7.0,0,0.0
+2020-03-31,Germany,Unknown,71808,4923.0,775,130.0
+2020-03-31,Ghana,Unknown,161,9.0,5,0.0
+2020-03-31,Greece,Unknown,1314,102.0,49,6.0
+2020-03-31,Grenada,Unknown,9,0.0,0,0.0
+2020-03-31,Guatemala,Unknown,38,2.0,1,0.0
+2020-03-31,Guinea,Unknown,22,0.0,0,0.0
+2020-03-31,Guinea-Bissau,Unknown,8,0.0,0,0.0
+2020-03-31,Guyana,Unknown,12,4.0,2,1.0
+2020-03-31,Haiti,Unknown,15,0.0,0,0.0
+2020-03-31,Holy See,Unknown,6,0.0,0,0.0
+2020-03-31,Honduras,Unknown,141,2.0,7,0.0
+2020-03-31,Hungary,Unknown,492,45.0,16,1.0
+2020-03-31,Iceland,Unknown,1135,49.0,2,0.0
+2020-03-31,India,Unknown,1397,146.0,35,3.0
+2020-03-31,Indonesia,Unknown,1528,114.0,136,14.0
+2020-03-31,Iran,Unknown,44605,3110.0,2898,141.0
+2020-03-31,Iraq,Unknown,694,64.0,50,4.0
+2020-03-31,Ireland,Unknown,3235,325.0,71,17.0
+2020-03-31,Israel,Unknown,5358,663.0,20,4.0
+2020-03-31,Italy,Unknown,105792,4053.0,12428,837.0
+2020-03-31,Jamaica,Unknown,36,0.0,1,0.0
+2020-03-31,Japan,Unknown,1953,87.0,56,2.0
+2020-03-31,Jordan,Unknown,274,6.0,5,0.0
+2020-03-31,Kazakhstan,Unknown,343,41.0,2,1.0
+2020-03-31,Kenya,Unknown,59,9.0,1,0.0
+2020-03-31,"Korea, South",Unknown,9786,125.0,162,4.0
+2020-03-31,Kosovo,Unknown,112,18.0,1,0.0
+2020-03-31,Kuwait,Unknown,289,23.0,0,0.0
+2020-03-31,Kyrgyzstan,Unknown,107,13.0,0,0.0
+2020-03-31,Laos,Unknown,9,1.0,0,0.0
+2020-03-31,Latvia,Unknown,398,22.0,0,0.0
+2020-03-31,Lebanon,Unknown,470,24.0,12,1.0
+2020-03-31,Liberia,Unknown,3,0.0,0,0.0
+2020-03-31,Libya,Unknown,10,2.0,0,0.0
+2020-03-31,Liechtenstein,Unknown,68,6.0,0,0.0
+2020-03-31,Lithuania,Unknown,537,46.0,8,1.0
+2020-03-31,Luxembourg,Unknown,2178,190.0,23,1.0
+2020-03-31,MS Zaandam,Unknown,2,0.0,0,0.0
+2020-03-31,Madagascar,Unknown,57,14.0,0,0.0
+2020-03-31,Malawi,Unknown,0,0.0,0,0.0
+2020-03-31,Malaysia,Unknown,2766,140.0,43,6.0
+2020-03-31,Maldives,Unknown,18,1.0,0,0.0
+2020-03-31,Mali,Unknown,28,3.0,2,0.0
+2020-03-31,Malta,Unknown,169,13.0,0,0.0
+2020-03-31,Mauritania,Unknown,6,1.0,1,0.0
+2020-03-31,Mauritius,Unknown,143,15.0,5,2.0
+2020-03-31,Mexico,Unknown,1094,101.0,28,8.0
+2020-03-31,Moldova,Unknown,353,55.0,4,2.0
+2020-03-31,Monaco,Unknown,52,3.0,1,0.0
+2020-03-31,Mongolia,Unknown,12,0.0,0,0.0
+2020-03-31,Montenegro,Unknown,109,18.0,2,1.0
+2020-03-31,Morocco,Unknown,617,61.0,36,3.0
+2020-03-31,Mozambique,Unknown,8,0.0,0,0.0
+2020-03-31,Namibia,Unknown,11,0.0,0,0.0
+2020-03-31,Nepal,Unknown,5,0.0,0,0.0
+2020-03-31,Netherlands,Aruba,55,5.0,0,0.0
+2020-03-31,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
+2020-03-31,Netherlands,Curacao,11,0.0,1,0.0
+2020-03-31,Netherlands,Sint Maarten,6,0.0,0,0.0
+2020-03-31,Netherlands,Unknown,12595,845.0,1039,175.0
+2020-03-31,New Zealand,Unknown,647,58.0,1,0.0
+2020-03-31,Nicaragua,Unknown,5,1.0,1,0.0
+2020-03-31,Niger,Unknown,27,0.0,3,0.0
+2020-03-31,Nigeria,Unknown,135,4.0,2,0.0
+2020-03-31,North Macedonia,Unknown,329,44.0,9,2.0
+2020-03-31,Norway,Unknown,4641,196.0,39,7.0
+2020-03-31,Oman,Unknown,192,13.0,1,1.0
+2020-03-31,Pakistan,Unknown,1938,221.0,26,5.0
+2020-03-31,Panama,Unknown,1181,192.0,30,6.0
+2020-03-31,Papua New Guinea,Unknown,1,0.0,0,0.0
+2020-03-31,Paraguay,Unknown,65,1.0,3,0.0
+2020-03-31,Peru,Unknown,1065,115.0,30,6.0
+2020-03-31,Philippines,Unknown,2084,538.0,88,10.0
+2020-03-31,Poland,Unknown,2311,256.0,33,2.0
+2020-03-31,Portugal,Unknown,7443,1035.0,160,20.0
+2020-03-31,Qatar,Unknown,781,88.0,2,1.0
+2020-03-31,Romania,Unknown,2245,136.0,82,17.0
+2020-03-31,Russia,Unknown,2337,501.0,17,8.0
+2020-03-31,Rwanda,Unknown,75,5.0,0,0.0
+2020-03-31,Saint Kitts and Nevis,Unknown,8,1.0,0,0.0
+2020-03-31,Saint Lucia,Unknown,13,4.0,0,0.0
+2020-03-31,Saint Vincent and the Grenadines,Unknown,1,0.0,0,0.0
+2020-03-31,San Marino,Unknown,236,6.0,26,1.0
+2020-03-31,Saudi Arabia,Unknown,1563,110.0,10,2.0
+2020-03-31,Senegal,Unknown,175,13.0,0,0.0
+2020-03-31,Serbia,Unknown,900,115.0,16,0.0
+2020-03-31,Seychelles,Unknown,10,2.0,0,0.0
+2020-03-31,Sierra Leone,Unknown,1,1.0,0,0.0
+2020-03-31,Singapore,Unknown,926,47.0,3,0.0
+2020-03-31,Slovakia,Unknown,363,27.0,0,0.0
+2020-03-31,Slovenia,Unknown,802,46.0,15,4.0
+2020-03-31,Somalia,Unknown,5,2.0,0,0.0
+2020-03-31,South Africa,Unknown,1353,27.0,5,2.0
+2020-03-31,Spain,Unknown,95923,7967.0,8464,748.0
+2020-03-31,Sri Lanka,Unknown,143,21.0,2,0.0
+2020-03-31,Sudan,Unknown,7,1.0,2,0.0
+2020-03-31,Suriname,Unknown,9,1.0,0,0.0
+2020-03-31,Sweden,Unknown,4435,407.0,180,34.0
+2020-03-31,Switzerland,Unknown,16605,683.0,433,74.0
+2020-03-31,Syria,Unknown,10,0.0,2,0.0
+2020-03-31,Taiwan*,Unknown,322,16.0,5,0.0
+2020-03-31,Tanzania,Unknown,19,0.0,1,1.0
+2020-03-31,Thailand,Unknown,1651,127.0,10,1.0
+2020-03-31,Timor-Leste,Unknown,1,0.0,0,0.0
+2020-03-31,Togo,Unknown,34,4.0,1,0.0
+2020-03-31,Trinidad and Tobago,Unknown,87,5.0,3,0.0
+2020-03-31,Tunisia,Unknown,394,82.0,10,2.0
+2020-03-31,Turkey,Unknown,13531,2704.0,214,46.0
+2020-03-31,Uganda,Unknown,44,11.0,0,0.0
+2020-03-31,Ukraine,Unknown,645,97.0,17,4.0
+2020-03-31,United Arab Emirates,Unknown,664,53.0,6,1.0
+2020-03-31,United Kingdom,Anguilla,2,0.0,0,0.0
+2020-03-31,United Kingdom,Bermuda,32,5.0,0,0.0
+2020-03-31,United Kingdom,British Virgin Islands,3,1.0,0,0.0
+2020-03-31,United Kingdom,Cayman Islands,14,2.0,1,0.0
+2020-03-31,United Kingdom,Channel Islands,141,0.0,3,1.0
+2020-03-31,United Kingdom,Gibraltar,69,0.0,0,0.0
+2020-03-31,United Kingdom,Isle of Man,60,11.0,0,0.0
+2020-03-31,United Kingdom,Montserrat,5,0.0,0,0.0
+2020-03-31,United Kingdom,Turks and Caicos Islands,5,0.0,0,0.0
+2020-03-31,United Kingdom,Unknown,25150,3009.0,1789,381.0
+2020-03-31,United States of America,Unknown,188172,26365.0,3873,895.0
+2020-03-31,Uruguay,Unknown,338,28.0,1,0.0
+2020-03-31,Uzbekistan,Unknown,172,23.0,2,0.0
+2020-03-31,Venezuela,Unknown,135,0.0,3,0.0
+2020-03-31,Vietnam,Unknown,212,9.0,0,0.0
+2020-03-31,West Bank and Gaza,Unknown,119,3.0,1,0.0
+2020-03-31,Zambia,Unknown,35,0.0,0,0.0
+2020-03-31,Zimbabwe,Unknown,8,1.0,1,0.0
+2020-04-01,Afghanistan,Unknown,237,63.0,4,0.0
+2020-04-01,Albania,Unknown,259,16.0,15,0.0
+2020-04-01,Algeria,Unknown,847,131.0,58,14.0
+2020-04-01,Andorra,Unknown,390,14.0,14,2.0
+2020-04-01,Angola,Unknown,8,1.0,2,0.0
+2020-04-01,Antigua and Barbuda,Unknown,7,0.0,0,0.0
+2020-04-01,Argentina,Unknown,1054,0.0,28,1.0
+2020-04-01,Armenia,Unknown,571,39.0,4,1.0
+2020-04-01,Australia,Australian Capital Territory,84,4.0,1,0.0
+2020-04-01,Australia,New South Wales,2182,150.0,9,1.0
+2020-04-01,Australia,Northern Territory,19,2.0,0,0.0
+2020-04-01,Australia,Queensland,781,38.0,2,0.0
+2020-04-01,Australia,South Australia,367,30.0,0,0.0
+2020-04-01,Australia,Tasmania,69,0.0,2,1.0
+2020-04-01,Australia,Victoria,968,51.0,4,0.0
+2020-04-01,Australia,Western Australia,392,28.0,2,0.0
+2020-04-01,Austria,Unknown,10711,531.0,146,18.0
+2020-04-01,Azerbaijan,Unknown,359,61.0,5,0.0
+2020-04-01,Bahamas,Unknown,21,7.0,1,1.0
+2020-04-01,Bahrain,Unknown,569,2.0,4,0.0
+2020-04-01,Bangladesh,Unknown,54,3.0,6,1.0
+2020-04-01,Barbados,Unknown,34,0.0,0,0.0
+2020-04-01,Belarus,Unknown,163,11.0,2,1.0
+2020-04-01,Belgium,Unknown,13964,1189.0,828,123.0
+2020-04-01,Belize,Unknown,3,0.0,0,0.0
+2020-04-01,Benin,Unknown,13,4.0,0,0.0
+2020-04-01,Bhutan,Unknown,4,0.0,0,0.0
+2020-04-01,Bolivia,Unknown,115,8.0,7,1.0
+2020-04-01,Bosnia and Herzegovina,Unknown,459,39.0,13,0.0
+2020-04-01,Botswana,Unknown,4,0.0,1,0.0
+2020-04-01,Brazil,Unknown,6836,1119.0,240,39.0
+2020-04-01,Brunei,Unknown,131,2.0,1,0.0
+2020-04-01,Bulgaria,Unknown,422,23.0,10,2.0
+2020-04-01,Burkina Faso,Unknown,282,21.0,16,2.0
+2020-04-01,Burma,Unknown,15,0.0,1,0.0
+2020-04-01,Burundi,Unknown,2,0.0,0,0.0
+2020-04-01,Cabo Verde,Unknown,6,0.0,1,0.0
+2020-04-01,Cambodia,Unknown,109,0.0,0,0.0
+2020-04-01,Cameroon,Unknown,233,40.0,6,0.0
+2020-04-01,Canada,Alberta,754,64.0,9,1.0
+2020-04-01,Canada,British Columbia,1013,0.0,24,0.0
+2020-04-01,Canada,Diamond Princess,0,0.0,1,0.0
+2020-04-01,Canada,Grand Princess,13,0.0,0,0.0
+2020-04-01,Canada,Manitoba,127,24.0,1,0.0
+2020-04-01,Canada,New Brunswick,81,11.0,0,0.0
+2020-04-01,Canada,Newfoundland and Labrador,175,23.0,1,0.0
+2020-04-01,Canada,Northwest Territories,2,1.0,0,0.0
+2020-04-01,Canada,Nova Scotia,173,26.0,0,0.0
+2020-04-01,Canada,Ontario,2392,426.0,37,4.0
+2020-04-01,Canada,Prince Edward Island,21,0.0,0,0.0
+2020-04-01,Canada,Quebec,4611,449.0,33,2.0
+2020-04-01,Canada,Recovered,0,0.0,0,0.0
+2020-04-01,Canada,Saskatchewan,193,9.0,3,1.0
+2020-04-01,Canada,Yukon,5,0.0,0,0.0
+2020-04-01,Central African Republic,Unknown,3,0.0,0,0.0
+2020-04-01,Chad,Unknown,7,0.0,0,0.0
+2020-04-01,Chile,Unknown,3031,293.0,16,4.0
+2020-04-01,China,Anhui,990,0.0,6,0.0
+2020-04-01,China,Beijing,580,0.0,8,0.0
+2020-04-01,China,Chongqing,579,0.0,6,0.0
+2020-04-01,China,Fujian,345,2.0,1,0.0
+2020-04-01,China,Gansu,138,0.0,2,0.0
+2020-04-01,China,Guangdong,1501,7.0,8,0.0
+2020-04-01,China,Guangxi,254,0.0,2,0.0
+2020-04-01,China,Guizhou,146,0.0,2,0.0
+2020-04-01,China,Hainan,168,0.0,6,0.0
+2020-04-01,China,Hebei,323,2.0,6,0.0
+2020-04-01,China,Heilongjiang,484,0.0,13,0.0
+2020-04-01,China,Henan,1276,0.0,22,0.0
+2020-04-01,China,Hong Kong,765,51.0,4,0.0
+2020-04-01,China,Hubei,67802,1.0,3193,6.0
+2020-04-01,China,Hunan,1018,0.0,4,0.0
+2020-04-01,China,Inner Mongolia,111,4.0,1,0.0
+2020-04-01,China,Jiangsu,646,0.0,0,0.0
+2020-04-01,China,Jiangxi,937,0.0,1,0.0
+2020-04-01,China,Jilin,98,0.0,1,0.0
+2020-04-01,China,Liaoning,140,1.0,2,0.0
+2020-04-01,China,Macau,41,0.0,0,0.0
+2020-04-01,China,Ningxia,75,0.0,0,0.0
+2020-04-01,China,Qinghai,18,0.0,0,0.0
+2020-04-01,China,Shaanxi,255,2.0,3,0.0
+2020-04-01,China,Shandong,774,0.0,7,0.0
+2020-04-01,China,Shanghai,516,7.0,6,1.0
+2020-04-01,China,Shanxi,137,1.0,0,0.0
+2020-04-01,China,Sichuan,552,2.0,3,0.0
+2020-04-01,China,Tianjin,176,2.0,3,0.0
+2020-04-01,China,Tibet,1,0.0,0,0.0
+2020-04-01,China,Xinjiang,76,0.0,3,0.0
+2020-04-01,China,Yunnan,182,0.0,2,0.0
+2020-04-01,China,Zhejiang,1257,0.0,1,0.0
+2020-04-01,Colombia,Unknown,1065,159.0,17,1.0
+2020-04-01,Congo (Brazzaville),Unknown,19,0.0,0,0.0
+2020-04-01,Congo (Kinshasa),Unknown,109,11.0,9,1.0
+2020-04-01,Costa Rica,Unknown,375,28.0,2,0.0
+2020-04-01,Cote d'Ivoire,Unknown,190,11.0,1,0.0
+2020-04-01,Croatia,Unknown,963,96.0,6,0.0
+2020-04-01,Cuba,Unknown,212,26.0,6,0.0
+2020-04-01,Cyprus,Unknown,320,58.0,9,1.0
+2020-04-01,Czechia,Unknown,3508,200.0,39,8.0
+2020-04-01,Denmark,Faroe Islands,173,4.0,0,0.0
+2020-04-01,Denmark,Greenland,10,0.0,0,0.0
+2020-04-01,Denmark,Unknown,3107,247.0,104,14.0
+2020-04-01,Diamond Princess,Unknown,712,0.0,11,1.0
+2020-04-01,Djibouti,Unknown,33,3.0,0,0.0
+2020-04-01,Dominica,Unknown,12,0.0,0,0.0
+2020-04-01,Dominican Republic,Unknown,1284,175.0,57,6.0
+2020-04-01,Ecuador,Unknown,2748,508.0,93,18.0
+2020-04-01,Egypt,Unknown,779,69.0,52,6.0
+2020-04-01,El Salvador,Unknown,32,0.0,1,0.0
+2020-04-01,Equatorial Guinea,Unknown,15,3.0,0,0.0
+2020-04-01,Eritrea,Unknown,15,0.0,0,0.0
+2020-04-01,Estonia,Unknown,779,34.0,5,1.0
+2020-04-01,Eswatini,Unknown,9,0.0,0,0.0
+2020-04-01,Ethiopia,Unknown,29,3.0,0,0.0
+2020-04-01,Fiji,Unknown,5,0.0,0,0.0
+2020-04-01,Finland,Unknown,1446,28.0,17,0.0
+2020-04-01,France,French Guiana,51,8.0,0,0.0
+2020-04-01,France,French Polynesia,37,1.0,0,0.0
+2020-04-01,France,Guadeloupe,125,11.0,6,2.0
+2020-04-01,France,Martinique,135,7.0,3,0.0
+2020-04-01,France,Mayotte,94,0.0,1,0.0
+2020-04-01,France,New Caledonia,16,0.0,0,0.0
+2020-04-01,France,Reunion,281,34.0,0,0.0
+2020-04-01,France,Saint Barthelemy,6,0.0,0,0.0
+2020-04-01,France,St Martin,15,0.0,1,0.0
+2020-04-01,France,Unknown,56989,4861.0,4032,509.0
+2020-04-01,Gabon,Unknown,18,2.0,1,0.0
+2020-04-01,Gambia,Unknown,4,0.0,1,0.0
+2020-04-01,Georgia,Unknown,117,7.0,0,0.0
+2020-04-01,Germany,Unknown,77872,6064.0,920,145.0
+2020-04-01,Ghana,Unknown,195,34.0,5,0.0
+2020-04-01,Greece,Unknown,1415,101.0,50,1.0
+2020-04-01,Grenada,Unknown,9,0.0,0,0.0
+2020-04-01,Guatemala,Unknown,39,1.0,1,0.0
+2020-04-01,Guinea,Unknown,30,8.0,0,0.0
+2020-04-01,Guinea-Bissau,Unknown,9,1.0,0,0.0
+2020-04-01,Guyana,Unknown,19,7.0,2,0.0
+2020-04-01,Haiti,Unknown,16,1.0,0,0.0
+2020-04-01,Holy See,Unknown,6,0.0,0,0.0
+2020-04-01,Honduras,Unknown,172,31.0,10,3.0
+2020-04-01,Hungary,Unknown,525,33.0,20,4.0
+2020-04-01,Iceland,Unknown,1220,85.0,2,0.0
+2020-04-01,India,Unknown,1998,601.0,58,23.0
+2020-04-01,Indonesia,Unknown,1677,149.0,157,21.0
+2020-04-01,Iran,Unknown,47593,2988.0,3036,138.0
+2020-04-01,Iraq,Unknown,728,34.0,52,2.0
+2020-04-01,Ireland,Unknown,3447,212.0,85,14.0
+2020-04-01,Israel,Unknown,6092,734.0,26,6.0
+2020-04-01,Italy,Unknown,110574,4782.0,13155,727.0
+2020-04-01,Jamaica,Unknown,44,8.0,3,2.0
+2020-04-01,Japan,Unknown,2178,225.0,57,1.0
+2020-04-01,Jordan,Unknown,278,4.0,5,0.0
+2020-04-01,Kazakhstan,Unknown,380,37.0,3,1.0
+2020-04-01,Kenya,Unknown,81,22.0,1,0.0
+2020-04-01,"Korea, South",Unknown,9887,101.0,165,3.0
+2020-04-01,Kosovo,Unknown,125,13.0,1,0.0
+2020-04-01,Kuwait,Unknown,317,28.0,0,0.0
+2020-04-01,Kyrgyzstan,Unknown,111,4.0,0,0.0
+2020-04-01,Laos,Unknown,10,1.0,0,0.0
+2020-04-01,Latvia,Unknown,446,48.0,0,0.0
+2020-04-01,Lebanon,Unknown,479,9.0,14,2.0
+2020-04-01,Liberia,Unknown,6,3.0,0,0.0
+2020-04-01,Libya,Unknown,10,0.0,0,0.0
+2020-04-01,Liechtenstein,Unknown,68,0.0,0,0.0
+2020-04-01,Lithuania,Unknown,581,44.0,8,0.0
+2020-04-01,Luxembourg,Unknown,2319,141.0,29,6.0
+2020-04-01,MS Zaandam,Unknown,9,7.0,2,2.0
+2020-04-01,Madagascar,Unknown,57,0.0,0,0.0
+2020-04-01,Malawi,Unknown,0,0.0,0,0.0
+2020-04-01,Malaysia,Unknown,2908,142.0,45,2.0
+2020-04-01,Maldives,Unknown,19,1.0,0,0.0
+2020-04-01,Mali,Unknown,31,3.0,3,1.0
+2020-04-01,Malta,Unknown,188,19.0,0,0.0
+2020-04-01,Mauritania,Unknown,6,0.0,1,0.0
+2020-04-01,Mauritius,Unknown,161,18.0,6,1.0
+2020-04-01,Mexico,Unknown,1215,121.0,29,1.0
+2020-04-01,Moldova,Unknown,423,70.0,5,1.0
+2020-04-01,Monaco,Unknown,55,3.0,1,0.0
+2020-04-01,Mongolia,Unknown,14,2.0,0,0.0
+2020-04-01,Montenegro,Unknown,123,14.0,2,0.0
+2020-04-01,Morocco,Unknown,654,37.0,39,3.0
+2020-04-01,Mozambique,Unknown,10,2.0,0,0.0
+2020-04-01,Namibia,Unknown,14,3.0,0,0.0
+2020-04-01,Nepal,Unknown,5,0.0,0,0.0
+2020-04-01,Netherlands,Aruba,55,0.0,0,0.0
+2020-04-01,Netherlands,"Bonaire, Sint Eustatius and Saba",0,0.0,0,0.0
+2020-04-01,Netherlands,Curacao,11,0.0,1,0.0
+2020-04-01,Netherlands,Sint Maarten,16,10.0,1,1.0
+2020-04-01,Netherlands,Unknown,13614,1019.0,1173,134.0
+2020-04-01,New Zealand,Unknown,708,61.0,1,0.0
+2020-04-01,Nicaragua,Unknown,5,0.0,1,0.0
+2020-04-01,Niger,Unknown,74,47.0,5,2.0
+2020-04-01,Nigeria,Unknown,174,39.0,2,0.0
+2020-04-01,North Macedonia,Unknown,354,25.0,11,2.0
+2020-04-01,Norway,Unknown,4863,222.0,44,5.0
+2020-04-01,Oman,Unknown,210,18.0,1,0.0
+2020-04-01,Pakistan,Unknown,2118,180.0,27,1.0
+2020-04-01,Panama,Unknown,1181,0.0,30,0.0
+2020-04-01,Papua New Guinea,Unknown,1,0.0,0,0.0
+2020-04-01,Paraguay,Unknown,69,4.0,3,0.0
+2020-04-01,Peru,Unknown,1323,258.0,38,8.0
+2020-04-01,Philippines,Unknown,2311,227.0,96,8.0
+2020-04-01,Poland,Unknown,2554,243.0,43,10.0
+2020-04-01,Portugal,Unknown,8251,808.0,187,27.0
+2020-04-01,Qatar,Unknown,835,54.0,2,0.0
+2020-04-01,Romania,Unknown,2460,215.0,92,10.0
+2020-04-01,Russia,Unknown,2777,440.0,24,7.0
+2020-04-01,Rwanda,Unknown,82,7.0,0,0.0
+2020-04-01,Saint Kitts and Nevis,Unknown,8,0.0,0,0.0
+2020-04-01,Saint Lucia,Unknown,13,0.0,0,0.0
+2020-04-01,Saint Vincent and the Grenadines,Unknown,1,0.0,0,0.0
+2020-04-01,San Marino,Unknown,236,0.0,26,0.0
+2020-04-01,Saudi Arabia,Unknown,1720,157.0,16,6.0
+2020-04-01,Senegal,Unknown,190,15.0,1,1.0
+2020-04-01,Serbia,Unknown,1060,160.0,28,12.0
+2020-04-01,Seychelles,Unknown,10,0.0,0,0.0
+2020-04-01,Sierra Leone,Unknown,2,1.0,0,0.0
+2020-04-01,Singapore,Unknown,1000,74.0,3,0.0
+2020-04-01,Slovakia,Unknown,400,37.0,1,1.0
+2020-04-01,Slovenia,Unknown,841,39.0,15,0.0
+2020-04-01,Somalia,Unknown,5,0.0,0,0.0
+2020-04-01,South Africa,Unknown,1380,27.0,5,0.0
+2020-04-01,Spain,Unknown,104118,8195.0,9387,923.0
+2020-04-01,Sri Lanka,Unknown,146,3.0,3,1.0
+2020-04-01,Sudan,Unknown,7,0.0,2,0.0
+2020-04-01,Suriname,Unknown,10,1.0,0,0.0
+2020-04-01,Sweden,Unknown,4947,512.0,239,59.0
+2020-04-01,Switzerland,Unknown,17768,1163.0,488,55.0
+2020-04-01,Syria,Unknown,10,0.0,2,0.0
+2020-04-01,Taiwan*,Unknown,329,7.0,5,0.0
+2020-04-01,Tanzania,Unknown,20,1.0,1,0.0
+2020-04-01,Thailand,Unknown,1771,120.0,12,2.0
+2020-04-01,Timor-Leste,Unknown,1,0.0,0,0.0
+2020-04-01,Togo,Unknown,36,2.0,2,1.0
+2020-04-01,Trinidad and Tobago,Unknown,90,3.0,5,2.0
+2020-04-01,Tunisia,Unknown,423,29.0,12,2.0
+2020-04-01,Turkey,Unknown,15679,2148.0,277,63.0
+2020-04-01,Uganda,Unknown,44,0.0,0,0.0
+2020-04-01,Ukraine,Unknown,794,149.0,20,3.0
+2020-04-01,United Arab Emirates,Unknown,814,150.0,8,2.0
+2020-04-01,United Kingdom,Anguilla,2,0.0,0,0.0
+2020-04-01,United Kingdom,Bermuda,32,0.0,0,0.0
+2020-04-01,United Kingdom,British Virgin Islands,3,0.0,0,0.0
+2020-04-01,United Kingdom,Cayman Islands,22,8.0,1,0.0
+2020-04-01,United Kingdom,Channel Islands,172,31.0,3,0.0
+2020-04-01,United Kingdom,Gibraltar,81,12.0,0,0.0
+2020-04-01,United Kingdom,Isle of Man,68,8.0,1,1.0
+2020-04-01,United Kingdom,Montserrat,5,0.0,0,0.0
+2020-04-01,United Kingdom,Turks and Caicos Islands,6,1.0,0,0.0
+2020-04-01,United Kingdom,Unknown,29474,4324.0,2352,563.0
+2020-04-01,United States of America,Unknown,213372,25200.0,4757,884.0
+2020-04-01,Uruguay,Unknown,338,0.0,2,1.0
+2020-04-01,Uzbekistan,Unknown,181,9.0,2,0.0
+2020-04-01,Venezuela,Unknown,143,8.0,3,0.0
+2020-04-01,Vietnam,Unknown,218,6.0,0,0.0
+2020-04-01,West Bank and Gaza,Unknown,134,15.0,1,0.0
+2020-04-01,Zambia,Unknown,36,1.0,0,0.0
+2020-04-01,Zimbabwe,Unknown,8,0.0,1,0.0
+2020-04-02,Afghanistan,Unknown,273,36.0,6,2.0
+2020-04-02,Albania,Unknown,277,18.0,16,1.0
+2020-04-02,Algeria,Unknown,986,139.0,86,28.0
+2020-04-02,Andorra,Unknown,428,38.0,15,1.0
+2020-04-02,Angola,Unknown,8,0.0,2,0.0
+2020-04-02,Antigua and Barbuda,Unknown,9,2.0,0,0.0
+2020-04-02,Argentina,Unknown,1133,79.0,36,8.0
+2020-04-02,Armenia,Unknown,663,92.0,7,3.0
+2020-04-02,Australia,Australian Capital Territory,87,3.0,1,0.0
+2020-04-02,Australia,New South Wales,2298,116.0,10,1.0
+2020-04-02,Australia,Northern Territory,21,2.0,0,0.0
+2020-04-02,Australia,Queensland,835,54.0,4,2.0
+2020-04-02,Australia,South Australia,367,0.0,0,0.0
+2020-04-02,Australia,Tasmania,72,3.0,2,0.0
+2020-04-02,Australia,Victoria,1036,68.0,5,1.0
+2020-04-02,Australia,Western Australia,400,8.0,2,0.0
+2020-04-02,Austria,Unknown,11129,418.0,158,12.0
+2020-04-02,Azerbaijan,Unknown,400,41.0,5,0.0
+2020-04-02,Bahamas,Unknown,24,3.0,1,0.0
+2020-04-02,Bahrain,Unknown,643,74.0,4,0.0
+2020-04-02,Bangladesh,Unknown,56,2.0,6,0.0
+2020-04-02,Barbados,Unknown,46,12.0,0,0.0
+2020-04-02,Belarus,Unknown,304,141.0,4,2.0
+2020-04-02,Belgium,Unknown,15348,1384.0,1011,183.0
+2020-04-02,Belize,Unknown,3,0.0,0,0.0
+2020-04-02,Benin,Unknown,13,0.0,0,0.0
+2020-04-02,Bhutan,Unknown,5,1.0,0,0.0
+2020-04-02,Bolivia,Unknown,123,8.0,8,1.0
+2020-04-02,Bosnia and Herzegovina,Unknown,533,74.0,16,3.0
+2020-04-02,Botswana,Unknown,4,0.0,1,0.0
+2020-04-02,Brazil,Unknown,8044,1208.0,324,84.0
+2020-04-02,Brunei,Unknown,133,2.0,1,0.0
+2020-04-02,Bulgaria,Unknown,457,35.0,10,0.0
+2020-04-02,Burkina Faso,Unknown,288,6.0,16,0.0
+2020-04-02,Burma,Unknown,20,5.0,1,0.0
+2020-04-02,Burundi,Unknown,3,1.0,0,0.0
+2020-04-02,Cabo Verde,Unknown,6,0.0,1,0.0
+2020-04-02,Cambodia,Unknown,110,1.0,0,0.0
+2020-04-02,Cameroon,Unknown,306,73.0,7,1.0
+2020-04-02,Canada,Alberta,969,215.0,13,4.0
+2020-04-02,Canada,British Columbia,1121,108.0,31,7.0
+2020-04-02,Canada,Diamond Princess,0,0.0,1,0.0
+2020-04-02,Canada,Grand Princess,13,0.0,0,0.0
+2020-04-02,Canada,Manitoba,167,40.0,1,0.0
+2020-04-02,Canada,New Brunswick,91,10.0,0,0.0
+2020-04-02,Canada,Newfoundland and Labrador,183,8.0,1,0.0
+2020-04-02,Canada,Northwest Territories,2,0.0,0,0.0
+2020-04-02,Canada,Nova Scotia,193,20.0,0,0.0
+2020-04-02,Canada,Ontario,2793,401.0,53,16.0
+2020-04-02,Canada,Prince Edward Island,22,1.0,0,0.0
+2020-04-02,Canada,Quebec,5518,907.0,36,3.0
+2020-04-02,Canada,Recovered,0,0.0,0,0.0
+2020-04-02,Canada,Saskatchewan,206,13.0,3,0.0
+2020-04-02,Canada,Yukon,6,1.0,0,0.0
+2020-04-02,Central African Republic,Unknown,3,0.0,0,0.0
+2020-04-02,Chad,Unknown,8,1.0,0,0.0
+2020-04-02,Chile,Unknown,3404,373.0,18,2.0
+2020-04-02,China,Anhui,990,0.0,6,0.0
+2020-04-02,China,Beijing,582,2.0,8,0.0
+2020-04-02,China,Chongqing,579,0.0,6,0.0
+2020-04-02,China,Fujian,345,0.0,1,0.0
+2020-04-02,China,Gansu,138,0.0,2,0.0
+2020-04-02,China,Guangdong,1507,6.0,8,0.0
+2020-04-02,China,Guangxi,254,0.0,2,0.0
+2020-04-02,China,Guizhou,146,0.0,2,0.0
+2020-04-02,China,Hainan,168,0.0,6,0.0
+2020-04-02,China,Hebei,325,2.0,6,0.0
+2020-04-02,China,Heilongjiang,488,4.0,13,0.0
+2020-04-02,China,Henan,1276,0.0,22,0.0
+2020-04-02,China,Hong Kong,802,37.0,4,0.0
+2020-04-02,China,Hubei,67802,0.0,3199,6.0
+2020-04-02,China,Hunan,1019,1.0,4,0.0
+2020-04-02,China,Inner Mongolia,117,6.0,1,0.0
+2020-04-02,China,Jiangsu,647,1.0,0,0.0
+2020-04-02,China,Jiangxi,937,0.0,1,0.0
+2020-04-02,China,Jilin,98,0.0,1,0.0
+2020-04-02,China,Liaoning,141,1.0,2,0.0
+2020-04-02,China,Macau,41,0.0,0,0.0
+2020-04-02,China,Ningxia,75,0.0,0,0.0
+2020-04-02,China,Qinghai,18,0.0,0,0.0
+2020-04-02,China,Shaanxi,255,0.0,3,0.0
+2020-04-02,China,Shandong,775,1.0,7,0.0
+2020-04-02,China,Shanghai,522,6.0,6,0.0
+2020-04-02,China,Shanxi,137,0.0,0,0.0
+2020-04-02,China,Sichuan,554,2.0,3,0.0
+2020-04-02,China,Tianjin,176,0.0,3,0.0
+2020-04-02,China,Tibet,1,0.0,0,0.0
+2020-04-02,China,Xinjiang,76,0.0,3,0.0
+2020-04-02,China,Yunnan,183,1.0,2,0.0
+2020-04-02,China,Zhejiang,1258,1.0,1,0.0
+2020-04-02,Colombia,Unknown,1161,96.0,19,2.0
+2020-04-02,Congo (Brazzaville),Unknown,22,3.0,2,2.0
+2020-04-02,Congo (Kinshasa),Unknown,134,25.0,13,4.0
+2020-04-02,Costa Rica,Unknown,396,21.0,2,0.0
+2020-04-02,Cote d'Ivoire,Unknown,194,4.0,1,0.0
+2020-04-02,Croatia,Unknown,1011,48.0,7,1.0
+2020-04-02,Cuba,Unknown,233,21.0,6,0.0
+2020-04-02,Cyprus,Unknown,356,36.0,10,1.0
+2020-04-02,Czechia,Unknown,3858,350.0,44,5.0
+2020-04-02,Denmark,Faroe Islands,177,4.0,0,0.0
+2020-04-02,Denmark,Greenland,10,0.0,0,0.0
+2020-04-02,Denmark,Unknown,3386,279.0,123,19.0
+2020-04-02,Diamond Princess,Unknown,712,0.0,11,0.0
+2020-04-02,Djibouti,Unknown,40,7.0,0,0.0
+2020-04-02,Dominica,Unknown,12,0.0,0,0.0
+2020-04-02,Dominican Republic,Unknown,1380,96.0,60,3.0
+2020-04-02,Ecuador,Unknown,3163,415.0,120,27.0
+2020-04-02,Egypt,Unknown,865,86.0,58,6.0
+2020-04-02,El Salvador,Unknown,41,9.0,2,1.0
+2020-04-02,Equatorial Guinea,Unknown,15,0.0,0,0.0
+2020-04-02,Eritrea,Unknown,22,7.0,0,0.0
+2020-04-02,Estonia,Unknown,858,79.0,11,6.0
+2020-04-02,Eswatini,Unknown,9,0.0,0,0.0
+2020-04-02,Ethiopia,Unknown,29,0.0,0,0.0
+2020-04-02,Fiji,Unknown,7,2.0,0,0.0
+2020-04-02,Finland,Unknown,1518,72.0,19,2.0
+2020-04-02,France,French Guiana,51,0.0,0,0.0
+2020-04-02,France,French Polynesia,37,0.0,0,0.0
+2020-04-02,France,Guadeloupe,128,3.0,6,0.0
+2020-04-02,France,Martinique,138,3.0,3,0.0
+2020-04-02,France,Mayotte,116,22.0,1,0.0
+2020-04-02,France,New Caledonia,18,2.0,0,0.0
+2020-04-02,France,Reunion,308,27.0,0,0.0
+2020-04-02,France,Saint Barthelemy,6,0.0,0,0.0
+2020-04-02,France,St Martin,22,7.0,1,0.0
+2020-04-02,France,Unknown,59105,2116.0,5387,1355.0
+2020-04-02,Gabon,Unknown,21,3.0,1,0.0
+2020-04-02,Gambia,Unknown,4,0.0,1,0.0
+2020-04-02,Georgia,Unknown,134,17.0,0,0.0
+2020-04-02,Germany,Unknown,84794,6922.0,1107,187.0
+2020-04-02,Ghana,Unknown,204,9.0,5,0.0
+2020-04-02,Greece,Unknown,1544,129.0,53,3.0
+2020-04-02,Grenada,Unknown,10,1.0,0,0.0
+2020-04-02,Guatemala,Unknown,47,8.0,1,0.0
+2020-04-02,Guinea,Unknown,52,22.0,0,0.0
+2020-04-02,Guinea-Bissau,Unknown,9,0.0,0,0.0
+2020-04-02,Guyana,Unknown,19,0.0,4,2.0
+2020-04-02,Haiti,Unknown,16,0.0,0,0.0
+2020-04-02,Holy See,Unknown,7,1.0,0,0.0
+2020-04-02,Honduras,Unknown,219,47.0,14,4.0
+2020-04-02,Hungary,Unknown,585,60.0,21,1.0
+2020-04-02,Iceland,Unknown,1319,99.0,4,2.0
+2020-04-02,India,Unknown,2543,545.0,72,14.0
+2020-04-02,Indonesia,Unknown,1790,113.0,170,13.0
+2020-04-02,Iran,Unknown,50468,2875.0,3160,124.0
+2020-04-02,Iraq,Unknown,772,44.0,54,2.0
+2020-04-02,Ireland,Unknown,3849,402.0,98,13.0
+2020-04-02,Israel,Unknown,6857,765.0,36,10.0
+2020-04-02,Italy,Unknown,115242,4668.0,13915,760.0
+2020-04-02,Jamaica,Unknown,47,3.0,3,0.0
+2020-04-02,Japan,Unknown,2495,317.0,62,5.0
+2020-04-02,Jordan,Unknown,299,21.0,5,0.0
+2020-04-02,Kazakhstan,Unknown,435,55.0,3,0.0
+2020-04-02,Kenya,Unknown,110,29.0,3,2.0
+2020-04-02,"Korea, South",Unknown,9976,89.0,169,4.0
+2020-04-02,Kosovo,Unknown,125,0.0,1,0.0
+2020-04-02,Kuwait,Unknown,342,25.0,0,0.0
+2020-04-02,Kyrgyzstan,Unknown,116,5.0,0,0.0
+2020-04-02,Laos,Unknown,10,0.0,0,0.0
+2020-04-02,Latvia,Unknown,458,12.0,0,0.0
+2020-04-02,Lebanon,Unknown,494,15.0,16,2.0
+2020-04-02,Liberia,Unknown,6,0.0,0,0.0
+2020-04-02,Libya,Unknown,11,1.0,1,1.0
+2020-04-02,Liechtenstein,Unknown,75,7.0,0,0.0
+2020-04-02,Lithuania,Unknown,649,68.0,9,1.0
+2020-04-02,Luxembourg,Unknown,2487,168.0,30,1.0
+2020-04-02,MS Zaandam,Unknown,9,0.0,2,0.0
+2020-04-02,Madagascar,Unknown,59,2.0,0,0.0
+2020-04-02,Malawi,Unknown,3,3.0,0,0.0
+2020-04-02,Malaysia,Unknown,3116,208.0,50,5.0
+2020-04-02,Maldives,Unknown,19,0.0,0,0.0
+2020-04-02,Mali,Unknown,36,5.0,3,0.0
+2020-04-02,Malta,Unknown,196,8.0,0,0.0
+2020-04-02,Mauritania,Unknown,6,0.0,1,0.0
+2020-04-02,Mauritius,Unknown,169,8.0,7,1.0
+2020-04-02,Mexico,Unknown,1378,163.0,37,8.0
+2020-04-02,Moldova,Unknown,505,82.0,6,1.0
+2020-04-02,Monaco,Unknown,60,5.0,1,0.0
+2020-04-02,Mongolia,Unknown,14,0.0,0,0.0
+2020-04-02,Montenegro,Unknown,144,21.0,2,0.0
+2020-04-02,Morocco,Unknown,708,54.0,44,5.0
+2020-04-02,Mozambique,Unknown,10,0.0,0,0.0
+2020-04-02,Namibia,Unknown,14,0.0,0,0.0
+2020-04-02,Nepal,Unknown,6,1.0,0,0.0
+2020-04-02,Netherlands,Aruba,60,5.0,0,0.0
+2020-04-02,Netherlands,"Bonaire, Sint Eustatius and Saba",2,2.0,0,0.0
+2020-04-02,Netherlands,Curacao,11,0.0,1,0.0
+2020-04-02,Netherlands,Sint Maarten,18,2.0,1,0.0
+2020-04-02,Netherlands,Unknown,14697,1083.0,1339,166.0
+2020-04-02,New Zealand,Unknown,797,89.0,1,0.0
+2020-04-02,Nicaragua,Unknown,5,0.0,1,0.0
+2020-04-02,Niger,Unknown,98,24.0,5,0.0
+2020-04-02,Nigeria,Unknown,184,10.0,2,0.0
+2020-04-02,North Macedonia,Unknown,384,30.0,11,0.0
+2020-04-02,Norway,Unknown,5147,284.0,50,6.0
+2020-04-02,Oman,Unknown,231,21.0,1,0.0
+2020-04-02,Pakistan,Unknown,2421,303.0,34,7.0
+2020-04-02,Panama,Unknown,1317,136.0,32,2.0
+2020-04-02,Papua New Guinea,Unknown,1,0.0,0,0.0
+2020-04-02,Paraguay,Unknown,77,8.0,3,0.0
+2020-04-02,Peru,Unknown,1414,91.0,55,17.0
+2020-04-02,Philippines,Unknown,2633,322.0,107,11.0
+2020-04-02,Poland,Unknown,2946,392.0,57,14.0
+2020-04-02,Portugal,Unknown,9034,783.0,209,22.0
+2020-04-02,Qatar,Unknown,949,114.0,3,1.0
+2020-04-02,Romania,Unknown,2738,278.0,115,23.0
+2020-04-02,Russia,Unknown,3548,771.0,30,6.0
+2020-04-02,Rwanda,Unknown,84,2.0,0,0.0
+2020-04-02,Saint Kitts and Nevis,Unknown,9,1.0,0,0.0
+2020-04-02,Saint Lucia,Unknown,13,0.0,0,0.0
+2020-04-02,Saint Vincent and the Grenadines,Unknown,2,1.0,0,0.0
+2020-04-02,San Marino,Unknown,245,9.0,30,4.0
+2020-04-02,Saudi Arabia,Unknown,1885,165.0,21,5.0
+2020-04-02,Senegal,Unknown,195,5.0,1,0.0
+2020-04-02,Serbia,Unknown,1171,111.0,31,3.0
+2020-04-02,Seychelles,Unknown,10,0.0,0,0.0
+2020-04-02,Sierra Leone,Unknown,2,0.0,0,0.0
+2020-04-02,Singapore,Unknown,1049,49.0,4,1.0
+2020-04-02,Slovakia,Unknown,426,26.0,1,0.0
+2020-04-02,Slovenia,Unknown,897,56.0,17,2.0
+2020-04-02,Somalia,Unknown,5,0.0,0,0.0
+2020-04-02,South Africa,Unknown,1462,82.0,5,0.0
+2020-04-02,Spain,Unknown,112065,7947.0,10348,961.0
+2020-04-02,Sri Lanka,Unknown,151,5.0,4,1.0
+2020-04-02,Sudan,Unknown,8,1.0,2,0.0
+2020-04-02,Suriname,Unknown,10,0.0,0,0.0
+2020-04-02,Sweden,Unknown,5568,621.0,308,69.0
+2020-04-02,Switzerland,Unknown,18827,1059.0,536,48.0
+2020-04-02,Syria,Unknown,16,6.0,2,0.0
+2020-04-02,Taiwan*,Unknown,339,10.0,5,0.0
+2020-04-02,Tanzania,Unknown,20,0.0,1,0.0
+2020-04-02,Thailand,Unknown,1875,104.0,15,3.0
+2020-04-02,Timor-Leste,Unknown,1,0.0,0,0.0
+2020-04-02,Togo,Unknown,39,3.0,2,0.0
+2020-04-02,Trinidad and Tobago,Unknown,94,4.0,5,0.0
+2020-04-02,Tunisia,Unknown,455,32.0,14,2.0
+2020-04-02,Turkey,Unknown,18135,2456.0,356,79.0
+2020-04-02,Uganda,Unknown,45,1.0,0,0.0
+2020-04-02,Ukraine,Unknown,897,103.0,22,2.0
+2020-04-02,United Arab Emirates,Unknown,1024,210.0,8,0.0
+2020-04-02,United Kingdom,Anguilla,3,1.0,0,0.0
+2020-04-02,United Kingdom,Bermuda,35,3.0,0,0.0
+2020-04-02,United Kingdom,British Virgin Islands,3,0.0,0,0.0
+2020-04-02,United Kingdom,Cayman Islands,28,6.0,1,0.0
+2020-04-02,United Kingdom,Channel Islands,193,21.0,3,0.0
+2020-04-02,United Kingdom,Gibraltar,88,7.0,0,0.0
+2020-04-02,United Kingdom,Isle of Man,95,27.0,1,0.0
+2020-04-02,United Kingdom,Montserrat,5,0.0,0,0.0
+2020-04-02,United Kingdom,Turks and Caicos Islands,5,-1.0,0,0.0
+2020-04-02,United Kingdom,Unknown,33718,4244.0,2921,569.0
+2020-04-02,United States of America,Unknown,243453,30081.0,5926,1169.0
+2020-04-02,Uruguay,Unknown,350,12.0,4,2.0
+2020-04-02,Uzbekistan,Unknown,205,24.0,2,0.0
+2020-04-02,Venezuela,Unknown,146,3.0,5,2.0
+2020-04-02,Vietnam,Unknown,233,15.0,0,0.0
+2020-04-02,West Bank and Gaza,Unknown,161,27.0,1,0.0
+2020-04-02,Zambia,Unknown,39,3.0,1,1.0
+2020-04-02,Zimbabwe,Unknown,9,1.0,1,0.0

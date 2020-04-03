@@ -33,6 +33,10 @@ class TransformHCCapacity(Node):
         i = df[df["state_province"].isnull()].index
         df.drop(i, inplace=True)
         df.drop(columns=["footnotes", "hospital_beds_per_1k"], inplace=True)
+        # https://en.wikipedia.org/wiki/ISO_3166-1
+        df.loc[
+            df["country_region"] == "United States", "country_region"
+        ] = "United States of America"
         self.push(df)
 
 

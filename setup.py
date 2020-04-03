@@ -40,7 +40,7 @@ for repo in git_requires:
     # Append git egg references
     non_git_requires.append(repo.split("egg=")[-1])
 
-extras_require = {}
+extras_require = {"dev": ["black", "pre-commit", "wheel"]}
 extras_require["complete"] = sorted(set(sum(extras_require.values(), [])))
 
 exec(open("glide_covid_19/version.py").read())
@@ -62,7 +62,9 @@ setup(
         "Programming Language :: Python :: 3",
     ],
     python_requires=">=3.6",
-    scripts=find_deploy_scripts("glide_covid_19", ["\\*.py", "\\*.sh", "\\*.sql"], ["__init__"]),
+    scripts=find_deploy_scripts(
+        "glide_covid_19", ["\\*.py", "\\*.sh", "\\*.sql"], ["__init__"]
+    ),
     packages=find_packages(exclude=["tests.*", "tests"]),
     include_package_data=True,
     install_requires=non_git_requires,

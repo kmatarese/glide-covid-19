@@ -9,12 +9,21 @@ from glide_covid_19.utils import *
 
 
 OUTFILE = OUTDIR + "covidtracking_states_daily.csv"
-URL = "http://covidtracking.com/api/states/daily.csv"
+URL = "http://covidtracking.com/api/v1/states/daily.csv"
+
+DROP_COLUMNS = [
+    "total",
+    "dateChecked",
+    "hash",
+    "fips",
+    "posNeg",
+    "hospitalizedCumulative",
+]
 
 
 class Transform(Node):
     def run(self, df):
-        df.drop(columns=["total", "dateChecked", "hash", "fips"], inplace=True)
+        df.drop(columns=DROP_COLUMNS, inplace=True)
         df.rename(
             columns={
                 "state": "state_abbr",
@@ -27,6 +36,12 @@ class Transform(Node):
                 "totalTestResultsIncrease": "test_results",
                 "hospitalized": "cumulative_hospitalized",
                 "hospitalizedIncrease": "hospitalized",
+                "hospitalizedCurrently": "currently_hospitalized",
+                "inIcuCurrently": "currently_in_icu",
+                "inIcuCumulative": "cumulative_in_icu",
+                "onVentilatorCurrently": "currently_on_ventilator",
+                "onVentilatorCumulative": "cumulative_on_ventilator",
+                "recovered": "cumulative_recovered",
                 "death": "cumulative_deaths",
                 "deathIncrease": "deaths",
             },
