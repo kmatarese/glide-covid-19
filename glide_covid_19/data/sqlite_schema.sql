@@ -53,6 +53,17 @@ CREATE TABLE "us_county_timeseries" (
   PRIMARY KEY(date, fips)
 );
 
+DROP VIEW IF EXISTS us_county_timeseries_view;
+
+CREATE VIEW us_county_timeseries_view AS
+SELECT
+ t.*,
+ i.hospitals,
+ i.icu_beds
+FROM
+ us_county_timeseries t
+ LEFT JOIN icu_beds_by_fips i ON t.fips = i.fips;
+
 DROP TABLE IF EXISTS "country_province_timeseries";
 
 CREATE TABLE "country_province_timeseries" (
@@ -81,4 +92,15 @@ CREATE TABLE "country_province_timeseries" (
   PRIMARY KEY(date, country_region, state_province)
 );
 
+DROP VIEW IF EXISTS country_province_timeseries_view;
 
+CREATE VIEW country_province_timeseries_view AS
+SELECT
+ c.*,
+ hc.hospital_beds,
+ hc.total_chcs,
+ hc.chc_service_delivery_sites
+FROM
+ country_province_timeseries c
+ LEFT JOIN healthcare_capacity hc
+  ON c.country_region=hc.country_region AND c.state_province=hc.state_province;
