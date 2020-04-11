@@ -1,10 +1,6 @@
 #!/usr/bin/env python
-"""http://covidtracking.com/api/states/daily.csv
+"""http://covidtracking.com/api/states/daily.csv"""
 
-Notes
------
-* Time zone is  EST
-"""
 from glide_covid_19.utils import *
 
 
@@ -26,7 +22,7 @@ class Transform(Node):
         df.drop(columns=DROP_COLUMNS, inplace=True)
         df.rename(
             columns={
-                "state": "state_abbr",
+                "state": "iso2",
                 "positive": "cumulative_cases",
                 "positiveIncrease": "cases",
                 "negative": "cumulative_negative_tests",
@@ -48,9 +44,10 @@ class Transform(Node):
             inplace=True,
         )
         df["date"] = pd.to_datetime(df["date"].astype(str))
+        df["iso2"] = "US-" + df["iso2"]
 
         # Reorder for diff operation
-        df.set_index(["state_abbr", "date"], inplace=True)
+        df.set_index(["iso2", "date"], inplace=True)
         df.sort_index(inplace=True)
 
         # Forward fill since some cumulative columns have holes
@@ -63,13 +60,18 @@ class Transform(Node):
                 )
 
         # Calculate daily numbers from diff in cumulative
-        diff_columns = ["cumulative_in_icu", "cumulative_on_ventilator"]
-        df_diff = df.groupby("state_abbr").apply(apply_df_diff, diff_columns)
+        diff_columns = [
+            "cumulative_in_icu",
+            "cumulative_on_ventilator",
+            "cumulative_recovered",
+        ]
+        df_diff = df.groupby("iso2").apply(apply_df_diff, diff_columns)
         df["in_icu"] = df_diff["cumulative_in_icu"]
         df["on_ventilator"] = df_diff["cumulative_on_ventilator"]
+        df["recovered"] = df_diff["cumulative_recovered"]
 
         df.reset_index(inplace=True)
-        df.set_index(["date", "state_abbr"], inplace=True)
+        df.set_index(["date", "iso2"], inplace=True)
         df.sort_index(inplace=True)
         self.push(df)
 
@@ -81,4 +83,5 @@ if __name__ == "__main__":
         | LenPrint("print")
         | DataFrameCSVLoad("load")
     )
+    print("Syncing covidtracking.com data")
     glider.consume(URL, load=dict(f=OUTFILE))

@@ -1,9 +1,6 @@
 #!/usr/bin/env python
-"""https://github.com/starschema/COVID-19-data
+"""https://github.com/starschema/COVID-19-data"""
 
-Only a subset of available datasets are used here, as others are pulled
-from the original source.
-"""
 from glide_covid_19.utils import *
 
 
@@ -14,6 +11,9 @@ DATASETS = {
     "US healthcare capacity by state, 2018": BASE_URL + "KFF_HCP_capacity.csv",
     "ICU beds by county, US": BASE_URL + "KFF_US_ICU_BEDS.csv",
 }
+
+iso1_df = get_iso1_geos_df()
+iso2_df = get_iso2_geos_df()
 
 
 class TransformHCCapacity(Node):
@@ -32,11 +32,28 @@ class TransformHCCapacity(Node):
         )
         i = df[df["state_province"].isnull()].index
         df.drop(i, inplace=True)
-        df.drop(columns=["footnotes", "hospital_beds_per_1k"], inplace=True)
-        # https://en.wikipedia.org/wiki/ISO_3166-1
+
+        # Match naming in our ISO geo tables
         df.loc[
-            df["country_region"] == "United States", "country_region"
-        ] = "United States of America"
+            df["state_province"] == "District of Columbia", "state_province"
+        ] = "Washington, D.C."
+
+        # Merge in ISO country IDs
+        df = df.merge(iso1_df, how="left", left_on="country_region", right_on="name")
+        df.drop(columns=["footnotes", "hospital_beds_per_1k", "name"], inplace=True)
+
+        # Merge in ISO state IDs
+        df = df.merge(
+            iso2_df,
+            how="left",
+            left_on=["iso1", "state_province"],
+            right_on=["iso1", "name"],
+        )
+        df.drop(
+            columns=["country_region", "state_province", "name", "iso1"], inplace=True
+        )
+
+        assert not df["iso2"].isnull().values.any(), "Found null iso2 mappings"
         self.push(df)
 
 
@@ -65,15 +82,20 @@ if __name__ == "__main__":
     icu_county = Glider(node_template())
     icu_county["transform"] = TransformICUCounty("transform")
 
+    print("Syncing starschema data")
+
     with get_sqlite_conn() as conn:
-        conn.execute("DELETE FROM healthcare_capacity")
-        conn.execute("DELETE FROM icu_beds_by_fips")
+        conn.execute("DELETE FROM iso2_healthcare_capacity")
+        conn.execute("DELETE FROM fips_icu_beds")
 
         hc_capacity.consume(
             DATASETS["US healthcare capacity by state, 2018"],
             csv_load=dict(f=HC_OUTFILE, index=False),
             sql_load=dict(
-                table="healthcare_capacity", conn=conn, if_exists="append", index=False
+                table="iso2_healthcare_capacity",
+                conn=conn,
+                if_exists="append",
+                index=False,
             ),
         )
 
@@ -81,7 +103,7 @@ if __name__ == "__main__":
             DATASETS["ICU beds by county, US"],
             csv_load=dict(f=ICU_OUTFILE, index=False),
             sql_load=dict(
-                table="icu_beds_by_fips", conn=conn, if_exists="append", index=False
+                table="fips_icu_beds", conn=conn, if_exists="append", index=False
             ),
         )
 

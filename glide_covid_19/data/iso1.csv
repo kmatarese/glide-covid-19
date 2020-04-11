@@ -1,0 +1,251 @@
+admin_level,lat,long,iso1,name,osm_id,population,timezone,wikidata_id,wikipedia_id
+3,-7.94,-14.36,AC,Ascension,156166,806.0,Atlantic/St_Helena,Q46197,en:Ascension Island
+2,42.52,1.54,AD,Andorra,9407,76177.0,Europe/Andorra,Q228,ca:Andorra
+2,23.92,54.35,AE,United Arab Emirates,307763,9400145.0,Asia/Dubai,Q878,ar:الإمارات العربية المتحدة
+2,33.83,66.02,AF,Afghanistan,303427,34940837.0,Asia/Kabul,Q889,fa:افغانستان
+2,17.35,-61.8,AG,Antigua and Barbuda,536900,102012.0,America/Antigua,Q781,en:Antigua and Barbuda
+2,18.27,-63.12,AI,Anguilla,2177161,16086.0,America/Anguilla,Q25228,en:Anguilla
+2,41.16,20.05,AL,Albania,53292,2873457.0,Europe/Tirane,Q222,sq:Shqipëria
+2,40.31,44.91,AM,Armenia,364066,2930450.0,Asia/Yerevan,Q399,hy:Հայաստան
+2,-12.29,17.55,AO,Angola,195267,29784193.0,Africa/Luanda,Q916,pt:Angola
+2,-35.39,-65.17,AR,Argentina,286393,44938712.0,America/Argentina/San_Luis,Q414,es:Argentina
+4,-14.14,-170.2,AS,American Samoa,2177187,55689.0,Pacific/Pago_Pago,Q16641,en:American Samoa
+2,47.6,14.11,AT,Austria,16239,8809212.0,Europe/Vienna,Q40,de:Österreich
+2,-25.73,134.48,AU,Australia,80500,24511800.0,Australia/Darwin,Q408,en:Australia
+3,12.46,-69.97,AW,Aruba,1231749,112309.0,America/Aruba,Q21203,en:Aruba
+3,59.88,21.27,AX,Åland Islands,1650407,29789.0,Europe/Mariehamn,Q5689,en:Åland Islands
+2,40.29,47.51,AZ,Azerbaijan,364110,10000000.0,Asia/Baku,Q227,az:Azərbaycan
+2,44.15,17.78,BA,Bosnia and Herzegovina,2528142,3507017.0,Europe/Sarajevo,Q225,bs:Bosna i Hercegovina
+2,13.22,-59.55,BB,Barbados,547511,285719.0,America/Barbados,Q244,en:Barbados
+2,23.9,90.29,BD,Bangladesh,184640,164669751.0,Asia/Dhaka,Q902,bn:বাংলাদেশ
+2,50.63,4.68,BE,Belgium,52411,11431406.0,Europe/Brussels,Q31,nl:België
+2,12.27,-1.76,BF,Burkina Faso,192783,19193382.0,Africa/Ouagadougou,Q965,fr:Burkina Faso
+2,42.76,25.26,BG,Bulgaria,186382,7000039.0,Europe/Sofia,Q219,bg:България
+2,26.18,50.31,BH,Bahrain,378734,1492584.0,Asia/Bahrain,Q398,ar:البحرين
+2,-3.31,29.96,BI,Burundi,195269,10864245.0,Africa/Bujumbura,Q967,rn:Uburundi
+2,9.64,2.34,BJ,Benin,192784,11175692.0,Africa/Porto-Novo,Q962,fr:Bénin
+3,17.93,-62.87,BL,Saint Barthélemy,537967,9625.0,America/St_Barthelemy,Q25362,fr:Saint-Barthélemy (Antilles françaises)
+2,32.31,-64.78,BM,Bermuda,1993208,65024.0,Atlantic/Bermuda,Q23635,en:Bermuda
+2,4.51,114.67,BN,Brunei,2103120,428697.0,Asia/Brunei,Q921,ms:Brunei
+2,-16.71,-64.65,BO,Bolivia,252645,11051600.0,America/La_Paz,Q750,es:Bolivia
+4,15.41,-65.2,BQ,Caribbean Netherlands,1216720,25019.0,,Q27561,nl:Caribisch Nederland
+2,-10.77,-53.08,BR,Brazil,59470,208494900.0,America/Cuiaba,Q155,pt:Brasil
+2,23.98,-76.67,BS,The Bahamas,547469,395361.0,America/Nassau,Q778,en:The Bahamas
+2,27.39,90.43,BT,Bhutan,184629,807610.0,Asia/Thimphu,Q917,dz:འབྲུག་ཡུལ་
+4,-54.42,3.33,BV,Bouvet Island,2425963,,,Q23408,en:Bouvet Island
+2,-22.19,23.82,BW,Botswana,1889339,2291661.0,Africa/Gaborone,Q963,tn:Botswana
+2,53.53,28.06,BY,Belarus,59065,9408400.0,Europe/Minsk,Q184,be:Беларусь
+2,17.18,-88.7,BZ,Belize,287827,374681.0,America/Belize,Q242,en:Belize
+2,61.47,-98.31,CA,Canada,1428125,36708083.0,America/Rankin_Inlet,Q16,en:Canada
+4,-12.16,96.9,CC,Cocos (Keeling) Islands,82636,596.0,Indian/Cocos,Q36004,en:Cocos (Keeling) Islands
+2,-2.86,23.6,CD,Democratic Republic of the Congo,192795,91931000.0,Africa/Lubumbashi,Q974,fr:République démocratique du Congo
+2,6.57,20.49,CF,Central African Republic,192790,4659080.0,Africa/Bangui,Q929,fr:République centrafricaine
+2,-0.85,15.22,CG,Congo-Brazzaville,192794,5260750.0,Africa/Brazzaville,Q971,fr:République du Congo
+2,46.8,8.21,CH,Switzerland,51701,8466017.0,Europe/Zurich,Q39,de:Schweiz
+2,7.62,-5.54,CI,Côte d'Ivoire,192779,24294750.0,Africa/Abidjan,Q1008,fr:Côte d'Ivoire
+2,-13.2,-160.55,CK,Cook Islands,2184233,17434.0,Pacific/Rarotonga,Q26988,en:Cook Islands
+2,-37.19,-71.24,CL,Chile,167454,18054726.0,America/Santiago,Q298,es:Chile
+2,5.68,12.75,CM,Cameroon,192830,24053727.0,Africa/Douala,Q1009,en:Cameroon
+2,36.49,103.74,CN,China,270056,1409517397.0,Asia/Shanghai,Q148,zh:中华人民共和国
+2,3.91,-73.08,CO,Colombia,120027,49065615.0,America/Bogota,Q739,
+4,10.3,-109.23,CP,Clipperton Island,9823701,,Pacific/Pitcairn,Q161258,fr:Île de Clipperton
+2,9.98,-84.19,CR,Costa Rica,287667,4905769.0,America/Costa_Rica,Q800,es:Costa Rica
+2,21.63,-79.01,CU,Cuba,307833,11484636.0,America/Havana,Q241,en:Cuba
+2,15.11,-23.63,CV,Cape Verde,535774,546388.0,Atlantic/Cape_Verde,Q1011,pt:Cabo Verde
+3,12.09,-68.84,CW,Curacao,1216719,160337.0,America/Curacao,Q25279,nl:Curaçao
+4,-10.46,105.62,CX,Christmas Island,2177207,1843.0,Indian/Christmas,Q31063,en:Christmas Island
+2,35.07,33.26,CY,Cyprus,307787,1141166.0,Europe/Nicosia,Q229,en:Cyprus
+2,49.73,15.36,CZ,Czechia,51684,10649800.0,Europe/Prague,Q213,en:Czech Republic
+2,51.09,10.4,DE,Germany,51477,83149300.0,Europe/Berlin,Q183,de:Deutschland
+2,11.74,42.57,DJ,Djibouti,192801,956985.0,Africa/Djibouti,Q977,ar:جيبوتي
+2,56.02,9.91,DK,Denmark,50046,5827463.0,Europe/Copenhagen,Q35,da:Danmark
+2,15.52,-61.3,DM,Dominica,307823,73925.0,America/Dominica,Q784,en:Dominica
+2,18.9,-70.49,DO,Dominican Republic,307828,10403761.0,America/Santo_Domingo,Q786,es:República Dominicana
+2,28.15,2.68,DZ,Algeria,192756,41318142.0,Africa/Algiers,Q262,ar:الجزائر
+2,-1.41,-78.62,EC,Ecuador,108089,16624858.0,America/Guayaquil,Q736,es:Ecuador
+2,58.66,25.64,EE,Estonia,79510,1328360.0,Europe/Tallinn,Q191,et:Eesti
+2,26.52,29.86,EG,Egypt,1473947,94798827.0,Africa/Cairo,Q79,ar:مصر
+2,24.21,-12.1,EH,Sahrawi Arab Democratic Republic,5441968,502585.0,Africa/El_Aaiun,Q40362,ar:الجمهورية العربية الصحراوية الديمقراطية
+2,15.37,38.81,ER,Eritrea,296961,3497000.0,Africa/Asmara,Q986,ar:إرتريا
+2,40.29,-3.59,ES,Spain,1311341,46733038.0,Europe/Madrid,Q29,es:España
+2,8.63,39.63,ET,Ethiopia,192800,104957438.0,Africa/Addis_Ababa,Q115,am:ኢትዮጵያ
+2,64.53,26.29,FI,Finland,54224,5516224.0,Europe/Helsinki,Q33,fi:Suomi
+2,-17.4,178.41,FJ,Fiji,571747,905502.0,Pacific/Fiji,Q712,en:Fiji
+2,-51.74,-59.26,FK,Falkland Islands,2185374,4550.0,Atlantic/Stanley,Q9648,en:Falkland Islands
+2,6.71,152.12,FM,Federated States of Micronesia,571802,105544.0,Pacific/Chuuk,Q702,en:Federated States of Micronesia
+2,62.03,-6.89,FO,Faroe Islands,52939,51336.0,Atlantic/Faroe,Q4628,en:Faroe Islands
+2,40.9,0.85,FR,France,2202162,67118648.0,Europe/Madrid,Q142,fr:France
+3,46.54,2.55,FX,Metropolitan France,1403916,64897954.0,Europe/Paris,Q212429,fr:France métropolitaine
+2,-0.62,11.77,GA,Gabon,192793,2025137.0,Africa/Libreville,Q1000,en:Gabon
+2,54.08,-2.81,GB,United Kingdom,62149,66022273.0,Europe/London,Q145,en:United Kingdom
+2,12.28,-61.56,GD,Grenada,550727,107825.0,America/Grenada,Q769,en:Grenada
+2,42.19,43.51,GE,Georgia,28699,3717100.0,Asia/Tbilisi,Q230,en:Georgia (country)
+3,3.92,-53.24,GF,French Guiana,1260551,268700.0,America/Cayenne,Q3769,fr:Guyane
+2,49.56,-2.37,GG,Guernsey,270009,63026.0,Europe/Guernsey,Q25230,fr:Bailliage de Guernesey
+2,7.97,-1.21,GH,Ghana,192781,26908262.0,Africa/Accra,Q117,en:Ghana
+2,36.15,-5.35,GI,Gibraltar,1278736,33140.0,Europe/Gibraltar,Q1410,
+2,74.76,-41.32,GL,Greenland,2184073,56081.0,America/Godthab,Q223,en:Greenland
+2,13.45,-15.49,GM,The Gambia,192774,2100568.0,Africa/Banjul,Q1005,en:The Gambia
+2,10.42,-10.92,GN,Guinea,192778,12717176.0,Africa/Conakry,Q1006,en:Guinea
+3,16.2,-61.57,GP,Guadeloupe,1401835,390253.0,America/Guadeloupe,Q17012,fr:Guadeloupe
+2,1.67,10.39,GQ,Equatorial Guinea,192791,1267689.0,Africa/Malabo,Q983,es:Guinea Ecuatorial
+2,39.14,22.82,GR,Greece,192307,10760421.0,Europe/Athens,Q41,el:Ελλάδα
+2,-54.4,-36.58,GS,South Georgia and the South Sandwich Islands,1983628,30.0,Atlantic/South_Georgia,Q35086,en:South Georgia and the South Sandwich Islands
+2,15.7,-90.36,GT,Guatemala,1521463,17263239.0,America/Guatemala,Q774,en:Guatemala
+4,13.35,144.69,GU,Guam,306001,167772.0,Pacific/Guam,Q16635,en:Guam
+2,12.05,-14.95,GW,Guinea-Bissau,192776,1861283.0,Africa/Bissau,Q1007,en:Guinea-Bissau
+2,4.8,-58.98,GY,Guyana,287083,777859.0,America/Guyana,Q734,en:Guyana
+3,22.52,114.13,HK,Hong Kong,913110,7500700.0,Asia/Hong_Kong,Q8646,zh:香港
+4,-52.99,73.16,HM,Heard Island and McDonald Islands,2177227,,,Q131198,en:Heard Island and McDonald Islands
+2,14.82,-86.6,HN,Honduras,287670,9265067.0,America/Tegucigalpa,Q783,en:Honduras
+2,45.13,16.45,HR,Croatia,214885,4105493.0,Europe/Zagreb,Q224,en:Croatia
+2,18.9,-72.64,HT,Haiti,307829,10981229.0,America/Port-au-Prince,Q790,fr:Haïti
+2,47.17,19.37,HU,Hungary,21335,9772756.0,Europe/Budapest,Q28,hu:Magyarország
+2,-2.19,117.18,ID,Indonesia,304751,263991379.0,Asia/Makassar,Q252,id:Indonesia
+2,53.16,-8.12,IE,Ireland,62273,4813608.0,Europe/Dublin,Q27,en:Republic of Ireland
+2,31.46,35.01,IL,Israel,1473946,9093000.0,Asia/Jerusalem,Q801,en:Israel
+2,54.08,-4.73,IM,Isle of Man,62269,85888.0,Europe/Isle_of_Man,Q9676,en:Isle of Man
+2,22.91,79.62,IN,India,304716,1349217956.0,Asia/Kolkata,Q668,hi:भारत
+2,-5.78,71.91,IO,British Indian Ocean Territory,1993867,,Indian/Chagos,Q43448,en:British Indian Ocean Territory
+2,33.05,43.77,IQ,Iraq,304934,38274618.0,Asia/Baghdad,Q796,ar:العراق
+2,32.56,54.32,IR,Iran,304938,79966230.0,Asia/Tehran,Q794,fa:ایران
+2,64.98,-18.71,IS,Iceland,299133,364260.0,Atlantic/Reykjavik,Q189,is:Ísland
+2,42.79,12.11,IT,Italy,365331,60317000.0,Europe/Rome,Q38,it:Italia
+2,49.19,-2.08,JE,Jersey,367988,105500.0,Europe/Jersey,Q785,fr:Jersey
+2,18.2,-77.34,JM,Jamaica,555017,2890299.0,America/Jamaica,Q766,en:Jamaica
+2,31.24,36.79,JO,Jordan,184818,10428241.0,Asia/Amman,Q810,ar:الأردن
+2,37.73,138.2,JP,Japan,382313,124776364.0,Asia/Tokyo,Q17,ja:日本
+2,0.5,37.9,KE,Kenya,192798,48468138.0,Africa/Nairobi,Q114,en:Kenya
+2,41.46,74.5,KG,Kyrgyzstan,178009,6201500.0,Asia/Bishkek,Q813,en:Kyrgyzstan
+2,12.71,104.9,KH,Cambodia,49898,16005373.0,Asia/Phnom_Penh,Q424,en:Cambodia
+2,-0.36,83.5,KI,Kiribati,571178,116398.0,,Q710,en:Kiribati
+2,-12.28,43.82,KM,Comoros,535790,823652.0,Indian/Comoro,Q970,ar:جزر القمر
+2,17.23,-62.63,KN,Saint Kitts and Nevis,536899,55345.0,America/St_Kitts,Q763,en:Saint Kitts and Nevis
+2,40.14,127.18,KP,North Korea,192734,25490965.0,Asia/Pyongyang,Q423,en:North Korea
+2,36.39,127.82,KR,South Korea,307756,51466201.0,Asia/Seoul,Q884,ko:대한민국
+2,29.33,47.59,KW,Kuwait,305099,4600000.0,Asia/Kuwait,Q817,ar:الكويت
+2,19.36,-81.21,KY,Cayman Islands,2185366,58435.0,America/Cayman,Q5785,en:Cayman Islands
+2,48.17,67.28,KZ,Kazakhstan,214665,18276500.0,Asia/Almaty,Q232,kk:Қазақстан
+2,18.51,103.77,LA,Laos,49903,6858160.0,Asia/Vientiane,Q819,en:Laos
+2,33.91,35.88,LB,Lebanon,184843,6100075.0,Asia/Beirut,Q822,ar:لبنان
+2,13.93,-60.91,LC,Saint Lucia,550728,178844.0,America/St_Lucia,Q760,en:Saint Lucia
+2,47.17,9.57,LI,Liechtenstein,1155955,37922.0,Europe/Vaduz,Q347,de:Liechtenstein
+2,7.63,80.7,LK,Sri Lanka,536807,21444000.0,Asia/Colombo,Q854,en:Sri Lanka
+2,6.43,-9.32,LR,Liberia,192780,4731906.0,Africa/Monrovia,Q1014,en:Liberia
+2,-29.56,28.26,LS,Lesotho,2093234,2233339.0,Africa/Maseru,Q1013,en:Lesotho
+2,55.33,23.9,LT,Lithuania,72596,2794329.0,Europe/Vilnius,Q37,lt:Lietuva
+2,49.75,6.12,LU,Luxembourg,2171347,626108.0,Europe/Luxembourg,Q32,en:Luxembourg
+2,56.85,24.93,LV,Latvia,72594,1909000.0,Europe/Riga,Q211,lv:Latvija
+2,27.04,18.03,LY,Libya,192758,6678567.0,Africa/Tripoli,Q1016,ar:ليبيا
+2,29.75,-8.47,MA,Morocco,3630439,36029138.0,Africa/Casablanca,Q1028,ar:المغرب
+2,43.74,7.43,MC,Monaco,1124039,38695.0,Europe/Monaco,Q235,fr:Monaco
+2,47.2,28.45,MD,Moldova,58974,2550900.0,Europe/Chisinau,Q217,en:Moldova
+2,42.77,19.23,ME,Montenegro,53296,622359.0,Europe/Podgorica,Q236,en:Montenegro
+3,18.05,-63.06,MF,Saint Martin (France),1891583,35684.0,America/Marigot,Q126125,fr:Saint-Martin (Antilles françaises)
+2,-19.39,46.69,MG,Madagascar,447325,25570895.0,Indian/Antananarivo,Q1019,en:Madagascar
+2,8.65,168.95,MH,Marshall Islands,571771,53127.0,,Q709,en:Marshall Islands
+2,41.61,21.71,MK,North Macedonia,53293,2075301.0,Europe/Skopje,Q221,mk:Македонија
+2,17.35,-3.52,ML,Mali,192785,18541980.0,Africa/Bamako,Q912,fr:Mali
+2,21.18,96.51,MM,Myanmar,50371,53370609.0,Asia/Rangoon,Q836,my:မြန်မာနိုင်ငံ
+2,46.83,103.08,MN,Mongolia,161033,3075647.0,Asia/Ulaanbaatar,Q711,en:Mongolia
+3,22.18,113.56,MO,Macau,1867188,642900.0,Asia/Macau,Q14773,en:Macau
+4,17.4,145.56,MP,Northern Mariana Islands,306004,55144.0,Pacific/Saipan,Q16644,en:Northern Mariana Islands
+3,14.59,-60.96,MQ,Martinique,1891495,372594.0,America/Martinique,Q17054,fr:Martinique
+2,20.25,-10.34,MR,Mauritania,192763,4420184.0,Africa/Nouakchott,Q1025,ar:موريتانيا
+2,16.78,-62.2,MS,Montserrat,537257,5215.0,America/Montserrat,Q13353,en:Montserrat
+2,35.95,14.39,MT,Malta,365307,465292.0,Europe/Malta,Q233,en:Malta
+2,-20.31,57.56,MU,Mauritius,535828,1264613.0,Indian/Mauritius,Q1027,en:Mauritius
+2,3.5,73.2,MV,Maldives,536773,436330.0,Indian/Maldives,Q826,en:Maldives
+2,-13.51,34.25,MW,Malawi,195290,18622104.0,Africa/Blantyre,Q1020,en:Malawi
+2,23.94,-102.53,MX,Mexico,114686,130526945.0,America/Mexico_City,Q96,es:México
+2,3.79,109.72,MY,Malaysia,2108121,31624264.0,,Q833,en:Malaysia
+2,-17.3,35.56,MZ,Mozambique,195273,29668834.0,Africa/Maputo,Q1029,pt:Moçambique
+2,-22.14,17.22,NA,Namibia,195266,2533794.0,Africa/Windhoek,Q1030,en:Namibia
+3,-21.31,165.61,NC,New Caledonia,3407643,278500.0,Pacific/Noumea,Q33788,fr:Nouvelle-Calédonie
+2,17.42,9.4,NE,Niger,192786,21477348.0,Africa/Niamey,Q1032,fr:Niger
+4,-29.05,167.94,NF,Norfolk Island,2574988,1748.0,Pacific/Norfolk,Q31057,en:Norfolk Island
+2,9.59,8.1,NG,Nigeria,192787,190886311.0,Africa/Lagos,Q1033,en:Nigeria
+2,12.83,-85.02,NI,Nicaragua,287666,6217581.0,America/Managua,Q811,es:Nicaragua
+2,52.25,5.61,NL,Netherlands,2323309,17100715.0,Europe/Amsterdam,Q29999,nl:Koninkrijk der Nederlanden
+2,68.63,15.17,NO,Norway,2978650,5367580.0,Europe/Oslo,Q20,no:Norge
+2,28.25,83.95,NP,Nepal,184633,29400000.0,Asia/Kathmandu,Q837,en:Nepal
+2,-0.51,166.93,NR,Nauru,571804,13650.0,Pacific/Nauru,Q697,en:Nauru
+2,-19.0,-169.91,NU,Niue,1558556,1612.0,Pacific/Niue,Q34020,en:Niue
+2,-41.77,171.97,NZ,New Zealand,556706,4942500.0,Pacific/Auckland,Q664,en:New Zealand
+2,20.58,56.11,OM,Oman,305138,4829480.0,Asia/Muscat,Q842,ar:سلطنة عمان
+2,8.52,-80.09,PA,Panama,287668,4098587.0,America/Panama,Q804,
+2,-9.15,-74.39,PE,Peru,288247,32162184.0,America/Lima,Q419,es:Perú
+3,-16.83,-144.38,PF,French Polynesia,3412620,275918.0,Pacific/Tahiti,Q30971,fr:Polynésie française
+2,-6.45,145.12,PG,Papua New Guinea,307866,8251162.0,Pacific/Port_Moresby,Q691,en:Papua New Guinea
+2,11.81,122.89,PH,Philippines,443174,104918090.0,Asia/Manila,Q928,en:Philippines
+2,29.99,69.37,PK,Pakistan,307573,197015955.0,Asia/Karachi,Q843,ur:پاکستان
+2,52.13,19.39,PL,Poland,49715,38433600.0,Europe/Warsaw,Q36,pl:Polska
+3,46.79,-56.19,PM,Saint Pierre and Miquelon,3406826,6057.0,America/Miquelon,Q34617,fr:Saint-Pierre-et-Miquelon
+2,-24.69,-128.29,PN,Pitcairn Islands,2185375,50.0,Pacific/Pitcairn,Q35672,en:Pitcairn Islands
+4,18.22,-66.52,PR,Puerto Rico,4422604,3411307.0,America/Puerto_Rico,Q1183,en:Puerto Rico
+2,31.92,35.21,PS,Palestinian Territories,1703814,4684777.0,Asia/Hebron,Q219060,ar:دولة فلسطين
+2,39.61,-8.09,PT,Portugal,295480,10600000.0,Europe/Lisbon,Q45,pt:Portugal
+2,7.21,134.35,PW,Palau,571805,21729.0,Pacific/Palau,Q695,en:Palau
+2,-23.23,-58.4,PY,Paraguay,287077,6811297.0,America/Asuncion,Q733,en:Paraguay
+2,25.32,51.19,QA,Qatar,305095,2639211.0,Asia/Qatar,Q846,ar:قطر
+3,-21.13,55.53,RE,Réunion,1785276,866506.0,Indian/Reunion,Q17070,fr:La Réunion
+2,45.85,24.99,RO,Romania,90689,19586539.0,Europe/Bucharest,Q218,en:Romania
+2,44.25,20.78,RS,Serbia,1741311,7022268.0,Europe/Belgrade,Q403,
+2,61.93,96.72,RU,Russia,60189,147500000.0,Asia/Krasnoyarsk,Q159,ru:Россия
+2,-2.01,29.96,RW,Rwanda,171496,12208407.0,Africa/Kigali,Q1037,en:Rwanda
+2,24.12,44.56,SA,Saudi Arabia,307584,33000000.0,Asia/Riyadh,Q851,ar:السعودية
+2,-8.81,159.75,SB,Solomon Islands,1857436,611343.0,Pacific/Guadalcanal,Q685,en:Solomon Islands
+2,-6.39,53.01,SC,Seychelles,536765,95843.0,Indian/Mahe,Q1042,en:Seychelles
+2,15.99,29.96,SD,Sudan,192789,40533330.0,Africa/Khartoum,Q1049,ar:السودان
+2,62.78,16.75,SE,Sweden,52822,10327589.0,Europe/Stockholm,Q34,sv:Sverige
+2,1.27,103.82,SG,Singapore,536780,5888926.0,Asia/Singapore,Q334,en:Singapore
+2,-29.06,-10.31,SH,"Saint Helena, Ascension and Tristan da Cunha",1964272,4534.0,Atlantic/St_Helena,Q192184,"en:Saint Helena, Ascension and Tristan da Cunha"
+2,46.11,14.78,SI,Slovenia,218657,2066880.0,Europe/Ljubljana,Q215,sl:Slovenija
+2,48.72,19.52,SK,Slovakia,14296,5439892.0,Europe/Bratislava,Q214,sk:Slovensko
+2,8.56,-11.77,SL,Sierra Leone,192777,7557212.0,Africa/Freetown,Q1044,en:Sierra Leone
+2,43.94,12.45,SM,San Marino,54624,33400.0,Europe/San_Marino,Q238,en:San Marino
+2,14.35,-14.47,SN,Senegal,192775,15850567.0,Africa/Dakar,Q1041,fr:Sénégal
+2,6.06,45.87,SO,Somalia,192799,11031386.0,Africa/Mogadishu,Q1045,ar:الصومال
+2,4.14,-55.91,SR,Suriname,287082,563402.0,America/Paramaribo,Q730,en:Suriname
+2,7.37,30.18,SS,South Sudan,1656678,12575714.0,Africa/Juba,Q958,en:South Sudan
+2,0.22,6.6,ST,São Tomé and Príncipe,535880,204327.0,Africa/Sao_Tome,Q1039,en:São Tomé and Príncipe
+2,13.75,-88.89,SV,El Salvador,1520612,6427479.0,America/El_Salvador,Q792,en:El Salvador
+3,18.05,-63.06,SX,Sint Maarten (Netherlands),1231790,37132.0,America/Lower_Princes,Q26273,nl:Sint Maarten (land)
+2,35.03,38.5,SY,Syria,184840,18499181.0,Asia/Damascus,Q858,ar:سوريا
+2,-26.55,31.51,SZ,Eswatini,88210,1367254.0,Africa/Mbabane,Q1050,en:Eswatini
+3,-38.95,-11.13,TA,Tristan da Cunha,3672278,246.0,,Q220982,en:Tristan da Cunha
+2,21.71,-71.81,TC,Turks and Caicos Islands,547479,33098.0,America/Grand_Turk,Q18221,en:Turks and Caicos Islands
+2,15.37,18.67,TD,Chad,2361304,15477751.0,Africa/Ndjamena,Q657,ar:تشاد
+3,-38.99,50.28,TF,French Southern and Antarctic Lands,2186658,196.0,,Q129003,fr:Terres australes et antarctiques françaises
+2,8.57,0.96,TG,Togo,192782,7797694.0,Africa/Lome,Q945,fr:Togo
+2,15.12,101.01,TH,Thailand,2067731,66188503.0,Asia/Bangkok,Q869,en:Thailand
+2,38.54,71.01,TJ,Tajikistan,214626,9200000.0,Asia/Dushanbe,Q863,tg:Тоҷикистон
+2,-9.1,-171.77,TK,Tokelau,2186600,1499.0,Pacific/Fakaofo,Q36823,en:Tokelau
+2,-8.84,125.83,TL,East Timor,305142,1296311.0,Asia/Dili,Q574,pt:Timor-Leste
+2,39.18,59.22,TM,Turkmenistan,223026,5850901.0,Asia/Ashgabat,Q874,en:Turkmenistan
+2,34.12,9.58,TN,Tunisia,192757,11565204.0,Africa/Tunis,Q948,ar:تونس
+2,-19.53,-174.48,TO,Tonga,2186665,108020.0,Pacific/Tongatapu,Q678,en:Tonga
+2,39.07,35.18,TR,Turkey,174737,82003882.0,Europe/Istanbul,Q43,tr:Türkiye
+2,10.45,-61.3,TT,Trinidad and Tobago,555717,1369125.0,America/Port_of_Spain,Q754,en:Trinidad and Tobago
+2,-8.07,178.46,TV,Tuvalu,2177266,11192.0,Pacific/Funafuti,Q672,de:Tuvalu
+2,23.75,120.97,TW,Taiwan,449220,23593794.0,Asia/Taipei,Q865,zh:中華民國
+2,-6.46,34.99,TZ,Tanzania,195270,57310019.0,Africa/Dar_es_Salaam,Q924,en:Tanzania
+2,49.17,31.25,UA,Ukraine,60199,42558328.0,Europe/Kiev,Q212,uk:Україна
+2,1.53,32.35,UG,Uganda,192796,42862958.0,Africa/Kampala,Q1036,en:Uganda
+2,45.65,-112.85,US,United States,148838,325145963.0,America/Denver,Q30,en:United States
+2,-32.8,-56.03,UY,Uruguay,287072,3456750.0,America/Montevideo,Q77,es:Uruguay
+2,41.76,63.15,UZ,Uzbekistan,196240,32387200.0,Asia/Samarkand,Q265,en:Uzbekistan
+2,41.9,12.45,VA,Vatican City,36989,1000.0,Europe/Vatican,Q237,it:Città del Vaticano
+2,12.88,-61.24,VC,Saint Vincent and the Grenadines,550725,109897.0,America/St_Vincent,Q757,en:Saint Vincent and the Grenadines
+2,7.13,-66.16,VE,Venezuela,272644,28515829.0,America/Caracas,Q717,en:Venezuela
+2,18.43,-64.55,VG,British Virgin Islands,285454,31758.0,America/Tortola,Q25305,en:British Virgin Islands
+4,18.28,-64.88,VI,United States Virgin Islands,286898,104901.0,America/St_Thomas,Q11703,en:United States Virgin Islands
+2,16.64,106.31,VN,Vietnam,49915,94660000.0,Asia/Ho_Chi_Minh,Q881,vi:Việt Nam
+2,-15.87,167.3,VU,Vanuatu,2177246,276244.0,Pacific/Efate,Q686,bi:Ripablik blong Vanuatu
+2,-13.72,-172.26,WS,Samoa,1872673,196440.0,Pacific/Apia,Q683,en:Samoa
+2,42.59,20.89,XK,Kosovo,2088990,1883018.0,Europe/Belgrade,Q1246,en:Kosovo
+2,15.91,47.6,YE,Yemen,305092,28250420.0,Asia/Aden,Q805,ar:اليمن
+3,-12.82,45.15,YT,Mayotte,1259885,256518.0,Indian/Mayotte,Q17063,fr:Mayotte
+2,-29.0,25.09,ZA,South Africa,87565,57725600.0,Africa/Johannesburg,Q258,en:South Africa
+2,-13.48,27.79,ZM,Zambia,195271,17094130.0,Africa/Lusaka,Q953,en:Zambia
+2,-19.01,29.88,ZW,Zimbabwe,195272,16529904.0,Africa/Harare,Q954,en:Zimbabwe

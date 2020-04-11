@@ -1,15 +1,10 @@
 #!/usr/bin/env python
-"""https://github.com/nytimes/covid-19-data
+"""https://github.com/nytimes/covid-19-data"""
 
-Notes
------
-* Time zone of dates not currently specified
-* Stats are cumulative
-"""
 from glide_covid_19.utils import *
 
 
-OUTFILE = OUTDIR + "us_county_timeseries.csv"
+OUTFILE = OUTDIR + "fips_timeseries.csv"
 URL = "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
 
 
@@ -40,12 +35,14 @@ if __name__ == "__main__":
     glider = Glider(node_template())
     glider["transform"] = Transform("transform")
 
+    print("Syncing NY Times data")
+
     with get_sqlite_conn() as conn:
-        conn.execute("DELETE FROM us_county_timeseries")
+        conn.execute("DELETE FROM fips_timeseries")
         glider.consume(
             URL,
             extract=dict(dtype=dict(fips=str)),
             csv_load=dict(f=OUTFILE),
-            sql_load=dict(table="us_county_timeseries", conn=conn, if_exists="append"),
+            sql_load=dict(table="fips_timeseries", conn=conn, if_exists="append"),
         )
         conn.commit()

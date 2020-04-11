@@ -1,49 +1,80 @@
+DROP TABLE IF EXISTS "fips";
 
-DROP TABLE IF EXISTS "healthcare_capacity";
+CREATE TABLE "fips" (
+  "fips" TEXT,
+  "county_code" INTEGER,
+  "name" TEXT,
+  "name_long" TEXT,
+  "population" INTEGER,
+  "state_code_int" TEXT,
+  "state_code_iso" TEXT,
+  "state_code_postal" TEXT,
+  "timezone" TEXT,
+  "lat" NUMERIC,
+  "long" NUMERIC,
+  PRIMARY KEY(fips)
+);
 
-CREATE TABLE "healthcare_capacity" (
-  "country_region" TEXT,
-  "state_province" TEXT,
+
+DROP TABLE IF EXISTS "iso1_geos";
+
+CREATE TABLE "iso1_geos" (
+  "iso1" TEXT,
+  "admin_level" INTEGER,
+  "name" TEXT,
+  "osm_id" INTEGER,
+  "population" INTEGER,
+  "timezone" TEXT,
+  "lat" NUMERIC,
+  "long" NUMERIC,
+  "wikidata_id" TEXT,
+  "wikipedia_id" TEXT,
+  PRIMARY KEY(iso1)
+);
+
+
+DROP TABLE IF EXISTS "iso2_geos";
+
+CREATE TABLE "iso2_geos" (
+  "iso2" TEXT,
+  "iso1" TEXT,
+  "admin_level" INTEGER,
+  "name" TEXT,
+  "osm_id" INTEGER,
+  "population" INTEGER,
+  "timezone" TEXT,
+  "lat" NUMERIC,
+  "long" NUMERIC,
+  "wikidata_id" TEXT,
+  "wikipedia_id" TEXT,
+  PRIMARY KEY(iso2)
+);
+
+
+DROP TABLE IF EXISTS "iso2_healthcare_capacity";
+
+CREATE TABLE "iso2_healthcare_capacity" (
+  "iso2" TEXT,
   "hospital_beds" INTEGER,
   "total_chcs" INTEGER,
   "chc_service_delivery_sites" INTEGER,
-  PRIMARY KEY(country_region, state_province)
+  PRIMARY KEY(iso2)
 );
 
-DROP TABLE IF EXISTS "icu_beds_by_fips";
 
-CREATE TABLE "icu_beds_by_fips" (
+DROP TABLE IF EXISTS "fips_icu_beds";
+
+CREATE TABLE "fips_icu_beds" (
   "fips" TEXT,
   "hospitals" INTEGER,
   "icu_beds" INTEGER,
   PRIMARY KEY(fips)
 );
 
-DROP TABLE IF EXISTS "fips";
 
-CREATE TABLE "fips" (
-  "fips" TEXT,
-  "county_name" TEXT,
-  "state_abbr" TEXT,                
-  "lat" NUMERIC,
-  "long" NUMERIC,
-  PRIMARY KEY(fips)
-);
+DROP TABLE IF EXISTS "fips_timeseries";
 
-DROP TABLE IF EXISTS "us_states";
-
-CREATE TABLE "us_states" (
-  "state_abbr" TEXT,
-  "state" TEXT,
-  "fips_code" TEXT,
-  "population" INTEGER,
-  "population_density" NUMERIC,
-  PRIMARY KEY(state_abbr)
-);
-
-DROP TABLE IF EXISTS "us_county_timeseries";
-
-CREATE TABLE "us_county_timeseries" (
+CREATE TABLE "fips_timeseries" (
   "date" DATE,     
   "fips" TEXT,
   "cumulative_cases" INTEGER,
@@ -53,23 +84,25 @@ CREATE TABLE "us_county_timeseries" (
   PRIMARY KEY(date, fips)
 );
 
-DROP VIEW IF EXISTS us_county_timeseries_view;
 
-CREATE VIEW us_county_timeseries_view AS
+DROP VIEW IF EXISTS "fips_timeseries_view";
+
+CREATE VIEW fips_timeseries_view AS
 SELECT
  t.*,
  i.hospitals,
  i.icu_beds
 FROM
- us_county_timeseries t
- LEFT JOIN icu_beds_by_fips i ON t.fips = i.fips;
+ fips_timeseries t
+ LEFT JOIN fips_icu_beds i ON t.fips = i.fips;
 
-DROP TABLE IF EXISTS "country_province_timeseries";
 
-CREATE TABLE "country_province_timeseries" (
-  "date" DATE,     
-  "country_region" TEXT,
-  "state_province" TEXT,
+DROP TABLE IF EXISTS "iso2_timeseries";
+
+CREATE TABLE "iso2_timeseries" (
+  "date" DATE,
+  "iso1" TEXT,
+  "iso2" TEXT,
   "cumulative_cases" INTEGER,
   "cumulative_negative_tests" INTEGER,
   "cumulative_pending_tests" INTEGER,
@@ -85,22 +118,23 @@ CREATE TABLE "country_province_timeseries" (
   "cases" INTEGER,
   "hospitalized" INTEGER,
   "in_icu" INTEGER,
-  "on_ventilator" INTEGER,           
+  "on_ventilator" INTEGER,
+  "recovered" INTEGER,           
   "deaths" INTEGER, 
   "negative_tests" INTEGER,  
   "test_results" INTEGER,
-  PRIMARY KEY(date, country_region, state_province)
+  PRIMARY KEY(date, iso1, iso2)
 );
 
-DROP VIEW IF EXISTS country_province_timeseries_view;
 
-CREATE VIEW country_province_timeseries_view AS
+DROP VIEW IF EXISTS "iso2_timeseries_view";
+
+CREATE VIEW iso2_timeseries_view AS
 SELECT
  c.*,
  hc.hospital_beds,
  hc.total_chcs,
  hc.chc_service_delivery_sites
 FROM
- country_province_timeseries c
- LEFT JOIN healthcare_capacity hc
-  ON c.country_region=hc.country_region AND c.state_province=hc.state_province;
+ iso2_timeseries c
+ LEFT JOIN iso2_healthcare_capacity hc ON c.iso2=hc.iso2
