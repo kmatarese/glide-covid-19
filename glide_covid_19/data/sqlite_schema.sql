@@ -85,18 +85,6 @@ CREATE TABLE "fips_timeseries" (
 );
 
 
-DROP VIEW IF EXISTS "fips_timeseries_view";
-
-CREATE VIEW fips_timeseries_view AS
-SELECT
- t.*,
- i.hospitals,
- i.icu_beds
-FROM
- fips_timeseries t
- LEFT JOIN fips_icu_beds i ON t.fips = i.fips;
-
-
 DROP TABLE IF EXISTS "iso2_timeseries";
 
 CREATE TABLE "iso2_timeseries" (
@@ -125,16 +113,3 @@ CREATE TABLE "iso2_timeseries" (
   "test_results" INTEGER,
   PRIMARY KEY(date, iso1, iso2)
 );
-
-
-DROP VIEW IF EXISTS "iso2_timeseries_view";
-
-CREATE VIEW iso2_timeseries_view AS
-SELECT
- c.*,
- hc.hospital_beds,
- hc.total_chcs,
- hc.chc_service_delivery_sites
-FROM
- iso2_timeseries c
- LEFT JOIN iso2_healthcare_capacity hc ON c.iso2=hc.iso2
