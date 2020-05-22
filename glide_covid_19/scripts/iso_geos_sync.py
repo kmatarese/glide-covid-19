@@ -30,9 +30,7 @@ if __name__ == "__main__":
         | ToRows("to_rows")
         | ToDataFrame("to_df")
         | DataFrameTransform(
-            "transform",
-            drop=["countrylevel_id", "geojson_path"],
-            rename=dict(center_lat="lat", center_lon="long"),
+            "transform", rename=dict(center_lat="lat", center_lon="long")
         )
         | LenPrint("print")
         | [DataFrameCSVLoad("csv_load", index=False), DataFrameSQLLoad("sql_load")]
@@ -44,6 +42,21 @@ if __name__ == "__main__":
         glider.consume(
             FIPS_URL,
             csv_load=dict(f=FIPS_OUTFILE),
+            transform=dict(
+                keep=[
+                    "fips",
+                    "county_code",
+                    "name",
+                    "name_long",
+                    "population",
+                    "state_code_int",
+                    "state_code_iso",
+                    "state_code_postal",
+                    "timezone",
+                    "lat",
+                    "long",
+                ]
+            ),
             sql_load=dict(table="fips", conn=conn, if_exists="append", index=False),
         )
 
@@ -52,6 +65,20 @@ if __name__ == "__main__":
         glider.consume(
             ISO1_URL,
             csv_load=dict(f=ISO1_OUTFILE),
+            transform=dict(
+                keep=[
+                    "iso1",
+                    "admin_level",
+                    "name",
+                    "osm_id",
+                    "population",
+                    "timezone",
+                    "lat",
+                    "long",
+                    "wikidata_id",
+                    "wikipedia_id",
+                ]
+            ),
             sql_load=dict(
                 table="iso1_geos", conn=conn, if_exists="append", index=False
             ),
@@ -65,7 +92,21 @@ if __name__ == "__main__":
 
         glider.consume(
             ISO2_URL,
-            transform=dict(new=dict(iso1=get_iso1)),
+            transform=dict(
+                keep=[
+                    "iso2",
+                    "admin_level",
+                    "name",
+                    "osm_id",
+                    "population",
+                    "timezone",
+                    "lat",
+                    "long",
+                    "wikidata_id",
+                    "wikipedia_id",
+                ],
+                new=dict(iso1=get_iso1),
+            ),
             csv_load=dict(f=ISO2_OUTFILE),
             sql_load=dict(
                 table="iso2_geos", conn=conn, if_exists="append", index=False

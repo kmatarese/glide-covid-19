@@ -21,6 +21,7 @@ Some important notes:
 
 * Data is not currently being updated in an automated fashion.
 * This is meant to be a quick set of examples. There is room for improvement.
-* This is still prone to rapid changes.
+* This is not made to be resilient against schema changes in the sources,
+which will be a likely source of bugs over time.
 * This is not meant to verify or validate the data sources themselves, which
 may contain errors and discrepancies.

@@ -70,12 +70,16 @@ class ExtractFromZip(Node):
 
 
 class DataFrameTransform(Node):
-    def run(self, df, drop=None, rename=None, new=None):
-        if drop:
-            df.drop(columns=drop, inplace=True)
+    def run(self, df, drop=None, keep=None, rename=None, new=None):
+        assert not (drop and keep), "Only one of drop and keep may be specified"
         if rename:
             df.rename(columns=rename, inplace=True)
+        if drop:
+            df.drop(columns=drop, inplace=True)
+        if keep:
+            df = df[keep]
         if new:
-            for column, func in new.items():
-                df[column] = func(df)
+            with pd.option_context("mode.chained_assignment", None):
+                for column, func in new.items():
+                    df[column] = func(df)
         self.push(df)

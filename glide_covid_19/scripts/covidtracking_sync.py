@@ -7,19 +7,32 @@ from glide_covid_19.utils import *
 OUTFILE = OUTDIR + "covidtracking_states_daily.csv"
 URL = "http://covidtracking.com/api/v1/states/daily.csv"
 
-DROP_COLUMNS = [
-    "total",
-    "dateChecked",
-    "hash",
-    "fips",
-    "posNeg",
-    "hospitalizedCumulative",
+
+KEEP_COLUMNS = [
+    "iso2",
+    "date",
+    "cumulative_cases",
+    "cumulative_negative_tests",
+    "cumulative_pending_tests",
+    "currently_hospitalized",
+    "currently_in_icu",
+    "cumulative_in_icu",
+    "currently_on_ventilator",
+    "cumulative_on_ventilator",
+    "cumulative_recovered",
+    "cumulative_deaths",
+    "cumulative_hospitalized",
+    "cumulative_test_results",
+    "deaths",
+    "hospitalized",
+    "cases",
+    "negative_tests",
+    "test_results",
 ]
 
 
 class Transform(Node):
     def run(self, df):
-        df.drop(columns=DROP_COLUMNS, inplace=True)
         df.rename(
             columns={
                 "state": "iso2",
@@ -45,19 +58,21 @@ class Transform(Node):
         )
         df["date"] = pd.to_datetime(df["date"].astype(str))
         df["iso2"] = "US-" + df["iso2"]
+        df = df[KEEP_COLUMNS]
 
         # Reorder for diff operation
         df.set_index(["iso2", "date"], inplace=True)
-        df.sort_index(inplace=True)
+        with pd.option_context("mode.chained_assignment", None):
+            df.sort_index(inplace=True)
 
-        # Forward fill since some cumulative columns have holes
-        for column in df.columns:
-            if "cumulative" not in column:
-                continue
-            for state_abbr in df.index.levels[0]:
-                df.loc[state_abbr, column] = (
-                    df.loc[state_abbr, column].fillna(method="ffill").values
-                )
+            # Forward fill since some cumulative columns have holes
+            for column in df.columns:
+                if "cumulative" not in column:
+                    continue
+                for state_abbr in df.index.levels[0]:
+                    df.loc[state_abbr, column] = (
+                        df.loc[state_abbr, column].fillna(method="ffill").values
+                    )
 
         # Calculate daily numbers from diff in cumulative
         diff_columns = [
@@ -66,13 +81,14 @@ class Transform(Node):
             "cumulative_recovered",
         ]
         df_diff = df.groupby("iso2").apply(apply_df_diff, diff_columns)
-        df["in_icu"] = df_diff["cumulative_in_icu"]
-        df["on_ventilator"] = df_diff["cumulative_on_ventilator"]
-        df["recovered"] = df_diff["cumulative_recovered"]
+        with pd.option_context("mode.chained_assignment", None):
+            df["in_icu"] = df_diff["cumulative_in_icu"]
+            df["on_ventilator"] = df_diff["cumulative_on_ventilator"]
+            df["recovered"] = df_diff["cumulative_recovered"]
+            df.reset_index(inplace=True)
+            df.set_index(["date", "iso2"], inplace=True)
+            df.sort_index(inplace=True)
 
-        df.reset_index(inplace=True)
-        df.set_index(["date", "iso2"], inplace=True)
-        df.sort_index(inplace=True)
         self.push(df)
 
 
