@@ -28,14 +28,16 @@ jobs:
        - name: Install dependencies
          run: pip install -r requirements.txt
        - name: Install package
-         run: pip install -U -e ./ --no-binary ':all:'
+         run: |
+           pip install -U -e ./ --no-binary ':all:'
+           python setup.py install_egg_info
        - name: Execute sync
          run: |
            bash glide_covid_19/scripts/sync_all.sh
        - name: Commit
          run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "hourly sync"
-          git push
+           git config user.name github-actions
+           git config user.email github-actions@github.com
+           git add .
+           git commit -m "hourly sync"
+           git push
