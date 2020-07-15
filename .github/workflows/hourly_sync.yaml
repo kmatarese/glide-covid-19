@@ -27,6 +27,8 @@ jobs:
              ${{ runner.os }}-
        - name: Install dependencies
          run: pip install -r requirements.txt
+       - name: Install package
+         run: pip install -U -e ./ --no-binary ':all:'
        - name: Execute sync
          run: |
            bash glide_covid_19/scripts/sync_all.sh
