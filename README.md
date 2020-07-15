@@ -1,6 +1,8 @@
 Glide COVID-19
 ==============
 
+![Data Sync Workflow](https://github.com/kmatarese/glide-covid-19/workflows/Data%20Sync%20Workflow/badge.svg)
+
 This is an example repo showing how one can use
 [glide](https://github.com/kmatarese/glide) to sync/process data related to
 the COVID-19 outbreak. The results are cleaned and compiled into a sqlite
@@ -15,13 +17,12 @@ from the following sources:
 - [Starschema COVID-19 Data](https://github.com/starschema/COVID-19-data)
 - [ISO Geo Data](https://github.com/hyperknot/country-levels)
 
-See `glide_covid_19/data/sqlite_schema.sql` for a full list of tables/columns.
+See `glide_covid_19/scripts/sqlite_schema.sql` for a full list of tables/columns.
 
 Some important notes:
 
-* Data is not currently being updated in an automated fashion.
-* This is meant to be a quick set of examples. There is room for improvement.
-* This is not made to be resilient against schema changes in the sources,
-which will be a likely source of bugs over time.
+* Data is updated periodically through a Github Action. Check out the workflow
+for more details.
+* This is meant to be a quick example. There is room for improvement.
 * This is not meant to verify or validate the data sources themselves, which
 may contain errors and discrepancies.
