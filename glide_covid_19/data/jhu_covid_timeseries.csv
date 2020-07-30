@@ -49034,7 +49034,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-07-25,MU,Unknown,344,0.0,10,0.0
 2020-07-25,MV,Unknown,3252,77.0,15,0.0
 2020-07-25,MW,Unknown,3453,0.0,87,0.0
-2020-07-25,MX,Unknown,385036,6751.0,42645,0.0
+2020-07-25,MX,Unknown,385036,6751.0,43374,729.0
 2020-07-25,MY,Unknown,8884,23.0,123,0.0
 2020-07-25,MZ,Unknown,1616,26.0,11,0.0
 2020-07-25,NE,Unknown,1124,0.0,69,0.0
@@ -49298,7 +49298,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-07-26,MU,Unknown,344,0.0,10,0.0
 2020-07-26,MV,Unknown,3302,50.0,15,0.0
 2020-07-26,MW,Unknown,3640,187.0,99,12.0
-2020-07-26,MX,Unknown,390516,5480.0,43680,1035.0
+2020-07-26,MX,Unknown,390516,5480.0,43680,306.0
 2020-07-26,MY,Unknown,8897,13.0,124,1.0
 2020-07-26,MZ,Unknown,1669,53.0,11,0.0
 2020-07-26,NE,Unknown,1136,12.0,69,0.0
