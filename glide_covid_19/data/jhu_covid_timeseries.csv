@@ -53356,7 +53356,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-11,BJ,Unknown,2001,65.0,38,0.0
 2020-08-11,BN,Unknown,142,0.0,3,0.0
 2020-08-11,BO,Unknown,93328,1693.0,3761,49.0
-2020-08-11,BR,Unknown,3057470,0.0,101752,0.0
+2020-08-11,BR,Unknown,3109630,52160.0,103026,1274.0
 2020-08-11,BS,Unknown,989,44.0,15,0.0
 2020-08-11,BT,Unknown,113,3.0,0,0.0
 2020-08-11,BW,Unknown,1066,0.0,2,0.0
@@ -53538,7 +53538,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-11,NZ,Unknown,1570,0.0,22,0.0
 2020-08-11,OM,Unknown,82050,263.0,533,12.0
 2020-08-11,PA,Unknown,76464,1070.0,1680,16.0
-2020-08-11,PE,Unknown,483133,0.0,21276,0.0
+2020-08-11,PE,Unknown,489680,6547.0,21501,225.0
 2020-08-11,PG,Unknown,214,0.0,3,0.0
 2020-08-11,PH,Unknown,139538,2900.0,2312,18.0
 2020-08-11,PK,Unknown,285191,531.0,6112,15.0
