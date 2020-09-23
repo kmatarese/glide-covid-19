@@ -1,1 +1,1 @@
-glide
+glide~=0.2.29
