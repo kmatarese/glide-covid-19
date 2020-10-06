@@ -40564,7 +40564,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-06-23,LA,Unknown,19,0.0,0,0.0
 2020-06-23,LB,Unknown,1622,19.0,32,0.0
 2020-06-23,LC,Unknown,19,0.0,0,0.0
-2020-06-23,LI,Unknown,82,0.0,2,1.0
+2020-06-23,LI,Unknown,82,0.0,1,0.0
 2020-06-23,LK,Unknown,1991,40.0,11,0.0
 2020-06-23,LR,Unknown,652,2.0,34,0.0
 2020-06-23,LS,Unknown,17,5.0,0,0.0
@@ -40828,7 +40828,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-06-24,LA,Unknown,19,0.0,0,0.0
 2020-06-24,LB,Unknown,1644,22.0,33,1.0
 2020-06-24,LC,Unknown,19,0.0,0,0.0
-2020-06-24,LI,Unknown,82,0.0,1,-1.0
+2020-06-24,LI,Unknown,82,0.0,1,0.0
 2020-06-24,LK,Unknown,2001,10.0,11,0.0
 2020-06-24,LR,Unknown,662,10.0,34,0.0
 2020-06-24,LS,Unknown,17,0.0,0,0.0
