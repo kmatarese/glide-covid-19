@@ -69159,7 +69159,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-08,VC,Unknown,64,0.0,0,0.0
 2020-10-08,VE,Unknown,81019,615.0,678,7.0
 2020-10-08,VN,Unknown,1100,1.0,35,0.0
-2020-10-08,XK,Unknown,15938,0.0,638,0.0
+2020-10-08,XK,Unknown,15971,33.0,638,0.0
 2020-10-08,YE,Unknown,2050,1.0,593,0.0
 2020-10-08,ZA,Unknown,686891,1736.0,17408,160.0
 2020-10-08,ZM,Unknown,15301,77.0,335,0.0
@@ -69424,7 +69424,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-09,VC,Unknown,64,0.0,0,0.0
 2020-10-09,VE,Unknown,81696,677.0,684,6.0
 2020-10-09,VN,Unknown,1105,5.0,35,0.0
-2020-10-09,XK,Unknown,15971,33.0,638,0.0
+2020-10-09,XK,Unknown,16050,79.0,641,3.0
 2020-10-09,YE,Unknown,2051,1.0,593,0.0
 2020-10-09,ZA,Unknown,688352,1461.0,17547,139.0
 2020-10-09,ZM,Unknown,15339,38.0,336,1.0
@@ -69689,7 +69689,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-10,VC,Unknown,64,0.0,0,0.0
 2020-10-10,VE,Unknown,82453,757.0,691,7.0
 2020-10-10,VN,Unknown,1107,2.0,35,0.0
-2020-10-10,XK,Unknown,16130,159.0,645,7.0
+2020-10-10,XK,Unknown,16130,80.0,645,4.0
 2020-10-10,YE,Unknown,2051,0.0,595,2.0
 2020-10-10,ZA,Unknown,690896,2544.0,17673,126.0
 2020-10-10,ZM,Unknown,15415,76.0,337,1.0
@@ -71544,7 +71544,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-17,VC,Unknown,67,2.0,0,0.0
 2020-10-17,VE,Unknown,86289,531.0,731,6.0
 2020-10-17,VN,Unknown,1126,2.0,35,0.0
-2020-10-17,XK,Unknown,16606,0.0,652,0.0
+2020-10-17,XK,Unknown,16754,148.0,652,0.0
 2020-10-17,YE,Unknown,2055,0.0,596,0.0
 2020-10-17,ZA,Unknown,702131,1928.0,18408,38.0
 2020-10-17,ZM,Unknown,15789,130.0,346,0.0
@@ -71809,7 +71809,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-18,VC,Unknown,67,0.0,0,0.0
 2020-10-18,VE,Unknown,86636,347.0,736,5.0
 2020-10-18,VN,Unknown,1134,8.0,35,0.0
-2020-10-18,XK,Unknown,16891,285.0,653,1.0
+2020-10-18,XK,Unknown,16891,137.0,653,1.0
 2020-10-18,YE,Unknown,2056,1.0,597,1.0
 2020-10-18,ZA,Unknown,703793,1662.0,18471,63.0
 2020-10-18,ZM,Unknown,15853,64.0,346,0.0
@@ -72339,7 +72339,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-20,VC,Unknown,68,1.0,0,0.0
 2020-10-20,VE,Unknown,87644,1008.0,747,11.0
 2020-10-20,VN,Unknown,1141,1.0,35,0.0
-2020-10-20,XK,Unknown,17009,0.0,656,0.0
+2020-10-20,XK,Unknown,17139,130.0,657,1.0
 2020-10-20,YE,Unknown,2057,1.0,597,0.0
 2020-10-20,ZA,Unknown,706304,1050.0,18656,164.0
 2020-10-20,ZM,Unknown,15982,85.0,346,0.0
