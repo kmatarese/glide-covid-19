@@ -15772,7 +15772,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-03-20,KN,Unknown,0,0.0,0,0.0
 2020-03-20,KR,Unknown,8652,87.0,94,3.0
 2020-03-20,KW,Unknown,159,11.0,0,0.0
-2020-03-20,KZ,Unknown,49,5.0,3,3.0
+2020-03-20,KZ,Unknown,49,5.0,0,0.0
 2020-03-20,LA,Unknown,0,0.0,0,0.0
 2020-03-20,LB,Unknown,163,6.0,4,0.0
 2020-03-20,LC,Unknown,2,0.0,0,0.0
@@ -16041,7 +16041,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-03-21,KN,Unknown,0,0.0,0,0.0
 2020-03-21,KR,Unknown,8799,147.0,102,8.0
 2020-03-21,KW,Unknown,176,17.0,0,0.0
-2020-03-21,KZ,Unknown,53,4.0,0,-3.0
+2020-03-21,KZ,Unknown,53,4.0,0,0.0
 2020-03-21,LA,Unknown,0,0.0,0,0.0
 2020-03-21,LB,Unknown,187,24.0,4,0.0
 2020-03-21,LC,Unknown,2,0.0,0,0.0
@@ -16310,7 +16310,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-03-22,KN,Unknown,0,0.0,0,0.0
 2020-03-22,KR,Unknown,8961,162.0,111,9.0
 2020-03-22,KW,Unknown,188,12.0,0,0.0
-2020-03-22,KZ,Unknown,60,7.0,0,0.0
+2020-03-22,KZ,Unknown,61,8.0,0,0.0
 2020-03-22,LA,Unknown,0,0.0,0,0.0
 2020-03-22,LB,Unknown,248,61.0,4,0.0
 2020-03-22,LC,Unknown,2,0.0,0,0.0
@@ -16579,7 +16579,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-03-23,KN,Unknown,0,0.0,0,0.0
 2020-03-23,KR,Unknown,8961,0.0,111,0.0
 2020-03-23,KW,Unknown,189,1.0,0,0.0
-2020-03-23,KZ,Unknown,62,2.0,0,0.0
+2020-03-23,KZ,Unknown,62,1.0,0,0.0
 2020-03-23,LA,Unknown,0,0.0,0,0.0
 2020-03-23,LB,Unknown,267,19.0,4,0.0
 2020-03-23,LC,Unknown,3,1.0,0,0.0
@@ -52087,7 +52087,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-02,KN,Unknown,17,0.0,0,0.0
 2020-08-02,KR,Unknown,14389,23.0,301,0.0
 2020-08-02,KW,Unknown,67911,463.0,457,4.0
-2020-08-02,KZ,Unknown,92662,2295.0,793,0.0
+2020-08-02,KZ,Unknown,96774,6407.0,823,30.0
 2020-08-02,LA,Unknown,20,0.0,0,0.0
 2020-08-02,LB,Unknown,4885,155.0,62,1.0
 2020-08-02,LC,Unknown,25,0.0,0,0.0
@@ -52356,7 +52356,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-03,KN,Unknown,17,0.0,0,0.0
 2020-08-03,KR,Unknown,14423,34.0,301,0.0
 2020-08-03,KW,Unknown,68299,388.0,461,4.0
-2020-08-03,KZ,Unknown,93820,1158.0,793,0.0
+2020-08-03,KZ,Unknown,98641,1867.0,1109,286.0
 2020-08-03,LA,Unknown,20,0.0,0,0.0
 2020-08-03,LB,Unknown,5062,177.0,65,3.0
 2020-08-03,LC,Unknown,25,0.0,0,0.0
@@ -52625,7 +52625,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-04,KN,Unknown,17,0.0,0,0.0
 2020-08-04,KR,Unknown,14456,33.0,302,1.0
 2020-08-04,KW,Unknown,68774,475.0,465,4.0
-2020-08-04,KZ,Unknown,94882,1062.0,1058,265.0
+2020-08-04,KZ,Unknown,100075,1434.0,1109,0.0
 2020-08-04,LA,Unknown,20,0.0,0,0.0
 2020-08-04,LB,Unknown,5062,0.0,65,0.0
 2020-08-04,LC,Unknown,25,0.0,0,0.0
@@ -52894,7 +52894,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-05,KN,Unknown,17,0.0,0,0.0
 2020-08-05,KR,Unknown,14499,43.0,302,0.0
 2020-08-05,KW,Unknown,69425,651.0,468,3.0
-2020-08-05,KZ,Unknown,95942,1060.0,1058,0.0
+2020-08-05,KZ,Unknown,102936,2861.0,1109,0.0
 2020-08-05,LA,Unknown,20,0.0,0,0.0
 2020-08-05,LB,Unknown,5417,355.0,68,3.0
 2020-08-05,LC,Unknown,25,0.0,0,0.0
@@ -53163,7 +53163,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-06,KN,Unknown,17,0.0,0,0.0
 2020-08-06,KR,Unknown,14519,20.0,303,1.0
 2020-08-06,KW,Unknown,70045,620.0,469,1.0
-2020-08-06,KZ,Unknown,96922,980.0,1058,0.0
+2020-08-06,KZ,Unknown,105526,2590.0,1109,0.0
 2020-08-06,LA,Unknown,20,0.0,0,0.0
 2020-08-06,LB,Unknown,5672,255.0,70,2.0
 2020-08-06,LC,Unknown,25,0.0,0,0.0
@@ -53432,7 +53432,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-07,KN,Unknown,17,0.0,0,0.0
 2020-08-07,KR,Unknown,14562,43.0,304,1.0
 2020-08-07,KW,Unknown,70727,682.0,471,2.0
-2020-08-07,KZ,Unknown,97829,907.0,1058,0.0
+2020-08-07,KZ,Unknown,107930,2404.0,1109,0.0
 2020-08-07,LA,Unknown,20,0.0,0,0.0
 2020-08-07,LB,Unknown,5951,279.0,70,0.0
 2020-08-07,LC,Unknown,25,0.0,0,0.0
@@ -53701,7 +53701,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-08,KN,Unknown,17,0.0,0,0.0
 2020-08-08,KR,Unknown,14598,36.0,305,1.0
 2020-08-08,KW,Unknown,71199,472.0,474,3.0
-2020-08-08,KZ,Unknown,98701,872.0,1058,0.0
+2020-08-08,KZ,Unknown,109939,2009.0,1109,0.0
 2020-08-08,LA,Unknown,20,0.0,0,0.0
 2020-08-08,LB,Unknown,6223,272.0,78,8.0
 2020-08-08,LC,Unknown,25,0.0,0,0.0
@@ -53970,7 +53970,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-09,KN,Unknown,17,0.0,0,0.0
 2020-08-09,KR,Unknown,14626,28.0,305,0.0
 2020-08-09,KW,Unknown,71713,514.0,478,4.0
-2020-08-09,KZ,Unknown,99442,741.0,1058,0.0
+2020-08-09,KZ,Unknown,111822,1883.0,1109,0.0
 2020-08-09,LA,Unknown,20,0.0,0,0.0
 2020-08-09,LB,Unknown,6517,294.0,78,0.0
 2020-08-09,LC,Unknown,25,0.0,0,0.0
@@ -54239,7 +54239,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-10,KN,Unknown,17,0.0,0,0.0
 2020-08-10,KR,Unknown,14660,34.0,305,0.0
 2020-08-10,KW,Unknown,72400,687.0,482,4.0
-2020-08-10,KZ,Unknown,100164,722.0,1058,0.0
+2020-08-10,KZ,Unknown,112722,900.0,1433,324.0
 2020-08-10,LA,Unknown,20,0.0,0,0.0
 2020-08-10,LB,Unknown,6812,295.0,80,2.0
 2020-08-10,LC,Unknown,25,0.0,0,0.0
@@ -54508,7 +54508,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-11,KN,Unknown,17,0.0,0,0.0
 2020-08-11,KR,Unknown,14714,54.0,305,0.0
 2020-08-11,KW,Unknown,73068,668.0,486,4.0
-2020-08-11,KZ,Unknown,100855,691.0,1269,211.0
+2020-08-11,KZ,Unknown,113501,779.0,1433,0.0
 2020-08-11,LA,Unknown,20,0.0,0,0.0
 2020-08-11,LB,Unknown,7121,309.0,87,7.0
 2020-08-11,LC,Unknown,25,0.0,0,0.0
@@ -54777,7 +54777,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-12,KN,Unknown,17,0.0,0,0.0
 2020-08-12,KR,Unknown,14770,56.0,305,0.0
 2020-08-12,KW,Unknown,73785,717.0,489,3.0
-2020-08-12,KZ,Unknown,101372,517.0,1269,0.0
+2020-08-12,KZ,Unknown,115615,2114.0,1433,0.0
 2020-08-12,LA,Unknown,20,0.0,0,0.0
 2020-08-12,LB,Unknown,7413,292.0,89,2.0
 2020-08-12,LC,Unknown,25,0.0,0,0.0
@@ -55046,7 +55046,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-13,KN,Unknown,17,0.0,0,0.0
 2020-08-13,KR,Unknown,14873,103.0,305,0.0
 2020-08-13,KW,Unknown,74486,701.0,489,0.0
-2020-08-13,KZ,Unknown,101848,476.0,1269,0.0
+2020-08-13,KZ,Unknown,117104,1489.0,1433,0.0
 2020-08-13,LA,Unknown,20,0.0,0,0.0
 2020-08-13,LB,Unknown,7711,298.0,92,3.0
 2020-08-13,LC,Unknown,25,0.0,0,0.0
@@ -55315,7 +55315,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-14,KN,Unknown,17,0.0,0,0.0
 2020-08-14,KR,Unknown,15039,166.0,305,0.0
 2020-08-14,KW,Unknown,75185,699.0,494,5.0
-2020-08-14,KZ,Unknown,102287,439.0,1269,0.0
+2020-08-14,KZ,Unknown,118514,1410.0,1433,0.0
 2020-08-14,LA,Unknown,22,2.0,0,0.0
 2020-08-14,LB,Unknown,8045,334.0,94,2.0
 2020-08-14,LC,Unknown,25,0.0,0,0.0
@@ -55584,7 +55584,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-15,KN,Unknown,17,0.0,0,0.0
 2020-08-15,KR,Unknown,15318,279.0,305,0.0
 2020-08-15,KW,Unknown,75697,512.0,498,4.0
-2020-08-15,KZ,Unknown,102696,409.0,1269,0.0
+2020-08-15,KZ,Unknown,119781,1267.0,1480,47.0
 2020-08-15,LA,Unknown,22,0.0,0,0.0
 2020-08-15,LB,Unknown,8442,397.0,97,3.0
 2020-08-15,LC,Unknown,25,0.0,0,0.0
@@ -55853,7 +55853,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-16,KN,Unknown,17,0.0,0,0.0
 2020-08-16,KR,Unknown,15515,197.0,305,0.0
 2020-08-16,KW,Unknown,76205,508.0,501,3.0
-2020-08-16,KZ,Unknown,103033,337.0,1269,0.0
+2020-08-16,KZ,Unknown,121161,1380.0,1485,5.0
 2020-08-16,LA,Unknown,22,0.0,0,0.0
 2020-08-16,LB,Unknown,8881,439.0,103,6.0
 2020-08-16,LC,Unknown,25,0.0,0,0.0
@@ -56122,7 +56122,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-17,KN,Unknown,17,0.0,0,0.0
 2020-08-17,KR,Unknown,15761,246.0,306,1.0
 2020-08-17,KW,Unknown,76827,622.0,502,1.0
-2020-08-17,KZ,Unknown,103300,267.0,1269,0.0
+2020-08-17,KZ,Unknown,121639,478.0,1487,2.0
 2020-08-17,LA,Unknown,22,0.0,0,0.0
 2020-08-17,LB,Unknown,9337,456.0,105,2.0
 2020-08-17,LC,Unknown,25,0.0,0,0.0
@@ -56391,7 +56391,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-18,KN,Unknown,17,0.0,0,0.0
 2020-08-18,KR,Unknown,16058,297.0,306,0.0
 2020-08-18,KW,Unknown,77470,643.0,505,3.0
-2020-08-18,KZ,Unknown,103571,271.0,1415,146.0
+2020-08-18,KZ,Unknown,121973,334.0,1635,148.0
 2020-08-18,LA,Unknown,22,0.0,0,0.0
 2020-08-18,LB,Unknown,9758,421.0,107,2.0
 2020-08-18,LC,Unknown,26,1.0,0,0.0
@@ -56660,7 +56660,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-19,KN,Unknown,17,0.0,0,0.0
 2020-08-19,KR,Unknown,16346,288.0,307,1.0
 2020-08-19,KW,Unknown,78145,675.0,507,2.0
-2020-08-19,KZ,Unknown,103815,244.0,1415,0.0
+2020-08-19,KZ,Unknown,123325,1352.0,1646,11.0
 2020-08-19,LA,Unknown,22,0.0,0,0.0
 2020-08-19,LB,Unknown,10347,589.0,109,2.0
 2020-08-19,LC,Unknown,26,0.0,0,0.0
@@ -56929,7 +56929,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-20,KN,Unknown,17,0.0,0,0.0
 2020-08-20,KR,Unknown,16670,324.0,309,2.0
 2020-08-20,KW,Unknown,78767,622.0,509,2.0
-2020-08-20,KZ,Unknown,104071,256.0,1415,0.0
+2020-08-20,KZ,Unknown,124356,1031.0,1652,6.0
 2020-08-20,LA,Unknown,22,0.0,0,0.0
 2020-08-20,LB,Unknown,10952,605.0,113,4.0
 2020-08-20,LC,Unknown,26,0.0,0,0.0
@@ -57198,7 +57198,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-21,KN,Unknown,17,0.0,0,0.0
 2020-08-21,KR,Unknown,17002,332.0,309,0.0
 2020-08-21,KW,Unknown,79269,502.0,511,2.0
-2020-08-21,KZ,Unknown,104313,242.0,1415,0.0
+2020-08-21,KZ,Unknown,125335,979.0,1658,6.0
 2020-08-21,LA,Unknown,22,0.0,0,0.0
 2020-08-21,LB,Unknown,11580,628.0,116,3.0
 2020-08-21,LC,Unknown,26,0.0,0,0.0
@@ -57467,7 +57467,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-22,KN,Unknown,17,0.0,0,0.0
 2020-08-22,KR,Unknown,17399,397.0,309,0.0
 2020-08-22,KW,Unknown,79957,688.0,513,2.0
-2020-08-22,KZ,Unknown,104543,230.0,1415,0.0
+2020-08-22,KZ,Unknown,126243,908.0,1663,5.0
 2020-08-22,LA,Unknown,22,0.0,0,0.0
 2020-08-22,LB,Unknown,12191,611.0,121,5.0
 2020-08-22,LC,Unknown,26,0.0,0,0.0
@@ -57736,7 +57736,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-23,KN,Unknown,17,0.0,0,0.0
 2020-08-23,KR,Unknown,17665,266.0,309,0.0
 2020-08-23,KW,Unknown,80528,571.0,515,2.0
-2020-08-23,KZ,Unknown,104718,175.0,1415,0.0
+2020-08-23,KZ,Unknown,127203,960.0,1671,8.0
 2020-08-23,LA,Unknown,22,0.0,0,0.0
 2020-08-23,LB,Unknown,12698,507.0,123,2.0
 2020-08-23,LC,Unknown,26,0.0,0,0.0
@@ -58005,7 +58005,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-24,KN,Unknown,17,0.0,0,0.0
 2020-08-24,KR,Unknown,17945,280.0,310,1.0
 2020-08-24,KW,Unknown,80960,432.0,518,3.0
-2020-08-24,KZ,Unknown,104902,184.0,1415,0.0
+2020-08-24,KZ,Unknown,127462,259.0,1781,110.0
 2020-08-24,LA,Unknown,22,0.0,0,0.0
 2020-08-24,LB,Unknown,13155,457.0,126,3.0
 2020-08-24,LC,Unknown,26,0.0,0,0.0
@@ -58274,7 +58274,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-25,KN,Unknown,17,0.0,0,0.0
 2020-08-25,KR,Unknown,18265,320.0,312,2.0
 2020-08-25,KW,Unknown,81573,613.0,519,1.0
-2020-08-25,KZ,Unknown,105075,173.0,1523,108.0
+2020-08-25,KZ,Unknown,127462,0.0,1781,0.0
 2020-08-25,LA,Unknown,22,0.0,0,0.0
 2020-08-25,LB,Unknown,13687,532.0,138,12.0
 2020-08-25,LC,Unknown,26,0.0,0,0.0
@@ -58543,7 +58543,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-26,KN,Unknown,17,0.0,0,0.0
 2020-08-26,KR,Unknown,18706,441.0,313,1.0
 2020-08-26,KW,Unknown,82271,698.0,521,2.0
-2020-08-26,KZ,Unknown,105243,168.0,1523,0.0
+2020-08-26,KZ,Unknown,127462,0.0,1781,0.0
 2020-08-26,LA,Unknown,22,0.0,0,0.0
 2020-08-26,LB,Unknown,14248,561.0,139,1.0
 2020-08-26,LC,Unknown,26,0.0,0,0.0
@@ -58812,7 +58812,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-27,KN,Unknown,17,0.0,0,0.0
 2020-08-27,KR,Unknown,19077,371.0,316,3.0
 2020-08-27,KW,Unknown,82945,674.0,522,1.0
-2020-08-27,KZ,Unknown,105408,165.0,1523,0.0
+2020-08-27,KZ,Unknown,127664,202.0,1781,0.0
 2020-08-27,LA,Unknown,22,0.0,0,0.0
 2020-08-27,LB,Unknown,14937,689.0,146,7.0
 2020-08-27,LC,Unknown,26,0.0,0,0.0
@@ -59081,7 +59081,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-28,KN,Unknown,17,0.0,0,0.0
 2020-08-28,KR,Unknown,19400,323.0,321,5.0
 2020-08-28,KW,Unknown,83578,633.0,525,3.0
-2020-08-28,KZ,Unknown,105558,150.0,1523,0.0
+2020-08-28,KZ,Unknown,128618,954.0,1781,0.0
 2020-08-28,LA,Unknown,22,0.0,0,0.0
 2020-08-28,LB,Unknown,15613,676.0,148,2.0
 2020-08-28,LC,Unknown,26,0.0,0,0.0
@@ -59350,7 +59350,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-29,KN,Unknown,17,0.0,0,0.0
 2020-08-29,KR,Unknown,19699,299.0,323,2.0
 2020-08-29,KW,Unknown,84224,646.0,528,3.0
-2020-08-29,KZ,Unknown,105684,126.0,1523,0.0
+2020-08-29,KZ,Unknown,130040,1422.0,1781,0.0
 2020-08-29,LA,Unknown,22,0.0,0,0.0
 2020-08-29,LB,Unknown,16275,662.0,155,7.0
 2020-08-29,LC,Unknown,26,0.0,0,0.0
@@ -59619,7 +59619,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-30,KN,Unknown,17,0.0,0,0.0
 2020-08-30,KR,Unknown,19947,248.0,324,1.0
 2020-08-30,KW,Unknown,84636,412.0,530,2.0
-2020-08-30,KZ,Unknown,105795,111.0,1523,0.0
+2020-08-30,KZ,Unknown,130673,633.0,1781,0.0
 2020-08-30,LA,Unknown,22,0.0,0,0.0
 2020-08-30,LB,Unknown,16870,595.0,160,5.0
 2020-08-30,LC,Unknown,26,0.0,0,0.0
@@ -59888,7 +59888,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-08-31,KN,Unknown,17,0.0,0,0.0
 2020-08-31,KR,Unknown,20182,235.0,324,0.0
 2020-08-31,KW,Unknown,85109,473.0,531,1.0
-2020-08-31,KZ,Unknown,105872,77.0,1523,0.0
+2020-08-31,KZ,Unknown,130673,0.0,1781,0.0
 2020-08-31,LA,Unknown,22,0.0,0,0.0
 2020-08-31,LB,Unknown,17308,438.0,167,7.0
 2020-08-31,LC,Unknown,26,0.0,0,0.0
@@ -60157,7 +60157,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-01,KN,Unknown,17,0.0,0,0.0
 2020-09-01,KR,Unknown,20449,267.0,326,2.0
 2020-09-01,KW,Unknown,85811,702.0,534,3.0
-2020-09-01,KZ,Unknown,105944,72.0,1588,65.0
+2020-09-01,KZ,Unknown,131596,923.0,1815,34.0
 2020-09-01,LA,Unknown,22,0.0,0,0.0
 2020-09-01,LB,Unknown,17777,469.0,171,4.0
 2020-09-01,LC,Unknown,26,0.0,0,0.0
@@ -60426,7 +60426,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-02,KN,Unknown,17,0.0,0,0.0
 2020-09-02,KR,Unknown,20644,195.0,329,3.0
 2020-09-02,KW,Unknown,86478,667.0,535,1.0
-2020-09-02,KZ,Unknown,106032,88.0,1588,0.0
+2020-09-02,KZ,Unknown,131695,99.0,1883,68.0
 2020-09-02,LA,Unknown,22,0.0,0,0.0
 2020-09-02,LB,Unknown,18375,598.0,177,6.0
 2020-09-02,LC,Unknown,26,0.0,0,0.0
@@ -60695,7 +60695,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-03,KN,Unknown,17,0.0,0,0.0
 2020-09-03,KR,Unknown,20842,198.0,331,2.0
 2020-09-03,KW,Unknown,87378,900.0,536,1.0
-2020-09-03,KZ,Unknown,106121,89.0,1588,0.0
+2020-09-03,KZ,Unknown,132354,659.0,1889,6.0
 2020-09-03,LA,Unknown,22,0.0,0,0.0
 2020-09-03,LB,Unknown,18963,588.0,179,2.0
 2020-09-03,LC,Unknown,26,0.0,0,0.0
@@ -60964,7 +60964,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-04,KN,Unknown,17,0.0,0,0.0
 2020-09-04,KR,Unknown,21010,168.0,333,2.0
 2020-09-04,KW,Unknown,88243,865.0,537,1.0
-2020-09-04,KZ,Unknown,106225,104.0,1588,0.0
+2020-09-04,KZ,Unknown,132924,570.0,1893,4.0
 2020-09-04,LA,Unknown,22,0.0,0,0.0
 2020-09-04,LB,Unknown,19490,527.0,183,4.0
 2020-09-04,LC,Unknown,26,0.0,0,0.0
@@ -61233,7 +61233,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-05,KN,Unknown,17,0.0,0,0.0
 2020-09-05,KR,Unknown,21177,167.0,334,1.0
 2020-09-05,KW,Unknown,88963,720.0,540,3.0
-2020-09-05,KZ,Unknown,106301,76.0,1588,0.0
+2020-09-05,KZ,Unknown,133028,104.0,1893,0.0
 2020-09-05,LA,Unknown,22,0.0,0,0.0
 2020-09-05,LB,Unknown,20011,521.0,187,4.0
 2020-09-05,LC,Unknown,26,0.0,0,0.0
@@ -61502,7 +61502,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-06,KN,Unknown,17,0.0,0,0.0
 2020-09-06,KR,Unknown,21296,119.0,336,2.0
 2020-09-06,KW,Unknown,89582,619.0,544,4.0
-2020-09-06,KZ,Unknown,106361,60.0,1588,0.0
+2020-09-06,KZ,Unknown,133924,896.0,1901,8.0
 2020-09-06,LA,Unknown,22,0.0,0,0.0
 2020-09-06,LB,Unknown,20426,415.0,191,4.0
 2020-09-06,LC,Unknown,26,0.0,0,0.0
@@ -61771,7 +61771,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-07,KN,Unknown,17,0.0,0,0.0
 2020-09-07,KR,Unknown,21432,136.0,341,5.0
 2020-09-07,KW,Unknown,90387,805.0,546,2.0
-2020-09-07,KZ,Unknown,106425,64.0,1588,0.0
+2020-09-07,KZ,Unknown,134123,199.0,1902,1.0
 2020-09-07,LA,Unknown,22,0.0,0,0.0
 2020-09-07,LB,Unknown,20826,400.0,200,9.0
 2020-09-07,LC,Unknown,26,0.0,0,0.0
@@ -62040,7 +62040,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-08,KN,Unknown,17,0.0,0,0.0
 2020-09-08,KR,Unknown,21588,156.0,344,3.0
 2020-09-08,KW,Unknown,91244,857.0,548,2.0
-2020-09-08,KZ,Unknown,106498,73.0,1634,46.0
+2020-09-08,KZ,Unknown,134203,80.0,1903,1.0
 2020-09-08,LA,Unknown,22,0.0,0,0.0
 2020-09-08,LB,Unknown,21324,498.0,207,7.0
 2020-09-08,LC,Unknown,26,0.0,0,0.0
@@ -62309,7 +62309,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-09,KN,Unknown,17,0.0,0,0.0
 2020-09-09,KR,Unknown,21743,155.0,346,2.0
 2020-09-09,KW,Unknown,92082,838.0,552,4.0
-2020-09-09,KZ,Unknown,106584,86.0,1634,0.0
+2020-09-09,KZ,Unknown,134726,523.0,1950,47.0
 2020-09-09,LA,Unknown,22,0.0,0,0.0
 2020-09-09,LB,Unknown,21877,553.0,212,5.0
 2020-09-09,LC,Unknown,27,1.0,0,0.0
@@ -62578,7 +62578,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-10,KN,Unknown,17,0.0,0,0.0
 2020-09-10,KR,Unknown,21919,176.0,350,4.0
 2020-09-10,KW,Unknown,92822,740.0,556,4.0
-2020-09-10,KZ,Unknown,106661,77.0,1634,0.0
+2020-09-10,KZ,Unknown,135159,433.0,1951,1.0
 2020-09-10,LA,Unknown,22,0.0,0,0.0
 2020-09-10,LB,Unknown,22437,560.0,219,7.0
 2020-09-10,LC,Unknown,27,0.0,0,0.0
@@ -62847,7 +62847,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-11,KN,Unknown,17,0.0,0,0.0
 2020-09-11,KR,Unknown,22055,136.0,355,5.0
 2020-09-11,KW,Unknown,93475,653.0,557,1.0
-2020-09-11,KZ,Unknown,106729,68.0,1634,0.0
+2020-09-11,KZ,Unknown,135589,430.0,1952,1.0
 2020-09-11,LA,Unknown,23,1.0,0,0.0
 2020-09-11,LB,Unknown,22983,546.0,229,10.0
 2020-09-11,LC,Unknown,27,0.0,0,0.0
@@ -63116,7 +63116,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-12,KN,Unknown,17,0.0,0,0.0
 2020-09-12,KR,Unknown,22176,121.0,358,3.0
 2020-09-12,KW,Unknown,94211,736.0,558,1.0
-2020-09-12,KZ,Unknown,106803,74.0,1634,0.0
+2020-09-12,KZ,Unknown,135964,375.0,1954,2.0
 2020-09-12,LA,Unknown,23,0.0,0,0.0
 2020-09-12,LB,Unknown,23669,686.0,239,10.0
 2020-09-12,LC,Unknown,27,0.0,0,0.0
@@ -63385,7 +63385,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-13,KN,Unknown,17,0.0,0,0.0
 2020-09-13,KR,Unknown,22285,109.0,363,5.0
 2020-09-13,KW,Unknown,94764,553.0,560,2.0
-2020-09-13,KZ,Unknown,106855,52.0,1634,0.0
+2020-09-13,KZ,Unknown,136384,420.0,1955,1.0
 2020-09-13,LA,Unknown,23,0.0,0,0.0
 2020-09-13,LB,Unknown,24310,641.0,241,2.0
 2020-09-13,LC,Unknown,27,0.0,0,0.0
@@ -63654,7 +63654,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-14,KN,Unknown,17,0.0,0,0.0
 2020-09-14,KR,Unknown,22391,106.0,367,4.0
 2020-09-14,KW,Unknown,95472,708.0,563,3.0
-2020-09-14,KZ,Unknown,106920,65.0,1634,0.0
+2020-09-14,KZ,Unknown,136513,129.0,1962,7.0
 2020-09-14,LA,Unknown,23,0.0,0,0.0
 2020-09-14,LB,Unknown,25401,1091.0,246,5.0
 2020-09-14,LC,Unknown,27,0.0,0,0.0
@@ -63923,7 +63923,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-15,KN,Unknown,17,0.0,0,0.0
 2020-09-15,KR,Unknown,22504,113.0,367,0.0
 2020-09-15,KW,Unknown,96301,829.0,568,5.0
-2020-09-15,KZ,Unknown,106984,64.0,1671,37.0
+2020-09-15,KZ,Unknown,136586,73.0,1965,3.0
 2020-09-15,LA,Unknown,23,0.0,0,0.0
 2020-09-15,LB,Unknown,25449,48.0,252,6.0
 2020-09-15,LC,Unknown,27,0.0,0,0.0
@@ -64192,7 +64192,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-16,KN,Unknown,17,0.0,0,0.0
 2020-09-16,KR,Unknown,22657,153.0,372,5.0
 2020-09-16,KW,Unknown,96999,698.0,571,3.0
-2020-09-16,KZ,Unknown,107056,72.0,1671,0.0
+2020-09-16,KZ,Unknown,137058,472.0,2003,38.0
 2020-09-16,LA,Unknown,23,0.0,0,0.0
 2020-09-16,LB,Unknown,26083,634.0,259,7.0
 2020-09-16,LC,Unknown,27,0.0,0,0.0
@@ -64461,7 +64461,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-17,KN,Unknown,17,0.0,0,0.0
 2020-09-17,KR,Unknown,22783,126.0,377,5.0
 2020-09-17,KW,Unknown,97824,825.0,575,4.0
-2020-09-17,KZ,Unknown,107134,78.0,1671,0.0
+2020-09-17,KZ,Unknown,137393,335.0,2006,3.0
 2020-09-17,LA,Unknown,23,0.0,0,0.0
 2020-09-17,LB,Unknown,26768,685.0,263,4.0
 2020-09-17,LC,Unknown,27,0.0,0,0.0
@@ -64730,7 +64730,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-18,KN,Unknown,17,0.0,0,0.0
 2020-09-18,KR,Unknown,22893,110.0,378,1.0
 2020-09-18,KW,Unknown,98528,704.0,580,5.0
-2020-09-18,KZ,Unknown,107199,65.0,1671,0.0
+2020-09-18,KZ,Unknown,137713,320.0,2008,2.0
 2020-09-18,LA,Unknown,23,0.0,0,0.0
 2020-09-18,LB,Unknown,27518,750.0,281,18.0
 2020-09-18,LC,Unknown,27,0.0,0,0.0
@@ -64999,7 +64999,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-19,KN,Unknown,17,0.0,0,0.0
 2020-09-19,KR,Unknown,22975,82.0,383,5.0
 2020-09-19,KW,Unknown,99049,521.0,581,1.0
-2020-09-19,KZ,Unknown,107262,63.0,1671,0.0
+2020-09-19,KZ,Unknown,138013,300.0,2009,1.0
 2020-09-19,LA,Unknown,23,0.0,0,0.0
 2020-09-19,LB,Unknown,28297,779.0,286,5.0
 2020-09-19,LC,Unknown,27,0.0,0,0.0
@@ -65268,7 +65268,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-20,KN,Unknown,17,0.0,0,0.0
 2020-09-20,KR,Unknown,23045,70.0,385,2.0
 2020-09-20,KW,Unknown,99434,385.0,584,3.0
-2020-09-20,KZ,Unknown,107307,45.0,1671,0.0
+2020-09-20,KZ,Unknown,138348,335.0,2014,5.0
 2020-09-20,LA,Unknown,23,0.0,0,0.0
 2020-09-20,LB,Unknown,29303,1006.0,297,11.0
 2020-09-20,LC,Unknown,27,0.0,0,0.0
@@ -65537,7 +65537,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-21,KN,Unknown,19,2.0,0,0.0
 2020-09-21,KR,Unknown,23106,61.0,388,3.0
 2020-09-21,KW,Unknown,99964,530.0,585,1.0
-2020-09-21,KZ,Unknown,107374,67.0,1671,0.0
+2020-09-21,KZ,Unknown,138455,107.0,2015,1.0
 2020-09-21,LA,Unknown,23,0.0,0,0.0
 2020-09-21,LB,Unknown,29987,684.0,307,10.0
 2020-09-21,LC,Unknown,27,0.0,0,0.0
@@ -65806,7 +65806,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-22,KN,Unknown,19,0.0,0,0.0
 2020-09-22,KR,Unknown,23216,110.0,388,0.0
 2020-09-22,KW,Unknown,100683,719.0,588,3.0
-2020-09-22,KZ,Unknown,107450,76.0,1699,28.0
+2020-09-22,KZ,Unknown,138542,87.0,2016,1.0
 2020-09-22,LA,Unknown,23,0.0,0,0.0
 2020-09-22,LB,Unknown,30852,865.0,315,8.0
 2020-09-22,LC,Unknown,27,0.0,0,0.0
@@ -66075,7 +66075,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-23,KN,Unknown,19,0.0,0,0.0
 2020-09-23,KR,Unknown,23341,125.0,393,5.0
 2020-09-23,KW,Unknown,101299,616.0,590,2.0
-2020-09-23,KZ,Unknown,107529,79.0,1699,0.0
+2020-09-23,KZ,Unknown,138982,440.0,2044,28.0
 2020-09-23,LA,Unknown,23,0.0,0,0.0
 2020-09-23,LB,Unknown,31792,940.0,328,13.0
 2020-09-23,LC,Unknown,27,0.0,0,0.0
@@ -66344,7 +66344,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-24,KN,Unknown,19,0.0,0,0.0
 2020-09-24,KR,Unknown,23455,114.0,395,2.0
 2020-09-24,KW,Unknown,101851,552.0,592,2.0
-2020-09-24,KZ,Unknown,107590,61.0,1699,0.0
+2020-09-24,KZ,Unknown,139289,307.0,2045,1.0
 2020-09-24,LA,Unknown,23,0.0,0,0.0
 2020-09-24,LB,Unknown,32819,1027.0,329,1.0
 2020-09-24,LC,Unknown,27,0.0,0,0.0
@@ -66613,7 +66613,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-25,KN,Unknown,19,0.0,0,0.0
 2020-09-25,KR,Unknown,23516,61.0,399,4.0
 2020-09-25,KW,Unknown,102441,590.0,595,3.0
-2020-09-25,KZ,Unknown,107659,69.0,1699,0.0
+2020-09-25,KZ,Unknown,139581,292.0,2046,1.0
 2020-09-25,LA,Unknown,23,0.0,0,0.0
 2020-09-25,LB,Unknown,33962,1143.0,333,4.0
 2020-09-25,LC,Unknown,27,0.0,0,0.0
@@ -66882,7 +66882,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-26,KN,Unknown,19,0.0,0,0.0
 2020-09-26,KR,Unknown,23611,95.0,401,2.0
 2020-09-26,KW,Unknown,103199,758.0,597,2.0
-2020-09-26,KZ,Unknown,107723,64.0,1699,0.0
+2020-09-26,KZ,Unknown,139882,301.0,2046,0.0
 2020-09-26,LA,Unknown,23,0.0,0,0.0
 2020-09-26,LB,Unknown,35242,1280.0,340,7.0
 2020-09-26,LC,Unknown,27,0.0,0,0.0
@@ -67151,7 +67151,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-27,KN,Unknown,19,0.0,0,0.0
 2020-09-27,KR,Unknown,23661,50.0,406,5.0
 2020-09-27,KW,Unknown,103544,345.0,601,4.0
-2020-09-27,KZ,Unknown,107775,52.0,1699,0.0
+2020-09-27,KZ,Unknown,140175,293.0,2048,2.0
 2020-09-27,LA,Unknown,23,0.0,0,0.0
 2020-09-27,LB,Unknown,36254,1012.0,347,7.0
 2020-09-27,LC,Unknown,27,0.0,0,0.0
@@ -67420,7 +67420,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-28,KN,Unknown,19,0.0,0,0.0
 2020-09-28,KR,Unknown,23699,38.0,407,1.0
 2020-09-28,KW,Unknown,103981,437.0,605,4.0
-2020-09-28,KZ,Unknown,107833,58.0,1699,0.0
+2020-09-28,KZ,Unknown,140265,90.0,2049,1.0
 2020-09-28,LA,Unknown,23,0.0,0,0.0
 2020-09-28,LB,Unknown,37272,1018.0,351,4.0
 2020-09-28,LC,Unknown,27,0.0,0,0.0
@@ -67689,7 +67689,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-29,KN,Unknown,19,0.0,0,0.0
 2020-09-29,KR,Unknown,23812,113.0,413,6.0
 2020-09-29,KW,Unknown,104568,587.0,607,2.0
-2020-09-29,KZ,Unknown,107908,75.0,1725,26.0
+2020-09-29,KZ,Unknown,140333,68.0,2050,1.0
 2020-09-29,LA,Unknown,23,0.0,0,0.0
 2020-09-29,LB,Unknown,38377,1105.0,361,10.0
 2020-09-29,LC,Unknown,27,0.0,0,0.0
@@ -67958,7 +67958,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-09-30,KN,Unknown,19,0.0,0,0.0
 2020-09-30,KR,Unknown,23889,77.0,415,2.0
 2020-09-30,KW,Unknown,105182,614.0,610,3.0
-2020-09-30,KZ,Unknown,107979,71.0,1725,0.0
+2020-09-30,KZ,Unknown,140707,374.0,2078,28.0
 2020-09-30,LA,Unknown,23,0.0,0,0.0
 2020-09-30,LB,Unknown,39634,1257.0,367,6.0
 2020-09-30,LC,Unknown,27,0.0,0,0.0
@@ -68227,7 +68227,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-01,KN,Unknown,19,0.0,0,0.0
 2020-10-01,KR,Unknown,23952,63.0,416,1.0
 2020-10-01,KW,Unknown,105676,494.0,612,2.0
-2020-10-01,KZ,Unknown,108044,65.0,1725,0.0
+2020-10-01,KZ,Unknown,140958,251.0,2080,2.0
 2020-10-01,LA,Unknown,23,0.0,0,0.0
 2020-10-01,LB,Unknown,40882,1248.0,374,7.0
 2020-10-01,LC,Unknown,27,0.0,0,0.0
@@ -68496,7 +68496,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-02,KN,Unknown,19,0.0,0,0.0
 2020-10-02,KR,Unknown,24027,75.0,420,4.0
 2020-10-02,KW,Unknown,106087,411.0,615,3.0
-2020-10-02,KZ,Unknown,108106,62.0,1725,0.0
+2020-10-02,KZ,Unknown,141256,298.0,2082,2.0
 2020-10-02,LA,Unknown,23,0.0,0,0.0
 2020-10-02,LB,Unknown,42173,1291.0,386,12.0
 2020-10-02,LC,Unknown,27,0.0,0,0.0
@@ -68765,7 +68765,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-03,KN,Unknown,19,0.0,0,0.0
 2020-10-03,KR,Unknown,24091,64.0,421,1.0
 2020-10-03,KW,Unknown,106458,371.0,620,5.0
-2020-10-03,KZ,Unknown,108177,71.0,1725,0.0
+2020-10-03,KZ,Unknown,141484,228.0,2083,1.0
 2020-10-03,LA,Unknown,23,0.0,0,0.0
 2020-10-03,LB,Unknown,43494,1321.0,398,12.0
 2020-10-03,LC,Unknown,27,0.0,0,0.0
@@ -69034,7 +69034,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-04,KN,Unknown,19,0.0,0,0.0
 2020-10-04,KR,Unknown,24164,73.0,422,1.0
 2020-10-04,KW,Unknown,107025,567.0,624,4.0
-2020-10-04,KZ,Unknown,108236,59.0,1725,0.0
+2020-10-04,KZ,Unknown,141748,264.0,2083,0.0
 2020-10-04,LA,Unknown,23,0.0,0,0.0
 2020-10-04,LB,Unknown,44482,988.0,406,8.0
 2020-10-04,LC,Unknown,27,0.0,0,0.0
@@ -69303,7 +69303,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-05,KN,Unknown,19,0.0,0,0.0
 2020-10-05,KR,Unknown,24239,75.0,422,0.0
 2020-10-05,KW,Unknown,107592,567.0,628,4.0
-2020-10-05,KZ,Unknown,108296,60.0,1725,0.0
+2020-10-05,KZ,Unknown,141844,96.0,2085,2.0
 2020-10-05,LA,Unknown,23,0.0,0,0.0
 2020-10-05,LB,Unknown,45657,1175.0,414,8.0
 2020-10-05,LC,Unknown,27,0.0,0,0.0
@@ -69572,7 +69572,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-06,KN,Unknown,19,0.0,0,0.0
 2020-10-06,KR,Unknown,24353,114.0,425,3.0
 2020-10-06,KW,Unknown,108268,676.0,632,4.0
-2020-10-06,KZ,Unknown,108362,66.0,1746,21.0
+2020-10-06,KZ,Unknown,141904,60.0,2085,0.0
 2020-10-06,LA,Unknown,23,0.0,0,0.0
 2020-10-06,LB,Unknown,46918,1261.0,424,10.0
 2020-10-06,LC,Unknown,27,0.0,0,0.0
@@ -69841,7 +69841,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-07,KN,Unknown,19,0.0,0,0.0
 2020-10-07,KR,Unknown,24422,69.0,427,2.0
 2020-10-07,KW,Unknown,108743,475.0,639,7.0
-2020-10-07,KZ,Unknown,108454,92.0,1746,0.0
+2020-10-07,KZ,Unknown,142239,335.0,2107,22.0
 2020-10-07,LA,Unknown,23,0.0,0,0.0
 2020-10-07,LB,Unknown,48377,1459.0,433,9.0
 2020-10-07,LC,Unknown,27,0.0,0,0.0
@@ -70110,7 +70110,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-08,KN,Unknown,19,0.0,0,0.0
 2020-10-08,KR,Unknown,24476,54.0,428,1.0
 2020-10-08,KW,Unknown,109441,698.0,642,3.0
-2020-10-08,KZ,Unknown,108561,107.0,1746,0.0
+2020-10-08,KZ,Unknown,142597,358.0,2108,1.0
 2020-10-08,LA,Unknown,23,0.0,0,0.0
 2020-10-08,LB,Unknown,49744,1367.0,439,6.0
 2020-10-08,LC,Unknown,28,1.0,0,0.0
@@ -70379,7 +70379,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-09,KN,Unknown,19,0.0,0,0.0
 2020-10-09,KR,Unknown,24548,72.0,430,2.0
 2020-10-09,KW,Unknown,110076,635.0,649,7.0
-2020-10-09,KZ,Unknown,108663,102.0,1746,0.0
+2020-10-09,KZ,Unknown,142945,348.0,2110,2.0
 2020-10-09,LA,Unknown,23,0.0,0,0.0
 2020-10-09,LB,Unknown,51170,1426.0,450,11.0
 2020-10-09,LC,Unknown,28,0.0,0,0.0
@@ -70648,7 +70648,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-10,KN,Unknown,19,0.0,0,0.0
 2020-10-10,KR,Unknown,24606,58.0,432,2.0
 2020-10-10,KW,Unknown,110568,492.0,655,6.0
-2020-10-10,KZ,Unknown,108757,94.0,1746,0.0
+2020-10-10,KZ,Unknown,143280,335.0,2111,1.0
 2020-10-10,LA,Unknown,23,0.0,0,0.0
 2020-10-10,LB,Unknown,52558,1388.0,455,5.0
 2020-10-10,LC,Unknown,29,1.0,0,0.0
@@ -70917,7 +70917,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-11,KN,Unknown,19,0.0,0,0.0
 2020-10-11,KR,Unknown,24703,97.0,433,1.0
 2020-10-11,KW,Unknown,111116,548.0,658,3.0
-2020-10-11,KZ,Unknown,108831,74.0,1746,0.0
+2020-10-11,KZ,Unknown,143632,352.0,2113,2.0
 2020-10-11,LA,Unknown,23,0.0,0,0.0
 2020-10-11,LB,Unknown,53568,1010.0,459,4.0
 2020-10-11,LC,Unknown,29,0.0,0,0.0
@@ -71186,7 +71186,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-12,KN,Unknown,19,0.0,0,0.0
 2020-10-12,KR,Unknown,24805,102.0,434,1.0
 2020-10-12,KW,Unknown,111893,777.0,664,6.0
-2020-10-12,KZ,Unknown,108901,70.0,1746,0.0
+2020-10-12,KZ,Unknown,143740,108.0,2114,1.0
 2020-10-12,LA,Unknown,23,0.0,0,0.0
 2020-10-12,LB,Unknown,54624,1056.0,466,7.0
 2020-10-12,LC,Unknown,29,0.0,0,0.0
@@ -71455,7 +71455,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-13,KN,Unknown,19,0.0,0,0.0
 2020-10-13,KR,Unknown,24889,84.0,438,4.0
 2020-10-13,KW,Unknown,112737,844.0,672,8.0
-2020-10-13,KZ,Unknown,108984,83.0,1768,22.0
+2020-10-13,KZ,Unknown,143814,74.0,2116,2.0
 2020-10-13,LA,Unknown,23,0.0,0,0.0
 2020-10-13,LB,Unknown,55869,1245.0,479,13.0
 2020-10-13,LC,Unknown,29,0.0,0,0.0
@@ -71724,7 +71724,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-14,KN,Unknown,19,0.0,0,0.0
 2020-10-14,KR,Unknown,24988,99.0,439,1.0
 2020-10-14,KW,Unknown,113269,532.0,676,4.0
-2020-10-14,KZ,Unknown,109094,110.0,1768,0.0
+2020-10-14,KZ,Unknown,144218,404.0,2141,25.0
 2020-10-14,LA,Unknown,23,0.0,0,0.0
 2020-10-14,LB,Unknown,57246,1377.0,499,20.0
 2020-10-14,LC,Unknown,31,2.0,0,0.0
@@ -71993,7 +71993,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-15,KN,Unknown,19,0.0,0,0.0
 2020-10-15,KR,Unknown,25035,47.0,441,2.0
 2020-10-15,KW,Unknown,114015,746.0,684,8.0
-2020-10-15,KZ,Unknown,109202,108.0,1768,0.0
+2020-10-15,KZ,Unknown,144328,110.0,2141,0.0
 2020-10-15,LA,Unknown,23,0.0,0,0.0
 2020-10-15,LB,Unknown,58745,1499.0,501,2.0
 2020-10-15,LC,Unknown,31,0.0,0,0.0
@@ -72262,7 +72262,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-16,KN,Unknown,19,0.0,0,0.0
 2020-10-16,KR,Unknown,25108,73.0,443,2.0
 2020-10-16,KW,Unknown,114744,729.0,690,6.0
-2020-10-16,KZ,Unknown,109302,100.0,1768,0.0
+2020-10-16,KZ,Unknown,144761,433.0,2144,3.0
 2020-10-16,LA,Unknown,23,0.0,0,0.0
 2020-10-16,LB,Unknown,60113,1368.0,509,8.0
 2020-10-16,LC,Unknown,32,1.0,0,0.0
@@ -72531,7 +72531,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-17,KN,Unknown,19,0.0,0,0.0
 2020-10-17,KR,Unknown,25199,91.0,444,1.0
 2020-10-17,KW,Unknown,115483,739.0,694,4.0
-2020-10-17,KZ,Unknown,109406,104.0,1768,0.0
+2020-10-17,KZ,Unknown,145019,258.0,2148,4.0
 2020-10-17,LA,Unknown,23,0.0,0,0.0
 2020-10-17,LB,Unknown,61284,1171.0,517,8.0
 2020-10-17,LC,Unknown,33,1.0,0,0.0
@@ -72800,7 +72800,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-18,KN,Unknown,19,0.0,0,0.0
 2020-10-18,KR,Unknown,25275,76.0,444,0.0
 2020-10-18,KW,Unknown,116146,663.0,701,7.0
-2020-10-18,KZ,Unknown,109508,102.0,1768,0.0
+2020-10-18,KZ,Unknown,145320,301.0,2149,1.0
 2020-10-18,LA,Unknown,23,0.0,0,0.0
 2020-10-18,LB,Unknown,62286,1002.0,520,3.0
 2020-10-18,LC,Unknown,33,0.0,0,0.0
@@ -73069,7 +73069,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-19,KN,Unknown,19,0.0,0,0.0
 2020-10-19,KR,Unknown,25333,58.0,447,3.0
 2020-10-19,KW,Unknown,116832,686.0,710,9.0
-2020-10-19,KZ,Unknown,109623,115.0,1768,0.0
+2020-10-19,KZ,Unknown,145473,153.0,2150,1.0
 2020-10-19,LA,Unknown,23,0.0,0,0.0
 2020-10-19,LB,Unknown,62944,658.0,526,6.0
 2020-10-19,LC,Unknown,36,3.0,0,0.0
@@ -73338,7 +73338,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-20,KN,Unknown,19,0.0,0,0.0
 2020-10-20,KR,Unknown,25424,91.0,450,3.0
 2020-10-20,KW,Unknown,117718,886.0,714,4.0
-2020-10-20,KZ,Unknown,109766,143.0,1796,28.0
+2020-10-20,KZ,Unknown,145603,130.0,2155,5.0
 2020-10-20,LA,Unknown,23,0.0,0,0.0
 2020-10-20,LB,Unknown,64336,1392.0,531,5.0
 2020-10-20,LC,Unknown,36,0.0,0,0.0
@@ -73607,7 +73607,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-21,KN,Unknown,19,0.0,0,0.0
 2020-10-21,KR,Unknown,25543,119.0,453,3.0
 2020-10-21,KW,Unknown,118531,813.0,721,7.0
-2020-10-21,KZ,Unknown,109907,141.0,1796,0.0
+2020-10-21,KZ,Unknown,145966,363.0,2184,29.0
 2020-10-21,LA,Unknown,24,1.0,0,0.0
 2020-10-21,LB,Unknown,65577,1241.0,536,5.0
 2020-10-21,LC,Unknown,38,2.0,0,0.0
@@ -73876,7 +73876,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-22,KN,Unknown,19,0.0,0,0.0
 2020-10-22,KR,Unknown,25698,155.0,455,2.0
 2020-10-22,KW,Unknown,119420,889.0,730,9.0
-2020-10-22,KZ,Unknown,110086,179.0,1796,0.0
+2020-10-22,KZ,Unknown,146288,322.0,2186,2.0
 2020-10-22,LA,Unknown,24,0.0,0,0.0
 2020-10-22,LB,Unknown,67027,1450.0,552,16.0
 2020-10-22,LC,Unknown,42,4.0,0,0.0
@@ -74145,7 +74145,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-23,KN,Unknown,19,0.0,0,0.0
 2020-10-23,KR,Unknown,25775,77.0,457,2.0
 2020-10-23,KW,Unknown,120232,812.0,740,10.0
-2020-10-23,KZ,Unknown,110250,164.0,1796,0.0
+2020-10-23,KZ,Unknown,146653,365.0,2187,1.0
 2020-10-23,LA,Unknown,24,0.0,0,0.0
 2020-10-23,LB,Unknown,68479,1452.0,559,7.0
 2020-10-23,LC,Unknown,48,6.0,0,0.0
@@ -74414,7 +74414,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-24,KN,Unknown,19,0.0,0,0.0
 2020-10-24,KR,Unknown,25836,61.0,457,0.0
 2020-10-24,KW,Unknown,120927,695.0,744,4.0
-2020-10-24,KZ,Unknown,110402,152.0,1796,0.0
+2020-10-24,KZ,Unknown,146982,329.0,2189,2.0
 2020-10-24,LA,Unknown,24,0.0,0,0.0
 2020-10-24,LB,Unknown,69906,1427.0,562,3.0
 2020-10-24,LC,Unknown,52,4.0,0,0.0
@@ -74683,7 +74683,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-25,KN,Unknown,19,0.0,0,0.0
 2020-10-25,KR,Unknown,25955,119.0,457,0.0
 2020-10-25,KW,Unknown,121635,708.0,746,2.0
-2020-10-25,KZ,Unknown,110542,140.0,1796,0.0
+2020-10-25,KZ,Unknown,147297,315.0,2189,0.0
 2020-10-25,LA,Unknown,24,0.0,0,0.0
 2020-10-25,LB,Unknown,71390,1484.0,565,3.0
 2020-10-25,LC,Unknown,54,2.0,0,0.0
@@ -74952,7 +74952,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-26,KN,Unknown,19,0.0,0,0.0
 2020-10-26,KR,Unknown,26043,88.0,460,3.0
 2020-10-26,KW,Unknown,122317,682.0,749,3.0
-2020-10-26,KZ,Unknown,110684,142.0,1796,0.0
+2020-10-26,KZ,Unknown,147463,166.0,2190,1.0
 2020-10-26,LA,Unknown,24,0.0,0,0.0
 2020-10-26,LB,Unknown,72186,796.0,579,14.0
 2020-10-26,LC,Unknown,63,9.0,0,0.0
@@ -75221,7 +75221,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-27,KN,Unknown,19,0.0,0,0.0
 2020-10-27,KR,Unknown,26146,103.0,461,1.0
 2020-10-27,KW,Unknown,123092,775.0,756,7.0
-2020-10-27,KZ,Unknown,110832,148.0,1825,29.0
+2020-10-27,KZ,Unknown,147615,152.0,2191,1.0
 2020-10-27,LA,Unknown,24,0.0,0,0.0
 2020-10-27,LB,Unknown,73995,1809.0,590,11.0
 2020-10-27,LC,Unknown,65,2.0,0,0.0
@@ -75490,7 +75490,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-28,KN,Unknown,19,0.0,0,0.0
 2020-10-28,KR,Unknown,26271,125.0,462,1.0
 2020-10-28,KW,Unknown,123906,814.0,763,7.0
-2020-10-28,KZ,Unknown,111100,268.0,1825,0.0
+2020-10-28,KZ,Unknown,148037,422.0,2221,30.0
 2020-10-28,LA,Unknown,24,0.0,0,0.0
 2020-10-28,LB,Unknown,75845,1850.0,602,12.0
 2020-10-28,LC,Unknown,67,2.0,0,0.0
@@ -75759,7 +75759,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-29,KN,Unknown,19,0.0,0,0.0
 2020-10-29,KR,Unknown,26385,114.0,463,1.0
 2020-10-29,KW,Unknown,124666,760.0,767,4.0
-2020-10-29,KZ,Unknown,111492,392.0,1825,0.0
+2020-10-29,KZ,Unknown,148479,442.0,2222,1.0
 2020-10-29,LA,Unknown,24,0.0,0,0.0
 2020-10-29,LB,Unknown,77778,1933.0,610,8.0
 2020-10-29,LC,Unknown,76,9.0,0,0.0
@@ -76028,7 +76028,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-30,KN,Unknown,19,0.0,0,0.0
 2020-10-30,KR,Unknown,26511,126.0,464,1.0
 2020-10-30,KW,Unknown,125337,671.0,773,6.0
-2020-10-30,KZ,Unknown,111953,461.0,1825,0.0
+2020-10-30,KZ,Unknown,149066,587.0,2224,2.0
 2020-10-30,LA,Unknown,24,0.0,0,0.0
 2020-10-30,LB,Unknown,79529,1751.0,625,15.0
 2020-10-30,LC,Unknown,78,2.0,0,0.0
@@ -76297,7 +76297,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-10-31,KN,Unknown,19,0.0,0,0.0
 2020-10-31,KR,Unknown,26635,124.0,466,2.0
 2020-10-31,KW,Unknown,125926,589.0,779,6.0
-2020-10-31,KZ,Unknown,112418,465.0,1825,0.0
+2020-10-31,KZ,Unknown,149699,633.0,2226,2.0
 2020-10-31,LA,Unknown,24,0.0,0,0.0
 2020-10-31,LB,Unknown,81228,1699.0,637,12.0
 2020-10-31,LC,Unknown,78,0.0,0,0.0
@@ -76566,7 +76566,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-01,KN,Unknown,19,0.0,0,0.0
 2020-11-01,KR,Unknown,26732,97.0,468,2.0
 2020-11-01,KW,Unknown,126534,608.0,782,3.0
-2020-11-01,KZ,Unknown,112860,442.0,1825,0.0
+2020-11-01,KZ,Unknown,150380,681.0,2227,1.0
 2020-11-01,LA,Unknown,24,0.0,0,0.0
 2020-11-01,LB,Unknown,82617,1389.0,643,6.0
 2020-11-01,LC,Unknown,84,6.0,0,0.0
@@ -76835,7 +76835,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-02,KN,Unknown,19,0.0,0,0.0
 2020-11-02,KR,Unknown,26807,75.0,472,4.0
 2020-11-02,KW,Unknown,127293,759.0,786,4.0
-2020-11-02,KZ,Unknown,113309,449.0,1857,32.0
+2020-11-02,KZ,Unknown,150863,483.0,2227,0.0
 2020-11-02,LA,Unknown,24,0.0,0,0.0
 2020-11-02,LB,Unknown,83697,1080.0,652,9.0
 2020-11-02,LC,Unknown,84,0.0,0,0.0
@@ -77104,7 +77104,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-03,KN,Unknown,19,0.0,0,0.0
 2020-11-03,KR,Unknown,26925,118.0,474,2.0
 2020-11-03,KW,Unknown,128080,787.0,789,3.0
-2020-11-03,KZ,Unknown,113741,432.0,1857,0.0
+2020-11-03,KZ,Unknown,151321,458.0,2261,34.0
 2020-11-03,LA,Unknown,24,0.0,0,0.0
 2020-11-03,LB,Unknown,85209,1512.0,667,15.0
 2020-11-03,LC,Unknown,97,13.0,0,0.0
@@ -77373,7 +77373,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-04,KN,Unknown,19,0.0,0,0.0
 2020-11-04,KR,Unknown,27050,125.0,475,1.0
 2020-11-04,KW,Unknown,128843,763.0,794,5.0
-2020-11-04,KZ,Unknown,114235,494.0,1857,0.0
+2020-11-04,KZ,Unknown,152022,701.0,2262,1.0
 2020-11-04,LA,Unknown,24,0.0,0,0.0
 2020-11-04,LB,Unknown,87097,1888.0,676,9.0
 2020-11-04,LC,Unknown,105,8.0,0,0.0
@@ -77642,7 +77642,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-05,KN,Unknown,19,0.0,0,0.0
 2020-11-05,KR,Unknown,27195,145.0,476,1.0
 2020-11-05,KW,Unknown,129638,795.0,799,5.0
-2020-11-05,KZ,Unknown,114826,591.0,1857,0.0
+2020-11-05,KZ,Unknown,152725,703.0,2263,1.0
 2020-11-05,LA,Unknown,24,0.0,0,0.0
 2020-11-05,LB,Unknown,89186,2089.0,683,7.0
 2020-11-05,LC,Unknown,106,1.0,0,0.0
@@ -77911,7 +77911,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-06,KN,Unknown,19,0.0,0,0.0
 2020-11-06,KR,Unknown,27284,89.0,477,1.0
 2020-11-06,KW,Unknown,130463,825.0,804,5.0
-2020-11-06,KZ,Unknown,115439,613.0,1857,0.0
+2020-11-06,KZ,Unknown,153547,822.0,2263,0.0
 2020-11-06,LA,Unknown,24,0.0,0,0.0
 2020-11-06,LB,Unknown,91328,2142.0,700,17.0
 2020-11-06,LC,Unknown,110,4.0,0,0.0
@@ -78180,7 +78180,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-07,KN,Unknown,19,0.0,0,0.0
 2020-11-07,KR,Unknown,27427,143.0,478,1.0
 2020-11-07,KW,Unknown,131205,742.0,808,4.0
-2020-11-07,KZ,Unknown,116162,723.0,1857,0.0
+2020-11-07,KZ,Unknown,154321,774.0,2265,2.0
 2020-11-07,LA,Unknown,24,0.0,0,0.0
 2020-11-07,LB,Unknown,93097,1769.0,713,13.0
 2020-11-07,LC,Unknown,123,13.0,0,0.0
@@ -78449,7 +78449,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-08,KN,Unknown,19,0.0,0,0.0
 2020-11-08,KR,Unknown,27553,126.0,480,2.0
 2020-11-08,KW,Unknown,131743,538.0,811,3.0
-2020-11-08,KZ,Unknown,116772,610.0,1857,0.0
+2020-11-08,KZ,Unknown,155220,899.0,2266,1.0
 2020-11-08,LA,Unknown,24,0.0,0,0.0
 2020-11-08,LB,Unknown,94236,1139.0,723,10.0
 2020-11-08,LC,Unknown,131,8.0,0,0.0
@@ -78718,7 +78718,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-09,KN,Unknown,19,0.0,0,0.0
 2020-11-09,KR,Unknown,27653,100.0,485,5.0
 2020-11-09,KW,Unknown,132478,735.0,816,5.0
-2020-11-09,KZ,Unknown,117336,564.0,1857,0.0
+2020-11-09,KZ,Unknown,155876,656.0,2266,0.0
 2020-11-09,LA,Unknown,24,0.0,0,0.0
 2020-11-09,LB,Unknown,95355,1119.0,732,9.0
 2020-11-09,LC,Unknown,141,10.0,0,0.0
@@ -78987,7 +78987,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-10,KN,Unknown,19,0.0,0,0.0
 2020-11-10,KR,Unknown,27799,146.0,487,2.0
 2020-11-10,KW,Unknown,133381,903.0,821,5.0
-2020-11-10,KZ,Unknown,117904,568.0,1857,0.0
+2020-11-10,KZ,Unknown,156451,575.0,2267,1.0
 2020-11-10,LA,Unknown,24,0.0,0,0.0
 2020-11-10,LB,Unknown,96907,1552.0,749,17.0
 2020-11-10,LC,Unknown,148,7.0,1,1.0
@@ -79256,7 +79256,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-11,KN,Unknown,19,0.0,0,0.0
 2020-11-11,KR,Unknown,27942,143.0,487,0.0
 2020-11-11,KW,Unknown,134159,778.0,826,5.0
-2020-11-11,KZ,Unknown,118491,587.0,1899,42.0
+2020-11-11,KZ,Unknown,157261,810.0,2267,0.0
 2020-11-11,LA,Unknown,24,0.0,0,0.0
 2020-11-11,LB,Unknown,98829,1922.0,763,14.0
 2020-11-11,LC,Unknown,148,0.0,2,1.0
@@ -79525,7 +79525,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-12,KN,Unknown,19,0.0,0,0.0
 2020-11-12,KR,Unknown,28133,191.0,488,1.0
 2020-11-12,KW,Unknown,134932,773.0,830,4.0
-2020-11-12,KZ,Unknown,119129,638.0,1899,0.0
+2020-11-12,KZ,Unknown,158036,775.0,2311,44.0
 2020-11-12,LA,Unknown,24,0.0,0,0.0
 2020-11-12,LB,Unknown,100703,1874.0,775,12.0
 2020-11-12,LC,Unknown,148,0.0,2,0.0
@@ -79794,7 +79794,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-13,KN,Unknown,19,0.0,0,0.0
 2020-11-13,KR,Unknown,28338,205.0,492,4.0
 2020-11-13,KW,Unknown,135650,718.0,833,3.0
-2020-11-13,KZ,Unknown,119833,704.0,1899,0.0
+2020-11-13,KZ,Unknown,158853,817.0,2314,3.0
 2020-11-13,LA,Unknown,24,0.0,0,0.0
 2020-11-13,LB,Unknown,102607,1904.0,796,21.0
 2020-11-13,LC,Unknown,156,8.0,2,0.0
@@ -80063,7 +80063,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-14,KN,Unknown,19,0.0,0,0.0
 2020-11-14,KR,Unknown,28546,208.0,493,1.0
 2020-11-14,KW,Unknown,136341,691.0,835,2.0
-2020-11-14,KZ,Unknown,120463,630.0,1899,0.0
+2020-11-14,KZ,Unknown,159756,903.0,2315,1.0
 2020-11-14,LA,Unknown,24,0.0,0,0.0
 2020-11-14,LB,Unknown,104267,1660.0,806,10.0
 2020-11-14,LC,Unknown,160,4.0,2,0.0
@@ -80332,7 +80332,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-15,KN,Unknown,19,0.0,0,0.0
 2020-11-15,KR,Unknown,28769,223.0,494,1.0
 2020-11-15,KW,Unknown,136840,499.0,838,3.0
-2020-11-15,KZ,Unknown,121051,588.0,1899,0.0
+2020-11-15,KZ,Unknown,160612,856.0,2317,2.0
 2020-11-15,LA,Unknown,24,0.0,0,0.0
 2020-11-15,LB,Unknown,105430,1163.0,817,11.0
 2020-11-15,LC,Unknown,162,2.0,2,0.0
@@ -80601,7 +80601,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-16,KN,Unknown,19,0.0,0,0.0
 2020-11-16,KR,Unknown,28998,229.0,494,0.0
 2020-11-16,KW,Unknown,137329,489.0,842,4.0
-2020-11-16,KZ,Unknown,121653,602.0,1899,0.0
+2020-11-16,KZ,Unknown,161850,1238.0,2319,2.0
 2020-11-16,LA,Unknown,24,0.0,0,0.0
 2020-11-16,LB,Unknown,106446,1016.0,827,10.0
 2020-11-16,LC,Unknown,171,9.0,2,0.0
@@ -80870,7 +80870,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-17,KN,Unknown,19,0.0,0,0.0
 2020-11-17,KR,Unknown,29311,313.0,496,2.0
 2020-11-17,KW,Unknown,137885,556.0,848,6.0
-2020-11-17,KZ,Unknown,122335,682.0,1899,0.0
+2020-11-17,KZ,Unknown,162555,705.0,2320,1.0
 2020-11-17,LA,Unknown,25,1.0,0,0.0
 2020-11-17,LB,Unknown,107953,1507.0,839,12.0
 2020-11-17,LC,Unknown,178,7.0,2,0.0
@@ -81139,7 +81139,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-18,KN,Unknown,19,0.0,0,0.0
 2020-11-18,KR,Unknown,29654,343.0,498,2.0
 2020-11-18,KW,Unknown,138337,452.0,857,9.0
-2020-11-18,KZ,Unknown,123097,762.0,1945,46.0
+2020-11-18,KZ,Unknown,163585,1030.0,2366,46.0
 2020-11-18,LA,Unknown,25,0.0,0,0.0
 2020-11-18,LB,Unknown,110037,2084.0,852,13.0
 2020-11-18,LC,Unknown,183,5.0,2,0.0
@@ -81408,7 +81408,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-19,KN,Unknown,19,0.0,0,0.0
 2020-11-19,KR,Unknown,30017,363.0,501,3.0
 2020-11-19,KW,Unknown,138822,485.0,859,2.0
-2020-11-19,KZ,Unknown,123888,791.0,1945,0.0
+2020-11-19,KZ,Unknown,164578,993.0,2368,2.0
 2020-11-19,LA,Unknown,25,0.0,0,0.0
 2020-11-19,LB,Unknown,111946,1909.0,868,16.0
 2020-11-19,LC,Unknown,203,20.0,2,0.0
@@ -81677,7 +81677,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-20,KN,Unknown,19,0.0,0,0.0
 2020-11-20,KR,Unknown,30403,386.0,503,2.0
 2020-11-20,KW,Unknown,139308,486.0,861,2.0
-2020-11-20,KZ,Unknown,124710,822.0,1945,0.0
+2020-11-20,KZ,Unknown,165558,980.0,2369,1.0
 2020-11-20,LA,Unknown,25,0.0,0,0.0
 2020-11-20,LB,Unknown,113655,1709.0,884,16.0
 2020-11-20,LC,Unknown,203,0.0,2,0.0
@@ -81946,7 +81946,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-21,KN,Unknown,19,0.0,0,0.0
 2020-11-21,KR,Unknown,30733,330.0,505,2.0
 2020-11-21,KW,Unknown,139734,426.0,863,2.0
-2020-11-21,KZ,Unknown,125466,756.0,1945,0.0
+2020-11-21,KZ,Unknown,166468,910.0,2370,1.0
 2020-11-21,LA,Unknown,25,0.0,0,0.0
 2020-11-21,LB,Unknown,115283,1628.0,894,10.0
 2020-11-21,LC,Unknown,204,1.0,2,0.0
@@ -82215,7 +82215,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-22,KN,Unknown,20,1.0,0,0.0
 2020-11-22,KR,Unknown,31004,271.0,509,4.0
 2020-11-22,KW,Unknown,140056,322.0,866,3.0
-2020-11-22,KZ,Unknown,126182,716.0,1945,0.0
+2020-11-22,KZ,Unknown,167341,873.0,2372,2.0
 2020-11-22,LA,Unknown,25,0.0,0,0.0
 2020-11-22,LB,Unknown,116476,1193.0,900,6.0
 2020-11-22,LC,Unknown,220,16.0,2,0.0
@@ -82484,7 +82484,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-23,KN,Unknown,20,0.0,0,0.0
 2020-11-23,KR,Unknown,31353,349.0,510,1.0
 2020-11-23,KW,Unknown,140393,337.0,868,2.0
-2020-11-23,KZ,Unknown,126182,0.0,1945,0.0
+2020-11-23,KZ,Unknown,167385,44.0,2372,0.0
 2020-11-23,LA,Unknown,39,14.0,0,0.0
 2020-11-23,LB,Unknown,117517,1041.0,911,11.0
 2020-11-23,LC,Unknown,223,3.0,2,0.0
@@ -82753,7 +82753,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-24,KN,Unknown,22,2.0,0,0.0
 2020-11-24,KR,Unknown,31735,382.0,513,3.0
 2020-11-24,KW,Unknown,140795,402.0,870,2.0
-2020-11-24,KZ,Unknown,127580,1398.0,1945,0.0
+2020-11-24,KZ,Unknown,168803,1418.0,2373,1.0
 2020-11-24,LA,Unknown,39,0.0,0,0.0
 2020-11-24,LB,Unknown,118705,1188.0,934,23.0
 2020-11-24,LC,Unknown,226,3.0,2,0.0
@@ -83022,7 +83022,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-25,KN,Unknown,22,0.0,0,0.0
 2020-11-25,KR,Unknown,32318,583.0,515,2.0
 2020-11-25,KW,Unknown,141217,422.0,871,1.0
-2020-11-25,KZ,Unknown,128400,820.0,1990,45.0
+2020-11-25,KZ,Unknown,169827,1024.0,2422,49.0
 2020-11-25,LA,Unknown,39,0.0,0,0.0
 2020-11-25,LB,Unknown,120341,1636.0,950,16.0
 2020-11-25,LC,Unknown,235,9.0,2,0.0
@@ -83291,7 +83291,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-26,KN,Unknown,22,0.0,0,0.0
 2020-11-26,KR,Unknown,32887,569.0,516,1.0
 2020-11-26,KW,Unknown,141547,330.0,872,1.0
-2020-11-26,KZ,Unknown,129213,813.0,1990,0.0
+2020-11-26,KZ,Unknown,170808,981.0,2424,2.0
 2020-11-26,LA,Unknown,39,0.0,0,0.0
 2020-11-26,LB,Unknown,122200,1859.0,974,24.0
 2020-11-26,LC,Unknown,238,3.0,2,0.0
@@ -83560,7 +83560,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-27,KN,Unknown,22,0.0,0,0.0
 2020-11-27,KR,Unknown,33375,488.0,522,6.0
 2020-11-27,KW,Unknown,141876,329.0,874,2.0
-2020-11-27,KZ,Unknown,130039,826.0,1990,0.0
+2020-11-27,KZ,Unknown,171795,987.0,2429,5.0
 2020-11-27,LA,Unknown,39,0.0,0,0.0
 2020-11-27,LB,Unknown,123982,1782.0,980,6.0
 2020-11-27,LC,Unknown,246,8.0,2,0.0
@@ -83829,7 +83829,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-28,KN,Unknown,22,0.0,0,0.0
 2020-11-28,KR,Unknown,33824,449.0,523,1.0
 2020-11-28,KW,Unknown,142195,319.0,875,1.0
-2020-11-28,KZ,Unknown,130865,826.0,1990,0.0
+2020-11-28,KZ,Unknown,172805,1010.0,2430,1.0
 2020-11-28,LA,Unknown,39,0.0,0,0.0
 2020-11-28,LB,Unknown,125678,1696.0,991,11.0
 2020-11-28,LC,Unknown,252,6.0,2,0.0
@@ -84098,7 +84098,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-29,KN,Unknown,22,0.0,0,0.0
 2020-11-29,KR,Unknown,34201,377.0,526,3.0
 2020-11-29,KW,Unknown,142426,231.0,878,3.0
-2020-11-29,KZ,Unknown,131659,794.0,1990,0.0
+2020-11-29,KZ,Unknown,173763,958.0,2433,3.0
 2020-11-29,LA,Unknown,39,0.0,0,0.0
 2020-11-29,LB,Unknown,126944,1266.0,1004,13.0
 2020-11-29,LC,Unknown,257,5.0,2,0.0
@@ -84367,7 +84367,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-11-30,KN,Unknown,22,0.0,0,0.0
 2020-11-30,KR,Unknown,34652,451.0,526,0.0
 2020-11-30,KW,Unknown,142635,209.0,880,2.0
-2020-11-30,KZ,Unknown,132348,689.0,1990,0.0
+2020-11-30,KZ,Unknown,174563,800.0,2433,0.0
 2020-11-30,LA,Unknown,39,0.0,0,0.0
 2020-11-30,LB,Unknown,127944,1000.0,1018,14.0
 2020-11-30,LC,Unknown,259,2.0,2,0.0
@@ -84636,7 +84636,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-01,KN,Unknown,22,0.0,0,0.0
 2020-12-01,KR,Unknown,35163,511.0,526,0.0
 2020-12-01,KW,Unknown,142992,357.0,881,1.0
-2020-12-01,KZ,Unknown,175565,43217.0,2434,444.0
+2020-12-01,KZ,Unknown,175565,1002.0,2434,1.0
 2020-12-01,LA,Unknown,39,0.0,0,0.0
 2020-12-01,LB,Unknown,129455,1511.0,1033,15.0
 2020-12-01,LC,Unknown,259,0.0,2,0.0
