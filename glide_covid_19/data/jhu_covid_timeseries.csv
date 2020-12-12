@@ -85189,7 +85189,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-03,MC,Unknown,630,9.0,3,0.0
 2020-12-03,MD,Unknown,112307,1727.0,2363,20.0
 2020-12-03,ME,Unknown,36932,581.0,516,6.0
-2020-12-03,MG,Unknown,17513,172.0,255,4.0
+2020-12-03,MG,Unknown,17341,0.0,255,4.0
 2020-12-03,MH,Unknown,4,0.0,0,0.0
 2020-12-03,MK,Unknown,65231,1341.0,1847,22.0
 2020-12-03,ML,Unknown,4880,43.0,162,1.0
@@ -85458,7 +85458,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-04,MC,Unknown,630,0.0,3,0.0
 2020-12-04,MD,Unknown,113829,1522.0,2384,21.0
 2020-12-04,ME,Unknown,37467,535.0,522,6.0
-2020-12-04,MG,Unknown,17513,0.0,255,0.0
+2020-12-04,MG,Unknown,17341,0.0,255,0.0
 2020-12-04,MH,Unknown,4,0.0,0,0.0
 2020-12-04,MK,Unknown,66330,1099.0,1877,30.0
 2020-12-04,ML,Unknown,4938,58.0,163,1.0
@@ -85727,7 +85727,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-05,MC,Unknown,637,7.0,3,0.0
 2020-12-05,MD,Unknown,115557,1728.0,2403,19.0
 2020-12-05,ME,Unknown,37879,412.0,530,8.0
-2020-12-05,MG,Unknown,17513,0.0,255,0.0
+2020-12-05,MG,Unknown,17473,132.0,255,0.0
 2020-12-05,MH,Unknown,4,0.0,0,0.0
 2020-12-05,MK,Unknown,67311,981.0,1901,24.0
 2020-12-05,ML,Unknown,5062,124.0,163,0.0
@@ -85996,7 +85996,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-06,MC,Unknown,638,1.0,3,0.0
 2020-12-06,MD,Unknown,116365,808.0,2419,16.0
 2020-12-06,ME,Unknown,38246,367.0,533,3.0
-2020-12-06,MG,Unknown,17513,0.0,255,0.0
+2020-12-06,MG,Unknown,17473,0.0,255,0.0
 2020-12-06,MH,Unknown,4,0.0,0,0.0
 2020-12-06,MK,Unknown,67968,657.0,1924,23.0
 2020-12-06,ML,Unknown,5135,73.0,164,1.0
@@ -86265,7 +86265,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-07,MC,Unknown,641,3.0,3,0.0
 2020-12-07,MD,Unknown,117495,1130.0,2438,19.0
 2020-12-07,ME,Unknown,38562,316.0,543,10.0
-2020-12-07,MG,Unknown,17513,0.0,255,0.0
+2020-12-07,MG,Unknown,17473,0.0,255,0.0
 2020-12-07,MH,Unknown,4,0.0,0,0.0
 2020-12-07,MK,Unknown,68332,364.0,1949,25.0
 2020-12-07,ML,Unknown,5290,155.0,175,11.0
@@ -86534,7 +86534,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2020-12-08,MC,Unknown,648,7.0,3,0.0
 2020-12-08,MD,Unknown,119204,1709.0,2460,22.0
 2020-12-08,ME,Unknown,39153,591.0,549,6.0
-2020-12-08,MG,Unknown,17473,-40.0,255,0.0
+2020-12-08,MG,Unknown,17473,0.0,255,0.0
 2020-12-08,MH,Unknown,4,0.0,0,0.0
 2020-12-08,MK,Unknown,69452,1120.0,1977,28.0
 2020-12-08,ML,Unknown,5442,152.0,180,5.0
