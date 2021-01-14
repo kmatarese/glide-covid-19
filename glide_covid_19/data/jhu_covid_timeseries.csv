@@ -96286,7 +96286,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2021-01-12,KE,Unknown,98432,98.0,1716,3.0
 2021-01-12,KG,Unknown,82587,207.0,1375,4.0
 2021-01-12,KH,Unknown,398,6.0,0,0.0
-2021-01-12,KM,Unknown,1166,6.0,21,3.0
+2021-01-12,KM,Unknown,1166,6.0,30,12.0
 2021-01-12,KN,Unknown,34,0.0,0,0.0
 2021-01-12,KR,Unknown,70212,561.0,1185,20.0
 2021-01-12,KW,Unknown,155335,494.0,946,1.0
@@ -96556,7 +96556,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2021-01-13,KE,Unknown,98555,123.0,1720,4.0
 2021-01-13,KG,Unknown,82587,0.0,1375,0.0
 2021-01-13,KH,Unknown,411,13.0,0,0.0
-2021-01-13,KM,Unknown,1169,3.0,21,0.0
+2021-01-13,KM,Unknown,1169,3.0,33,3.0
 2021-01-13,KN,Unknown,34,0.0,0,0.0
 2021-01-13,KR,Unknown,70728,516.0,1195,10.0
 2021-01-13,KW,Unknown,155874,539.0,946,0.0
@@ -96646,7 +96646,7 @@ date,iso1,iso2,cumulative_cases,cases,cumulative_deaths,deaths
 2021-01-13,TZ,Unknown,509,0.0,21,0.0
 2021-01-13,UA,Unknown,1166958,6715.0,21121,206.0
 2021-01-13,UG,Unknown,38085,137.0,304,1.0
-2021-01-13,US,Unknown,23071895,232943.0,384653,3848.0
+2021-01-13,US,Unknown,23077247,238295.0,384764,3959.0
 2021-01-13,UY,Unknown,28475,629.0,275,6.0
 2021-01-13,UZ,Unknown,77716,53.0,618,1.0
 2021-01-13,VC,Unknown,284,0.0,0,0.0
