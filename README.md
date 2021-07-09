@@ -1,6 +1,8 @@
 Glide COVID-19
 ==============
 
+**NOTE:** this repo is no longer maintined.
+
 ![Data Sync Workflow](https://github.com/kmatarese/glide-covid-19/workflows/Data%20Sync%20Workflow/badge.svg)
 
 This is an example repo showing how one can use
